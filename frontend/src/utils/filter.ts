@@ -26,12 +26,14 @@ export function filterUsers(
   }
   
   // 主时间范围过滤（查询时选择的时间范围）
-  if (dateRange) {
+  if (dateRange && dateRange[0] && dateRange[1]) {
     const [start, end] = dateRange;
+    const startTime = dayjs(start).startOf('day');
+    const endTime = dayjs(end).endOf('day');
     result = result.filter((u) => {
       const time = dayjs(u.last_interaction_time);
-      return time.isAfter(dayjs(start).startOf('day')) && 
-             time.isBefore(dayjs(end).endOf('day'));
+      return (time.isAfter(startTime) || time.isSame(startTime)) && 
+             (time.isBefore(endTime) || time.isSame(endTime));
     });
   }
   
@@ -46,36 +48,42 @@ export function filterUsers(
   }
   
   // 最近互动时间范围筛选
-  if (filters.interactionDateRange) {
+  if (filters.interactionDateRange && filters.interactionDateRange[0] && filters.interactionDateRange[1]) {
     const [start, end] = filters.interactionDateRange;
+    const startTime = dayjs(start).startOf('day');
+    const endTime = dayjs(end).endOf('day');
     result = result.filter((u) => {
       const time = dayjs(u.last_interaction_time);
-      return time.isAfter(dayjs(start).startOf('day')) && 
-             time.isBefore(dayjs(end).endOf('day'));
+      return (time.isAfter(startTime) || time.isSame(startTime)) && 
+             (time.isBefore(endTime) || time.isSame(endTime));
     });
   }
   
   // 最新报名时间范围筛选
-  if (filters.applyDateRange) {
+  if (filters.applyDateRange && filters.applyDateRange[0] && filters.applyDateRange[1]) {
     const [start, end] = filters.applyDateRange;
+    const startTime = dayjs(start).startOf('day');
+    const endTime = dayjs(end).endOf('day');
     result = result.filter((u) => {
       if (u.apply_records.length === 0) return false;
       const latestApply = u.apply_records[0];
       const time = dayjs(latestApply.time);
-      return time.isAfter(dayjs(start).startOf('day')) && 
-             time.isBefore(dayjs(end).endOf('day'));
+      return (time.isAfter(startTime) || time.isSame(startTime)) && 
+             (time.isBefore(endTime) || time.isSame(endTime));
     });
   }
   
   // 最新参会时间范围筛选
-  if (filters.attendDateRange) {
+  if (filters.attendDateRange && filters.attendDateRange[0] && filters.attendDateRange[1]) {
     const [start, end] = filters.attendDateRange;
+    const startTime = dayjs(start).startOf('day');
+    const endTime = dayjs(end).endOf('day');
     result = result.filter((u) => {
       if (u.attend_records.length === 0) return false;
       const latestAttend = u.attend_records[0];
       const time = dayjs(latestAttend.time);
-      return time.isAfter(dayjs(start).startOf('day')) && 
-             time.isBefore(dayjs(end).endOf('day'));
+      return (time.isAfter(startTime) || time.isSame(startTime)) && 
+             (time.isBefore(endTime) || time.isSame(endTime));
     });
   }
   

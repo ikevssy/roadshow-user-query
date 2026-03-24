@@ -36,6 +36,7 @@ export function UserTable({ onViewDetail, onBack }: UserTableProps) {
     selectedCompanyOids,
     companies,
     loading,
+    dateRange,
   } = useAppStore();
   
   const [sortField, setSortField] = useState<string>('last_interaction_time');
@@ -52,10 +53,10 @@ export function UserTable({ onViewDetail, onBack }: UserTableProps) {
   
   // 过滤和排序后的数据
   const processedData = useMemo(() => {
-    let data = filterUsers(allUsers, filters, quickFilter, searchText, null);
+    let data = filterUsers(allUsers, filters, quickFilter, searchText, dateRange);
     data = sortUsers(data, sortField, sortOrder);
     return data;
-  }, [allUsers, filters, quickFilter, searchText, sortField, sortOrder]);
+  }, [allUsers, filters, quickFilter, searchText, dateRange, sortField, sortOrder]);
   
   // 返回按钮 - 弹出确认框
   const handleBack = () => {
