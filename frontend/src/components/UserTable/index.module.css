@@ -1,0 +1,218 @@
+.container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: visible;
+  min-height: 0;
+  background: var(--bg-primary);
+  border-radius: var(--radius-lg);
+  padding: 16px;
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--border-light);
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  gap: 12px;
+  flex-shrink: 0;
+}
+
+.toolbarLeft {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.toolbarRight {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+/* 返回按钮样式 - 现代风格 */
+.backBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 16px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  font-size: 14px;
+  color: var(--fg-primary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+
+.backBtn:hover {
+  background: var(--bg-tertiary);
+  border-color: var(--primary);
+  color: var(--primary);
+  box-shadow: var(--shadow-sm);
+}
+
+.backBtn:active {
+  transform: scale(0.98);
+}
+
+/* 过滤卡片样式 - 突出显示 */
+.filterCard {
+  background: linear-gradient(135deg, #fff7e6 0%, #fff3e0 100%);
+  border: 1px solid #ffd591;
+  margin-bottom: 16px;
+  flex-shrink: 0;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+}
+
+.filterHeader {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+  color: #d46b08;
+}
+
+.filterContent {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.filterLabel {
+  font-size: 13px;
+  color: #8c6d1f;
+  font-weight: 500;
+}
+
+.quickFilter {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 13px;
+  color: var(--fg-secondary);
+}
+
+.quickSelect {
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  padding: 4px 8px;
+  font-size: 13px;
+  background: var(--bg-primary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.quickSelect:hover {
+  border-color: var(--primary);
+}
+
+.quickSelect:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.1);
+}
+
+.nameCell {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.subText {
+  font-size: 12px;
+  line-height: 1.3;
+  color: var(--fg-muted);
+}
+
+.uidLink {
+  font-family: 'JetBrains Mono', 'Monaco', 'Consolas', monospace;
+  font-size: 12px;
+  color: var(--primary);
+  padding: 2px 6px;
+  background: rgba(37, 99, 235, 0.06);
+  border-radius: var(--radius-sm);
+  transition: all 0.2s ease;
+}
+
+.uidLink:hover {
+  background: rgba(37, 99, 235, 0.12);
+  color: var(--primary-hover);
+}
+
+/* 表格容器 - 修复滚动条跳动 */
+.tableWrapper {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  border-radius: var(--radius-md);
+}
+
+.tableWrapper :global(.ant-table-wrapper) {
+  flex: 1;
+  overflow: hidden;
+  min-height: 0;
+}
+
+/* 关键修复：始终显示滚动条，避免跳动 */
+.tableWrapper :global(.ant-table-body) {
+  overflow: auto !important;
+  scrollbar-gutter: stable;
+}
+
+/* Webkit浏览器滚动条样式 */
+.tableWrapper :global(.ant-table-body::-webkit-scrollbar) {
+  height: 10px;
+  width: 10px;
+}
+
+.tableWrapper :global(.ant-table-body::-webkit-scrollbar-thumb) {
+  background: #c1c1c1;
+  border-radius: 5px;
+  border: 2px solid var(--bg-secondary);
+}
+
+.tableWrapper :global(.ant-table-body::-webkit-scrollbar-thumb:hover) {
+  background: #a8a8a8;
+}
+
+.tableWrapper :global(.ant-table-body::-webkit-scrollbar-track) {
+  background: var(--bg-secondary);
+  border-radius: 5px;
+}
+
+/* 表格固定布局，防止列宽变化 */
+.tableWrapper :global(.ant-table table) {
+  table-layout: fixed;
+}
+
+/* 固定列样式 */
+.tableWrapper :global(.ant-table-cell-fix-left),
+.tableWrapper :global(.ant-table-cell-fix-right) {
+  background: var(--bg-primary) !important;
+}
+
+/* 表格内容不换行 */
+.tableWrapper :global(.ant-table-cell) {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* 表格行hover效果 */
+.tableWrapper :global(.ant-table-tbody > tr) {
+  transition: background-color 0.2s ease;
+}
+
+.tableWrapper :global(.ant-table-tbody > tr:hover > td) {
+  background: #f0f7ff !important;
+}

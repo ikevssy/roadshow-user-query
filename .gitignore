@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# 配置文件（包含密码）
+scripts/config.json
+
+# 日志
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 不忽略数据文件（需要推送到GitHub）
+!frontend/public/data/

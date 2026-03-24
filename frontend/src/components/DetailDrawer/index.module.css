@@ -1,0 +1,30 @@
+.content {
+  padding-bottom: 24px;
+}
+
+.timelineItem {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.companyList {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.companyItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  background: #fafafa;
+  border-radius: 4px;
+}
+
+.tagList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}

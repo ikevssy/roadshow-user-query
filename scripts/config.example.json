@@ -1,0 +1,22 @@
+{
+  "ssh": {
+    "host": "YOUR_SSH_HOST",
+    "port": 22,
+    "username": "YOUR_SSH_USERNAME",
+    "key_path": "C:\\path\\to\\your\\ssh_key.key"
+  },
+  "mysql": {
+    "host": "YOUR_MYSQL_HOST",
+    "port": 3306,
+    "database": "rscdb30",
+    "user": "YOUR_MYSQL_USER",
+    "password": "YOUR_MYSQL_PASSWORD"
+  },
+  "output": {
+    "dir": "../public/data"
+  },
+  "schedule": {
+    "time": "01:00",
+    "enabled": true
+  }
+}
