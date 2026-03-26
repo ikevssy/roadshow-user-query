@@ -166,12 +166,20 @@ export function UserTable({ onViewDetail, onBack }: UserTableProps) {
       ),
       filterIcon: () => <SearchOutlined />,
       onFilter: (value, record) => record.uid.toLowerCase().includes(String(value).toLowerCase()),
-      render: (uid) => (
-        <Tooltip title="点击复制UID">
-          <a onClick={() => handleCopySingleUid(uid)} className={styles.uidLink}>
-            {uid}
-          </a>
-        </Tooltip>
+      render: (uid, record) => (
+        <div style={{ display: 'flex', gap: 8, alignItems: 'center' }}>
+          <Tooltip title="点击查看详情">
+            <a onClick={() => onViewDetail(record)} className={styles.uidLink}>
+              {uid}
+            </a>
+          </Tooltip>
+          <Tooltip title="复制UID">
+            <CopyOutlined 
+              onClick={(e) => { e.stopPropagation(); handleCopySingleUid(uid); }} 
+              style={{ fontSize: 12, color: '#999', cursor: 'pointer' }}
+            />
+          </Tooltip>
+        </div>
       ),
     },
     {

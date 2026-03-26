@@ -1,5 +1,5 @@
-import { Checkbox, Radio, DatePicker, Typography, Button, Collapse, Drawer, FloatButton } from 'antd';
-import { ClearOutlined, FilterOutlined, CloseOutlined } from '@ant-design/icons';
+import { Checkbox, Radio, DatePicker, Typography, Button, Collapse, Drawer, FloatButton, Space } from 'antd';
+import { ClearOutlined, FilterOutlined, CloseOutlined, CheckOutlined } from '@ant-design/icons';
 import dayjs from 'dayjs';
 import { useAppStore } from '../../store';
 import styles from './index.module.css';
@@ -204,15 +204,22 @@ export function FilterPanel({ isMobile }: FilterPanelProps = {}) {
           open={!filterCollapsed}
           onClose={() => useAppStore.getState().setFilterCollapsed(true)}
           height="70vh"
-          extra={
-            <Button 
-              type="link" 
-              icon={<ClearOutlined />} 
-              onClick={resetFilters}
-              size="small"
-            >
-              重置
-            </Button>
+          footer={
+            <Space style={{ width: '100%', justifyContent: 'space-between' }}>
+              <Button 
+                icon={<ClearOutlined />} 
+                onClick={resetFilters}
+              >
+                重置
+              </Button>
+              <Button 
+                type="primary" 
+                icon={<CheckOutlined />} 
+                onClick={() => useAppStore.getState().setFilterCollapsed(true)}
+              >
+                确认
+              </Button>
+            </Space>
           }
         >
           {filterContent}

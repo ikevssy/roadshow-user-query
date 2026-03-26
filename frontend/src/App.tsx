@@ -83,14 +83,14 @@ function App() {
         </div>
         <div className="header-right">
           {manifest && (
-            <Text style={{ color: 'rgba(255,255,255,0.65)' }}>
+            <Text className="update-time" style={{ color: 'rgba(255,255,255,0.65)' }}>
               数据更新: {manifest.update_time}
             </Text>
           )}
           <Button 
             icon={<ReloadOutlined />} 
             onClick={handleRefresh}
-            style={{ marginLeft: 16 }}
+            style={{ marginLeft: 8 }}
             size="small"
           >
             刷新
@@ -140,6 +140,13 @@ function App() {
               <div className="search-form">
                 <CompanySelector />
                 <TimeRangePicker />
+                
+                {/* 不限模式时显示筛选条件 */}
+                {queryMode === 'unlimited' && (
+                  <Card className="filter-in-search-card" size="small" style={{ marginTop: 16, marginBottom: 16 }}>
+                    <FilterPanel />
+                  </Card>
+                )}
                 
                 <div className="search-actions">
                   <Button
