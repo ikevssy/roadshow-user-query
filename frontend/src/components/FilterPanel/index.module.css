@@ -1,8 +1,13 @@
 .container {
   padding: 16px;
-  background: var(--bg-secondary);
-  border-radius: var(--radius-lg);
+  background: #fff;
+  border-radius: 8px;
   height: 100%;
+  overflow-y: auto;
+}
+
+.filterContent {
+  padding: 0;
 }
 
 .header {
@@ -10,36 +15,6 @@
   justify-content: space-between;
   align-items: center;
   margin-bottom: 12px;
-}
-
-.reset {
-  font-size: 12px;
-  color: var(--fg-muted);
-  transition: color 0.2s ease;
-}
-
-.reset:hover {
-  color: var(--primary);
-}
-
-.section {
-  margin-bottom: 18px;
-  padding-bottom: 16px;
-  border-bottom: 1px solid var(--border-light);
-}
-
-.section:last-child {
-  border-bottom: none;
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-
-.label {
-  display: block;
-  margin-bottom: 10px;
-  font-size: 13px;
-  font-weight: 600;
-  color: var(--fg-primary);
 }
 
 .checkboxGroup {
@@ -51,43 +26,30 @@
 .checkboxGroup :global(.ant-checkbox-wrapper) {
   margin-left: 0;
   font-size: 13px;
-  color: var(--fg-secondary);
 }
 
-.checkboxGroup :global(.ant-checkbox-wrapper:hover) {
-  color: var(--fg-primary);
+/* Collapse 样式 */
+.filterContent :global(.ant-collapse) {
+  border: none;
+  background: transparent;
 }
 
-/* 日期选择器样式 */
-.section :global(.ant-picker) {
-  border-radius: var(--radius-sm);
+.filterContent :global(.ant-collapse-item) {
+  border-bottom: 1px solid #f0f0f0;
 }
 
-.section :global(.ant-picker:hover) {
-  border-color: var(--primary);
+.filterContent :global(.ant-collapse-header) {
+  padding: 12px 0 !important;
+  font-weight: 500;
 }
 
-.section :global(.ant-picker-focused) {
-  border-color: var(--primary);
-  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.1);
+.filterContent :global(.ant-collapse-content-box) {
+  padding: 0 0 12px 0 !important;
 }
 
-/* 单选按钮组样式 */
-.section :global(.ant-radio-group) {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.section :global(.ant-radio-button-wrapper) {
-  border-radius: var(--radius-sm);
-  font-size: 12px;
-}
-
-.section :global(.ant-radio-button-wrapper:first-child) {
-  border-radius: var(--radius-sm) 0 0 var(--radius-sm);
-}
-
-.section :global(.ant-radio-button-wrapper:last-child) {
-  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+/* 移动端适配 */
+@media (max-width: 768px) {
+  .container {
+    border-radius: 0;
+  }
 }

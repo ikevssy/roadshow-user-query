@@ -19,12 +19,12 @@ type PageMode = 'search' | 'result';
 function App() {
   const { 
     selectedCompanyOids, 
+    queryMode,
     manifest, 
     loading,
-    setLoading 
   } = useAppStore();
   
-  const { loadCompanies, loadManifest, loadSelectedCompanyUsers } = useDataLoader();
+  const { loadCompanies, loadIndustryData, loadManifest, loadUsers } = useDataLoader();
   const [messageApi, contextHolder] = message.useMessage();
   
   const [pageMode, setPageMode] = useState<PageMode>('search');
@@ -34,20 +34,22 @@ function App() {
   // 初始化加载数据
   useEffect(() => {
     loadCompanies();
+    loadIndustryData();
     loadManifest();
   }, []);
   
   // 查询按钮点击
   const handleSearch = async () => {
-    if (selectedCompanyOids.length === 0) return;
+    if (queryMode === 'select' && selectedCompanyOids.length === 0) {
+      messageApi.warning('请先选择公司或选择"不限"模式');
+      return;
+    }
     
-    setLoading(true);
-    await loadSelectedCompanyUsers();
+    await loadUsers();
     setPageMode('result');
-    setLoading(false);
   };
   
-  // 返回搜索页（由UserTable的确认弹窗调用）
+  // 返回搜索页
   const handleBack = () => {
     setPageMode('search');
   };
@@ -63,8 +65,12 @@ function App() {
     messageApi.loading({ content: '正在刷新数据...', key: 'refresh' });
     await loadManifest();
     await loadCompanies();
+    await loadIndustryData();
     messageApi.success({ content: '数据刷新成功', key: 'refresh', duration: 2 });
   };
+  
+  // 判断查询按钮是否可用
+  const canSearch = queryMode === 'unlimited' || selectedCompanyOids.length > 0;
   
   return (
     <Layout className="app-layout">
@@ -94,7 +100,6 @@ function App() {
       
       <Layout className="app-content">
         {pageMode === 'search' ? (
-          /* 搜索页面 */
           <Content className="search-page">
             <Card className="search-card">
               <div className="search-header">
@@ -104,7 +109,6 @@ function App() {
                 </Paragraph>
               </div>
               
-              {/* 功能说明 */}
               <Card className="info-card" size="small">
                 <div className="info-section">
                   <div className="info-title">
@@ -113,18 +117,17 @@ function App() {
                   </div>
                   <div className="info-content">
                     <Paragraph style={{ marginBottom: 8 }}>
-                      <Text strong>互动行为包括：</Text>
+                      <Text strong>互动行为：</Text>
                       <Space size={[4, 8]} wrap style={{ marginLeft: 8 }}>
                         <Tag color="blue">报名</Tag>
                         <Tag color="green">参会</Tag>
                         <Tag color="orange">订阅</Tag>
                         <Tag color="gold">特别关注</Tag>
-                        <Tag color="purple">回看提醒</Tag>
                       </Space>
                     </Paragraph>
                     <Paragraph style={{ marginBottom: 8 }}>
                       <Text strong>使用场景：</Text>
-                      <Text type="secondary">主要用于运营获取上市公司过往互动的用户名单，进行路演邀约</Text>
+                      <Text type="secondary">获取上市公司过往互动的用户名单，进行路演邀约</Text>
                     </Paragraph>
                     <Paragraph style={{ marginBottom: 0 }}>
                       <Text strong>过滤功能：</Text>
@@ -144,7 +147,7 @@ function App() {
                     icon={<SearchOutlined />}
                     size="large"
                     onClick={handleSearch}
-                    disabled={selectedCompanyOids.length === 0}
+                    disabled={!canSearch}
                     loading={loading}
                   >
                     查询互动用户
@@ -152,7 +155,6 @@ function App() {
                 </div>
               </div>
               
-              {/* 数据信息 */}
               {manifest && (
                 <Card className="data-info-card" size="small">
                   <div className="info-section">
@@ -176,7 +178,7 @@ function App() {
                       <div className="data-info-item">
                         <Text type="secondary">已同步公司</Text>
                         <Text>
-                          <Text strong>{(manifest as any).synced_companies || manifest.files?.length || 0}</Text> 家有数据
+                          <Text strong>{manifest.synced_companies || manifest.files?.length || 0}</Text> 家有数据
                           <Text type="secondary"> / 共 {manifest.companies_count} 家</Text>
                         </Text>
                       </div>
@@ -187,11 +189,15 @@ function App() {
             </Card>
           </Content>
         ) : (
-          /* 结果页面 */
           <Layout className="result-layout">
-            <Sider width={280} theme="light" className="result-sider">
+            {/* 桌面端显示侧边栏 */}
+            <Sider width={280} theme="light" className="result-sider desktop-only">
               <FilterPanel />
             </Sider>
+            {/* 移动端显示浮动按钮和抽屉 */}
+            <div className="mobile-only">
+              <FilterPanel isMobile={true} />
+            </div>
             <Content className="result-content">
               <UserTable 
                 onViewDetail={handleViewDetail}
@@ -202,7 +208,6 @@ function App() {
         )}
       </Layout>
       
-      {/* 详情抽屉 */}
       <DetailDrawer
         user={detailUser}
         open={detailOpen}

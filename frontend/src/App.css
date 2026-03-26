@@ -165,35 +165,21 @@
   background: var(--bg-tertiary);
 }
 
-/* 响应式 */
-@media (max-width: 1024px) {
-  .data-info-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
+/* 响应式 - 移动端隐藏/显示 */
+.desktop-only {
+  display: block;
+}
+
+.mobile-only {
+  display: none;
 }
 
 @media (max-width: 768px) {
-  .search-page {
-    padding: 20px 16px;
+  .desktop-only {
+    display: none !important;
   }
   
-  .search-card {
-    max-width: 100%;
-    border-radius: var(--radius-md);
-  }
-  
-  .data-info-grid {
-    grid-template-columns: 1fr;
-  }
-  
-  .result-layout {
-    flex-direction: column;
-  }
-  
-  .result-sider {
-    width: 100% !important;
-    max-height: 300px;
-    border-right: none;
-    border-bottom: 1px solid var(--border-color);
+  .mobile-only {
+    display: block !important;
   }
 }

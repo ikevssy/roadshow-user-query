@@ -5,108 +5,71 @@
 .header {
   display: flex;
   align-items: center;
-  gap: 8px;
-  margin-bottom: 10px;
+  gap: 12px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
 }
 
 .clearAll {
   margin-left: auto;
   font-size: 12px;
-  color: var(--fg-muted);
-  transition: color 0.2s ease;
+  color: #ff4d4f;
 }
 
 .clearAll:hover {
-  color: var(--error);
+  color: #ff7875;
+}
+
+.modeSelector {
+  margin-bottom: 16px;
+}
+
+.sectionHeader {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 10px;
+  color: #1677ff;
+}
+
+.industrySection {
+  margin-bottom: 16px;
+  padding: 12px;
+  background: #f6f8fa;
+  border-radius: 8px;
+}
+
+.industryList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.industryList :global(.ant-checkbox-wrapper) {
+  margin-left: 0;
+  font-size: 13px;
+}
+
+.companySection {
+  margin-bottom: 12px;
 }
 
 .select {
   width: 100%;
 }
 
-/* 旧的标签样式（备用） */
-.tags {
-  margin-top: 12px;
+.selectedTags {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 6px;
+  padding: 8px 12px;
+  background: #fafafa;
+  border-radius: 6px;
+  margin-top: 8px;
 }
 
-.tag {
-  display: flex;
-  align-items: center;
-  padding: 4px 8px;
-  font-size: 13px;
-}
-
-/* 新的公司卡片样式 */
-.selectedList {
-  margin-top: 14px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.companyCard {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  padding: 10px 14px;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border-light);
-  border-radius: var(--radius-md);
-  transition: all 0.2s ease;
-}
-
-.companyCard:hover {
-  background: #f0f7ff;
-  border-color: #91caff;
-  box-shadow: var(--shadow-sm);
-}
-
-.companyInfo {
-  flex: 1;
-  min-width: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 2px;
-}
-
-.companyName {
-  font-size: 14px;
-  line-height: 1.3;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  font-weight: 500;
-  color: var(--fg-primary);
-}
-
-.companyOid {
-  font-size: 11px;
-  line-height: 1.2;
-  color: var(--fg-muted);
-  font-family: 'JetBrains Mono', 'Monaco', monospace;
-}
-
-.removeBtn {
-  color: var(--fg-muted);
-  font-size: 14px;
-  cursor: pointer;
-  transition: all 0.2s ease;
-  flex-shrink: 0;
-  padding: 4px;
-  border-radius: var(--radius-sm);
-}
-
-.removeBtn:hover {
-  color: var(--error);
-  background: rgba(239, 68, 68, 0.1);
-}
-
-/* 下拉选项样式 */
 .select :global(.ant-select-item) {
-  border-radius: var(--radius-sm);
+  border-radius: 6px;
   margin: 4px 8px;
 }
 

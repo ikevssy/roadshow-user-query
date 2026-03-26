@@ -3,6 +3,16 @@ export interface Company {
   oid: number;
   cn_short_name: string;
   logo_url: string | null;
+  industries?: string[];
+}
+
+// 行业数据
+export interface IndustryData {
+  update_time: string;
+  industries: string[];
+  company_industry_map: Record<string, string[]>;
+  industry_company_map: Record<string, number[]>;
+  total_companies: number;
 }
 
 // 报名记录
@@ -50,6 +60,7 @@ export interface Manifest {
   update_time: string;
   companies_count: number;
   data_start_time: string;
+  synced_companies?: number;
   files: Array<{
     oid: number;
     cn_short_name: string;
@@ -58,13 +69,16 @@ export interface Manifest {
   }>;
 }
 
+// 查询模式
+export type QueryMode = 'unlimited' | 'select';
+
 // 筛选条件
 export interface FilterState {
   certTypes: string[];
   orgTypes: string[];
-  interactionDateRange: [string, string] | null;  // 最近互动时间范围
-  applyDateRange: [string, string] | null;        // 最新报名时间范围
-  attendDateRange: [string, string] | null;       // 最新参会时间范围
+  interactionDateRange: [string, string] | null;
+  applyDateRange: [string, string] | null;
+  attendDateRange: [string, string] | null;
   isFirstAttend: boolean | null;
 }
 

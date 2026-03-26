@@ -1,30 +1,50 @@
-import { useState, useMemo } from 'react';
-import { Select, Space, Typography, Avatar } from 'antd';
-import { CloseCircleOutlined, BankOutlined } from '@ant-design/icons';
+import { useState, useMemo, useEffect } from 'react';
+import { Select, Space, Typography, Radio, Checkbox, Tag } from 'antd';
+import { FilterOutlined, BankOutlined } from '@ant-design/icons';
 import { useAppStore } from '../../store';
 import type { Company } from '../../types';
 import styles from './index.module.css';
 
 const { Text } = Typography;
 
-// 默认LOGO URL前缀
-const LOGO_PREFIX = 'https://image.roadshowchina.cn';
-
 export function CompanySelector() {
-  const { companies, selectedCompanyOids, setSelectedCompanyOids } = useAppStore();
+  const {
+    companies,
+    industryData,
+    selectedCompanyOids,
+    setSelectedCompanyOids,
+    selectedIndustries,
+    setSelectedIndustries,
+    queryMode,
+    setQueryMode,
+  } = useAppStore();
+  
   const [searchValue, setSearchValue] = useState('');
   
-  // 搜索匹配的公司 - 移除限制，使用虚拟滚动
-  const filteredCompanies = useMemo(() => {
-    // 如果没有搜索词，返回空（提示用户输入）
-    if (!searchValue) return [];
+  // 当选择行业时，自动选中该行业下所有公司
+  useEffect(() => {
+    if (!industryData || selectedIndustries.length === 0) return;
     
+    const oidsFromIndustries: number[] = [];
+    selectedIndustries.forEach(industry => {
+      const oids = industryData.industry_company_map[industry] || [];
+      oidsFromIndustries.push(...oids);
+    });
+    
+    // 合并去重
+    const uniqueOids = [...new Set([...selectedCompanyOids, ...oidsFromIndustries])];
+    setSelectedCompanyOids(uniqueOids);
+  }, [selectedIndustries]);
+  
+  // 搜索匹配的公司
+  const filteredCompanies = useMemo(() => {
+    if (!searchValue) return [];
     const search = searchValue.toLowerCase();
     return companies.filter(
       (c) =>
         c.cn_short_name.toLowerCase().includes(search) ||
         c.oid.toString().includes(search)
-    );
+    ).slice(0, 100);
   }, [companies, searchValue]);
   
   // 已选择的公司
@@ -34,36 +54,41 @@ export function CompanySelector() {
       .filter((c): c is Company => c !== undefined);
   }, [companies, selectedCompanyOids]);
   
-  // 获取完整的LOGO URL
-  const getLogoUrl = (logoUrl: string | null): string | undefined => {
-    if (!logoUrl) return undefined;
-    if (logoUrl.startsWith('http')) return logoUrl;
-    return `${LOGO_PREFIX}${logoUrl}`;
-  };
-  
-  // 处理选择
+  // 处理选择公司
   const handleSelect = (value: any) => {
     const oid = Number(value);
-    if (selectedCompanyOids.length >= 10) {
-      return;
-    }
     if (!selectedCompanyOids.includes(oid)) {
       setSelectedCompanyOids([...selectedCompanyOids, oid]);
     }
     setSearchValue('');
   };
   
-  // 处理删除
+  // 处理删除公司
   const handleRemove = (oid: number) => {
     setSelectedCompanyOids(selectedCompanyOids.filter((o) => o !== oid));
+  };
+  
+  // 处理删除行业
+  const handleRemoveIndustry = (industry: string) => {
+    setSelectedIndustries(selectedIndustries.filter((i) => i !== industry));
   };
   
   // 清空所有
   const handleClearAll = () => {
     setSelectedCompanyOids([]);
+    setSelectedIndustries([]);
   };
   
-  // 自定义下拉渲染 - 使用虚拟滚动
+  // 处理行业选择
+  const handleIndustryChange = (industry: string, checked: boolean) => {
+    if (checked) {
+      setSelectedIndustries([...selectedIndustries, industry]);
+    } else {
+      setSelectedIndustries(selectedIndustries.filter((i) => i !== industry));
+    }
+  };
+  
+  // 下拉渲染
   const dropdownRender = (menu: React.ReactElement) => (
     <div>
       {filteredCompanies.length > 0 ? (
@@ -81,76 +106,127 @@ export function CompanySelector() {
     </div>
   );
   
-  // 自定义选项渲染 - 带LOGO
-  const optionRender = (company: Company) => (
-    <Space>
-      <Avatar 
-        size="small" 
-        src={getLogoUrl(company.logo_url)}
-        icon={<BankOutlined />}
-        style={{ backgroundColor: '#87d068' }}
-      />
-      <Text>{company.oid}</Text>
-      <Text type="secondary">-</Text>
-      <Text>{company.cn_short_name}</Text>
-    </Space>
-  );
-  
   return (
     <div className={styles.container}>
       <div className={styles.header}>
-        <Text strong>选择公司</Text>
-        <Text type="secondary">（最多10家）</Text>
+        <Text strong>选择互动公司</Text>
+        {queryMode === 'select' && (
+          <Text type="secondary">
+            已选 {selectedIndustries.length} 个行业 / {selectedCompanyOids.length} 家公司
+          </Text>
+        )}
         {selectedCompanyOids.length > 0 && (
-          <a onClick={handleClearAll} className={styles.clearAll}>
-            清空
-          </a>
+          <a onClick={handleClearAll} className={styles.clearAll}>清空</a>
         )}
       </div>
       
-      <Select
-        className={styles.select}
-        placeholder="输入OID或机构简称搜索..."
-        showSearch
-        filterOption={false}
-        onSearch={setSearchValue}
-        onSelect={handleSelect}
-        value={null}
-        searchValue={searchValue}
-        disabled={selectedCompanyOids.length >= 10}
-        dropdownRender={dropdownRender}
-        virtual={true}
-        listHeight={400}
-      >
-        {filteredCompanies.map((company) => (
-          <Select.Option key={company.oid} value={company.oid}>
-            {optionRender(company)}
-          </Select.Option>
-        ))}
-      </Select>
+      {/* 查询模式选择 */}
+      <div className={styles.modeSelector}>
+        <Radio.Group
+          value={queryMode}
+          onChange={(e) => setQueryMode(e.target.value)}
+          buttonStyle="solid"
+          size="middle"
+        >
+          <Radio.Button value="unlimited">不限</Radio.Button>
+          <Radio.Button value="select">选择互动公司</Radio.Button>
+        </Radio.Group>
+        {queryMode === 'unlimited' && (
+          <Text type="secondary" style={{ marginLeft: 12, fontSize: 12 }}>
+            查询所有公司的互动用户
+          </Text>
+        )}
+      </div>
       
-      {/* 已选择的公司 - 带LOGO卡片 */}
-      {selectedCompanies.length > 0 && (
-        <div className={styles.selectedList}>
-          {selectedCompanies.map((company) => (
-            <div key={company.oid} className={styles.companyCard}>
-              <Avatar 
-                size={32}
-                src={getLogoUrl(company.logo_url)}
-                icon={<BankOutlined />}
-                style={{ backgroundColor: '#87d068', flexShrink: 0 }}
-              />
-              <div className={styles.companyInfo}>
-                <Text strong className={styles.companyName}>{company.cn_short_name}</Text>
-                <Text type="secondary" className={styles.companyOid}>OID: {company.oid}</Text>
+      {queryMode === 'select' && (
+        <>
+          {/* 第一级：行业选择 */}
+          {industryData && industryData.industries.length > 0 && (
+            <div className={styles.industrySection}>
+              <div className={styles.sectionHeader}>
+                <FilterOutlined />
+                <Text strong>公司所属行业</Text>
               </div>
-              <CloseCircleOutlined 
-                className={styles.removeBtn}
-                onClick={() => handleRemove(company.oid)}
-              />
+              <div className={styles.industryList}>
+                {industryData.industries.map((industry) => (
+                  <Checkbox
+                    key={industry}
+                    checked={selectedIndustries.includes(industry)}
+                    onChange={(e) => handleIndustryChange(industry, e.target.checked)}
+                  >
+                    {industry}
+                    <Text type="secondary" style={{ fontSize: 11, marginLeft: 4 }}>
+                      ({industryData.industry_company_map[industry]?.length || 0})
+                    </Text>
+                  </Checkbox>
+                ))}
+              </div>
             </div>
-          ))}
-        </div>
+          )}
+          
+          {/* 第二级：公司选择 */}
+          <div className={styles.companySection}>
+            <div className={styles.sectionHeader}>
+              <BankOutlined />
+              <Text strong>选择公司</Text>
+            </div>
+            
+            <Select
+              className={styles.select}
+              placeholder="搜索公司名称或OID..."
+              showSearch
+              filterOption={false}
+              onSearch={setSearchValue}
+              onSelect={handleSelect}
+              value={null}
+              searchValue={searchValue}
+              dropdownRender={dropdownRender}
+              virtual={true}
+              listHeight={400}
+            >
+              {filteredCompanies.map((company) => (
+                <Select.Option key={company.oid} value={company.oid}>
+                  <Space>
+                    <Text>{company.oid}</Text>
+                    <Text type="secondary">-</Text>
+                    <Text>{company.cn_short_name}</Text>
+                  </Space>
+                </Select.Option>
+              ))}
+            </Select>
+          </div>
+          
+          {/* 已选择的标签 */}
+          {(selectedIndustries.length > 0 || selectedCompanies.length > 0) && (
+            <div className={styles.selectedTags}>
+              {selectedIndustries.map((industry) => (
+                <Tag
+                  key={industry}
+                  closable
+                  color="blue"
+                  onClose={() => handleRemoveIndustry(industry)}
+                >
+                  {industry}
+                </Tag>
+              ))}
+              {selectedCompanies.length <= 20 ? (
+                selectedCompanies.map((company) => (
+                  <Tag
+                    key={company.oid}
+                    closable
+                    onClose={() => handleRemove(company.oid)}
+                  >
+                    {company.cn_short_name}
+                  </Tag>
+                ))
+              ) : (
+                <Tag color="default">
+                  {selectedCompanies.slice(0, 5).map(c => c.cn_short_name).join(', ')} 等{selectedCompanies.length}家公司
+                </Tag>
+              )}
+            </div>
+          )}
+        </>
       )}
     </div>
   );
