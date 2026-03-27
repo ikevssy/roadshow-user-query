@@ -1,6 +1,6 @@
 .app-layout {
   min-height: 100vh;
-  background: var(--bg-tertiary);
+  background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
 }
 
 .app-header {
@@ -8,10 +8,21 @@
   justify-content: space-between;
   align-items: center;
   padding: 0 24px;
-  background: #001529 !important;
-  border-bottom: 1px solid #001529;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%) !important;
+  border-bottom: none;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
   color: #fff;
+  position: relative;
+}
+
+.app-header::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #667eea 0%, #764ba2 50%, #e94560 100%);
 }
 
 .header-left {
@@ -39,13 +50,28 @@
   min-height: calc(100vh - 64px);
 }
 
+/* 搜索卡片 - 渐变边框效果 */
 .search-card {
   width: 100%;
   max-width: 880px;
-  background: var(--bg-primary);
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-md);
-  border: 1px solid var(--border-light);
+  background: white;
+  border-radius: 16px;
+  box-shadow: 
+    0 4px 6px -1px rgba(0, 0, 0, 0.05),
+    0 10px 30px -5px rgba(0, 0, 0, 0.1);
+  border: none;
+  position: relative;
+  overflow: hidden;
+}
+
+.search-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
 }
 
 .search-header {
@@ -135,7 +161,36 @@
 
 .search-actions {
   text-align: center;
-  margin-top: 28px;
+  margin-top: 32px;
+}
+
+/* 查询按钮 - 微交互动画 */
+.search-actions button {
+  transition: all 0.3s ease;
+  transform: translateY(0);
+  border-radius: 8px;
+  height: 48px;
+  padding: 0 32px;
+  font-size: 16px;
+  font-weight: 500;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+}
+
+.search-actions button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.5);
+}
+
+.search-actions button:active {
+  transform: translateY(0);
+}
+
+.search-actions button:disabled {
+  background: #d1d5db;
+  box-shadow: none;
+  cursor: not-allowed;
 }
 
 .search-stats {

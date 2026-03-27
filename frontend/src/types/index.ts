@@ -122,11 +122,13 @@ export const ORG_TYPES = [
 
 // 时间预设选项
 export const TIME_PRESETS = [
-  { label: '最近7天', value: 7 },
-  { label: '最近30天', value: 30 },
+  { label: '今天', value: 0 },
+  { label: '昨天', value: -1 },
+  { label: '3天', value: 3 },
+  { label: '7天', value: 7 },
+  { label: '30天', value: 30 },
   { label: '3个月', value: 90 },
   { label: '1年', value: 365 },
-  { label: '3年', value: 1095 },
 ];
 
 // 快速过滤天数选项

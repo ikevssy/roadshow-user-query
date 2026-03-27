@@ -1,13 +1,8 @@
 .container {
-  margin-bottom: 16px;
+  margin-bottom: 20px;
 }
 
 .header {
-  margin-bottom: 8px;
-}
-
-.picker {
-  width: 100%;
   margin-bottom: 12px;
 }
 
@@ -15,4 +10,42 @@
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+  margin-bottom: 16px;
+}
+
+.specialPresets {
+  display: flex;
+  gap: 6px;
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+.normalPresets {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.presetBtn {
+  border-radius: 6px;
+  font-size: 13px;
+  transition: all 0.2s ease;
+}
+
+.presetBtn:hover {
+  transform: translateY(-1px);
+}
+
+.picker {
+  width: 100%;
+}
+
+/* 快捷选项高亮样式 */
+.specialPresets :global(.ant-btn-primary) {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+}
+
+.normalPresets :global(.ant-btn-primary) {
+  background: #1677ff;
 }
