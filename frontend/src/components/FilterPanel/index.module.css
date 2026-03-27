@@ -14,37 +14,62 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
 }
 
-.checkboxGroup {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
+/* 筛选区域样式 */
+.filterSection {
+  margin-bottom: 16px;
 }
 
-.checkboxGroup :global(.ant-checkbox-wrapper) {
-  margin-left: 0;
+.filterLabel {
+  display: block;
+  margin-bottom: 6px;
   font-size: 13px;
+  color: #666;
 }
 
-/* Collapse 样式 */
-.filterContent :global(.ant-collapse) {
-  border: none;
-  background: transparent;
+/* Select 下拉框样式 - 蓝色主题 */
+.filterSection :global(.ant-select-focused .ant-select-selector) {
+  border-color: #1677ff !important;
+  box-shadow: 0 0 0 2px rgba(22, 119, 255, 0.1);
 }
 
-.filterContent :global(.ant-collapse-item) {
-  border-bottom: 1px solid #f0f0f0;
+.filterSection :global(.ant-select-multiple .ant-select-selection-item) {
+  background: #e6f4ff;
+  border-color: #91caff;
+  color: #1677ff;
 }
 
-.filterContent :global(.ant-collapse-header) {
-  padding: 12px 0 !important;
-  font-weight: 500;
+.filterSection :global(.ant-select-multiple .ant-select-selection-item-remove) {
+  color: #1677ff;
 }
 
-.filterContent :global(.ant-collapse-content-box) {
-  padding: 0 0 12px 0 !important;
+/* 日期选择器样式 */
+.filterSection :global(.ant-picker-focused) {
+  border-color: #1677ff;
+  box-shadow: 0 0 0 2px rgba(22, 119, 255, 0.1);
+}
+
+/* 单选按钮组样式 */
+.filterSection :global(.ant-radio-group) {
+  display: flex;
+  gap: 0;
+}
+
+.filterSection :global(.ant-radio-button-wrapper) {
+  font-size: 12px;
+}
+
+.filterSection :global(.ant-radio-button-wrapper-checked) {
+  background: #1677ff;
+  border-color: #1677ff;
+  color: #fff;
+}
+
+.filterSection :global(.ant-radio-button-wrapper-checked:hover) {
+  background: #4096ff;
+  border-color: #4096ff;
 }
 
 /* 移动端适配 */

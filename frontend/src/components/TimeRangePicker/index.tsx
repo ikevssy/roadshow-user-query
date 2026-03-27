@@ -55,43 +55,25 @@ export function TimeRangePicker() {
     }
   };
   
-  // 判断是否为快捷选项（今天、昨天、3天）
-  const isSpecialPreset = (value: number) => value <= 3;
-  
   return (
     <div className={styles.container}>
       <div className={styles.header}>
         <Text strong>互动时间范围</Text>
       </div>
       
-      {/* 快捷选项放在最前面 */}
+      {/* 所有快捷选项在同一行 */}
       <div className={styles.presets}>
-        <div className={styles.specialPresets}>
-          {TIME_PRESETS.filter(p => isSpecialPreset(p.value)).map((preset) => (
-            <Button
-              key={preset.value}
-              size="small"
-              type={activePreset === preset.value ? 'primary' : 'default'}
-              onClick={() => handlePreset(preset.value)}
-              className={styles.presetBtn}
-            >
-              {preset.label}
-            </Button>
-          ))}
-        </div>
-        <div className={styles.normalPresets}>
-          {TIME_PRESETS.filter(p => !isSpecialPreset(p.value)).map((preset) => (
-            <Button
-              key={preset.value}
-              size="small"
-              type={activePreset === preset.value ? 'primary' : 'default'}
-              onClick={() => handlePreset(preset.value)}
-              className={styles.presetBtn}
-            >
-              {preset.label}
-            </Button>
-          ))}
-        </div>
+        {TIME_PRESETS.map((preset) => (
+          <Button
+            key={preset.value}
+            size="small"
+            type={activePreset === preset.value ? 'primary' : 'default'}
+            onClick={() => handlePreset(preset.value)}
+            className={styles.presetBtn}
+          >
+            {preset.label}
+          </Button>
+        ))}
       </div>
       
       {/* 日期选择器放在下方 */}

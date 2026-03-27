@@ -1,6 +1,6 @@
 .app-layout {
   min-height: 100vh;
-  background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+  background: #f0f2f5;
 }
 
 .app-header {
@@ -8,9 +8,9 @@
   justify-content: space-between;
   align-items: center;
   padding: 0 24px;
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%) !important;
+  background: linear-gradient(135deg, #0050b3 0%, #1677ff 100%) !important;
   border-bottom: none;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 4px 20px rgba(22, 119, 255, 0.2);
   color: #fff;
   position: relative;
 }
@@ -22,7 +22,7 @@
   left: 0;
   right: 0;
   height: 3px;
-  background: linear-gradient(90deg, #667eea 0%, #764ba2 50%, #e94560 100%);
+  background: linear-gradient(90deg, #1677ff 0%, #4096ff 50%, #69b1ff 100%);
 }
 
 .header-left {
@@ -50,7 +50,7 @@
   min-height: calc(100vh - 64px);
 }
 
-/* 搜索卡片 - 渐变边框效果 */
+/* 搜索卡片 - 蓝色边框效果 */
 .search-card {
   width: 100%;
   max-width: 880px;
@@ -58,7 +58,7 @@
   border-radius: 16px;
   box-shadow: 
     0 4px 6px -1px rgba(0, 0, 0, 0.05),
-    0 10px 30px -5px rgba(0, 0, 0, 0.1);
+    0 10px 30px -5px rgba(22, 119, 255, 0.1);
   border: none;
   position: relative;
   overflow: hidden;
@@ -71,7 +71,7 @@
   left: 0;
   right: 0;
   height: 4px;
-  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(90deg, #1677ff 0%, #4096ff 100%);
 }
 
 .search-header {
@@ -164,7 +164,7 @@
   margin-top: 32px;
 }
 
-/* 查询按钮 - 微交互动画 */
+/* 查询按钮 - 蓝色主题 */
 .search-actions button {
   transition: all 0.3s ease;
   transform: translateY(0);
@@ -173,14 +173,15 @@
   padding: 0 32px;
   font-size: 16px;
   font-weight: 500;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: #1677ff;
   border: none;
-  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+  box-shadow: 0 4px 15px rgba(22, 119, 255, 0.4);
 }
 
 .search-actions button:hover {
+  background: #4096ff;
   transform: translateY(-2px);
-  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.5);
+  box-shadow: 0 8px 25px rgba(22, 119, 255, 0.5);
 }
 
 .search-actions button:active {

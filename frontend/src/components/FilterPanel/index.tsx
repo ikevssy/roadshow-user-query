@@ -1,11 +1,10 @@
-import { Checkbox, Radio, DatePicker, Typography, Button, Collapse, Drawer, FloatButton, Space } from 'antd';
+import { Select, Radio, DatePicker, Typography, Button, Drawer, FloatButton, Space } from 'antd';
 import { ClearOutlined, FilterOutlined, CloseOutlined, CheckOutlined } from '@ant-design/icons';
 import dayjs from 'dayjs';
 import { useAppStore } from '../../store';
 import styles from './index.module.css';
 
 const { Text } = Typography;
-const { Panel } = Collapse;
 
 const CERT_TYPE_OPTIONS = [
   { label: '机构投资者', value: '机构投资者' },
@@ -26,6 +25,7 @@ export function FilterPanel({ isMobile }: FilterPanelProps = {}) {
   
   // 获取当前数据中实际存在的机构类型
   const availableOrgTypes = [...new Set(allUsers.map((u) => u.org_type).filter(Boolean))];
+  const orgTypeOptions = availableOrgTypes.map(type => ({ label: type, value: type }));
   
   // 处理日期选择
   const handleInteractionDateChange = (dates: any) => {
@@ -109,82 +109,90 @@ export function FilterPanel({ isMobile }: FilterPanelProps = {}) {
         )}
       </div>
       
-      <Collapse 
-        defaultActiveKey={['cert', 'org', 'time']} 
-        ghost
-        size="small"
-      >
-        <Panel header="认证类型" key="cert">
-          <Checkbox.Group
-            options={CERT_TYPE_OPTIONS}
-            value={filters.certTypes}
-            onChange={(values) => setFilters({ certTypes: values as string[] })}
-            className={styles.checkboxGroup}
-          />
-        </Panel>
-        
-        <Panel header="机构类型" key="org">
-          <Checkbox.Group
-            value={filters.orgTypes}
-            onChange={(values) => setFilters({ orgTypes: values as string[] })}
-            className={styles.checkboxGroup}
-          >
-            {availableOrgTypes.map((type) => (
-              <Checkbox key={type} value={type}>{type}</Checkbox>
-            ))}
-          </Checkbox.Group>
-        </Panel>
-        
-        <Panel header="最近互动时间" key="interaction">
-          <DatePicker.RangePicker
-            value={interactionDates as any}
-            onChange={handleInteractionDateChange}
-            format="YYYY-MM-DD"
-            placeholder={['开始日期', '结束日期']}
-            style={{ width: '100%' }}
-            size="small"
-            allowClear
-          />
-        </Panel>
-        
-        <Panel header="最新报名时间" key="apply">
-          <DatePicker.RangePicker
-            value={applyDates as any}
-            onChange={handleApplyDateChange}
-            format="YYYY-MM-DD"
-            placeholder={['开始日期', '结束日期']}
-            style={{ width: '100%' }}
-            size="small"
-            allowClear
-          />
-        </Panel>
-        
-        <Panel header="最新参会时间" key="attend">
-          <DatePicker.RangePicker
-            value={attendDates as any}
-            onChange={handleAttendDateChange}
-            format="YYYY-MM-DD"
-            placeholder={['开始日期', '结束日期']}
-            style={{ width: '100%' }}
-            size="small"
-            allowClear
-          />
-        </Panel>
-        
-        <Panel header="是否首次参会" key="first">
-          <Radio.Group
-            optionType="button"
-            buttonStyle="solid"
-            size="small"
-            value={filters.isFirstAttend}
-            onChange={(e) => setFilters({ isFirstAttend: e.target.value })}
-          >
-            <Radio.Button value={null}>全部</Radio.Button>
-            <Radio.Button value={true}>是</Radio.Button>
-            <Radio.Button value={false}>否</Radio.Button>
-          </Radio.Group>
-        </Panel>
-      </Collapse>
+      {/* 使用Select下拉框替代Checkbox，更紧凑 */}
+      <div className={styles.filterSection}>
+        <Text className={styles.filterLabel}>认证类型</Text>
+        <Select
+          mode="multiple"
+          placeholder="请选择认证类型"
+          options={CERT_TYPE_OPTIONS}
+          value={filters.certTypes}
+          onChange={(values) => setFilters({ certTypes: values })}
+          style={{ width: '100%' }}
+          maxTagCount="responsive"
+          size="small"
+          allowClear
+        />
+      </div>
+      
+      <div className={styles.filterSection}>
+        <Text className={styles.filterLabel}>机构类型</Text>
+        <Select
+          mode="multiple"
+          placeholder="请选择机构类型"
+          options={orgTypeOptions}
+          value={filters.orgTypes}
+          onChange={(values) => setFilters({ orgTypes: values })}
+          style={{ width: '100%' }}
+          maxTagCount="responsive"
+          size="small"
+          allowClear
+        />
+      </div>
+      
+      <div className={styles.filterSection}>
+        <Text className={styles.filterLabel}>最近互动时间</Text>
+        <DatePicker.RangePicker
+          value={interactionDates as any}
+          onChange={handleInteractionDateChange}
+          format="YYYY-MM-DD"
+          placeholder={['开始日期', '结束日期']}
+          style={{ width: '100%' }}
+          size="small"
+          allowClear
+        />
+      </div>
+      
+      <div className={styles.filterSection}>
+        <Text className={styles.filterLabel}>最新报名时间</Text>
+        <DatePicker.RangePicker
+          value={applyDates as any}
+          onChange={handleApplyDateChange}
+          format="YYYY-MM-DD"
+          placeholder={['开始日期', '结束日期']}
+          style={{ width: '100%' }}
+          size="small"
+          allowClear
+        />
+      </div>
+      
+      <div className={styles.filterSection}>
+        <Text className={styles.filterLabel}>最新参会时间</Text>
+        <DatePicker.RangePicker
+          value={attendDates as any}
+          onChange={handleAttendDateChange}
+          format="YYYY-MM-DD"
+          placeholder={['开始日期', '结束日期']}
+          style={{ width: '100%' }}
+          size="small"
+          allowClear
+        />
+      </div>
+      
+      <div className={styles.filterSection}>
+        <Text className={styles.filterLabel}>是否首次参会</Text>
+        <Radio.Group
+          optionType="button"
+          buttonStyle="solid"
+          size="small"
+          value={filters.isFirstAttend}
+          onChange={(e) => setFilters({ isFirstAttend: e.target.value })}
+        >
+          <Radio.Button value={null}>全部</Radio.Button>
+          <Radio.Button value={true}>是</Radio.Button>
+          <Radio.Button value={false}>否</Radio.Button>
+        </Radio.Group>
+      </div>
     </div>
   );
   

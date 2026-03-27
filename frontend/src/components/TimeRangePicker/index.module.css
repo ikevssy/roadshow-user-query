@@ -6,24 +6,12 @@
   margin-bottom: 12px;
 }
 
+/* 所有快捷选项在同一行 */
 .presets {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
   margin-bottom: 16px;
-}
-
-.specialPresets {
-  display: flex;
-  gap: 6px;
-  width: 100%;
-  margin-bottom: 8px;
-}
-
-.normalPresets {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
 }
 
 .presetBtn {
@@ -40,12 +28,13 @@
   width: 100%;
 }
 
-/* 快捷选项高亮样式 */
-.specialPresets :global(.ant-btn-primary) {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  border: none;
+/* 快捷选项高亮样式 - 蓝色主题 */
+.presets :global(.ant-btn-primary) {
+  background: #1677ff;
+  border-color: #1677ff;
 }
 
-.normalPresets :global(.ant-btn-primary) {
-  background: #1677ff;
+.presets :global(.ant-btn-primary:hover) {
+  background: #4096ff;
+  border-color: #4096ff;
 }
