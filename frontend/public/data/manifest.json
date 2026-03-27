@@ -1,6 +1,6 @@
 {
-  "update_time": "2026-03-27 23:23:41",
-  "companies_count": 52542,
+  "update_time": "2026-03-28 02:05:00",
+  "companies_count": 52552,
   "data_start_time": "2023-01-01",
   "synced_companies": 2152,
   "files": [
@@ -53,6 +53,12 @@
       "user_count": 1174
     },
     {
+      "oid": 16761,
+      "cn_short_name": "小米集团-W",
+      "filename": "oid_16761.json",
+      "user_count": 1102
+    },
+    {
       "oid": 3647,
       "cn_short_name": "碧桂园",
       "filename": "oid_3647.json",
@@ -69,12 +75,6 @@
       "cn_short_name": "绿城服务",
       "filename": "oid_45468.json",
       "user_count": 1080
-    },
-    {
-      "oid": 16761,
-      "cn_short_name": "小米集团-W",
-      "filename": "oid_16761.json",
-      "user_count": 1069
     },
     {
       "oid": 47564,
@@ -1124,7 +1124,7 @@
       "oid": 47395,
       "cn_short_name": "维亚生物",
       "filename": "oid_47395.json",
-      "user_count": 173
+      "user_count": 174
     },
     {
       "oid": 11050,
