@@ -1,11 +1,19 @@
 import { Card, Typography, Progress, Badge, Avatar, Button } from 'antd';
 import { LinkOutlined, ExportOutlined, TrophyOutlined } from '@ant-design/icons';
 import type { RankingApply, RankingEffect, RankingConversion } from '../../types/rankings';
+import { useAppStore } from '../../store';
 import styles from './index.module.css';
 
 const { Text, Title } = Typography;
 
 type RankingTab = 'apply' | 'effect' | 'conversion';
+
+// 获取公司LOGO
+const useCompanyLogo = (oid: number) => {
+  const companies = useAppStore(state => state.companies);
+  const company = companies.find(c => c.oid === oid);
+  return company?.logo_url || null;
+};
 
 // 排名徽章
 const RankBadge = ({ rank }: { rank: number }) => {
@@ -24,7 +32,11 @@ const getProgressColor = (value: number | null) => {
 };
 
 // 报名分析卡片
-const ApplyCard = ({ record, rank, onMeetClick, onCompanyClick }: { record: RankingApply; rank: number; onMeetClick: () => void; onCompanyClick: () => void }) => (
+const ApplyCard = ({ record, rank, onMeetClick, onCompanyClick }: { record: RankingApply; rank: number; onMeetClick: () => void; onCompanyClick: () => void }) => {
+  const logoUrl = useCompanyLogo(record.oid);
+  const logoSrc = logoUrl ? (logoUrl.startsWith('http') ? logoUrl : `https://image.roadshowchina.cn${logoUrl}`) : null;
+  
+  return (
   <Card className={styles.card} hoverable onClick={() => onMeetClick()}>
     <div className={styles.cardHeader}>
       <div className={styles.rankTitle}>
@@ -34,8 +46,12 @@ const ApplyCard = ({ record, rank, onMeetClick, onCompanyClick }: { record: Rank
         </Title>
       </div>
       <div className={styles.companyInfo}>
-        <Avatar size={40} style={{ backgroundColor: '#1677ff', marginRight: 8 }}>
-          {record.cn_short_name?.charAt(0) || '公'}
+        <Avatar 
+          size={40} 
+          src={logoSrc}
+          style={{ backgroundColor: logoSrc ? 'transparent' : '#1677ff', marginRight: 8 }}
+        >
+          {!logoSrc && (record.cn_short_name?.charAt(0) || '公')}
         </Avatar>
         <div>
           <Text strong className={styles.companyName} onClick={(e) => { e.stopPropagation(); onCompanyClick(); }}>
@@ -98,10 +114,15 @@ const ApplyCard = ({ record, rank, onMeetClick, onCompanyClick }: { record: Rank
       </Button>
     </div>
   </Card>
-);
+  );
+};
 
 // 参会效果卡片
-const EffectCard = ({ record, rank, onMeetClick, onCompanyClick }: { record: RankingEffect; rank: number; onMeetClick: () => void; onCompanyClick: () => void }) => (
+const EffectCard = ({ record, rank, onMeetClick, onCompanyClick }: { record: RankingEffect; rank: number; onMeetClick: () => void; onCompanyClick: () => void }) => {
+  const logoUrl = useCompanyLogo(record.oid);
+  const logoSrc = logoUrl ? (logoUrl.startsWith('http') ? logoUrl : `https://image.roadshowchina.cn${logoUrl}`) : null;
+  
+  return (
   <Card className={styles.card} hoverable onClick={() => onMeetClick()}>
     <div className={styles.cardHeader}>
       <div className={styles.rankTitle}>
@@ -111,8 +132,12 @@ const EffectCard = ({ record, rank, onMeetClick, onCompanyClick }: { record: Ran
         </Title>
       </div>
       <div className={styles.companyInfo}>
-        <Avatar size={40} style={{ backgroundColor: '#1677ff', marginRight: 8 }}>
-          {record.cn_short_name?.charAt(0) || '公'}
+        <Avatar 
+          size={40} 
+          src={logoSrc}
+          style={{ backgroundColor: logoSrc ? 'transparent' : '#1677ff', marginRight: 8 }}
+        >
+          {!logoSrc && (record.cn_short_name?.charAt(0) || '公')}
         </Avatar>
         <div>
           <Text strong className={styles.companyName} onClick={(e) => { e.stopPropagation(); onCompanyClick(); }}>
@@ -165,17 +190,26 @@ const EffectCard = ({ record, rank, onMeetClick, onCompanyClick }: { record: Ran
       </Button>
     </div>
   </Card>
-);
+  );
+};
 
 // 转化效果卡片
-const ConversionCard = ({ record, rank, onCompanyClick }: { record: RankingConversion; rank: number; onCompanyClick: () => void }) => (
+const ConversionCard = ({ record, rank, onCompanyClick }: { record: RankingConversion; rank: number; onCompanyClick: () => void }) => {
+  const logoUrl = useCompanyLogo(record.oid);
+  const logoSrc = logoUrl ? (logoUrl.startsWith('http') ? logoUrl : `https://image.roadshowchina.cn${logoUrl}`) : null;
+  
+  return (
   <Card className={styles.card} hoverable>
     <div className={styles.cardHeader}>
       <div className={styles.rankTitle}>
         <RankBadge rank={rank} />
         <div className={styles.companyInfo}>
-          <Avatar size={40} style={{ backgroundColor: '#1677ff', marginRight: 8 }}>
-            {record.cn_short_name?.charAt(0) || '公'}
+          <Avatar 
+            size={40} 
+            src={logoSrc}
+            style={{ backgroundColor: logoSrc ? 'transparent' : '#1677ff', marginRight: 8 }}
+          >
+            {!logoSrc && (record.cn_short_name?.charAt(0) || '公')}
           </Avatar>
           <div>
             <Text strong className={styles.companyName} onClick={(e) => { e.stopPropagation(); onCompanyClick(); }}>
@@ -219,7 +253,8 @@ const ConversionCard = ({ record, rank, onCompanyClick }: { record: RankingConve
       </Button>
     </div>
   </Card>
-);
+  );
+};
 
 export function RankingCard({ tab, data, loading, onMeetClick, onCompanyClick }: {
   tab: RankingTab;
