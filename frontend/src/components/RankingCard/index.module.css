@@ -1,0 +1,114 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+  gap: 16px;
+  padding: 8px 0;
+}
+
+.card {
+  border-radius: 12px;
+  border: 1px solid #f0f0f0;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(22, 119, 255, 0.15);
+  border-color: #91caff;
+}
+
+.cardHeader {
+  margin-bottom: 16px;
+}
+
+.rankTitle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.title {
+  margin: 0 !important;
+  font-size: 15px;
+  font-weight: 600;
+  color: #1f1f1f;
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.companyInfo {
+  display: flex;
+  align-items: center;
+  padding-left: 32px;
+}
+
+.companyName {
+  display: block;
+  font-size: 14px;
+  color: #1677ff;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.companyName:hover {
+  color: #4096ff;
+  text-decoration: underline;
+}
+
+.stockCode {
+  font-size: 12px;
+  display: block;
+}
+
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin-bottom: 16px;
+  padding: 12px;
+  background: #fafafa;
+  border-radius: 8px;
+}
+
+.metric {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.metricLabel {
+  font-size: 12px;
+}
+
+.metricValue {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1f1f1f;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+  padding-top: 12px;
+  border-top: 1px solid #f0f0f0;
+}
+
+.empty {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  background: white;
+  border-radius: 8px;
+}
+
+/* 响应式 */
+@media (max-width: 768px) {
+  .container {
+    grid-template-columns: 1fr;
+  }
+}

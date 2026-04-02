@@ -1,8 +1,9 @@
 import { useState, useEffect } from 'react';
-import { Tabs, Card, Typography, Space, Button } from 'antd';
-import { ReloadOutlined } from '@ant-design/icons';
+import { Tabs, Card, Typography, Space, Button, Segmented } from 'antd';
+import { ReloadOutlined, AppstoreOutlined, UnorderedListOutlined } from '@ant-design/icons';
 import type { RankingTab, RankingApply, RankingEffect, RankingConversion } from '../types/rankings';
 import { RankingTable } from '../components/RankingTable';
+import { RankingCard } from '../components/RankingCard';
 import { RankingDetail } from '../components/RankingDetail';
 import styles from './RankingsPage.module.css';
 
@@ -10,6 +11,7 @@ const { Title } = Typography;
 
 export function RankingsPage() {
   const [activeTab, setActiveTab] = useState<RankingTab>('apply');
+  const [viewMode, setViewMode] = useState<'card' | 'table'>('card');
   const [applyData, setApplyData] = useState<RankingApply[]>([]);
   const [effectData, setEffectData] = useState<RankingEffect[]>([]);
   const [conversionData, setConversionData] = useState<RankingConversion[]>([]);
@@ -54,6 +56,14 @@ export function RankingsPage() {
       <div className={styles.header}>
         <Title level={3} style={{ margin: 0 }}>路演榜单</Title>
         <Space>
+          <Segmented
+            options={[
+              { label: '卡片', value: 'card', icon: <AppstoreOutlined /> },
+              { label: '表格', value: 'table', icon: <UnorderedListOutlined /> },
+            ]}
+            value={viewMode}
+            onChange={(val) => setViewMode(val as 'card' | 'table')}
+          />
           <Button icon={<ReloadOutlined />} onClick={loadData} loading={loading}>
             刷新
           </Button>
@@ -63,31 +73,61 @@ export function RankingsPage() {
       <Card className={styles.card}>
         <Tabs activeKey={activeTab} onChange={(key) => setActiveTab(key as RankingTab)}>
           <Tabs.TabPane tab="路演报名分析" key="apply">
-            <RankingTable
-              tab="apply"
-              data={applyData}
-              loading={loading}
-              onMeetClick={handleMeetClick}
-              onCompanyClick={handleCompanyClick}
-            />
+            {viewMode === 'card' ? (
+              <RankingCard
+                tab="apply"
+                data={applyData}
+                loading={loading}
+                onMeetClick={handleMeetClick}
+                onCompanyClick={handleCompanyClick}
+              />
+            ) : (
+              <RankingTable
+                tab="apply"
+                data={applyData}
+                loading={loading}
+                onMeetClick={handleMeetClick}
+                onCompanyClick={handleCompanyClick}
+              />
+            )}
           </Tabs.TabPane>
           <Tabs.TabPane tab="路演参会效果分析" key="effect">
-            <RankingTable
-              tab="effect"
-              data={effectData}
-              loading={loading}
-              onMeetClick={handleMeetClick}
-              onCompanyClick={handleCompanyClick}
-            />
+            {viewMode === 'card' ? (
+              <RankingCard
+                tab="effect"
+                data={effectData}
+                loading={loading}
+                onMeetClick={handleMeetClick}
+                onCompanyClick={handleCompanyClick}
+              />
+            ) : (
+              <RankingTable
+                tab="effect"
+                data={effectData}
+                loading={loading}
+                onMeetClick={handleMeetClick}
+                onCompanyClick={handleCompanyClick}
+              />
+            )}
           </Tabs.TabPane>
           <Tabs.TabPane tab="公司路演转化效果分析" key="conversion">
-            <RankingTable
-              tab="conversion"
-              data={conversionData}
-              loading={loading}
-              onMeetClick={handleMeetClick}
-              onCompanyClick={handleCompanyClick}
-            />
+            {viewMode === 'card' ? (
+              <RankingCard
+                tab="conversion"
+                data={conversionData}
+                loading={loading}
+                onMeetClick={handleMeetClick}
+                onCompanyClick={handleCompanyClick}
+              />
+            ) : (
+              <RankingTable
+                tab="conversion"
+                data={conversionData}
+                loading={loading}
+                onMeetClick={handleMeetClick}
+                onCompanyClick={handleCompanyClick}
+              />
+            )}
           </Tabs.TabPane>
         </Tabs>
       </Card>
