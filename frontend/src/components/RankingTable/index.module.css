@@ -1,0 +1,28 @@
+.container {
+  padding: 16px;
+}
+
+.link {
+  color: #1677ff;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.link:hover {
+  color: #4096ff;
+  text-decoration: underline;
+}
+
+.table {
+  background: white;
+  border-radius: 8px;
+}
+
+.empty {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  background: white;
+  border-radius: 8px;
+}

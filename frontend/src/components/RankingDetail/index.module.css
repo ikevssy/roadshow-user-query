@@ -1,0 +1,19 @@
+.content {
+  padding-bottom: 24px;
+}
+
+.link {
+  color: #1677ff;
+  cursor: pointer;
+}
+
+.link:hover {
+  color: #4096ff;
+  text-decoration: underline;
+}
+
+.actions {
+  margin-top: 24px;
+  display: flex;
+  gap: 12px;
+}
