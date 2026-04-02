@@ -9,7 +9,7 @@
     "live_join_count": "350",
     "replay_join_count": "9",
     "qa_count": "167",
-    "sub_user_count": 127,
+    "sub_user_count": 128,
     "unsub_user_count": 5,
     "special_focus_user_count": 1
   },
@@ -37,7 +37,7 @@
     "live_join_count": "331",
     "replay_join_count": "100",
     "qa_count": "19",
-    "sub_user_count": 84,
+    "sub_user_count": 83,
     "unsub_user_count": 5,
     "special_focus_user_count": 0
   },
@@ -65,7 +65,7 @@
     "live_join_count": "96",
     "replay_join_count": "58",
     "qa_count": "0",
-    "sub_user_count": 63,
+    "sub_user_count": 61,
     "unsub_user_count": 4,
     "special_focus_user_count": 0
   },
@@ -93,7 +93,7 @@
     "live_join_count": "148",
     "replay_join_count": "3",
     "qa_count": "2",
-    "sub_user_count": 48,
+    "sub_user_count": 47,
     "unsub_user_count": 0,
     "special_focus_user_count": 0
   },
@@ -126,20 +126,6 @@
     "special_focus_user_count": 0
   },
   {
-    "oid": 47345,
-    "cn_short_name": "中广核新能源",
-    "stock_codes": "01811.HK",
-    "total_watch_minutes": "3058.36",
-    "total_join_count": 83,
-    "avg_watch_minutes": "36.85",
-    "live_join_count": "77",
-    "replay_join_count": "6",
-    "qa_count": "31",
-    "sub_user_count": 41,
-    "unsub_user_count": 0,
-    "special_focus_user_count": 0
-  },
-  {
     "oid": 3575,
     "cn_short_name": "康臣药业",
     "stock_codes": "01681.HK",
@@ -168,17 +154,17 @@
     "special_focus_user_count": 0
   },
   {
-    "oid": 17128,
-    "cn_short_name": "美团-W",
-    "stock_codes": "03690.HK",
-    "total_watch_minutes": "1250.99",
-    "total_join_count": 70,
-    "avg_watch_minutes": "17.87",
-    "live_join_count": "48",
-    "replay_join_count": "22",
-    "qa_count": "0",
+    "oid": 47345,
+    "cn_short_name": "中广核新能源",
+    "stock_codes": "01811.HK",
+    "total_watch_minutes": "3058.36",
+    "total_join_count": 83,
+    "avg_watch_minutes": "36.85",
+    "live_join_count": "77",
+    "replay_join_count": "6",
+    "qa_count": "31",
     "sub_user_count": 40,
-    "unsub_user_count": 1,
+    "unsub_user_count": 0,
     "special_focus_user_count": 0
   },
   {
@@ -210,6 +196,20 @@
     "special_focus_user_count": 0
   },
   {
+    "oid": 17128,
+    "cn_short_name": "美团-W",
+    "stock_codes": "03690.HK",
+    "total_watch_minutes": "1250.99",
+    "total_join_count": 70,
+    "avg_watch_minutes": "17.87",
+    "live_join_count": "48",
+    "replay_join_count": "22",
+    "qa_count": "0",
+    "sub_user_count": 38,
+    "unsub_user_count": 1,
+    "special_focus_user_count": 0
+  },
+  {
     "oid": 17002,
     "cn_short_name": "拼多多",
     "stock_codes": "PDD.US",
@@ -224,6 +224,20 @@
     "special_focus_user_count": 0
   },
   {
+    "oid": 3463,
+    "cn_short_name": "中国有色矿业",
+    "stock_codes": "01258.HK",
+    "total_watch_minutes": "2745.48",
+    "total_join_count": 80,
+    "avg_watch_minutes": "34.32",
+    "live_join_count": "57",
+    "replay_join_count": "23",
+    "qa_count": "6",
+    "sub_user_count": 36,
+    "unsub_user_count": 0,
+    "special_focus_user_count": 0
+  },
+  {
     "oid": 67,
     "cn_short_name": "中集集团",
     "stock_codes": "000039.SZ, 02039.HK",
@@ -233,7 +247,7 @@
     "live_join_count": "62",
     "replay_join_count": "0",
     "qa_count": "8",
-    "sub_user_count": 37,
+    "sub_user_count": 36,
     "unsub_user_count": 3,
     "special_focus_user_count": 0
   },
@@ -247,36 +261,22 @@
     "live_join_count": "45",
     "replay_join_count": "17",
     "qa_count": "1",
-    "sub_user_count": 37,
+    "sub_user_count": 36,
     "unsub_user_count": 0,
     "special_focus_user_count": 0
   },
   {
-    "oid": 3018,
-    "cn_short_name": "腾讯控股",
-    "stock_codes": "00700.HK",
-    "total_watch_minutes": "2219.58",
-    "total_join_count": 138,
-    "avg_watch_minutes": "16.08",
-    "live_join_count": "47",
-    "replay_join_count": "91",
-    "qa_count": "0",
-    "sub_user_count": 36,
-    "unsub_user_count": 2,
-    "special_focus_user_count": 0
-  },
-  {
-    "oid": 3463,
-    "cn_short_name": "中国有色矿业",
-    "stock_codes": "01258.HK",
-    "total_watch_minutes": "2745.48",
-    "total_join_count": 80,
-    "avg_watch_minutes": "34.32",
-    "live_join_count": "57",
-    "replay_join_count": "23",
-    "qa_count": "6",
-    "sub_user_count": 36,
-    "unsub_user_count": 0,
+    "oid": 45464,
+    "cn_short_name": "碧桂园服务",
+    "stock_codes": "06098.HK",
+    "total_watch_minutes": "5463.25",
+    "total_join_count": 99,
+    "avg_watch_minutes": "55.18",
+    "live_join_count": "95",
+    "replay_join_count": "4",
+    "qa_count": "8",
+    "sub_user_count": 34,
+    "unsub_user_count": 4,
     "special_focus_user_count": 0
   }
 ]
