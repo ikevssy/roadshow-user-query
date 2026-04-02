@@ -153,23 +153,6 @@
     "stock_codes": "CHA.US"
   },
   {
-    "mid": 26537,
-    "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会",
-    "start_time": "%Y-%m-%d %H:%i:%s",
-    "click_count": 539,
-    "pre_apply_times": "112",
-    "apply_rate": "23.6",
-    "skip_apply_count": null,
-    "live_join_count": 48,
-    "attend_rate": "42.9",
-    "avg_watch_minutes": "24.0",
-    "total_watch_minutes": "1151.0",
-    "qa_count": null,
-    "oid": 17128,
-    "cn_short_name": "美团-W",
-    "stock_codes": "03690.HK"
-  },
-  {
     "mid": 26648,
     "meet_title": "邮政储蓄银行2025年度业绩发布会",
     "start_time": "%Y-%m-%d %H:%i:%s",
@@ -309,9 +292,9 @@
     "mid": 26485,
     "meet_title": "永升服务（01995.HK）2025年度业绩发布会",
     "start_time": "%Y-%m-%d %H:%i:%s",
-    "click_count": 871,
+    "click_count": 872,
     "pre_apply_times": "125",
-    "apply_rate": "16.8",
+    "apply_rate": "16.7",
     "skip_apply_count": null,
     "live_join_count": 93,
     "attend_rate": "74.4",
@@ -508,5 +491,22 @@
     "oid": 51623,
     "cn_short_name": "贝康医疗",
     "stock_codes": "02170.HK"
+  },
+  {
+    "mid": 26674,
+    "meet_title": "博腾股份（300363.SZ）2025年年报电话会",
+    "start_time": "%Y-%m-%d %H:%i:%s",
+    "click_count": 166,
+    "pre_apply_times": "21",
+    "apply_rate": "12.7",
+    "skip_apply_count": null,
+    "live_join_count": null,
+    "attend_rate": null,
+    "avg_watch_minutes": null,
+    "total_watch_minutes": null,
+    "qa_count": null,
+    "oid": 1638,
+    "cn_short_name": "博腾股份",
+    "stock_codes": "300363.SZ"
   }
 ]

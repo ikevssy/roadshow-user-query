@@ -65,7 +65,7 @@
     "live_join_count": "96",
     "replay_join_count": "58",
     "qa_count": "0",
-    "sub_user_count": 64,
+    "sub_user_count": 63,
     "unsub_user_count": 4,
     "special_focus_user_count": 0
   },
@@ -107,7 +107,7 @@
     "live_join_count": "126",
     "replay_join_count": "30",
     "qa_count": "5",
-    "sub_user_count": 43,
+    "sub_user_count": 42,
     "unsub_user_count": 3,
     "special_focus_user_count": 0
   },
@@ -196,20 +196,6 @@
     "special_focus_user_count": 0
   },
   {
-    "oid": 3018,
-    "cn_short_name": "腾讯控股",
-    "stock_codes": "00700.HK",
-    "total_watch_minutes": "2219.58",
-    "total_join_count": 138,
-    "avg_watch_minutes": "16.08",
-    "live_join_count": "47",
-    "replay_join_count": "91",
-    "qa_count": "0",
-    "sub_user_count": 39,
-    "unsub_user_count": 2,
-    "special_focus_user_count": 0
-  },
-  {
     "oid": 3626,
     "cn_short_name": "建发国际集团",
     "stock_codes": "01908.HK",
@@ -263,6 +249,20 @@
     "qa_count": "1",
     "sub_user_count": 37,
     "unsub_user_count": 0,
+    "special_focus_user_count": 0
+  },
+  {
+    "oid": 3018,
+    "cn_short_name": "腾讯控股",
+    "stock_codes": "00700.HK",
+    "total_watch_minutes": "2219.58",
+    "total_join_count": 138,
+    "avg_watch_minutes": "16.08",
+    "live_join_count": "47",
+    "replay_join_count": "91",
+    "qa_count": "0",
+    "sub_user_count": 36,
+    "unsub_user_count": 2,
     "special_focus_user_count": 0
   },
   {
