@@ -1,15 +1,46 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.itemWrapper {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
 .item {
+  position: relative;
+  z-index: 1;
   padding: 16px;
   border: 1px solid #f0f0f0;
   border-radius: 12px;
-  margin-bottom: 12px;
-  transition: all 0.3s ease;
   background: #fff;
+  transition: all 0.3s ease;
 }
 
 .item:hover {
   box-shadow: 0 4px 12px rgba(22, 119, 255, 0.1);
   border-color: #91caff;
+}
+
+.barOverlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: #f5f5f5;
+  border-radius: 0 0 12px 12px;
+  overflow: hidden;
+}
+
+.barFill {
+  height: 100%;
+  background: linear-gradient(90deg, #1677ff 0%, #4096ff 100%);
+  border-radius: 0 0 12px 12px;
+  transition: width 0.5s ease;
 }
 
 .header {
@@ -64,30 +95,60 @@
   font-size: 12px;
 }
 
-.progress {
-  margin-bottom: 12px;
+.actions {
+  display: flex;
+  gap: 4px;
+  flex-shrink: 0;
 }
 
-.metrics {
+.barSection {
   display: flex;
-  flex-wrap: wrap;
-  gap: 16px;
-  margin-bottom: 12px;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
   padding: 8px 12px;
   background: #fafafa;
   border-radius: 8px;
+}
+
+.barLabel {
+  font-size: 13px;
+  color: #666;
+  white-space: nowrap;
+  min-width: 70px;
+}
+
+.barContainer {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.bar {
+  height: 8px;
+  background: linear-gradient(90deg, #1677ff 0%, #4096ff 100%);
+  border-radius: 4px;
+  transition: width 0.5s ease;
+}
+
+.barValue {
+  font-size: 14px;
+  font-weight: 600;
+  color: #1677ff;
+  white-space: nowrap;
+}
+
+.secondary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  padding: 8px 12px;
   font-size: 13px;
 }
 
-.metrics span {
+.secondary span {
   color: #666;
-}
-
-.actions {
-  display: flex;
-  gap: 8px;
-  padding-top: 8px;
-  border-top: 1px solid #f0f0f0;
 }
 
 .empty {
