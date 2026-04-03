@@ -181,10 +181,10 @@ export function RankingTable({ tab, data, loading, onMeetClick, onCompanyClick }
       render: (text) => <Text type="secondary" style={{ fontSize: 12 }}>{text || '-'}</Text>,
     },
     {
-      title: '参会总时长',
+      title: '参会时长',
       dataIndex: 'total_watch_minutes',
       key: 'total_watch_minutes',
-      width: 100,
+      width: 110,
       sorter: (a, b) => (a.total_watch_minutes || 0) - (b.total_watch_minutes || 0),
       defaultSortOrder: 'descend',
       render: (val) => val != null ? `${val}分钟` : '-',
@@ -303,7 +303,7 @@ export function RankingTable({ tab, data, loading, onMeetClick, onCompanyClick }
       render: (text) => <Text type="secondary" style={{ fontSize: 12 }}>{text || '-'}</Text>,
     },
     {
-      title: '参会总时长',
+      title: '参会时长',
       dataIndex: 'total_watch_minutes',
       key: 'total_watch_minutes',
       width: 110,
@@ -311,7 +311,7 @@ export function RankingTable({ tab, data, loading, onMeetClick, onCompanyClick }
       render: (val) => val != null ? `${val}分钟` : '-',
     },
     {
-      title: '总参与人次',
+      title: '参与人次',
       dataIndex: 'total_join_count',
       key: 'total_join_count',
       width: 100,
