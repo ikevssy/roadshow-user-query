@@ -44,13 +44,13 @@ function App() {
   const renderPage = () => {
     switch (currentPage) {
       case 'home':
-        return <HomePage />;
+        return <HomePage onNavigate={setCurrentPage} />;
       case 'query':
         return <UserQueryPage />;
       case 'rankings':
         return <RankingsPage />;
       default:
-        return <HomePage />;
+        return <HomePage onNavigate={setCurrentPage} />;
     }
   };
   

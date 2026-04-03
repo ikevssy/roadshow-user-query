@@ -108,22 +108,23 @@ export function RankingsPage() {
   const filterByTimeRange = (data: (RankingApply | RankingEffect | RankingConversion)[]) => {
     // 热门公司榜没有start_time字段，跳过时间过滤
     if (activeTab === 'conversion') return data;
+    if (data.length === 0) return data;
 
     const now = dayjs();
     let start: dayjs.Dayjs, end: dayjs.Dayjs;
 
     switch (timeRange) {
       case '7d':
-        start = now.subtract(7, 'day');
-        end = now;
+        start = now.subtract(7, 'day').startOf('day');
+        end = now.endOf('day');
         break;
       case '15d':
-        start = now.subtract(15, 'day');
-        end = now;
+        start = now.subtract(15, 'day').startOf('day');
+        end = now.endOf('day');
         break;
       case '30d':
-        start = now.subtract(30, 'day');
-        end = now;
+        start = now.subtract(30, 'day').startOf('day');
+        end = now.endOf('day');
         break;
       case 'lastWeek':
         start = now.subtract(1, 'week').startOf('week');
@@ -146,9 +147,12 @@ export function RankingsPage() {
     }
 
     return data.filter(item => {
-      const itemTime = dayjs((item as any).start_time);
+      const st = (item as any).start_time;
+      if (!st) return true;
+      const itemTime = dayjs(st);
       if (!itemTime.isValid()) return true;
-      return itemTime.isAfter(start) && itemTime.isBefore(end);
+      const inRange = (itemTime.isAfter(start) || itemTime.isSame(start)) && (itemTime.isBefore(end) || itemTime.isSame(end));
+      return inRange;
     });
   };
 

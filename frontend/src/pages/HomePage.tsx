@@ -12,7 +12,13 @@ import styles from './HomePage.module.css';
 
 const { Title, Paragraph, Text } = Typography;
 
-export function HomePage() {
+type PageType = 'home' | 'query' | 'rankings';
+
+interface HomePageProps {
+  onNavigate: (page: PageType) => void;
+}
+
+export function HomePage({ onNavigate }: HomePageProps) {
 
   return (
     <div className={styles.container}>
@@ -29,10 +35,10 @@ export function HomePage() {
             一站式路演数据分析与投资者关系管理平台
           </Text>
           <Space size="middle" className={styles.heroActions}>
-            <Button type="primary" size="large" icon={<SearchOutlined />} href="/?page=query">
+            <Button type="primary" size="large" icon={<SearchOutlined />} onClick={() => onNavigate('query')}>
               开始查询
             </Button>
-            <Button size="large" icon={<BarChartOutlined />} href="/?page=rankings">
+            <Button size="large" icon={<BarChartOutlined />} onClick={() => onNavigate('rankings')}>
               查看榜单
             </Button>
           </Space>
@@ -44,7 +50,7 @@ export function HomePage() {
         <Title level={3} className={styles.sectionTitle}>核心功能</Title>
         <Row gutter={[24, 24]}>
           <Col xs={24} md={8}>
-            <Card className={styles.featureCard} hoverable>
+            <Card className={styles.featureCard} hoverable onClick={() => onNavigate('query')}>
               <div className={styles.featureIcon}>
                 <SearchOutlined />
               </div>
@@ -55,7 +61,7 @@ export function HomePage() {
             </Card>
           </Col>
           <Col xs={24} md={8}>
-            <Card className={styles.featureCard} hoverable>
+            <Card className={styles.featureCard} hoverable onClick={() => onNavigate('rankings')}>
               <div className={styles.featureIcon}>
                 <BarChartOutlined />
               </div>
@@ -143,28 +149,28 @@ export function HomePage() {
         <Title level={3} className={styles.sectionTitle}>快速开始</Title>
         <Row gutter={[16, 16]}>
           <Col xs={12} md={6}>
-            <Card className={styles.quickCard} hoverable onClick={() => window.location.href = window.location.pathname + '?page=query'}>
+            <Card className={styles.quickCard} hoverable onClick={() => onNavigate('query')}>
               <div className={styles.quickIcon}>🔍</div>
               <Text strong>用户查询</Text>
               <RightOutlined className={styles.quickArrow} />
             </Card>
           </Col>
           <Col xs={12} md={6}>
-            <Card className={styles.quickCard} hoverable onClick={() => window.location.href = window.location.pathname + '?page=rankings'}>
+            <Card className={styles.quickCard} hoverable onClick={() => onNavigate('rankings')}>
               <div className={styles.quickIcon}>📈</div>
               <Text strong>报名榜</Text>
               <RightOutlined className={styles.quickArrow} />
             </Card>
           </Col>
           <Col xs={12} md={6}>
-            <Card className={styles.quickCard} hoverable onClick={() => window.location.href = window.location.pathname + '?page=rankings'}>
+            <Card className={styles.quickCard} hoverable onClick={() => onNavigate('rankings')}>
               <div className={styles.quickIcon}>📊</div>
               <Text strong>参会榜</Text>
               <RightOutlined className={styles.quickArrow} />
             </Card>
           </Col>
           <Col xs={12} md={6}>
-            <Card className={styles.quickCard} hoverable onClick={() => window.location.href = window.location.pathname + '?page=rankings'}>
+            <Card className={styles.quickCard} hoverable onClick={() => onNavigate('rankings')}>
               <div className={styles.quickIcon}>🏆</div>
               <Text strong>热门公司</Text>
               <RightOutlined className={styles.quickArrow} />
