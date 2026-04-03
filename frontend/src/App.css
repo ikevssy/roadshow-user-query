@@ -28,10 +28,8 @@
 .header-left .ant-typography {
   font-weight: 700;
   letter-spacing: -0.5px;
-  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: var(--primary) !important;
+  -webkit-text-fill-color: var(--primary);
 }
 
 .header-left .ant-menu {

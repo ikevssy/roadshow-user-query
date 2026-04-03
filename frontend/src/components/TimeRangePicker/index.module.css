@@ -1,23 +1,22 @@
 .container {
-  margin-bottom: 20px;
+  margin-bottom: var(--space-lg);
 }
 
 .header {
-  margin-bottom: 12px;
+  margin-bottom: var(--space-sm);
 }
 
-/* 所有快捷选项在同一行 */
 .presets {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 16px;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-md);
 }
 
 .presetBtn {
-  border-radius: 6px;
+  border-radius: var(--radius-full);
   font-size: 13px;
-  transition: all 0.2s ease;
+  transition: all var(--transition-fast);
 }
 
 .presetBtn:hover {
@@ -28,13 +27,12 @@
   width: 100%;
 }
 
-/* 快捷选项高亮样式 - 蓝色主题 */
 .presets :global(.ant-btn-primary) {
-  background: #1677ff;
-  border-color: #1677ff;
+  background: var(--primary);
+  border-color: var(--primary);
 }
 
 .presets :global(.ant-btn-primary:hover) {
-  background: #4096ff;
-  border-color: #4096ff;
+  background: var(--primary-hover);
+  border-color: var(--primary-hover);
 }

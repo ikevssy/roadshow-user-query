@@ -1,43 +1,42 @@
 /* ============================================
    RSC Roadshow - Design System
-   Inspired by biji.com aesthetic
-   Warm, clean, professional
+   Minimalist, Professional, Dark Theme
    ============================================ */
 
 :root {
-  /* Primary - Warm Coral/Orange */
-  --primary: #FF6B35;
-  --primary-hover: #FF8C61;
-  --primary-light: #FFF0EB;
-  --primary-dark: #E55A2B;
+  /* Primary - Deep Dark */
+  --primary: #111418;
+  --primary-hover: #2C3035;
+  --primary-light: #F4F5F7;
+  --primary-dark: #0A0C0E;
   
-  /* Secondary - Deep Navy */
-  --secondary: #1A1A2E;
-  --secondary-light: #2D2D44;
+  /* Secondary - Slate */
+  --secondary: #3B82F6;
+  --secondary-light: #DBEAFE;
   
-  /* Accent - Teal */
-  --accent: #4ECDC4;
-  --accent-light: #E8F8F6;
+  /* Accent - Blue */
+  --accent: #3B82F6;
+  --accent-light: #EFF6FF;
   
   /* Background Colors */
-  --bg-primary: #FAFAF8;
+  --bg-primary: #FAFAFA;
   --bg-secondary: #FFFFFF;
-  --bg-tertiary: #F5F5F0;
+  --bg-tertiary: #F4F5F7;
   
   /* Text Colors */
-  --text-primary: #2D2D2D;
-  --text-secondary: #6B6B6B;
-  --text-tertiary: #9B9B9B;
+  --text-primary: #111418;
+  --text-secondary: #6B7280;
+  --text-tertiary: #9CA3AF;
   --text-inverse: #FFFFFF;
   
   /* Border & Shadow */
-  --border-light: #E8E8E3;
-  --border-medium: #D0D0CB;
+  --border-light: #E5E7EB;
+  --border-medium: #D1D5DB;
   
-  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.04);
-  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.06);
-  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.08);
-  --shadow-hover: 0 8px 24px rgba(255, 107, 53, 0.15);
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  --shadow-hover: 0 4px 12px rgba(17, 20, 24, 0.15);
   
   /* Spacing - 8px base unit */
   --space-xs: 4px;
@@ -124,7 +123,7 @@ a:hover {
 /* Selection */
 ::selection {
   background: var(--primary-light);
-  color: var(--primary-dark);
+  color: var(--primary);
 }
 
 /* Focus */
@@ -189,7 +188,7 @@ a:hover {
 .ant-input:focus,
 .ant-select-focused {
   border-color: var(--primary);
-  box-shadow: 0 0 0 2px rgba(255, 107, 53, 0.1);
+  box-shadow: 0 0 0 2px rgba(17, 20, 24, 0.1);
 }
 
 .ant-input-affix-wrapper:hover {
@@ -199,7 +198,7 @@ a:hover {
 .ant-input-affix-wrapper:focus,
 .ant-input-affix-wrapper-focused {
   border-color: var(--primary);
-  box-shadow: 0 0 0 2px rgba(255, 107, 53, 0.1);
+  box-shadow: 0 0 0 2px rgba(17, 20, 24, 0.1);
 }
 
 /* Buttons */

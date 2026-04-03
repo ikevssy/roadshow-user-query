@@ -1,188 +1,150 @@
 .container {
   min-height: calc(100vh - 64px);
-}
-
-.searchPage {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  padding: 40px 24px;
-  min-height: calc(100vh - 64px);
+  padding: var(--space-3xl) var(--space-lg);
 }
 
 .searchCard {
   width: 100%;
-  max-width: 880px;
-  background: white;
-  border-radius: 16px;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 10px 30px -5px rgba(0, 0, 0, 0.1);
-  border: none;
-  position: relative;
+  max-width: 800px;
+  background: var(--bg-secondary);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--border-light);
   overflow: hidden;
-}
-
-.searchCard::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 4px;
-  background: linear-gradient(90deg, #1677ff 0%, #4096ff 100%);
 }
 
 .searchHeader {
   text-align: center;
-  margin-bottom: 28px;
+  padding: var(--space-2xl) var(--space-xl) var(--space-xl);
+  background: linear-gradient(180deg, var(--primary-light) 0%, var(--bg-secondary) 100%);
+}
+
+.searchHeader .ant-typography {
+  font-weight: 800;
+  letter-spacing: -1px;
+  color: var(--primary);
+  margin-bottom: var(--space-sm) !important;
 }
 
 .searchDesc {
-  font-size: 15px !important;
-  margin-top: 8px !important;
-  color: #666;
-}
-
-.infoCard {
-  background: #fafafa;
-  border: 1px solid #f0f0f0;
-  margin-bottom: 24px;
-  border-radius: 8px;
-}
-
-.infoSection {
-  padding: 8px 0;
-}
-
-.infoTitle {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin-bottom: 16px;
-  color: #1677ff;
-}
-
-.infoTitle svg {
   font-size: 16px;
-}
-
-.infoContent {
-  padding-left: 24px;
-}
-
-.infoContent .ant-typography {
-  margin-bottom: 8px;
-  font-size: 13px;
-  color: #666;
-}
-
-.infoContent .ant-typography:last-child {
-  margin-bottom: 0;
+  color: var(--text-secondary);
+  margin-bottom: 0 !important;
 }
 
 .searchForm {
-  margin-bottom: 16px;
+  padding: var(--space-xl);
 }
 
 .searchActions {
   text-align: center;
-  margin-top: 32px;
+  margin-top: var(--space-xl);
+  padding-top: var(--space-lg);
+  border-top: 1px solid var(--border-light);
 }
 
-.searchActions button {
-  transition: all 0.3s ease;
-  transform: translateY(0);
-  border-radius: 8px;
+.searchActions .ant-btn-primary {
+  min-width: 200px;
   height: 48px;
-  padding: 0 32px;
   font-size: 16px;
-  font-weight: 500;
-  background: #1677ff;
+  border-radius: var(--radius-full);
+  background: var(--primary);
   border: none;
-  box-shadow: 0 4px 15px rgba(22, 119, 255, 0.4);
+  box-shadow: 0 4px 12px rgba(17, 20, 24, 0.2);
 }
 
-.searchActions button:hover {
-  background: #4096ff;
+.searchActions .ant-btn-primary:hover {
+  background: var(--primary-hover);
+  box-shadow: 0 6px 16px rgba(17, 20, 24, 0.3);
   transform: translateY(-2px);
-  box-shadow: 0 8px 25px rgba(22, 119, 255, 0.5);
-}
-
-.searchActions button:active {
-  transform: translateY(0);
-}
-
-.searchActions button:disabled {
-  background: #d1d5db;
-  box-shadow: none;
-  cursor: not-allowed;
 }
 
 .dataInfoCard {
-  background: #fafafa;
-  border: 1px solid #f0f0f0;
-  margin-top: 20px;
-  border-radius: 8px;
+  margin: 0 var(--space-xl) var(--space-xl);
+  background: var(--bg-tertiary);
+  border: none;
+  border-radius: var(--radius-lg);
 }
 
 .dataInfoGrid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 20px;
-  padding: 4px 0;
+  gap: var(--space-lg);
+  padding: var(--space-sm) 0;
 }
 
 .dataInfoItem {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
+  text-align: center;
 }
 
 .dataInfoItem .ant-typography:first-child {
   font-size: 12px;
-  color: #999;
+  color: var(--text-tertiary);
+  display: block;
+  margin-bottom: var(--space-xs);
 }
 
 .dataInfoItem .ant-typography:last-child {
-  font-size: 13px;
-  color: #333;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-primary);
 }
 
+/* Result Layout */
 .resultLayout {
   height: calc(100vh - 64px);
-  background: #f0f2f5;
+  background: var(--bg-primary);
 }
 
 .resultSider {
-  background: white;
-  border-right: 1px solid #f0f0f0;
+  background: var(--bg-secondary);
+  border-right: 1px solid var(--border-light);
   overflow: auto;
-  padding: 16px;
+  padding: var(--space-lg);
 }
 
 .resultContent {
-  padding: 16px 20px;
+  padding: var(--space-lg);
   overflow: auto;
   display: flex;
   flex-direction: column;
-  background: #f0f2f5;
+  background: var(--bg-primary);
 }
 
+/* Responsive */
 @media (max-width: 768px) {
-  .searchPage {
-    padding: 16px;
+  .container {
+    padding: var(--space-lg) var(--space-md);
   }
-  
-  .searchCard {
-    max-width: 100%;
-    border-radius: 8px;
+
+  .searchHeader {
+    padding: var(--space-xl) var(--space-md) var(--space-lg);
   }
-  
-  .searchHeader .ant-typography {
-    font-size: 18px !important;
+
+  .searchForm {
+    padding: var(--space-lg) var(--space-md);
   }
-  
+
+  .dataInfoCard {
+    margin: 0 var(--space-md) var(--space-md);
+  }
+
   .dataInfoGrid {
     grid-template-columns: repeat(2, 1fr);
-    gap: 12px;
+    gap: var(--space-md);
+  }
+
+  .resultLayout {
+    flex-direction: column;
+  }
+
+  .resultSider {
+    width: 100% !important;
+    max-height: 300px;
+    border-right: none;
+    border-bottom: 1px solid var(--border-light);
   }
 }

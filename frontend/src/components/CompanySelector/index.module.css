@@ -1,48 +1,49 @@
 .container {
-  margin-bottom: 20px;
+  margin-bottom: var(--space-lg);
 }
 
 .header {
   display: flex;
   align-items: center;
-  gap: 12px;
-  margin-bottom: 12px;
+  gap: var(--space-md);
+  margin-bottom: var(--space-md);
   flex-wrap: wrap;
 }
 
 .clearAll {
   margin-left: auto;
   font-size: 12px;
-  color: #ff4d4f;
+  color: var(--text-tertiary);
+  transition: color var(--transition-fast);
 }
 
 .clearAll:hover {
-  color: #ff7875;
+  color: var(--primary);
 }
 
 .modeSelector {
-  margin-bottom: 16px;
+  margin-bottom: var(--space-md);
 }
 
 .sectionHeader {
   display: flex;
   align-items: center;
-  gap: 6px;
-  margin-bottom: 10px;
-  color: #1677ff;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-sm);
+  color: var(--primary);
 }
 
 .industrySection {
-  margin-bottom: 16px;
-  padding: 12px;
-  background: #f6f8fa;
-  border-radius: 8px;
+  margin-bottom: var(--space-md);
+  padding: var(--space-sm) var(--space-md);
+  background: var(--bg-tertiary);
+  border-radius: var(--radius-md);
 }
 
 .industryList {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: var(--space-sm);
 }
 
 .industryList :global(.ant-checkbox-wrapper) {
@@ -51,7 +52,7 @@
 }
 
 .companySection {
-  margin-bottom: 12px;
+  margin-bottom: var(--space-sm);
 }
 
 .select {
@@ -61,23 +62,35 @@
 .selectedTags {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px;
-  padding: 8px 12px;
-  background: #fafafa;
-  border-radius: 6px;
-  margin-top: 8px;
+  gap: var(--space-sm);
+  padding: var(--space-sm) var(--space-md);
+  background: var(--primary);
+  border-radius: var(--radius-md);
+  margin-top: var(--space-sm);
+}
+
+.selectedTags .ant-tag {
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  border: none;
+  margin: 0;
+}
+
+.selectedTags .ant-tag .anticon-close {
+  color: white;
 }
 
 .select :global(.ant-select-item) {
-  border-radius: 6px;
-  margin: 4px 8px;
+  border-radius: var(--radius-sm);
+  margin: var(--space-xs) var(--space-sm);
 }
 
 .select :global(.ant-select-item-option-active) {
-  background: #f0f7ff;
+  background: var(--primary-light);
 }
 
 .select :global(.ant-select-item-option-selected) {
-  background: rgba(37, 99, 235, 0.1);
+  background: var(--primary);
+  color: white;
   font-weight: 500;
 }
