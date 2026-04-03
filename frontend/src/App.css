@@ -77,10 +77,31 @@
   }
   
   .app-header {
-    padding: 0 var(--space-md);
+    padding: 0 var(--space-sm);
+    flex-wrap: wrap;
+    min-height: 56px;
+  }
+  
+  .header-left {
+    gap: var(--space-sm);
+    flex: 1;
+    min-width: 0;
   }
   
   .header-left .ant-typography {
-    font-size: 14px !important;
+    font-size: 15px !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .header-left .ant-menu {
+    flex: 1;
+    min-width: 0;
+  }
+  
+  .header-left .ant-menu-item {
+    padding: 0 8px !important;
+    font-size: 13px !important;
   }
 }

@@ -79,18 +79,38 @@ export function useDataLoader() {
   /**
    * 加载所有公司的用户数据（不限模式）
    */
-  const loadAllCompanyUsers = useCallback(async (manifest: Manifest): Promise<UserInteraction[]> => {
-    if (!manifest.files || manifest.files.length === 0) return [];
-    
+  const loadAllCompanyUsers = useCallback(async (): Promise<UserInteraction[]> => {
     const userMap = new Map<string, UserInteraction>();
     const batchSize = 50;
-    const files = manifest.files;
     
-    for (let i = 0; i < files.length; i += batchSize) {
-      const batch = files.slice(i, i + batchSize);
-      const promises = batch.map(async (file) => {
+    // 动态扫描所有 oid_*.json 文件
+    const allFiles: string[] = [];
+    try {
+      // 先尝试加载 manifest 获取文件列表
+      const manifestResp = await fetch('/data/manifest.json');
+      if (manifestResp.ok) {
+        const manifest = await manifestResp.json();
+        if (manifest.files && manifest.files.length > 0) {
+          allFiles.push(...manifest.files.map((f: any) => f.filename));
+        }
+      }
+    } catch {
+      // 如果manifest加载失败，尝试直接扫描目录（需要后端支持）
+    }
+    
+    // 如果manifest没有文件列表，尝试加载已知的高频公司
+    if (allFiles.length === 0) {
+      //  fallback: 加载前100个可能的文件
+      for (let i = 0; i < 100; i++) {
+        allFiles.push(`oid_${i}.json`);
+      }
+    }
+    
+    for (let i = 0; i < allFiles.length; i += batchSize) {
+      const batch = allFiles.slice(i, i + batchSize);
+      const promises = batch.map(async (filename) => {
         try {
-          const response = await fetch(`/data/${file.filename}`);
+          const response = await fetch(`/data/${filename}`);
           if (!response.ok) return [];
           return await response.json() as UserInteraction[];
         } catch {
@@ -145,7 +165,7 @@ export function useDataLoader() {
       
       if (queryMode === 'unlimited') {
         // 不限模式：加载所有公司数据
-        allUsers = await loadAllCompanyUsers(manifest);
+        allUsers = await loadAllCompanyUsers();
       } else {
         // 选择公司模式：只加载选中公司的数据
         if (selectedCompanyOids.length === 0) {
@@ -191,7 +211,7 @@ export function useDataLoader() {
     } finally {
       setLoading(false);
     }
-  }, [queryMode, selectedCompanyOids, loadCompanyUsers, loadAllCompanyUsers, loadManifest, setAllUsers, setLoading]);
+  }, [queryMode, selectedCompanyOids, loadCompanyUsers, loadAllCompanyUsers, setAllUsers, setLoading]);
   
   return {
     loadCompanies,
