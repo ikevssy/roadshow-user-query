@@ -64,7 +64,7 @@
 /* 过滤卡片样式 */
 .filterCard {
   background: var(--primary-light);
-  border: 1px solid rgba(255, 107, 53, 0.15);
+  border: 1px solid rgba(17, 20, 24, 0.1);
   margin-bottom: var(--space-md);
   flex-shrink: 0;
   border-radius: var(--radius-md);
@@ -117,7 +117,7 @@
 .quickSelect:focus {
   outline: none;
   border-color: var(--primary);
-  box-shadow: 0 0 0 2px rgba(255, 107, 53, 0.1);
+  box-shadow: 0 0 0 2px rgba(17, 20, 24, 0.1);
 }
 
 .nameCell {
@@ -155,7 +155,7 @@
 }
 
 .uidLink:hover {
-  background: rgba(255, 107, 53, 0.15);
+  background: rgba(17, 20, 24, 0.1);
   color: var(--primary-dark);
 }
 

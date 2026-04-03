@@ -1,7 +1,7 @@
 .container {
-  padding: 16px;
-  background: #fff;
-  border-radius: 8px;
+  padding: var(--space-md);
+  background: var(--bg-secondary);
+  border-radius: var(--radius-md);
   height: 100%;
   overflow-y: auto;
 }
@@ -14,41 +14,42 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 16px;
+  margin-bottom: var(--space-md);
 }
 
 /* 筛选区域样式 */
 .filterSection {
-  margin-bottom: 16px;
+  margin-bottom: var(--space-md);
 }
 
 .filterLabel {
   display: block;
-  margin-bottom: 6px;
+  margin-bottom: var(--space-xs);
   font-size: 13px;
-  color: #666;
+  color: var(--text-secondary);
+  font-weight: 500;
 }
 
-/* Select 下拉框样式 - 蓝色主题 */
+/* Select 下拉框样式 */
 .filterSection :global(.ant-select-focused .ant-select-selector) {
-  border-color: #1677ff !important;
-  box-shadow: 0 0 0 2px rgba(22, 119, 255, 0.1);
+  border-color: var(--primary) !important;
+  box-shadow: 0 0 0 2px rgba(17, 20, 24, 0.1);
 }
 
 .filterSection :global(.ant-select-multiple .ant-select-selection-item) {
-  background: #e6f4ff;
-  border-color: #91caff;
-  color: #1677ff;
+  background: var(--primary);
+  border-color: var(--primary);
+  color: white;
 }
 
 .filterSection :global(.ant-select-multiple .ant-select-selection-item-remove) {
-  color: #1677ff;
+  color: white;
 }
 
 /* 日期选择器样式 */
 .filterSection :global(.ant-picker-focused) {
-  border-color: #1677ff;
-  box-shadow: 0 0 0 2px rgba(22, 119, 255, 0.1);
+  border-color: var(--primary);
+  box-shadow: 0 0 0 2px rgba(17, 20, 24, 0.1);
 }
 
 /* 单选按钮组样式 */
@@ -62,14 +63,14 @@
 }
 
 .filterSection :global(.ant-radio-button-wrapper-checked) {
-  background: #1677ff;
-  border-color: #1677ff;
+  background: var(--primary);
+  border-color: var(--primary);
   color: #fff;
 }
 
 .filterSection :global(.ant-radio-button-wrapper-checked:hover) {
-  background: #4096ff;
-  border-color: #4096ff;
+  background: var(--primary-hover);
+  border-color: var(--primary-hover);
 }
 
 /* 移动端适配 */
