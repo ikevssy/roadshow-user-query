@@ -1,17 +1,47 @@
 .container {
   display: flex;
   align-items: center;
-  gap: 8px;
-  margin-bottom: 12px;
-  padding: 10px 16px;
-  background: #f0f7ff;
-  border-radius: 8px;
-  border: 1px solid #d6e8ff;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-md);
+  padding: var(--space-sm) var(--space-md);
+  background: var(--primary-light);
+  border-radius: var(--radius-full);
+  border: 1px solid rgba(255, 107, 53, 0.15);
+  flex-wrap: wrap;
 }
 
 .label {
   font-size: 13px;
-  color: #666;
+  color: var(--text-secondary);
   font-weight: 500;
   white-space: nowrap;
+}
+
+.container .ant-btn {
+  border-radius: var(--radius-full);
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--text-secondary);
+  font-weight: 500;
+  font-size: 13px;
+  padding: 4px 12px;
+  height: auto;
+  transition: all var(--transition-fast);
+}
+
+.container .ant-btn:hover {
+  color: var(--primary);
+  background: rgba(255, 255, 255, 0.6);
+}
+
+.container .ant-btn-primary {
+  background: var(--primary) !important;
+  color: white !important;
+  border-color: var(--primary) !important;
+  box-shadow: 0 2px 8px rgba(255, 107, 53, 0.25);
+}
+
+.container .ant-btn-primary:hover {
+  background: var(--primary-hover) !important;
+  box-shadow: 0 4px 12px rgba(255, 107, 53, 0.35);
 }

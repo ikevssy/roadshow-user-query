@@ -1,5 +1,5 @@
 .container {
-  padding: 24px;
+  padding: var(--space-xl);
   max-width: 1400px;
   margin: 0 auto;
 }
@@ -8,10 +8,35 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 24px;
+  margin-bottom: var(--space-xl);
+}
+
+.header .ant-typography {
+  font-weight: 700;
+  letter-spacing: -0.5px;
 }
 
 .card {
-  border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--border-light);
+}
+
+.card .ant-card-body {
+  padding: var(--space-lg);
+}
+
+/* ============================================
+   Responsive
+   ============================================ */
+@media (max-width: 768px) {
+  .container {
+    padding: var(--space-md);
+  }
+
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-md);
+  }
 }

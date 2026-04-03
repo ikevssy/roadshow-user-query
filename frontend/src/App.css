@@ -1,47 +1,66 @@
 .app-layout {
   min-height: 100vh;
-  background: #f0f2f5;
+  background: var(--bg-primary);
 }
 
 .app-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 24px;
-  background: linear-gradient(135deg, #0050b3 0%, #1677ff 100%) !important;
-  border-bottom: none;
-  box-shadow: 0 4px 20px rgba(22, 119, 255, 0.2);
-  color: #fff;
-  position: relative;
-}
-
-.app-header::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
-  background: linear-gradient(90deg, #1677ff 0%, #4096ff 50%, #69b1ff 100%);
+  padding: 0 var(--space-xl);
+  background: var(--bg-secondary) !important;
+  border-bottom: 1px solid var(--border-light);
+  box-shadow: none;
+  color: var(--text-primary);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.95) !important;
 }
 
 .header-left {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: var(--space-lg);
 }
 
-.header-right {
-  display: flex;
-  align-items: center;
-  gap: 12px;
+.header-left .ant-typography {
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.header-left .ant-menu {
+  background: transparent !important;
+}
+
+.header-left .ant-menu-item {
+  color: var(--text-secondary) !important;
+  font-weight: 500;
+  transition: all var(--transition-base);
+}
+
+.header-left .ant-menu-item:hover {
+  color: var(--primary) !important;
+}
+
+.header-left .ant-menu-item-selected {
+  color: var(--primary) !important;
+}
+
+.header-left .ant-menu-item-selected::after {
+  border-bottom-color: var(--primary) !important;
 }
 
 .app-content {
-  background: #f0f2f5;
+  background: var(--bg-primary);
 }
 
-/* 响应式 - 移动端隐藏/显示 */
+/* Responsive */
 .desktop-only {
   display: block;
 }
@@ -50,7 +69,6 @@
   display: none;
 }
 
-/* 移动端适配 */
 @media (max-width: 768px) {
   .desktop-only {
     display: none !important;
@@ -61,18 +79,10 @@
   }
   
   .app-header {
-    padding: 0 12px;
+    padding: 0 var(--space-md);
   }
   
   .header-left .ant-typography {
     font-size: 14px !important;
-  }
-  
-  .header-right {
-    gap: 8px;
-  }
-  
-  .header-right .update-time {
-    display: none !important;
   }
 }

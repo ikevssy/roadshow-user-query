@@ -4,9 +4,9 @@
   flex-direction: column;
   overflow: visible;
   min-height: 0;
-  background: var(--bg-primary);
+  background: var(--bg-secondary);
   border-radius: var(--radius-lg);
-  padding: 16px;
+  padding: var(--space-lg);
   box-shadow: var(--shadow-sm);
   border: 1px solid var(--border-light);
 }
@@ -15,43 +15,43 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  margin-bottom: 16px;
+  margin-bottom: var(--space-lg);
   flex-wrap: wrap;
-  gap: 12px;
+  gap: var(--space-md);
   flex-shrink: 0;
 }
 
 .toolbarLeft {
   display: flex;
   align-items: center;
-  gap: 16px;
+  gap: var(--space-lg);
 }
 
 .toolbarRight {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: var(--space-md);
   flex-wrap: wrap;
 }
 
-/* 返回按钮样式 - 现代风格 */
+/* 返回按钮样式 */
 .backBtn {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  padding: 8px 16px;
+  gap: var(--space-sm);
+  padding: var(--space-sm) var(--space-md);
   background: var(--bg-secondary);
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius-md);
+  border: 1px solid var(--border-medium);
+  border-radius: var(--radius-full);
   font-size: 14px;
-  color: var(--fg-primary);
+  color: var(--text-primary);
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: all var(--transition-base);
   font-weight: 500;
 }
 
 .backBtn:hover {
-  background: var(--bg-tertiary);
+  background: var(--primary-light);
   border-color: var(--primary);
   color: var(--primary);
   box-shadow: var(--shadow-sm);
@@ -61,11 +61,11 @@
   transform: scale(0.98);
 }
 
-/* 过滤卡片样式 - 突出显示 */
+/* 过滤卡片样式 */
 .filterCard {
-  background: linear-gradient(135deg, #fff7e6 0%, #fff3e0 100%);
-  border: 1px solid #ffd591;
-  margin-bottom: 16px;
+  background: var(--primary-light);
+  border: 1px solid rgba(255, 107, 53, 0.15);
+  margin-bottom: var(--space-md);
   flex-shrink: 0;
   border-radius: var(--radius-md);
   box-shadow: var(--shadow-sm);
@@ -74,40 +74,40 @@
 .filterHeader {
   display: flex;
   align-items: center;
-  gap: 8px;
-  margin-bottom: 10px;
-  color: #d46b08;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-sm);
+  color: var(--primary);
 }
 
 .filterContent {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: var(--space-sm);
   flex-wrap: wrap;
 }
 
 .filterLabel {
   font-size: 13px;
-  color: #8c6d1f;
+  color: var(--text-secondary);
   font-weight: 500;
 }
 
 .quickFilter {
   display: flex;
   align-items: center;
-  gap: 4px;
+  gap: var(--space-xs);
   font-size: 13px;
-  color: var(--fg-secondary);
+  color: var(--text-secondary);
 }
 
 .quickSelect {
-  border: 1px solid var(--border-color);
+  border: 1px solid var(--border-medium);
   border-radius: var(--radius-sm);
-  padding: 4px 8px;
+  padding: var(--space-xs) var(--space-sm);
   font-size: 13px;
-  background: var(--bg-primary);
+  background: var(--bg-secondary);
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: all var(--transition-fast);
 }
 
 .quickSelect:hover {
@@ -117,7 +117,7 @@
 .quickSelect:focus {
   outline: none;
   border-color: var(--primary);
-  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.1);
+  box-shadow: 0 0 0 2px rgba(255, 107, 53, 0.1);
 }
 
 .nameCell {
@@ -128,20 +128,20 @@
 
 .nameLink {
   font-weight: 600;
-  color: #1677ff;
+  color: var(--primary);
   text-decoration: none;
-  transition: color 0.2s;
+  transition: color var(--transition-fast);
 }
 
 .nameLink:hover {
-  color: #4096ff;
+  color: var(--primary-hover);
   text-decoration: underline;
 }
 
 .subText {
   font-size: 12px;
   line-height: 1.3;
-  color: var(--fg-muted);
+  color: var(--text-tertiary);
 }
 
 .uidLink {
@@ -149,17 +149,17 @@
   font-size: 12px;
   color: var(--primary);
   padding: 2px 6px;
-  background: rgba(37, 99, 235, 0.06);
+  background: var(--primary-light);
   border-radius: var(--radius-sm);
-  transition: all 0.2s ease;
+  transition: all var(--transition-fast);
 }
 
 .uidLink:hover {
-  background: rgba(37, 99, 235, 0.12);
-  color: var(--primary-hover);
+  background: rgba(255, 107, 53, 0.15);
+  color: var(--primary-dark);
 }
 
-/* 表格容器 - 修复滚动条跳动 */
+/* 表格容器 */
 .tableWrapper {
   flex: 1;
   overflow: hidden;
@@ -175,56 +175,69 @@
   min-height: 0;
 }
 
-/* 关键修复：始终显示滚动条，避免跳动 */
 .tableWrapper :global(.ant-table-body) {
   overflow: auto !important;
   scrollbar-gutter: stable;
 }
 
-/* Webkit浏览器滚动条样式 */
 .tableWrapper :global(.ant-table-body::-webkit-scrollbar) {
-  height: 10px;
-  width: 10px;
+  height: 8px;
+  width: 8px;
 }
 
 .tableWrapper :global(.ant-table-body::-webkit-scrollbar-thumb) {
-  background: #c1c1c1;
-  border-radius: 5px;
+  background: var(--border-medium);
+  border-radius: var(--radius-full);
   border: 2px solid var(--bg-secondary);
 }
 
 .tableWrapper :global(.ant-table-body::-webkit-scrollbar-thumb:hover) {
-  background: #a8a8a8;
+  background: var(--text-tertiary);
 }
 
 .tableWrapper :global(.ant-table-body::-webkit-scrollbar-track) {
-  background: var(--bg-secondary);
-  border-radius: 5px;
+  background: var(--bg-tertiary);
+  border-radius: var(--radius-full);
 }
 
-/* 表格固定布局，防止列宽变化 */
 .tableWrapper :global(.ant-table table) {
   table-layout: fixed;
 }
 
-/* 固定列样式 */
 .tableWrapper :global(.ant-table-cell-fix-left),
 .tableWrapper :global(.ant-table-cell-fix-right) {
-  background: var(--bg-primary) !important;
+  background: var(--bg-secondary) !important;
 }
 
-/* 表格内容不换行 */
 .tableWrapper :global(.ant-table-cell) {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
-/* 表格行hover效果 */
 .tableWrapper :global(.ant-table-tbody > tr) {
-  transition: background-color 0.2s ease;
+  transition: background-color var(--transition-fast);
 }
 
 .tableWrapper :global(.ant-table-tbody > tr:hover > td) {
-  background: #f0f7ff !important;
+  background: var(--primary-light) !important;
+}
+
+/* ============================================
+   Responsive
+   ============================================ */
+@media (max-width: 768px) {
+  .container {
+    padding: var(--space-md);
+  }
+
+  .toolbar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .toolbarLeft,
+  .toolbarRight {
+    justify-content: space-between;
+  }
 }
