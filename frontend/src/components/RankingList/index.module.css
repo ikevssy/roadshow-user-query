@@ -1,0 +1,98 @@
+.item {
+  padding: 16px;
+  border: 1px solid #f0f0f0;
+  border-radius: 12px;
+  margin-bottom: 12px;
+  transition: all 0.3s ease;
+  background: #fff;
+}
+
+.item:hover {
+  box-shadow: 0 4px 12px rgba(22, 119, 255, 0.1);
+  border-color: #91caff;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.badge {
+  font-size: 20px;
+  flex-shrink: 0;
+}
+
+.logo {
+  border: 2px solid #f0f0f0;
+  flex-shrink: 0;
+}
+
+.titleSection {
+  flex: 1;
+  min-width: 0;
+}
+
+.title {
+  display: block;
+  font-size: 15px;
+  font-weight: 600;
+  color: #1f1f1f;
+  margin-bottom: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.title:hover {
+  color: #1677ff;
+}
+
+.company {
+  font-size: 13px;
+  color: #666;
+  text-decoration: none;
+}
+
+.company:hover {
+  color: #1677ff;
+}
+
+.stock {
+  font-size: 12px;
+}
+
+.progress {
+  margin-bottom: 12px;
+}
+
+.metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 12px;
+  padding: 8px 12px;
+  background: #fafafa;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+.metrics span {
+  color: #666;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+  padding-top: 8px;
+  border-top: 1px solid #f0f0f0;
+}
+
+.empty {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
