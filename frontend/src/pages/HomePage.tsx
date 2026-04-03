@@ -16,9 +16,10 @@ type PageType = 'home' | 'query' | 'rankings';
 
 interface HomePageProps {
   onNavigate: (page: PageType) => void;
+  updateTime?: string;
 }
 
-export function HomePage({ onNavigate }: HomePageProps) {
+export function HomePage({ onNavigate, updateTime }: HomePageProps) {
 
   return (
     <div className={styles.container}>
@@ -34,6 +35,11 @@ export function HomePage({ onNavigate }: HomePageProps) {
           <Text className={styles.heroDesc}>
             一站式路演数据分析与投资者关系管理平台
           </Text>
+          {updateTime && (
+            <Text className={styles.updateTime}>
+              数据更新: {updateTime}
+            </Text>
+          )}
           <Space size="middle" className={styles.heroActions}>
             <Button type="primary" size="large" icon={<SearchOutlined />} onClick={() => onNavigate('query')}>
               开始查询

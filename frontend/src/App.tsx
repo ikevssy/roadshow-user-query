@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
-import { Layout, Menu, Typography, Button, message } from 'antd';
-import { HomeOutlined, SearchOutlined, BarChartOutlined, ReloadOutlined } from '@ant-design/icons';
+import { Layout, Menu, Typography } from 'antd';
+import { HomeOutlined, SearchOutlined, BarChartOutlined } from '@ant-design/icons';
 import { HomePage } from './pages/HomePage';
 import { UserQueryPage } from './pages/UserQueryPage';
 import { RankingsPage } from './pages/RankingsPage';
@@ -9,14 +9,13 @@ import { useDataLoader } from './hooks/useDataLoader';
 import './App.css';
 
 const { Header, Content } = Layout;
-const { Title, Text } = Typography;
+const { Title } = Typography;
 
 type PageType = 'home' | 'query' | 'rankings';
 
 function App() {
   const { manifest } = useAppStore();
   const { loadCompanies, loadIndustryData, loadManifest } = useDataLoader();
-  const [messageApi, contextHolder] = message.useMessage();
   const [currentPage, setCurrentPage] = useState<PageType>('home');
   
   // 初始化加载数据
@@ -25,15 +24,6 @@ function App() {
     loadIndustryData();
     loadManifest();
   }, []);
-  
-  // 刷新数据
-  const handleRefresh = async () => {
-    messageApi.loading({ content: '正在刷新数据...', key: 'refresh' });
-    await loadManifest();
-    await loadCompanies();
-    await loadIndustryData();
-    messageApi.success({ content: '数据刷新成功', key: 'refresh', duration: 2 });
-  };
   
   const menuItems = [
     { key: 'home', icon: <HomeOutlined />, label: '首页' },
@@ -44,19 +34,18 @@ function App() {
   const renderPage = () => {
     switch (currentPage) {
       case 'home':
-        return <HomePage onNavigate={setCurrentPage} />;
+        return <HomePage onNavigate={setCurrentPage} updateTime={manifest?.update_time} />;
       case 'query':
         return <UserQueryPage />;
       case 'rankings':
         return <RankingsPage />;
       default:
-        return <HomePage onNavigate={setCurrentPage} />;
+        return <HomePage onNavigate={setCurrentPage} updateTime={manifest?.update_time} />;
     }
   };
   
   return (
     <Layout className="app-layout">
-      {contextHolder}
       <Header className="app-header">
         <div className="header-left">
           <Title level={4} style={{ margin: 0, color: '#fff', marginRight: 24 }}>
@@ -70,21 +59,6 @@ function App() {
             onClick={({ key }) => setCurrentPage(key as PageType)}
             style={{ border: 'none', background: 'transparent' }}
           />
-        </div>
-        <div className="header-right">
-          {manifest && (
-            <Text className="update-time" style={{ color: 'rgba(255,255,255,0.65)' }}>
-              数据更新: {manifest.update_time}
-            </Text>
-          )}
-          <Button 
-            icon={<ReloadOutlined />} 
-            onClick={handleRefresh}
-            style={{ marginLeft: 8 }}
-            size="small"
-          >
-            刷新
-          </Button>
         </div>
       </Header>
       

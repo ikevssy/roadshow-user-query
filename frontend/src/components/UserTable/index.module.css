@@ -126,6 +126,18 @@
   gap: 2px;
 }
 
+.nameLink {
+  font-weight: 600;
+  color: #1677ff;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.nameLink:hover {
+  color: #4096ff;
+  text-decoration: underline;
+}
+
 .subText {
   font-size: 12px;
   line-height: 1.3;

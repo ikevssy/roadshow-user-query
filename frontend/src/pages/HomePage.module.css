@@ -45,6 +45,13 @@
   font-size: 18px;
   color: #666;
   display: block;
+  margin-bottom: 8px;
+}
+
+.updateTime {
+  font-size: 11px;
+  color: #999;
+  display: block;
   margin-bottom: 24px;
 }
 

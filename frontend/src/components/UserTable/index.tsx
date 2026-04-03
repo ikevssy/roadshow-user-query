@@ -204,7 +204,14 @@ export function UserTable({ onViewDetail, onBack }: UserTableProps) {
         record.org_name.toLowerCase().includes(String(value).toLowerCase()),
       render: (_, record) => (
         <div className={styles.nameCell}>
-          <Text strong>{record.name}</Text>
+          <a 
+            href={`https://console.roadshowchina.cn/user/registered-v2/examine?id=${record.uid}`}
+            target="_blank"
+            rel="noreferrer"
+            className={styles.nameLink}
+          >
+            {record.name}
+          </a>
           <Text type="secondary" className={styles.subText}>{record.org_name}</Text>
         </div>
       ),
