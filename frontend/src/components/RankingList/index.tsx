@@ -114,7 +114,7 @@ const SECONDARY_METRICS: Record<RankingTab, { label: string; field: string }[]> 
 };
 
 // 报名榜列表项
-const ApplyItem = ({ record, rank, sortField, onDetailClick }: { record: RankingApply; rank: number; sortField: string; onDetailClick: () => void }) => {
+const ApplyItem = ({ record, rank, sortField, barWidth, onDetailClick }: { record: RankingApply; rank: number; sortField: string; barWidth: number; onDetailClick: () => void }) => {
   const sortValue = getSortFieldValue(record, sortField);
   const secondary = SECONDARY_METRICS.apply;
 
@@ -151,7 +151,7 @@ const ApplyItem = ({ record, rank, sortField, onDetailClick }: { record: Ranking
       <div className={styles.barSection}>
         <Text className={styles.barLabel}>{getSortFieldLabel('apply', sortField)}</Text>
         <div className={styles.barContainer}>
-          <div className={styles.bar} style={{ width: '100%' }} />
+          <div className={styles.bar} style={{ width: `${barWidth}%` }} />
           <Text className={styles.barValue}>{formatSortValue('apply', sortField, sortValue)}</Text>
         </div>
       </div>
@@ -166,7 +166,7 @@ const ApplyItem = ({ record, rank, sortField, onDetailClick }: { record: Ranking
 };
 
 // 参会榜列表项
-const EffectItem = ({ record, rank, sortField, onDetailClick }: { record: RankingEffect; rank: number; sortField: string; onDetailClick: () => void }) => {
+const EffectItem = ({ record, rank, sortField, barWidth, onDetailClick }: { record: RankingEffect; rank: number; sortField: string; barWidth: number; onDetailClick: () => void }) => {
   const sortValue = getSortFieldValue(record, sortField);
   const secondary = SECONDARY_METRICS.effect;
 
@@ -203,7 +203,7 @@ const EffectItem = ({ record, rank, sortField, onDetailClick }: { record: Rankin
       <div className={styles.barSection}>
         <Text className={styles.barLabel}>{getSortFieldLabel('effect', sortField)}</Text>
         <div className={styles.barContainer}>
-          <div className={styles.bar} style={{ width: '100%' }} />
+          <div className={styles.bar} style={{ width: `${barWidth}%` }} />
           <Text className={styles.barValue}>{formatSortValue('effect', sortField, sortValue)}</Text>
         </div>
       </div>
@@ -218,7 +218,7 @@ const EffectItem = ({ record, rank, sortField, onDetailClick }: { record: Rankin
 };
 
 // 热门公司榜列表项
-const ConversionItem = ({ record, rank, sortField, onDetailClick }: { record: RankingConversion; rank: number; sortField: string; onDetailClick: () => void }) => {
+const ConversionItem = ({ record, rank, sortField, barWidth, onDetailClick }: { record: RankingConversion; rank: number; sortField: string; barWidth: number; onDetailClick: () => void }) => {
   const sortValue = getSortFieldValue(record, sortField);
   const secondary = SECONDARY_METRICS.conversion;
 
@@ -247,7 +247,7 @@ const ConversionItem = ({ record, rank, sortField, onDetailClick }: { record: Ra
       <div className={styles.barSection}>
         <Text className={styles.barLabel}>{getSortFieldLabel('conversion', sortField)}</Text>
         <div className={styles.barContainer}>
-          <div className={styles.bar} style={{ width: '100%' }} />
+          <div className={styles.bar} style={{ width: `${barWidth}%` }} />
           <Text className={styles.barValue}>{formatSortValue('conversion', sortField, sortValue)}</Text>
         </div>
       </div>
@@ -277,32 +277,11 @@ export function RankingList({ tab, data, sortField, onDetailClick }: RankingList
 
         switch (tab) {
           case 'apply':
-            return (
-              <div key={index} className={styles.itemWrapper}>
-                <ApplyItem record={record as RankingApply} rank={index + 1} sortField={sortField} onDetailClick={() => onDetailClick(record)} />
-                <div className={styles.barOverlay}>
-                  <div className={styles.barFill} style={{ width: `${barWidth}%` }} />
-                </div>
-              </div>
-            );
+            return <ApplyItem key={index} record={record as RankingApply} rank={index + 1} sortField={sortField} barWidth={barWidth} onDetailClick={() => onDetailClick(record)} />;
           case 'effect':
-            return (
-              <div key={index} className={styles.itemWrapper}>
-                <EffectItem record={record as RankingEffect} rank={index + 1} sortField={sortField} onDetailClick={() => onDetailClick(record)} />
-                <div className={styles.barOverlay}>
-                  <div className={styles.barFill} style={{ width: `${barWidth}%` }} />
-                </div>
-              </div>
-            );
+            return <EffectItem key={index} record={record as RankingEffect} rank={index + 1} sortField={sortField} barWidth={barWidth} onDetailClick={() => onDetailClick(record)} />;
           case 'conversion':
-            return (
-              <div key={index} className={styles.itemWrapper}>
-                <ConversionItem record={record as RankingConversion} rank={index + 1} sortField={sortField} onDetailClick={() => onDetailClick(record)} />
-                <div className={styles.barOverlay}>
-                  <div className={styles.barFill} style={{ width: `${barWidth}%` }} />
-                </div>
-              </div>
-            );
+            return <ConversionItem key={index} record={record as RankingConversion} rank={index + 1} sortField={sortField} barWidth={barWidth} onDetailClick={() => onDetailClick(record)} />;
           default:
             return null;
         }
