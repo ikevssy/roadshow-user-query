@@ -78,13 +78,14 @@ export function useDataLoader() {
   
   /**
    * 根据 manifest 中的 release_batch 字段构造文件 URL
-   * 优先从 GitHub Releases 加载，fallback 到本地 /data/
+   * 使用 raw.githubusercontent.com（支持 CORS *）从 data 分支加载
+   * fallback 到本地 /data/
    */
   const getFileUrl = useCallback((manifest: Manifest, filename: string, releaseBatch?: number): string => {
-    if (manifest.github_base_url && manifest.release_tags && releaseBatch) {
-      const tag = manifest.release_tags[releaseBatch - 1];
-      if (tag) {
-        return `${manifest.github_base_url}/${tag}/${filename}`;
+    if (manifest.release_tags && releaseBatch) {
+      const branch = manifest.release_tags[releaseBatch - 1];
+      if (branch) {
+        return `https://raw.githubusercontent.com/ikevssy/roadshow-user-query/${branch}/${filename}`;
       }
     }
     // fallback: 本地静态文件
