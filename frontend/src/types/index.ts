@@ -61,11 +61,14 @@ export interface Manifest {
   companies_count: number;
   data_start_time: string;
   synced_companies?: number;
+  github_base_url?: string;
+  release_tags?: string[];
   files: Array<{
     oid: number;
     cn_short_name: string;
     filename: string;
     user_count: number;
+    release_batch?: number;
   }>;
 }
 

@@ -77,49 +77,45 @@ export function useDataLoader() {
   }, []);
   
   /**
+   * 根据 manifest 中的 release_batch 字段构造文件 URL
+   * 优先从 GitHub Releases 加载，fallback 到本地 /data/
+   */
+  const getFileUrl = useCallback((manifest: Manifest, filename: string, releaseBatch?: number): string => {
+    if (manifest.github_base_url && manifest.release_tags && releaseBatch) {
+      const tag = manifest.release_tags[releaseBatch - 1];
+      if (tag) {
+        return `${manifest.github_base_url}/${tag}/${filename}`;
+      }
+    }
+    // fallback: 本地静态文件
+    return `/data/${filename}`;
+  }, []);
+
+  /**
    * 加载所有公司的用户数据（不限模式）
    */
-  const loadAllCompanyUsers = useCallback(async (): Promise<UserInteraction[]> => {
+  const loadAllCompanyUsers = useCallback(async (manifest: Manifest): Promise<UserInteraction[]> => {
     const userMap = new Map<string, UserInteraction>();
-    const batchSize = 50;
-    
-    // 动态扫描所有 oid_*.json 文件
-    const allFiles: string[] = [];
-    try {
-      // 先尝试加载 manifest 获取文件列表
-      const manifestResp = await fetch('/data/manifest.json');
-      if (manifestResp.ok) {
-        const manifest = await manifestResp.json();
-        if (manifest.files && manifest.files.length > 0) {
-          allFiles.push(...manifest.files.map((f: any) => f.filename));
-        }
-      }
-    } catch {
-      // 如果manifest加载失败，尝试直接扫描目录（需要后端支持）
-    }
-    
-    // 如果manifest没有文件列表，尝试加载已知的高频公司
-    if (allFiles.length === 0) {
-      //  fallback: 加载前100个可能的文件
-      for (let i = 0; i < 100; i++) {
-        allFiles.push(`oid_${i}.json`);
-      }
-    }
-    
-    for (let i = 0; i < allFiles.length; i += batchSize) {
-      const batch = allFiles.slice(i, i + batchSize);
-      const promises = batch.map(async (filename) => {
+    const batchSize = 20; // GitHub Releases 并发不宜过高
+
+    const allFileEntries = manifest.files ?? [];
+    if (allFileEntries.length === 0) return [];
+
+    for (let i = 0; i < allFileEntries.length; i += batchSize) {
+      const batch = allFileEntries.slice(i, i + batchSize);
+      const promises = batch.map(async (entry: any) => {
+        const url = getFileUrl(manifest, entry.filename, entry.release_batch);
         try {
-          const response = await fetch(`/data/${filename}`);
+          const response = await fetch(url);
           if (!response.ok) return [];
           return await response.json() as UserInteraction[];
         } catch {
           return [];
         }
       });
-      
+
       const results = await Promise.all(promises);
-      
+
       for (const users of results) {
         for (const user of users) {
           const existing = userMap.get(user.uid);
@@ -132,7 +128,6 @@ export function useDataLoader() {
               .sort((a, b) => b.time.localeCompare(a.time));
             existing.attend_records = [...existing.attend_records, ...user.attend_records]
               .sort((a, b) => b.time.localeCompare(a.time));
-            
             if (user.last_interaction_time > existing.last_interaction_time) {
               existing.last_interaction_time = user.last_interaction_time;
               existing.last_interaction_behavior = user.last_interaction_behavior;
@@ -142,11 +137,11 @@ export function useDataLoader() {
         }
       }
     }
-    
+
     return Array.from(userMap.values()).sort(
       (a, b) => b.last_interaction_time.localeCompare(a.last_interaction_time)
     );
-  }, []);
+  }, [getFileUrl]);
   
   /**
    * 加载用户数据（根据查询模式）
@@ -164,16 +159,29 @@ export function useDataLoader() {
       let allUsers: UserInteraction[] = [];
       
       if (queryMode === 'unlimited') {
-        // 不限模式：加载所有公司数据
-        allUsers = await loadAllCompanyUsers();
+        // 不限模式：加载所有公司数据（从 GitHub Releases）
+        allUsers = await loadAllCompanyUsers(manifest);
       } else {
         // 选择公司模式：只加载选中公司的数据
         if (selectedCompanyOids.length === 0) {
           setAllUsers([]);
           return;
         }
-        
-        const promises = selectedCompanyOids.map((oid) => loadCompanyUsers(oid));
+
+        // 从 manifest 找到对应文件的 release_batch
+        const fileMap = new Map<number, { filename: string; release_batch?: number }>();
+        for (const entry of (manifest.files ?? [])) {
+          fileMap.set(entry.oid, { filename: entry.filename, release_batch: entry.release_batch });
+        }
+
+        const promises = selectedCompanyOids.map((oid) => {
+          const entry = fileMap.get(oid);
+          if (entry) {
+            const url = getFileUrl(manifest, entry.filename, entry.release_batch);
+            return fetch(url).then(r => r.ok ? r.json() as Promise<UserInteraction[]> : []).catch(() => []);
+          }
+          return loadCompanyUsers(oid);
+        });
         const results = await Promise.all(promises);
         
         const userMap = new Map<string, UserInteraction>();
@@ -211,7 +219,7 @@ export function useDataLoader() {
     } finally {
       setLoading(false);
     }
-  }, [queryMode, selectedCompanyOids, loadCompanyUsers, loadAllCompanyUsers, setAllUsers, setLoading]);
+  }, [queryMode, selectedCompanyOids, loadCompanyUsers, loadAllCompanyUsers, getFileUrl, setAllUsers, setLoading]);
   
   return {
     loadCompanies,

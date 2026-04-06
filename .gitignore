@@ -25,5 +25,5 @@ scripts/config.json
 .DS_Store
 Thumbs.db
 
-# 不忽略数据文件（需要推送到GitHub）
-!frontend/public/data/
+# oid 数据文件存储在 GitHub Releases，不进 Git
+frontend/public/data/oid_*.json
