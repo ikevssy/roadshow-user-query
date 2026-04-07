@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-04-07 20:35:32",
+  "update_time": "2026-04-08 01:35:38",
   "companies_count": 52602,
   "data_start_time": "2023-01-01",
   "synced_companies": 2154,
@@ -80,18 +80,18 @@
       "release_batch": 2
     },
     {
+      "oid": 47564,
+      "cn_short_name": "绿城管理控股",
+      "filename": "oid_47564.json",
+      "user_count": 1098,
+      "release_batch": 3
+    },
+    {
       "oid": 3647,
       "cn_short_name": "碧桂园",
       "filename": "oid_3647.json",
       "user_count": 1097,
       "release_batch": 1
-    },
-    {
-      "oid": 47564,
-      "cn_short_name": "绿城管理控股",
-      "filename": "oid_47564.json",
-      "user_count": 1097,
-      "release_batch": 3
     },
     {
       "oid": 45468,
@@ -545,20 +545,20 @@
       "oid": 2559,
       "cn_short_name": "中国交建",
       "filename": "oid_2559.json",
-      "user_count": 449,
-      "release_batch": 1
-    },
-    {
-      "oid": 2543,
-      "cn_short_name": "中国建筑",
-      "filename": "oid_2543.json",
-      "user_count": 447,
+      "user_count": 450,
       "release_batch": 1
     },
     {
       "oid": 3575,
       "cn_short_name": "康臣药业",
       "filename": "oid_3575.json",
+      "user_count": 448,
+      "release_batch": 1
+    },
+    {
+      "oid": 2543,
+      "cn_short_name": "中国建筑",
+      "filename": "oid_2543.json",
       "user_count": 447,
       "release_batch": 1
     },
@@ -825,7 +825,7 @@
       "oid": 17834,
       "cn_short_name": "五谷磨房",
       "filename": "oid_17834.json",
-      "user_count": 303,
+      "user_count": 304,
       "release_batch": 2
     },
     {
@@ -4238,6 +4238,13 @@
       "release_batch": 2
     },
     {
+      "oid": 9729,
+      "cn_short_name": "中信股份",
+      "filename": "oid_9729.json",
+      "user_count": 34,
+      "release_batch": 2
+    },
+    {
       "oid": 18059,
       "cn_short_name": "黑石集团",
       "filename": "oid_18059.json",
@@ -4304,13 +4311,6 @@
       "oid": 17424,
       "cn_short_name": "齐屹科技",
       "filename": "oid_17424.json",
-      "user_count": 33,
-      "release_batch": 2
-    },
-    {
-      "oid": 9729,
-      "cn_short_name": "中信股份",
-      "filename": "oid_9729.json",
       "user_count": 33,
       "release_batch": 2
     },
