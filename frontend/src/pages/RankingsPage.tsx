@@ -65,6 +65,9 @@ export function RankingsPage() {
   const [sortOrder, setSortOrder] = useState<'ascend' | 'descend'>('descend');
   const [timeRange, setTimeRange] = useState('7d');
 
+  // 添加调试日志
+  console.log('[Rankings] timeRange:', timeRange, 'activeTab:', activeTab);
+
   const loadData = async () => {
     setLoading(true);
     try {
@@ -163,9 +166,11 @@ export function RankingsPage() {
       case 'effect': data = [...effectData]; break;
       case 'conversion': data = [...conversionData]; break;
     }
+    console.log('[Rankings] getSortedData - before filter:', data.length, 'timeRange:', timeRange);
 
     // 时间过滤
     data = filterByTimeRange(data);
+    console.log('[Rankings] getSortedData - after filter:', data.length);
 
     // 排序
     const config = SORT_CONFIGS[activeTab].find(c => c.key === sortField);
@@ -180,7 +185,10 @@ export function RankingsPage() {
     return data;
   };
 
-  const sortedData = useMemo(() => getSortedData(), [activeTab, applyData, effectData, conversionData, sortField, sortOrder, timeRange]);
+  const sortedData = useMemo(() => {
+    console.log('[Rankings] getSortedData called:', { activeTab, sortField, sortOrder, timeRange, applyDataLen: applyData.length });
+    return getSortedData();
+  }, [activeTab, sortField, sortOrder, timeRange, applyData, effectData, conversionData]);
 
   return (
     <div className={styles.container}>
