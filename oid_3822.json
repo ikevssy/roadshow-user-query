@@ -1,0 +1,938 @@
+[
+  {
+    "uid": "425136",
+    "name": "黎晓宇",
+    "org_name": "红槲基金管理(横琴)有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "合伙人",
+    "department": "",
+    "last_interaction_time": "2025-08-28 09:35:42",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "安东油田服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "安东油田服务（03337.HK）2020第一季度运营情况电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "安东油田服务（03337.HK）2020第一季度运营情况电话会",
+        "duration": 9
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "招商银行",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-15"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "环球医疗",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2024-08-27"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2024-08-27"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2024-08-09"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2024-03-19"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2023-08-29"
+      }
+    ],
+    "special_companies": "亿胜生物科技,康哲药业,招商局商业房托,敏华控股"
+  },
+  {
+    "uid": "282319",
+    "name": "袁胜",
+    "org_name": "深圳市圣为投资管理有限公司",
+    "org_type": "一般企业",
+    "cert_type": "机构投资者",
+    "position": "投资总监",
+    "department": "",
+    "last_interaction_time": "2025-03-25 15:15:29",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "安东油田服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "安东油田服务（03337.HK）2020第一季度运营情况电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "安东油田服务（03337.HK）2020第一季度运营情况电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "英伟达",
+        "time": "2025-11-14"
+      },
+      {
+        "company": "瑞幸咖啡",
+        "time": "2025-11-14"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-11-14"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-11-14"
+      },
+      {
+        "company": "万利",
+        "time": "2025-07-07"
+      },
+      {
+        "company": "建桥教育",
+        "time": "2025-06-25"
+      },
+      {
+        "company": "安东油田服务",
+        "time": "2025-03-25"
+      },
+      {
+        "company": "中国海油",
+        "time": "2024-11-13"
+      },
+      {
+        "company": "理想汽车-w",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "中粮家佳康",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "拼多多",
+        "time": "2024-03-21"
+      },
+      {
+        "company": "百融智能",
+        "time": "2024-03-21"
+      },
+      {
+        "company": "康基医疗",
+        "time": "2024-03-21"
+      },
+      {
+        "company": "阜丰集团",
+        "time": "2024-03-18"
+      },
+      {
+        "company": "威胜控股",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "星盛商业",
+        "time": "2024-03-11"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2024-03-11"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2024-03-11"
+      },
+      {
+        "company": "兖煤澳大利亚",
+        "time": "2024-01-22"
+      },
+      {
+        "company": "敏实集团",
+        "time": "2024-01-19"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2024-01-10"
+      },
+      {
+        "company": "诺辉健康",
+        "time": "2023-11-18"
+      },
+      {
+        "company": "中国心连心化肥",
+        "time": "2023-11-10"
+      },
+      {
+        "company": "彩虹新能源",
+        "time": "2023-10-28"
+      },
+      {
+        "company": "中国财险",
+        "time": "2023-10-12"
+      },
+      {
+        "company": "敏华控股",
+        "time": "2023-09-28"
+      },
+      {
+        "company": "康方生物",
+        "time": "2023-09-11"
+      },
+      {
+        "company": "亚朵集团",
+        "time": "2023-08-31"
+      },
+      {
+        "company": "富途控股",
+        "time": "2023-08-24"
+      },
+      {
+        "company": "森松国际",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "信义光能",
+        "time": "2023-05-22"
+      }
+    ],
+    "special_companies": "中国心连心化肥,中粮家佳康,亿胜生物科技,信义光能,兖煤澳大利亚,康哲药业,康基医疗,拼多多,星盛商业,森松国际,百融智能,英恒科技,诺辉健康"
+  },
+  {
+    "uid": "337104",
+    "name": "楊義瓊",
+    "org_name": "国元国际控股有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "高級分析師",
+    "department": "研究部",
+    "last_interaction_time": "2025-03-24 09:09:23",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "安东油田服务",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "国元国际",
+        "time": "2025-12-15"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "晶科能源",
+        "time": "2025-11-17"
+      },
+      {
+        "company": "金风科技",
+        "time": "2025-10-22"
+      },
+      {
+        "company": "三一重工",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "英伟达",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-17"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-17"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-08-17"
+      },
+      {
+        "company": "中国电信",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "申万宏源证券研究所",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "阅文集团",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "中集集团",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "中集安瑞科",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "安东油田服务",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "信义光能",
+        "time": "2025-02-24"
+      },
+      {
+        "company": "信义储电",
+        "time": "2025-02-24"
+      },
+      {
+        "company": "信义能源",
+        "time": "2025-02-24"
+      },
+      {
+        "company": "新奥能源",
+        "time": "2024-08-16"
+      },
+      {
+        "company": "中国燃气",
+        "time": "2023-11-14"
+      },
+      {
+        "company": "中金公司研究所",
+        "time": "2023-11-09"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2023-08-23"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2023-07-27"
+      },
+      {
+        "company": "中国神华",
+        "time": "2023-05-05"
+      }
+    ],
+    "special_companies": "中国燃气,中广核新能源,中集集团,协合新能源,金风科技"
+  },
+  {
+    "uid": "5228",
+    "name": "李然",
+    "org_name": "深圳市圣为投资管理有限公司",
+    "org_type": "一般企业",
+    "cert_type": "服务机构",
+    "position": "投资总监",
+    "department": "",
+    "last_interaction_time": "2025-03-22 20:08:39",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "安东油田服务",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "IGG INC",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "香港中旅",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "稀美资源",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "美团-W",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "李宁",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "爱康医疗",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "伟仕佳杰",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "罕王黄金",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "药师帮",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "九源基因",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "京能清洁能源",
+        "time": "2025-03-22"
+      },
+      {
+        "company": "安东油田服务",
+        "time": "2025-03-22"
+      },
+      {
+        "company": "信义光能",
+        "time": "2023-05-22"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-25"
+      },
+      {
+        "company": "百融智能",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "星盛商业",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "英恒科技",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "中原建业",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "信义储电",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-03-20"
+      }
+    ],
+    "special_companies": "万物云,中原建业,亿胜生物科技,信义储电,信义光能,宝龙商业,星盛商业,百融智能,绿城管理控股,英恒科技,融创服务"
+  },
+  {
+    "uid": "272632",
+    "name": "卢红梅",
+    "org_name": "国元证券（香港）有限公司",
+    "org_type": "证券公司",
+    "cert_type": "服务机构",
+    "position": "副总裁",
+    "department": "",
+    "last_interaction_time": "2025-03-04 16:05:58",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "安东油田服务",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "路演中",
+        "time": "2026-01-13"
+      },
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2025-11-28"
+      },
+      {
+        "company": "知乎",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "商汤-W",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "九源基因",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-05-20"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2025-05-20"
+      },
+      {
+        "company": "农业银行",
+        "time": "2025-05-20"
+      },
+      {
+        "company": "金风科技",
+        "time": "2025-04-28"
+      },
+      {
+        "company": "日清食品",
+        "time": "2025-04-07"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "中国平安",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "安东油田服务",
+        "time": "2025-03-04"
+      },
+      {
+        "company": "国元国际",
+        "time": "2024-12-17"
+      },
+      {
+        "company": "永升服务",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "华润医药",
+        "time": "2024-08-29"
+      },
+      {
+        "company": "中粮家佳康",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "周黑鸭",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "中国铁塔",
+        "time": "2024-08-08"
+      },
+      {
+        "company": "中电控股",
+        "time": "2024-08-07"
+      },
+      {
+        "company": "中国水务",
+        "time": "2024-07-10"
+      },
+      {
+        "company": "天伦燃气",
+        "time": "2024-07-09"
+      },
+      {
+        "company": "中国电力",
+        "time": "2024-07-09"
+      },
+      {
+        "company": "国证国际证券(香港)研究所",
+        "time": "2024-06-26"
+      },
+      {
+        "company": "浦林成山",
+        "time": "2024-06-25"
+      },
+      {
+        "company": "21世纪教育",
+        "time": "2024-04-02"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "华夏视听教育",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "中国海油",
+        "time": "2024-03-21"
+      },
+      {
+        "company": "瑞声科技",
+        "time": "2024-03-21"
+      },
+      {
+        "company": "东曜药业",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "汇添富基金",
+        "time": "2024-01-23"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-12-07"
+      },
+      {
+        "company": "赤子城科技",
+        "time": "2023-11-02"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2023-08-23"
+      },
+      {
+        "company": "四环医药",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "信义光能",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "敏华控股",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "环球医疗",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "九毛九",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "英恒科技",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "新高教集团",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "医脉通",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "和铂医药",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "信邦制药",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "赢家时尚",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "玄武云",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "快手-W",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "明源云",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "顺丰同城",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "中国太保",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "威胜控股",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "深高速",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "招商银行",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "百融智能",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2023-03-17"
+      }
+    ],
+    "special_companies": "21世纪教育,万物云,东曜药业,中国太保,中广核新能源,中粮家佳康,九毛九,医脉通,华夏视听教育,华润医疗,华润医药,卓越教育集团,周黑鸭,呷哺呷哺,四环医药,国元国际,国证国际证券(香港)研究所,宝龙商业,康哲药业,康臣药业,敏华控股,新鸿基公司,日清食品,明源云,永升服务,浦林成山,深高速,玄武云,环球医疗,百融智能,维亚生物,联邦制药,英恒科技,赢家时尚,雅生活服务,顺丰同城"
+  },
+  {
+    "uid": "606127",
+    "name": "赵婧",
+    "org_name": "广发银行股份有限公司",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "西客站支行主任",
+    "department": "北京分行公司银行部",
+    "last_interaction_time": "2024-01-20 11:12:17",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "安东油田服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-01-20",
+        "meet_title": "安东油田服务（03337.HK）2020第一季度运营情况电话会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国石油",
+        "time": "2025-04-28"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2025-04-28"
+      },
+      {
+        "company": "中信特钢",
+        "time": "2024-01-20"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2024-01-20"
+      },
+      {
+        "company": "中煤能源",
+        "time": "2024-01-20"
+      },
+      {
+        "company": "中化国际",
+        "time": "2024-01-20"
+      },
+      {
+        "company": "万华化学",
+        "time": "2024-01-20"
+      },
+      {
+        "company": "中材科技",
+        "time": "2024-01-20"
+      },
+      {
+        "company": "安东油田服务",
+        "time": "2024-01-20"
+      },
+      {
+        "company": "宝钢股份",
+        "time": "2024-01-20"
+      },
+      {
+        "company": "中国旭阳集团",
+        "time": "2024-01-13"
+      }
+    ],
+    "special_companies": "中国人寿,中国旭阳集团,中国石油"
+  },
+  {
+    "uid": "276129",
+    "name": "Sophie Wang CFA",
+    "org_name": "Gaoteng Global Asset Management Limited",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "Senior Analyst",
+    "department": "Fixed Income Investment",
+    "last_interaction_time": "2023-09-13 16:19:23",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "安东油田服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-09-13",
+        "meet_title": "安东油田服务（03337.HK）2020第一季度运营情况电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "新世界发展",
+        "time": "2024-09-26"
+      },
+      {
+        "company": "复星国际",
+        "time": "2023-08-31"
+      }
+    ],
+    "special_companies": "复星国际,新世界发展,绿城中国"
+  }
+]

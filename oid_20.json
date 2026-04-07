@@ -1,5 +1,716 @@
 [
   {
+    "uid": "278027",
+    "name": "肖正",
+    "org_name": "深圳控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "资深经理",
+    "department": "资本运营部",
+    "last_interaction_time": "2026-03-27 19:34:33",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "安踏体育",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "晶泰控股",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "安踏体育",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "谷歌",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "573404",
+    "name": "蘇淑賢",
+    "org_name": "中国工商銀行(亞洲)有限公司",
+    "org_type": "境外银行",
+    "cert_type": "服务机构",
+    "position": "總監",
+    "department": "大灣區珠三角東營銷",
+    "last_interaction_time": "2026-03-26 10:25:11",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "安踏体育",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "安踏体育",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中广核电力",
+        "time": "2023-03-15"
+      },
+      {
+        "company": "招商局置地",
+        "time": "2023-03-15"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2023-03-15"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2023-03-15"
+      },
+      {
+        "company": "华侨城",
+        "time": "2023-03-15"
+      },
+      {
+        "company": "华侨城（亚洲）",
+        "time": "2023-03-15"
+      }
+    ],
+    "special_companies": "招商蛇口"
+  },
+  {
+    "uid": "424964",
+    "name": "蘇迪航",
+    "org_name": "中投国际(香港)有限公司",
+    "org_type": "主权财富基金",
+    "cert_type": "机构投资者",
+    "position": "高級經理",
+    "department": "股票投資部",
+    "last_interaction_time": "2026-03-25 17:07:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "安踏体育",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "安踏体育（02020.HK）2024年年度业绩会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": null,
+        "time": "2026-03-25"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中国电信",
+        "time": "2024-08-20"
+      },
+      {
+        "company": "邮储银行",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "珀莱雅",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "拼多多",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "中海物业",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "锦欣生殖",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "网易",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "网易云音乐",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "保利物业",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "百度",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "快手-W",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "华虹公司",
+        "time": "2023-08-10"
+      },
+      {
+        "company": "JS环球生活",
+        "time": "2023-08-09"
+      },
+      {
+        "company": "中国联通",
+        "time": "2023-08-09"
+      },
+      {
+        "company": "越秀地产",
+        "time": "2023-04-20"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2023-04-20"
+      },
+      {
+        "company": "台积电",
+        "time": "2023-04-20"
+      },
+      {
+        "company": "招商银行",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "美团-W",
+        "time": "2023-03-23"
+      }
+    ],
+    "special_companies": "中国人寿,中国电信,中国通信服务,中海物业,保利物业,珀莱雅"
+  },
+  {
+    "uid": "635110",
+    "name": "王涵",
+    "org_name": "香港凤凰周刊有限公司",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "记者",
+    "department": "",
+    "last_interaction_time": "2026-03-25 15:29:50",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "安踏体育",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "安踏体育（02020.HK）2024年年度业绩会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "李宁",
+        "time": "2026-03-15"
+      },
+      {
+        "company": "露露柠檬",
+        "time": "2026-03-15"
+      },
+      {
+        "company": "百度",
+        "time": "2025-11-17"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "美团-W",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "格力电器",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "安踏体育",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2025-05-13"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "267072",
+    "name": "高劍鋒",
+    "org_name": "璞石資本有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "首席投资官",
+    "department": "",
+    "last_interaction_time": "2026-03-25 15:23:54",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "安踏体育",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "古茗",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "安踏体育",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "西锐",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "网易云音乐",
+        "time": "2026-02-10"
+      },
+      {
+        "company": "亚朵集团",
+        "time": "2025-11-25"
+      },
+      {
+        "company": "沃尔玛",
+        "time": "2025-11-20"
+      },
+      {
+        "company": "万物新生（爱回收）",
+        "time": "2025-11-20"
+      },
+      {
+        "company": "头豹研究院",
+        "time": "2025-11-20"
+      },
+      {
+        "company": "东鹏饮料",
+        "time": "2025-11-17"
+      },
+      {
+        "company": "鸣鸣很忙集团",
+        "time": "2025-11-17"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2025-11-17"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-03-31"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "联易融科技",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "卡罗特",
+        "time": "2024-12-08"
+      },
+      {
+        "company": "瑞幸咖啡",
+        "time": "2024-09-17"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2024-09-14"
+      },
+      {
+        "company": "滨江集团",
+        "time": "2024-09-14"
+      },
+      {
+        "company": "天风证券研究所",
+        "time": "2024-09-01"
+      },
+      {
+        "company": "名创优品",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "唯品会",
+        "time": "2024-08-20"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2024-08-13"
+      },
+      {
+        "company": "网易",
+        "time": "2024-08-09"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2024-08-09"
+      },
+      {
+        "company": "快手-W",
+        "time": "2024-08-09"
+      },
+      {
+        "company": "美的置业",
+        "time": "2024-08-09"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2024-08-09"
+      },
+      {
+        "company": "贝壳",
+        "time": "2024-08-09"
+      },
+      {
+        "company": "复星旅游文化",
+        "time": "2024-08-09"
+      },
+      {
+        "company": "拼多多",
+        "time": "2024-07-22"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-08-01"
+      },
+      {
+        "company": "新城控股",
+        "time": "2023-04-03"
+      },
+      {
+        "company": "新城发展",
+        "time": "2023-04-03"
+      }
+    ],
+    "special_companies": "中海物业,保利物业,小米集团-W,建发国际集团,建发物业,拼多多,新城发展,新城控股,碧桂园服务,绿城管理控股,腾讯控股,融创服务,金科服务"
+  },
+  {
+    "uid": "255681",
+    "name": "昝浩",
+    "org_name": "开思资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2026-03-25 15:10:23",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "安踏体育",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "永升服务",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "安踏体育",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "药明合联",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "远大医药",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "美团-W",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-03-25"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-08-19"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2023-04-17"
+      }
+    ],
+    "special_companies": "万物云,中国建筑,保利物业,碧桂园服务,绿城管理控股,融创服务"
+  },
+  {
+    "uid": "292791",
+    "name": "吴宪",
+    "org_name": "上海景林资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "投资研究部",
+    "last_interaction_time": "2026-03-25 12:29:42",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "安踏体育",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "安踏体育（02020.HK）2024年年度业绩会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "家得宝",
+        "time": "2025-11-12"
+      },
+      {
+        "company": "敏华控股",
+        "time": "2025-11-12"
+      },
+      {
+        "company": "昂跑",
+        "time": "2025-11-12"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "平安银行",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "美团-W",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "网易",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "阅文集团",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-03-07"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2024-08-14"
+      },
+      {
+        "company": "招商银行",
+        "time": "2023-03-09"
+      }
+    ],
+    "special_companies": "腾讯控股"
+  },
+  {
     "uid": "583231",
     "name": "吴超明",
     "org_name": "海通国际证券集团有限公司",
@@ -101,6 +812,14 @@
     "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中创新航",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "瑞浦兰钧",
+        "time": "2026-03-26"
+      },
       {
         "company": "小鹏汽车-W",
         "time": "2026-03-16"
@@ -1308,7 +2027,7 @@
         "time": "2024-12-29"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2024-07-29"
       },
       {
@@ -1356,7 +2075,7 @@
         "time": "2023-02-13"
       }
     ],
-    "special_companies": "中国人寿,中国金茂,国证国际证券(香港)研究所,建发国际集团,新希望服务,星盛商业,百融"
+    "special_companies": "中国人寿,中国金茂,国证国际证券(香港)研究所,建发国际集团,新希望服务,星盛商业,百融智能"
   },
   {
     "uid": "270022",
@@ -1389,78 +2108,6 @@
     "special_companies": ""
   },
   {
-    "uid": "635110",
-    "name": "王涵",
-    "org_name": "香港凤凰周刊有限公司",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "记者",
-    "department": "",
-    "last_interaction_time": "2025-08-24 00:49:51",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "安踏体育",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "李宁",
-        "time": "2026-03-15"
-      },
-      {
-        "company": "露露柠檬",
-        "time": "2026-03-15"
-      },
-      {
-        "company": "百度",
-        "time": "2025-11-17"
-      },
-      {
-        "company": "携程集团-S",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "美团-W",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "格力电器",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "安踏体育",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "快手-W",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "拼多多",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "BOSS直聘",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2025-05-13"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "501757",
     "name": "王亞舟",
     "org_name": "东方证券（香港）有限公司",
@@ -1477,6 +2124,14 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中国建筑国际",
+        "time": "2026-03-24"
+      },
       {
         "company": "中海物业",
         "time": "2026-03-24"
@@ -1597,6 +2252,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-03-30"
+      },
       {
         "company": "布鲁可",
         "time": "2025-08-25"
@@ -1722,6 +2381,54 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "博腾股份",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中煤能源",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "兖州煤业",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "邮储银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "农业银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中国平安",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "鸿远电子",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "建设银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "交通银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中信股份",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-26"
+      },
+      {
         "company": "滨江服务",
         "time": "2026-03-20"
       },
@@ -1774,7 +2481,7 @@
         "time": "2026-03-17"
       },
       {
-        "company": "中国罕王",
+        "company": "罕王黄金",
         "time": "2026-03-17"
       },
       {
@@ -2162,6 +2869,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "新希望服务",
+        "time": "2026-03-25"
+      },
+      {
         "company": "思治企业咨询",
         "time": "2026-03-23"
       },
@@ -2302,7 +3013,7 @@
         "time": "2025-09-13"
       },
       {
-        "company": "中国罕王",
+        "company": "罕王黄金",
         "time": "2025-09-13"
       },
       {
@@ -2978,7 +3689,7 @@
         "time": "2025-08-14"
       },
       {
-        "company": "中国罕王",
+        "company": "罕王黄金",
         "time": "2025-08-14"
       },
       {
@@ -3910,7 +4621,7 @@
         "time": "2023-03-27"
       },
       {
-        "company": "中国罕王",
+        "company": "罕王黄金",
         "time": "2023-03-24"
       },
       {
@@ -3962,7 +4673,7 @@
         "time": "2023-02-21"
       }
     ],
-    "special_companies": "21世纪教育,万物云,世茂服务,东方证券,中信证券,中化化肥,中国中药,中国交建,中国光大绿色环保,中国动向,中国天瑞水泥,中国太保,中国建筑,中国建筑国际,中国心连心化肥,中国春来教育集团,中国燃气,中国罕王,中国船舶租赁,中国通信服务,中广核技,中广核新能源,中烟香港,中粮包装,中集安瑞科,中集车辆,云康集团,亚信科技,交个朋友控股,亿胜生物科技,众安在线,众安集团,优趣汇控股,伟仕佳杰,佛朗斯股份,信义光能,信義玻璃,光大证券,冠盛股份,力劲科技,华森制药,华润医药,协合新能源,卓越教育集团,博腾股份,呷哺呷哺,复星国际,宏信建发,宜明昂科,小米集团-W,小鹏汽车-W,康基医疗,康宁医院,康臣药业,建发国际集团,建发物业,心玮医疗,思治企业咨询,拼多多,敏华控股,新城发展,新希望服务,新鸿基公司,明源云,朝聚眼科,森松国际,沛嘉医疗,海南矿业,湾区发展,玄武云,畅捷通,百果园集团,神州控股,绿城管理控股,网龙,联易融科技,联邦制药,艾美疫苗,英伟达,药师帮,融创服务,贝康医疗,迈富时,远东宏信,金科服务,阜博集团,零跑汽车,顺丰同城"
+    "special_companies": "21世纪教育,万物云,世茂服务,东方证券,中信证券,中化化肥,中国中药,中国交建,中国光大绿色环保,中国动向,中国天瑞水泥,中国太保,中国建筑,中国建筑国际,中国心连心化肥,中国春来教育集团,中国燃气,中国船舶租赁,中国通信服务,中广核技,中广核新能源,中烟香港,中粮包装,中集安瑞科,中集车辆,云康集团,亚信科技,交个朋友控股,亿胜生物科技,众安在线,众安集团,优趣汇控股,伟仕佳杰,佛朗斯股份,信义光能,信義玻璃,光大证券,冠盛股份,力劲科技,华森制药,华润医药,协合新能源,卓越教育集团,博腾股份,呷哺呷哺,复星国际,宏信建发,宜明昂科,小米集团-W,小鹏汽车-W,康基医疗,康宁医院,康臣药业,建发国际集团,建发物业,心玮医疗,思治企业咨询,拼多多,敏华控股,新城发展,新希望服务,新鸿基公司,明源云,朝聚眼科,森松国际,沛嘉医疗,海南矿业,湾区发展,玄武云,畅捷通,百果园集团,神州控股,绿城管理控股,网龙,罕王黄金,联易融科技,联邦制药,艾美疫苗,英伟达,药师帮,融创服务,贝康医疗,迈富时,远东宏信,金科服务,阜博集团,零跑汽车,顺丰同城"
   },
   {
     "uid": "612846",
@@ -4306,7 +5017,7 @@
         "time": "2025-08-02"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2025-08-02"
       },
       {
@@ -5610,6 +6321,50 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "比亚迪",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "南山铝业国际",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "中国心连心化肥",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "中煤能源",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "中国海油",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "中国太保",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "中国人保",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "快手-W",
+        "time": "2026-04-07"
+      },
+      {
         "company": "隆基股份",
         "time": "2025-09-28"
       },
@@ -6682,6 +7437,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "雅生活服务",
+        "time": "2026-03-24"
+      },
+      {
         "company": "网龙",
         "time": "2026-03-23"
       },
@@ -7093,6 +7852,14 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "平安银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中国太平保险控股",
+        "time": "2026-03-26"
+      },
       {
         "company": "名创优品",
         "time": "2025-12-25"
@@ -7989,6 +8756,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "锦江酒店",
+        "time": "2026-04-01"
+      },
       {
         "company": "美光科技",
         "time": "2026-03-17"
@@ -9453,6 +10224,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "快手-W",
+        "time": "2026-03-25"
+      },
       {
         "company": "腾讯音乐",
         "time": "2026-03-17"

@@ -1,5 +1,69 @@
 [
   {
+    "uid": "645693",
+    "name": "付兴",
+    "org_name": "久战久胜（广州）私募基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2026-03-28 20:23:10",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "济川药业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-28",
+        "meet_title": "济川药业（600566.SH）投资者推介会｜华安医药 x 路演中"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-28",
+        "meet_title": "济川药业（600566.SH）投资者推介会｜华安医药 x 路演中",
+        "duration": 15
+      },
+      {
+        "time": "2026-03-28",
+        "meet_title": "济川药业（600566.SH）投资者推介会｜华安医药 x 路演中",
+        "duration": 25
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "泡泡玛特",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "天士力",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "康弘药业",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "济川药业",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "百洋医药",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "以岭药业",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2026-03-21"
+      }
+    ],
+    "special_companies": "康臣药业"
+  },
+  {
     "uid": "606675",
     "name": "谭孟林",
     "org_name": "上海多璨投资管理有限公司",
@@ -936,6 +1000,18 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "时代天使",
+        "time": "2026-04-04"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2026-03-25"
+      },
       {
         "company": "子不语",
         "time": "2026-03-03"
@@ -2194,6 +2270,18 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "金风科技",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "佳鑫国际资源",
+        "time": "2026-03-26"
+      },
+      {
         "company": "中国人寿",
         "time": "2026-03-18"
       },
@@ -2346,6 +2434,18 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "保利物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中国人保",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中信证券",
+        "time": "2026-03-31"
+      },
       {
         "company": "国泰君安国际",
         "time": "2026-03-23"
@@ -3618,6 +3718,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国同辐",
+        "time": "2026-03-30"
+      },
+      {
         "company": "联邦制药",
         "time": "2024-05-22"
       },
@@ -3810,7 +3914,7 @@
         "time": "2024-07-12"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2024-06-28"
       },
       {
@@ -3818,7 +3922,7 @@
         "time": "2024-05-23"
       }
     ],
-    "special_companies": "环球医疗,百融,远东宏信"
+    "special_companies": "环球医疗,百融智能,远东宏信"
   },
   {
     "uid": "345443",
@@ -4325,6 +4429,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "恒瑞医药",
+        "time": "2026-03-26"
+      },
+      {
         "company": "东吴证券研究所",
         "time": "2025-11-03"
       },
@@ -4567,6 +4675,30 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "百望股份",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2026-03-25"
+      },
       {
         "company": "亿胜生物科技",
         "time": "2026-03-24"
@@ -7512,7 +7644,12 @@
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [],
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-03-30"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -7660,7 +7797,7 @@
         "time": "2023-11-15"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2023-11-15"
       }
     ],
@@ -7817,6 +7954,18 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "鸿远电子",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-04-01"
+      },
+      {
         "company": "美光科技",
         "time": "2026-03-16"
       },
@@ -7853,7 +8002,7 @@
         "time": "2025-08-21"
       },
       {
-        "company": "中国罕王",
+        "company": "罕王黄金",
         "time": "2025-08-10"
       },
       {
@@ -7996,7 +8145,7 @@
         "time": "2025-07-08"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2025-07-08"
       },
       {
@@ -8213,7 +8362,7 @@
         "time": "2024-09-19"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2024-09-19"
       },
       {
@@ -8325,7 +8474,7 @@
         "time": "2023-03-03"
       }
     ],
-    "special_companies": "中国建筑,中国黄金国际,中广核新能源,亚信科技,伟仕佳杰,力劲科技,喜相逢集团,康宁医院,建发国际集团,敏华控股,新世界发展,映宇宙,比亚迪,浙数文化,百融,神州控股,绿城管理控股,美的置业,英伟达,达实智能"
+    "special_companies": "中国建筑,中国黄金国际,中广核新能源,亚信科技,伟仕佳杰,力劲科技,喜相逢集团,康宁医院,建发国际集团,敏华控股,新世界发展,映宇宙,比亚迪,浙数文化,百融智能,神州控股,绿城管理控股,美的置业,英伟达,达实智能"
   },
   {
     "uid": "507419",
