@@ -7,12 +7,12 @@
     "cert_type": "机构投资者",
     "position": "助理董事",
     "department": "投行事业部",
-    "last_interaction_time": "2026-04-06 16:45:26",
-    "last_interaction_behavior": "订阅",
+    "last_interaction_time": "2026-04-07 22:30:56",
+    "last_interaction_behavior": "参会",
     "interaction_company": "国泰海通",
     "apply_count": 0,
     "apply_records": [],
-    "attend_count": 1,
+    "attend_count": 2,
     "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [
@@ -4730,31 +4730,6 @@
     "special_companies": "远东宏信"
   },
   {
-    "uid": "347215",
-    "name": "熊立南",
-    "org_name": "国泰君安国际控股有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "Senior Analyst",
-    "department": "Principal Investment Management",
-    "last_interaction_time": "2026-03-31 09:58:45",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "国泰海通",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "国泰海通2025年度业绩发布会",
-        "duration": 90
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "274193",
     "name": "高崧",
     "org_name": "中泰证券股份有限公司研究所",
@@ -4773,6 +4748,31 @@
         "time": "2026-03-31",
         "meet_title": "国泰海通2025年度业绩发布会",
         "duration": 92
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "347215",
+    "name": "熊立南",
+    "org_name": "国泰君安国际控股有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "Senior Analyst",
+    "department": "Principal Investment Management",
+    "last_interaction_time": "2026-03-31 09:58:45",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "国泰海通",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "国泰海通2025年度业绩发布会",
+        "duration": 90
       }
     ],
     "is_first_attend": true,
@@ -5080,6 +5080,36 @@
     "special_companies": ""
   },
   {
+    "uid": "436910",
+    "name": "卢崑",
+    "org_name": "开源证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "非银金融行业助理研究员",
+    "department": "研究所",
+    "last_interaction_time": "2026-03-31 09:58:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "国泰海通",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "国泰海通2025年度业绩发布会",
+        "duration": 92
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "九方智投控股",
+        "time": "2025-08-29"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "582857",
     "name": "韩沛廷",
     "org_name": "中天国富证券有限公司",
@@ -5200,36 +5230,6 @@
       }
     ],
     "special_companies": "波司登,绿城管理控股"
-  },
-  {
-    "uid": "436910",
-    "name": "卢崑",
-    "org_name": "开源证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "非银金融行业助理研究员",
-    "department": "研究所",
-    "last_interaction_time": "2026-03-31 09:58:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "国泰海通",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "国泰海通2025年度业绩发布会",
-        "duration": 92
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "九方智投控股",
-        "time": "2025-08-29"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "11530",

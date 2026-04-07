@@ -1,5 +1,94 @@
 [
   {
+    "uid": "638994",
+    "name": "陈青",
+    "org_name": "天马微电子股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "市场部",
+    "last_interaction_time": "2026-04-07 16:56:53",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "招商银行",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-07",
+        "meet_title": "CMB 2025 Annual Results Announcement"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "超威半导体",
+        "time": "2026-02-03"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2025-12-12"
+      },
+      {
+        "company": "文远知行",
+        "time": "2025-11-24"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "摩根大通",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "联邦快递",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "达美航空",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "港铁公司",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "云迹科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "蓝思科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2025-10-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "647324",
     "name": "李明桂",
     "org_name": "德泉资本",
@@ -138,30 +227,6 @@
         "time": "2026-03-21"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "501437",
-    "name": "高鸿健",
-    "org_name": "广州宠伦科技有限公司",
-    "org_type": null,
-    "cert_type": "个人",
-    "position": "总经理",
-    "department": "投资部",
-    "last_interaction_time": "2026-04-05 11:21:20",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "招商银行",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-04-05",
-        "meet_title": "招商银行（600036.SH，03968.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -8135,6 +8200,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "新世界发展",
+        "time": "2026-04-07"
+      },
+      {
         "company": "茶姬控股（霸王茶姬）",
         "time": "2025-11-27"
       },
@@ -8346,6 +8415,94 @@
     "special_companies": ""
   },
   {
+    "uid": "425136",
+    "name": "黎晓宇",
+    "org_name": "红槲基金管理(横琴)有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "合伙人",
+    "department": "",
+    "last_interaction_time": "2026-03-30 10:27:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "招商银行",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "招商银行（600036.SH，03968.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2026-03-19",
+        "meet_title": "招商银行（600036.SH，03968.HK）2025年中期业绩说明会"
+      },
+      {
+        "time": "2025-03-21",
+        "meet_title": "招商银行（600036.SH，03968.HK）2024年度业绩交流会"
+      },
+      {
+        "time": "2024-08-23",
+        "meet_title": "招商银行（600036.SH，03968.HK）2024年中期业绩交流会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-03-27",
+        "meet_title": "招商银行（600036.SH，03968.HK）2024年度业绩交流会",
+        "duration": 0
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "招商银行（600036.SH，03968.HK）2024年度业绩交流会",
+        "duration": 5
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "招商银行",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-15"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "环球医疗",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2024-08-27"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2024-08-27"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2024-08-09"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2024-03-19"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2023-08-29"
+      }
+    ],
+    "special_companies": "亿胜生物科技,康哲药业,招商局商业房托,敏华控股"
+  },
+  {
     "uid": "496043",
     "name": "高熙尧",
     "org_name": "上海宁泉资产管理有限公司",
@@ -8450,94 +8607,6 @@
       }
     ],
     "special_companies": "顺丰同城"
-  },
-  {
-    "uid": "425136",
-    "name": "黎晓宇",
-    "org_name": "红槲基金管理(横琴)有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "合伙人",
-    "department": "",
-    "last_interaction_time": "2026-03-30 10:27:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "招商银行",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "招商银行（600036.SH，03968.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2026-03-19",
-        "meet_title": "招商银行（600036.SH，03968.HK）2025年中期业绩说明会"
-      },
-      {
-        "time": "2025-03-21",
-        "meet_title": "招商银行（600036.SH，03968.HK）2024年度业绩交流会"
-      },
-      {
-        "time": "2024-08-23",
-        "meet_title": "招商银行（600036.SH，03968.HK）2024年中期业绩交流会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-03-27",
-        "meet_title": "招商银行（600036.SH，03968.HK）2024年度业绩交流会",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "招商银行（600036.SH，03968.HK）2024年度业绩交流会",
-        "duration": 5
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "招商银行",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2026-03-15"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "环球医疗",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "中国通信服务",
-        "time": "2024-08-27"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2024-08-27"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2024-08-09"
-      },
-      {
-        "company": "亿胜生物科技",
-        "time": "2024-03-19"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2023-08-29"
-      }
-    ],
-    "special_companies": "亿胜生物科技,康哲药业,招商局商业房托,敏华控股"
   },
   {
     "uid": "638361",
@@ -13568,6 +13637,18 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "博腾股份",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-04-07"
+      },
       {
         "company": "建发国际集团",
         "time": "2026-03-25"
@@ -23250,32 +23331,12 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "知乎",
-        "time": "2026-03-23"
-      },
-      {
         "company": "平安好医生",
         "time": "2026-03-23"
       },
       {
         "company": "小米集团-W",
         "time": "2026-03-23"
-      },
-      {
-        "company": "中国电信",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "平安银行",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "湾区发展",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "罕王黄金",
-        "time": "2026-03-13"
       },
       {
         "company": "绿城服务",
@@ -23288,14 +23349,6 @@
       {
         "company": "贝壳",
         "time": "2026-03-13"
-      },
-      {
-        "company": "歌尔微电子",
-        "time": "2026-02-24"
-      },
-      {
-        "company": "三只松鼠",
-        "time": "2026-02-24"
       },
       {
         "company": "携程集团-S",
@@ -55451,13 +55504,13 @@
       },
       {
         "time": "2023-03-27",
-        "meet_title": "China Merchants Bank 2022 Annual Results Announcement",
-        "duration": 2
+        "meet_title": "招商银行（600036.SH，03968.HK）2022年度业绩发布会",
+        "duration": 10
       },
       {
         "time": "2023-03-27",
-        "meet_title": "招商银行（600036.SH，03968.HK）2022年度业绩发布会",
-        "duration": 10
+        "meet_title": "China Merchants Bank 2022 Annual Results Announcement",
+        "duration": 2
       }
     ],
     "is_first_attend": true,
@@ -69041,54 +69094,6 @@
     "special_companies": "万物云,新希望服务,碧桂园服务"
   },
   {
-    "uid": "495582",
-    "name": "李雨川",
-    "org_name": "成都颐泰智能科技股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "副总裁",
-    "department": "",
-    "last_interaction_time": "2023-03-27 10:56:46",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "招商银行",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-23",
-        "meet_title": "招商银行（600036.SH，03968.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "招商银行（600036.SH，03968.HK）2022年度业绩发布会",
-        "duration": 1
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "招商银行（600036.SH，03968.HK）2022年度业绩发布会",
-        "duration": 39
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中国人寿",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2023-03-23"
-      },
-      {
-        "company": "招商银行",
-        "time": "2023-03-23"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "429363",
     "name": "徐媛",
     "org_name": "新曦資產管理有限公司",
@@ -69139,6 +69144,54 @@
       {
         "company": "招商蛇口",
         "time": "2023-03-21"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "495582",
+    "name": "李雨川",
+    "org_name": "成都颐泰智能科技股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "副总裁",
+    "department": "",
+    "last_interaction_time": "2023-03-27 10:56:46",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "招商银行",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-23",
+        "meet_title": "招商银行（600036.SH，03968.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "招商银行（600036.SH，03968.HK）2022年度业绩发布会",
+        "duration": 1
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "招商银行（600036.SH，03968.HK）2022年度业绩发布会",
+        "duration": 39
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国人寿",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "招商银行",
+        "time": "2023-03-23"
       }
     ],
     "special_companies": ""

@@ -961,6 +961,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "新世界发展",
+        "time": "2026-04-07"
+      },
+      {
         "company": "茶姬控股（霸王茶姬）",
         "time": "2025-11-27"
       },
@@ -14934,6 +14938,36 @@
     "special_companies": ""
   },
   {
+    "uid": "609014",
+    "name": "张雨嫣",
+    "org_name": "哲基杰讯（北京）咨询服务有限公司",
+    "org_type": "财经公关服务",
+    "cert_type": "媒体",
+    "position": "高级顾问",
+    "department": "PR",
+    "last_interaction_time": "2024-04-01 15:00:08",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "申万宏源",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-04-01",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会",
+        "duration": 77
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "578570",
     "name": "刘育华",
     "org_name": "申万宏源集团股份有限公司",
@@ -14962,36 +14996,6 @@
         "time": "2023-04-03",
         "meet_title": "申万宏源（000166.SZ，06806.HK）2022年度业绩说明会",
         "duration": 69
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "609014",
-    "name": "张雨嫣",
-    "org_name": "哲基杰讯（北京）咨询服务有限公司",
-    "org_type": "财经公关服务",
-    "cert_type": "媒体",
-    "position": "高级顾问",
-    "department": "PR",
-    "last_interaction_time": "2024-04-01 15:00:08",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "申万宏源",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-04-01",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会",
-        "duration": 77
       }
     ],
     "is_first_attend": true,

@@ -129,6 +129,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "BOSS直聘",
+        "time": "2026-04-07"
+      },
+      {
         "company": "敏华控股",
         "time": "2024-11-28"
       },
@@ -10969,36 +10973,6 @@
     "special_companies": ""
   },
   {
-    "uid": "606071",
-    "name": "陈洋洋",
-    "org_name": "耕霁(上海)投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
-    "position": "助理",
-    "department": "",
-    "last_interaction_time": "2025-04-08 10:00:46",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国黄金国际",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "中国黄金国际（02099.HK、TSX:CGG）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-04-08",
-        "meet_title": "中国黄金国际（02099.HK、TSX:CGG）2024年度业绩发布会",
-        "duration": 85
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "344571",
     "name": "冯镇豪",
     "org_name": "正谊资产管理有限公司",
@@ -11032,6 +11006,36 @@
       }
     ],
     "special_companies": "国证国际证券(香港)研究所"
+  },
+  {
+    "uid": "606071",
+    "name": "陈洋洋",
+    "org_name": "耕霁(上海)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "助理",
+    "department": "",
+    "last_interaction_time": "2025-04-08 10:00:46",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国黄金国际",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "中国黄金国际（02099.HK、TSX:CGG）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-04-08",
+        "meet_title": "中国黄金国际（02099.HK、TSX:CGG）2024年度业绩发布会",
+        "duration": 85
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "437405",

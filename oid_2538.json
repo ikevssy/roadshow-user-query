@@ -1,5 +1,48 @@
 [
   {
+    "uid": "644876",
+    "name": "赵明",
+    "org_name": "新疆特变电工战略合作商 晶迎新能源(德州)有限公司",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "",
+    "last_interaction_time": "2026-04-07 13:37:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国中冶",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-02-16",
+        "meet_title": "中国中冶（601618.SH，1618.HK）关于出售资产暨关联交易事项投资者说明会",
+        "duration": 2
+      },
+      {
+        "time": "2026-02-16",
+        "meet_title": "中国中冶（601618.SH，1618.HK）关于出售资产暨关联交易事项投资者说明会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "药师帮",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "名创优品",
+        "time": "2026-02-16"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2026-02-16"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "252584",
     "name": "熊政",
     "org_name": "广东邦政资产管理有限公司",
@@ -2329,6 +2372,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
       {
         "company": "超威半导体",
         "time": "2026-02-03"
@@ -13632,6 +13679,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "新世界发展",
+        "time": "2026-04-07"
+      },
+      {
         "company": "茶姬控股（霸王茶姬）",
         "time": "2025-11-27"
       },
@@ -14501,6 +14552,36 @@
     "special_companies": ""
   },
   {
+    "uid": "505474",
+    "name": "赖小娟",
+    "org_name": "安永华明会计师事务所(特殊普通合伙)",
+    "org_type": "会计师事务所",
+    "cert_type": "个人",
+    "position": "高级经理",
+    "department": "审计服务",
+    "last_interaction_time": "2024-04-08 10:01:58",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国中冶",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-04-08",
+        "meet_title": "中国中冶（601618.SH、1618.HK）2023年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-04-08",
+        "meet_title": "中国中冶（601618.SH、1618.HK）2023年度业绩说明会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "506536",
     "name": "李润泽",
     "org_name": "青岛金光紫金创业投资管理有限公司",
@@ -14559,36 +14640,6 @@
       }
     ],
     "special_companies": "ST易事特,国元国际,金力永磁"
-  },
-  {
-    "uid": "505474",
-    "name": "赖小娟",
-    "org_name": "安永华明会计师事务所(特殊普通合伙)",
-    "org_type": "会计师事务所",
-    "cert_type": "个人",
-    "position": "高级经理",
-    "department": "审计服务",
-    "last_interaction_time": "2024-04-08 10:01:58",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国中冶",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-04-08",
-        "meet_title": "中国中冶（601618.SH、1618.HK）2023年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-04-08",
-        "meet_title": "中国中冶（601618.SH、1618.HK）2023年度业绩说明会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "351004",

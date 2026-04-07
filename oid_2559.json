@@ -1,5 +1,24 @@
 [
   {
+    "uid": "647339",
+    "name": "Eric Lu",
+    "org_name": "Chak Kit Company",
+    "org_type": null,
+    "cert_type": "服务机构",
+    "position": "Sales",
+    "department": "—— RB, 分行名調",
+    "last_interaction_time": "2026-04-08 00:25:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国交建",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "501161",
     "name": "姜公望",
     "org_name": "具力定成（浙江）私募基金管理有限公司",
@@ -1544,6 +1563,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "新世界发展",
+        "time": "2026-04-07"
+      },
+      {
         "company": "茶姬控股（霸王茶姬）",
         "time": "2025-11-27"
       },
@@ -2029,6 +2052,10 @@
     "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-07"
+      },
       {
         "company": "博腾股份",
         "time": "2026-04-02"
