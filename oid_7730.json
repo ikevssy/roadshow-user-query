@@ -1,5 +1,117 @@
 [
   {
+    "uid": "646131",
+    "name": "姜双军",
+    "org_name": "海尔数字科技（青岛）有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "临沂区域总经理",
+    "department": "",
+    "last_interaction_time": "2026-03-31 12:01:44",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "香港交易及结算所",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中微公司",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "宁德时代",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "华虹公司",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "谷歌",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "英伟达",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "MiniMax",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "信达证券",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "香港交易及结算所",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "东方财富",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "伯克希尔-哈撒韦",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "工商银行",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中国平安",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中信证券",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "国泰海通",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "招商银行",
+        "time": "2026-03-26"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "580690",
     "name": "张楚泓",
     "org_name": "上海申银万国证券研究所有限公司",
@@ -16,6 +128,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "优步",
+        "time": "2026-04-06"
+      },
       {
         "company": "洲际船务",
         "time": "2025-07-03"
@@ -361,6 +477,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "永升服务",
+        "time": "2026-03-27"
+      },
+      {
         "company": "万物云",
         "time": "2026-03-17"
       },
@@ -432,6 +552,34 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国神华",
+        "time": "2026-04-02"
+      },
+      {
+        "company": "中广核电力",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中煤能源",
+        "time": "2026-03-29"
+      },
+      {
+        "company": "中国平安",
+        "time": "2026-03-29"
+      },
+      {
+        "company": "中油工程",
+        "time": "2026-03-29"
+      },
+      {
+        "company": "中广核矿业",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "农夫山泉",
+        "time": "2026-03-25"
+      },
       {
         "company": "快手-W",
         "time": "2026-03-15"
@@ -1553,7 +1701,7 @@
         "time": "2023-08-14"
       }
     ],
-    "special_companies": "中国民航信息网络,百融,绿城中国"
+    "special_companies": "中国民航信息网络,百融智能,绿城中国"
   },
   {
     "uid": "503573",
@@ -2813,7 +2961,7 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2023-03-29"
       },
       {
@@ -2845,6 +2993,6 @@
         "time": "2023-03-15"
       }
     ],
-    "special_companies": "百融,药明生物,贝泰妮"
+    "special_companies": "百融智能,药明生物,贝泰妮"
   }
 ]
