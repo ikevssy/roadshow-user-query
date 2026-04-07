@@ -47,44 +47,7 @@ interface AppState {
   resetAll: () => void;
 }
 
-// localStorage 持久化
-const FILTER_STORAGE_KEY = 'roadshow_filters';
 
-const loadFiltersFromStorage = (): Partial<FilterState> => {
-  try {
-    const stored = localStorage.getItem(FILTER_STORAGE_KEY);
-    if (stored) {
-      const parsed = JSON.parse(stored);
-      // 只加载非时间范围的筛选条件
-      return {
-        certTypes: parsed.certTypes || [],
-        orgTypes: parsed.orgTypes || [],
-        isFirstAttend: parsed.isFirstAttend ?? null,
-        // 时间范围不从存储加载
-        interactionDateRange: null,
-        applyDateRange: null,
-        attendDateRange: null,
-      };
-    }
-  } catch (e) {
-    console.warn('Failed to load filters from storage:', e);
-  }
-  return {};
-};
-
-const saveFiltersToStorage = (filters: FilterState) => {
-  try {
-    // 只保存非时间范围的筛选条件
-    const toSave = {
-      certTypes: filters.certTypes,
-      orgTypes: filters.orgTypes,
-      isFirstAttend: filters.isFirstAttend,
-    };
-    localStorage.setItem(FILTER_STORAGE_KEY, JSON.stringify(toSave));
-  } catch (e) {
-    console.warn('Failed to save filters to storage:', e);
-  }
-};
 
 const defaultFilters: FilterState = {
   certTypes: [],
@@ -100,9 +63,6 @@ const defaultQuickFilter: QuickFilterState = {
   companyOid: null,
 };
 
-// 初始化时加载保存的筛选条件
-const initialFilters = { ...defaultFilters, ...loadFiltersFromStorage() };
-
 export const useAppStore = create<AppState>((set) => ({
   companies: [],
   manifest: null,
@@ -112,7 +72,7 @@ export const useAppStore = create<AppState>((set) => ({
   selectedIndustries: [],
   dateRange: null,
   queryMode: 'select',
-  filters: initialFilters,
+  filters: defaultFilters,
   quickFilter: defaultQuickFilter,
   searchText: '',
   loading: false,
@@ -126,36 +86,20 @@ export const useAppStore = create<AppState>((set) => ({
   setSelectedIndustries: (industries) => set({ selectedIndustries: industries }),
   setDateRange: (range) => set({ dateRange: range }),
   setQueryMode: (mode) => set({ queryMode: mode }),
-  setFilters: (filters) => {
-    set((state) => {
-      const newFilters = { ...state.filters, ...filters };
-      // 保存到localStorage
-      saveFiltersToStorage(newFilters);
-      return { filters: newFilters };
-    });
-  },
-  setQuickFilter: (filter) => set((state) => ({ 
-    quickFilter: { ...state.quickFilter, ...filter } 
-  })),
+  setFilters: (filters) => set((state) => ({ filters: { ...state.filters, ...filters } })),
+  setQuickFilter: (filter) => set((state) => ({ quickFilter: { ...state.quickFilter, ...filter } })),
   setSearchText: (text) => set({ searchText: text }),
   setLoading: (loading) => set({ loading }),
   setFilterCollapsed: (collapsed) => set({ filterCollapsed: collapsed }),
-  resetFilters: () => {
-    // 重置时也清除localStorage
-    localStorage.removeItem(FILTER_STORAGE_KEY);
-    set({ filters: defaultFilters });
-  },
-  resetAll: () => {
-    localStorage.removeItem(FILTER_STORAGE_KEY);
-    set({
-      selectedCompanyOids: [],
-      selectedIndustries: [],
-      dateRange: null,
-      queryMode: 'select',
-      filters: defaultFilters,
-      quickFilter: defaultQuickFilter,
-      searchText: '',
-      filterCollapsed: true,
-    });
-  },
+  resetFilters: () => set({ filters: defaultFilters }),
+  resetAll: () => set({
+    selectedCompanyOids: [],
+    selectedIndustries: [],
+    dateRange: null,
+    queryMode: 'select',
+    filters: defaultFilters,
+    quickFilter: defaultQuickFilter,
+    searchText: '',
+    filterCollapsed: true,
+  }),
 }));
