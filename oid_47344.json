@@ -7164,6 +7164,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "BOSS直聘",
+        "time": "2026-04-07"
+      },
+      {
         "company": "敏华控股",
         "time": "2024-11-28"
       },
@@ -19566,53 +19570,6 @@
     "special_companies": "锦欣生殖"
   },
   {
-    "uid": "273123",
-    "name": "唐明",
-    "org_name": "青榕资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "投资",
-    "last_interaction_time": "2024-03-28 09:03:34",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "锦欣生殖",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "锦欣生殖（1951.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-09",
-        "meet_title": "锦欣生殖（1951.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "锦欣生殖（1951.HK）2023年度业绩发布会",
-        "duration": 11
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国同辐",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2024-05-22"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2023-03-28"
-      }
-    ],
-    "special_companies": "华润医疗,联邦制药"
-  },
-  {
     "uid": "6126",
     "name": "陈镇炎",
     "org_name": "广州市罗爵私募证券投资基金管理有限公司",
@@ -19981,6 +19938,53 @@
     "special_companies": "卓越教育集团,贝泰妮"
   },
   {
+    "uid": "273123",
+    "name": "唐明",
+    "org_name": "青榕资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "投资",
+    "last_interaction_time": "2024-03-28 09:03:34",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "锦欣生殖",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "锦欣生殖（1951.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-09",
+        "meet_title": "锦欣生殖（1951.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "锦欣生殖（1951.HK）2023年度业绩发布会",
+        "duration": 11
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国同辐",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2023-03-28"
+      }
+    ],
+    "special_companies": "华润医疗,联邦制药"
+  },
+  {
     "uid": "273416",
     "name": "王海峰",
     "org_name": "一凡投资",
@@ -20165,6 +20169,35 @@
     "special_companies": ""
   },
   {
+    "uid": "502961",
+    "name": "崔硕",
+    "org_name": "美林（亚太）有限公司",
+    "org_type": "投资银行",
+    "cert_type": "卖方分析师",
+    "position": "Associate",
+    "department": "China Healthcare Research",
+    "last_interaction_time": "2024-03-28 09:03:00",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "锦欣生殖",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "锦欣生殖（1951.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "药明生物",
+        "time": "2023-08-24"
+      }
+    ],
+    "special_companies": "药明生物"
+  },
+  {
     "uid": "607365",
     "name": "李大蔚",
     "org_name": "博灝香港有限公司",
@@ -20193,35 +20226,6 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "502961",
-    "name": "崔硕",
-    "org_name": "美林（亚太）有限公司",
-    "org_type": "投资银行",
-    "cert_type": "卖方分析师",
-    "position": "Associate",
-    "department": "China Healthcare Research",
-    "last_interaction_time": "2024-03-28 09:03:00",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "锦欣生殖",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "锦欣生殖（1951.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "药明生物",
-        "time": "2023-08-24"
-      }
-    ],
-    "special_companies": "药明生物"
   },
   {
     "uid": "7863",

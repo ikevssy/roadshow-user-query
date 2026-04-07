@@ -344,6 +344,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
+      {
         "company": "超威半导体",
         "time": "2026-02-03"
       },
@@ -30396,45 +30400,6 @@
     "special_companies": "中国船舶租赁,保利物业,美的置业"
   },
   {
-    "uid": "503939",
-    "name": "郑爽",
-    "org_name": "惠誉（北京）信用评级有限公司上海分公司",
-    "org_type": "评级服务机构",
-    "cert_type": "个人",
-    "position": "高级分析师",
-    "department": "非银金融机构评级",
-    "last_interaction_time": "2024-03-27 16:01:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-25",
-        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会"
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
-        "duration": 85
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会",
-        "duration": 71
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "272826",
     "name": "丁璨",
     "org_name": "辰杉资管",
@@ -30476,6 +30441,45 @@
         "time": "2023-05-10"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "503939",
+    "name": "郑爽",
+    "org_name": "惠誉（北京）信用评级有限公司上海分公司",
+    "org_type": "评级服务机构",
+    "cert_type": "个人",
+    "position": "高级分析师",
+    "department": "非银金融机构评级",
+    "last_interaction_time": "2024-03-27 16:01:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-25",
+        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会"
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
+        "duration": 85
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会",
+        "duration": 71
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {

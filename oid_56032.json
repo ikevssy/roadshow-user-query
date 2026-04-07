@@ -7,8 +7,8 @@
     "cert_type": "个人",
     "position": "经理",
     "department": "市场部",
-    "last_interaction_time": "2026-03-31 14:14:05",
-    "last_interaction_behavior": "报名",
+    "last_interaction_time": "2026-04-07 16:56:36",
+    "last_interaction_behavior": "参会",
     "interaction_company": "元光科技",
     "apply_count": 1,
     "apply_records": [
@@ -27,6 +27,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
       {
         "company": "超威半导体",
         "time": "2026-02-03"

@@ -5104,6 +5104,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "新世界发展",
+        "time": "2026-04-07"
+      },
+      {
         "company": "茶姬控股（霸王茶姬）",
         "time": "2025-11-27"
       },
@@ -8259,89 +8263,6 @@
     "special_companies": ""
   },
   {
-    "uid": "644745",
-    "name": "王姗姗",
-    "org_name": "深圳中纳博金私募证券基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "合伙人",
-    "department": "",
-    "last_interaction_time": "2026-03-27 08:58:56",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "百融智能",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "百融智能（6608.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2026-03-11",
-        "meet_title": "百融云创（6608.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2026-03-07",
-        "meet_title": "百融云创（6608.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2026-03-07",
-        "meet_title": "百融云创2025投资者日视频"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "百融智能（6608.HK）2025年度业绩发布会",
-        "duration": 96
-      },
-      {
-        "time": "2026-03-11",
-        "meet_title": "百融云创（6608.HK）2024年度业绩发布会",
-        "duration": 83
-      },
-      {
-        "time": "2026-03-08",
-        "meet_title": "百融云创（6608.HK）2025年中期业绩发布会",
-        "duration": 86
-      },
-      {
-        "time": "2026-03-07",
-        "meet_title": "百融云创（6608.HK）2025年中期业绩发布会",
-        "duration": 46
-      },
-      {
-        "time": "2026-03-07",
-        "meet_title": "百融云创2025投资者日视频",
-        "duration": 64
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "泉峰控股",
-        "time": "2026-03-26"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "石药集团",
-        "time": "2026-03-14"
-      },
-      {
-        "company": "亿航智能",
-        "time": "2026-03-14"
-      },
-      {
-        "company": "百融智能",
-        "time": "2026-02-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "347948",
     "name": "Sam Jones",
     "org_name": "APPLE Group",
@@ -8420,6 +8341,89 @@
       {
         "company": "中国建筑",
         "time": "2025-04-18"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "644745",
+    "name": "王姗姗",
+    "org_name": "深圳中纳博金私募证券基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "合伙人",
+    "department": "",
+    "last_interaction_time": "2026-03-27 08:58:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "百融智能",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "百融智能（6608.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2026-03-11",
+        "meet_title": "百融云创（6608.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2026-03-07",
+        "meet_title": "百融云创（6608.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2026-03-07",
+        "meet_title": "百融云创2025投资者日视频"
+      }
+    ],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "百融智能（6608.HK）2025年度业绩发布会",
+        "duration": 96
+      },
+      {
+        "time": "2026-03-11",
+        "meet_title": "百融云创（6608.HK）2024年度业绩发布会",
+        "duration": 83
+      },
+      {
+        "time": "2026-03-08",
+        "meet_title": "百融云创（6608.HK）2025年中期业绩发布会",
+        "duration": 86
+      },
+      {
+        "time": "2026-03-07",
+        "meet_title": "百融云创（6608.HK）2025年中期业绩发布会",
+        "duration": 46
+      },
+      {
+        "time": "2026-03-07",
+        "meet_title": "百融云创2025投资者日视频",
+        "duration": 64
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "泉峰控股",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "石药集团",
+        "time": "2026-03-14"
+      },
+      {
+        "company": "亿航智能",
+        "time": "2026-03-14"
+      },
+      {
+        "company": "百融智能",
+        "time": "2026-02-27"
       }
     ],
     "special_companies": ""
@@ -8775,6 +8779,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "金域医学",
+        "time": "2026-04-07"
+      },
       {
         "company": "理士国际",
         "time": "2026-04-02"

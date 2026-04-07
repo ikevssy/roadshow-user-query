@@ -1451,46 +1451,6 @@
     "special_companies": ""
   },
   {
-    "uid": "646501",
-    "name": "仲维树",
-    "org_name": "江苏金融租赁股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "市场总监",
-    "department": "工程机械部",
-    "last_interaction_time": "2026-03-27 15:07:39",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "佛朗斯股份",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会",
-        "duration": 54
-      },
-      {
-        "time": "2026-03-27",
-        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会",
-        "duration": 4
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "佛朗斯股份",
-        "time": "2026-03-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "637581",
     "name": "舒小武",
     "org_name": "深圳市达晨财智创业投资管理有限公司",
@@ -1532,6 +1492,46 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "646501",
+    "name": "仲维树",
+    "org_name": "江苏金融租赁股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "市场总监",
+    "department": "工程机械部",
+    "last_interaction_time": "2026-03-27 15:07:39",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "佛朗斯股份",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会",
+        "duration": 54
+      },
+      {
+        "time": "2026-03-27",
+        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会",
+        "duration": 4
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-03-27"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -5047,41 +5047,6 @@
     "special_companies": ""
   },
   {
-    "uid": "646455",
-    "name": "王铭慧",
-    "org_name": "玫德集团有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "业务三部项目经理",
-    "department": "",
-    "last_interaction_time": "2026-03-27 14:58:29",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "佛朗斯股份",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会",
-        "duration": 19
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "佛朗斯股份",
-        "time": "2026-03-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "632733",
     "name": "李锦慧",
     "org_name": "广州佛朗斯股份有限公司",
@@ -5130,6 +5095,41 @@
       {
         "company": "佛朗斯股份",
         "time": "2025-08-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "646455",
+    "name": "王铭慧",
+    "org_name": "玫德集团有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "业务三部项目经理",
+    "department": "",
+    "last_interaction_time": "2026-03-27 14:58:29",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "佛朗斯股份",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会",
+        "duration": 19
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-03-27"
       }
     ],
     "special_companies": ""
@@ -8622,6 +8622,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-07"
+      },
       {
         "company": "博腾股份",
         "time": "2026-04-02"

@@ -1,5 +1,145 @@
 [
   {
+    "uid": "612891",
+    "name": "陈良美",
+    "org_name": "广州高景实业投资有限公司",
+    "org_type": "实业投资",
+    "cert_type": "个人",
+    "position": "执行董事",
+    "department": "总部",
+    "last_interaction_time": "2026-04-07 10:23:26",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "阜博集团",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "博腾股份",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "建发物业",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "稀美资源",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "美团-W",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "知乎",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "快手-W",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "国泰君安国际",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "万物云",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "滴普科技",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "百望股份",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "文远知行",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "华润医药",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2024-08-30"
+      }
+    ],
+    "special_companies": "联邦制药"
+  },
+  {
     "uid": "645180",
     "name": "赵欣",
     "org_name": "个人投资者",
@@ -9422,50 +9562,6 @@
     "special_companies": ""
   },
   {
-    "uid": "431401",
-    "name": "朱登科",
-    "org_name": "杭州亘曦资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-27 10:00:46",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "阜博集团",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "阜博集团（SEHK:3738）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-11-05",
-        "meet_title": "阜博集团2025年第三季度投资者交流会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "阜博集团（SEHK:3738）2025年度业绩发布会",
-        "duration": 77
-      },
-      {
-        "time": "2025-11-05",
-        "meet_title": "阜博集团2025年第三季度投资者交流会",
-        "duration": 44
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "阜博集团",
-        "time": "2026-03-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "637150",
     "name": "纪涵宇",
     "org_name": "长城证券股份有限公司研究所",
@@ -9550,6 +9646,50 @@
       {
         "company": "阜博集团",
         "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "431401",
+    "name": "朱登科",
+    "org_name": "杭州亘曦资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2026-03-27 10:00:46",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "阜博集团",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "阜博集团（SEHK:3738）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-11-05",
+        "meet_title": "阜博集团2025年第三季度投资者交流会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "阜博集团（SEHK:3738）2025年度业绩发布会",
+        "duration": 77
+      },
+      {
+        "time": "2025-11-05",
+        "meet_title": "阜博集团2025年第三季度投资者交流会",
+        "duration": 44
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "阜博集团",
+        "time": "2026-03-27"
       }
     ],
     "special_companies": ""
@@ -9736,6 +9876,60 @@
     "special_companies": "阜博集团"
   },
   {
+    "uid": "639324",
+    "name": "颜蕾",
+    "org_name": "中经项目管理 (锦州) 有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "",
+    "last_interaction_time": "2026-03-27 10:00:45",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "阜博集团",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "阜博集团（SEHK:3738）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-11-05",
+        "meet_title": "阜博集团2025年第三季度投资者交流会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "阜博集团（SEHK:3738）2025年度业绩发布会",
+        "duration": 76
+      },
+      {
+        "time": "2026-03-27",
+        "meet_title": "阜博集团（SEHK:3738）2025年度业绩发布会",
+        "duration": 9
+      },
+      {
+        "time": "2025-11-05",
+        "meet_title": "阜博集团2025年第三季度投资者交流会",
+        "duration": 39
+      },
+      {
+        "time": "2025-11-05",
+        "meet_title": "阜博集团2025年第三季度投资者交流会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "阜博集团",
+        "time": "2026-03-20"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "634057",
     "name": "陈励耘",
     "org_name": "云南德诚建筑装饰工程有限公司",
@@ -9809,60 +10003,6 @@
       {
         "company": "阜博集团",
         "time": "2025-11-04"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "639324",
-    "name": "颜蕾",
-    "org_name": "中经项目管理 (锦州) 有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "经理",
-    "department": "",
-    "last_interaction_time": "2026-03-27 10:00:45",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "阜博集团",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "阜博集团（SEHK:3738）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-11-05",
-        "meet_title": "阜博集团2025年第三季度投资者交流会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "阜博集团（SEHK:3738）2025年度业绩发布会",
-        "duration": 76
-      },
-      {
-        "time": "2026-03-27",
-        "meet_title": "阜博集团（SEHK:3738）2025年度业绩发布会",
-        "duration": 9
-      },
-      {
-        "time": "2025-11-05",
-        "meet_title": "阜博集团2025年第三季度投资者交流会",
-        "duration": 39
-      },
-      {
-        "time": "2025-11-05",
-        "meet_title": "阜博集团2025年第三季度投资者交流会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "阜博集团",
-        "time": "2026-03-20"
       }
     ],
     "special_companies": ""
@@ -19175,6 +19315,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
+      {
         "company": "超威半导体",
         "time": "2026-02-03"
       },
@@ -21940,6 +22084,36 @@
     "special_companies": ""
   },
   {
+    "uid": "430563",
+    "name": "张轶乾",
+    "org_name": "景元天成投资控股",
+    "org_type": "财务顾问机构",
+    "cert_type": "机构投资者",
+    "position": "合伙人",
+    "department": "",
+    "last_interaction_time": "2025-11-05 17:02:42",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "阜博集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-11-04",
+        "meet_title": "阜博集团2025年第三季度投资者交流会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-11-05",
+        "meet_title": "阜博集团2025年第三季度投资者交流会",
+        "duration": 2
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "638508",
     "name": "张利斌",
     "org_name": "上海从容投资管理有限公司",
@@ -21968,36 +22142,6 @@
         "time": "2025-09-23",
         "meet_title": "阜博集团（SEHK:3738）业务进展更新",
         "duration": 15
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "430563",
-    "name": "张轶乾",
-    "org_name": "景元天成投资控股",
-    "org_type": "财务顾问机构",
-    "cert_type": "机构投资者",
-    "position": "合伙人",
-    "department": "",
-    "last_interaction_time": "2025-11-05 17:02:42",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "阜博集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-11-04",
-        "meet_title": "阜博集团2025年第三季度投资者交流会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-11-05",
-        "meet_title": "阜博集团2025年第三季度投资者交流会",
-        "duration": 2
       }
     ],
     "is_first_attend": true,
@@ -22359,6 +22503,80 @@
     "special_companies": ""
   },
   {
+    "uid": "278230",
+    "name": "严堃",
+    "org_name": "国寿安保基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2025-11-05 17:01:09",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "阜博集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-11-05",
+        "meet_title": "阜博集团2025年第三季度投资者交流会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-11-05",
+        "meet_title": "阜博集团2025年第三季度投资者交流会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "635948",
+    "name": "葛祥坤",
+    "org_name": "国发卓越(北京)投资控股有限公司",
+    "org_type": "其他私募投资基金管理人(未备案)",
+    "cert_type": "机构投资者",
+    "position": "执行事务合伙人/投资总监",
+    "department": "",
+    "last_interaction_time": "2025-11-05 17:01:09",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "阜博集团",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-11-04",
+        "meet_title": "阜博集团2025年第三季度投资者交流会"
+      },
+      {
+        "time": "2025-08-13",
+        "meet_title": "阜博集团（SEHK:3738）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-08-29",
+        "meet_title": "阜博集团（SEHK:3738）2025年中期业绩发布会",
+        "duration": 18
+      },
+      {
+        "time": "2025-07-15",
+        "meet_title": "阜博集团（03738.HK）投资者交流会 | 路演大会 · 第八季",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "阜博集团",
+        "time": "2025-07-15"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "612595",
     "name": "王谦",
     "org_name": "中交地产有限公司",
@@ -22428,80 +22646,6 @@
       }
     ],
     "special_companies": "阜博集团"
-  },
-  {
-    "uid": "635948",
-    "name": "葛祥坤",
-    "org_name": "国发卓越(北京)投资控股有限公司",
-    "org_type": "其他私募投资基金管理人(未备案)",
-    "cert_type": "机构投资者",
-    "position": "执行事务合伙人/投资总监",
-    "department": "",
-    "last_interaction_time": "2025-11-05 17:01:09",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "阜博集团",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-11-04",
-        "meet_title": "阜博集团2025年第三季度投资者交流会"
-      },
-      {
-        "time": "2025-08-13",
-        "meet_title": "阜博集团（SEHK:3738）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-08-29",
-        "meet_title": "阜博集团（SEHK:3738）2025年中期业绩发布会",
-        "duration": 18
-      },
-      {
-        "time": "2025-07-15",
-        "meet_title": "阜博集团（03738.HK）投资者交流会 | 路演大会 · 第八季",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "阜博集团",
-        "time": "2025-07-15"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "278230",
-    "name": "严堃",
-    "org_name": "国寿安保基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2025-11-05 17:01:09",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "阜博集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-11-05",
-        "meet_title": "阜博集团2025年第三季度投资者交流会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-11-05",
-        "meet_title": "阜博集团2025年第三季度投资者交流会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "270177",
@@ -22754,84 +22898,6 @@
     "special_companies": ""
   },
   {
-    "uid": "606071",
-    "name": "陈洋洋",
-    "org_name": "耕霁(上海)投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
-    "position": "助理",
-    "department": "",
-    "last_interaction_time": "2025-11-05 17:00:58",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "阜博集团",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-11-05",
-        "meet_title": "阜博集团2025年第三季度投资者交流会"
-      },
-      {
-        "time": "2024-11-15",
-        "meet_title": "阜博集团（SEHK：3738）2024年第三季度投资者交流会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-11-05",
-        "meet_title": "阜博集团2025年第三季度投资者交流会",
-        "duration": 47
-      },
-      {
-        "time": "2024-11-15",
-        "meet_title": "阜博集团（SEHK：3738）2024年第三季度投资者交流会",
-        "duration": 32
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "335046",
-    "name": "刘晔",
-    "org_name": "嘉实基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "裕远投资管理中心",
-    "last_interaction_time": "2025-11-05 17:00:58",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "阜博集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-11-05",
-        "meet_title": "阜博集团2025年第三季度投资者交流会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-11-05",
-        "meet_title": "阜博集团2025年第三季度投资者交流会",
-        "duration": 46
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "工业富联",
-        "time": "2025-11-05"
-      },
-      {
-        "company": "阜博集团",
-        "time": "2025-11-05"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "634462",
     "name": "黎君仪",
     "org_name": "广东正圆私募基金管理有限公司",
@@ -22933,6 +22999,84 @@
         "time": "2025-07-14"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "335046",
+    "name": "刘晔",
+    "org_name": "嘉实基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "裕远投资管理中心",
+    "last_interaction_time": "2025-11-05 17:00:58",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "阜博集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-11-05",
+        "meet_title": "阜博集团2025年第三季度投资者交流会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-11-05",
+        "meet_title": "阜博集团2025年第三季度投资者交流会",
+        "duration": 46
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2025-11-05"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2025-11-05"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "606071",
+    "name": "陈洋洋",
+    "org_name": "耕霁(上海)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "助理",
+    "department": "",
+    "last_interaction_time": "2025-11-05 17:00:58",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "阜博集团",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-11-05",
+        "meet_title": "阜博集团2025年第三季度投资者交流会"
+      },
+      {
+        "time": "2024-11-15",
+        "meet_title": "阜博集团（SEHK：3738）2024年第三季度投资者交流会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-11-05",
+        "meet_title": "阜博集团2025年第三季度投资者交流会",
+        "duration": 47
+      },
+      {
+        "time": "2024-11-15",
+        "meet_title": "阜博集团（SEHK：3738）2024年第三季度投资者交流会",
+        "duration": 32
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -23289,40 +23433,6 @@
     "special_companies": ""
   },
   {
-    "uid": "494572",
-    "name": "张浏",
-    "org_name": "上海宽远资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2025-11-05 17:00:56",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "阜博集团",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-11-04",
-        "meet_title": "阜博集团2025年第三季度投资者交流会"
-      },
-      {
-        "time": "2025-08-29",
-        "meet_title": "【现场参会】阜博集团（SEHK:3738）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-11-05",
-        "meet_title": "阜博集团2025年第三季度投资者交流会",
-        "duration": 42
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "637081",
     "name": "刘玉洁",
     "org_name": "招商证券股份有限公司",
@@ -23359,6 +23469,40 @@
         "time": "2025-11-05"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "494572",
+    "name": "张浏",
+    "org_name": "上海宽远资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2025-11-05 17:00:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "阜博集团",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-11-04",
+        "meet_title": "阜博集团2025年第三季度投资者交流会"
+      },
+      {
+        "time": "2025-08-29",
+        "meet_title": "【现场参会】阜博集团（SEHK:3738）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-11-05",
+        "meet_title": "阜博集团2025年第三季度投资者交流会",
+        "duration": 42
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {

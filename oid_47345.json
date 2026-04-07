@@ -7425,6 +7425,45 @@
     "special_companies": ""
   },
   {
+    "uid": "632545",
+    "name": "普开良",
+    "org_name": "深圳市兴海荣投资有限公司",
+    "org_type": "实业投资",
+    "cert_type": "个人",
+    "position": "行业分析师",
+    "department": "研究部",
+    "last_interaction_time": "2026-04-01 09:59:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中广核新能源",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华住集团-S",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中电控股",
+        "time": "2025-08-04"
+      }
+    ],
+    "special_companies": "华住集团-S"
+  },
+  {
     "uid": "645469",
     "name": "徐佳",
     "org_name": "杭州荣泽石资产管理有限公司",
@@ -7506,45 +7545,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "632545",
-    "name": "普开良",
-    "org_name": "深圳市兴海荣投资有限公司",
-    "org_type": "实业投资",
-    "cert_type": "个人",
-    "position": "行业分析师",
-    "department": "研究部",
-    "last_interaction_time": "2026-04-01 09:59:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中广核新能源",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-04-01",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "华住集团-S",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中电控股",
-        "time": "2025-08-04"
-      }
-    ],
-    "special_companies": "华住集团-S"
   },
   {
     "uid": "283465",
@@ -8633,6 +8633,41 @@
     "special_companies": ""
   },
   {
+    "uid": "642971",
+    "name": "陆文瑶",
+    "org_name": "中国广核新能源控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "綜合管理部行政助理",
+    "department": "",
+    "last_interaction_time": "2026-04-01 09:59:34",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中广核新能源",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
+        "duration": 20
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "580985",
     "name": "田刚",
     "org_name": "中国人保资产管理有限公司",
@@ -8679,41 +8714,6 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": "中广核新能源"
-  },
-  {
-    "uid": "642971",
-    "name": "陆文瑶",
-    "org_name": "中国广核新能源控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "綜合管理部行政助理",
-    "department": "",
-    "last_interaction_time": "2026-04-01 09:59:34",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中广核新能源",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-04-01",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
-        "duration": 20
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中广核新能源",
-        "time": "2026-03-27"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "579743",
@@ -38914,6 +38914,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "BOSS直聘",
+        "time": "2026-04-07"
+      },
       {
         "company": "敏华控股",
         "time": "2024-11-28"

@@ -1,5 +1,34 @@
 [
   {
+    "uid": "646995",
+    "name": "饶富英",
+    "org_name": "腾讯新闻",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "编辑",
+    "department": "产经组",
+    "last_interaction_time": "2026-04-07 16:27:43",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "507260",
     "name": "刘忠勋",
     "org_name": "上海货力资产管理有限公司",
@@ -1285,35 +1314,6 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "646995",
-    "name": "饶富英",
-    "org_name": "腾讯新闻",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "编辑",
-    "department": "产经组",
-    "last_interaction_time": "2026-03-31 20:32:37",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "茶姬控股（霸王茶姬）",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "茶姬控股（霸王茶姬）",
-        "time": "2026-03-31"
-      }
-    ],
     "special_companies": ""
   },
   {
@@ -4915,6 +4915,10 @@
     "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "新世界发展",
+        "time": "2026-04-07"
+      },
       {
         "company": "茶姬控股（霸王茶姬）",
         "time": "2025-11-27"

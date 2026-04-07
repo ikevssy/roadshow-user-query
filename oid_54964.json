@@ -4442,6 +4442,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "腾讯控股",
+        "time": "2026-04-07"
+      },
+      {
         "company": "博腾股份",
         "time": "2026-04-02"
       },
@@ -4916,82 +4920,6 @@
       }
     ],
     "special_companies": "思路迪医药股份"
-  },
-  {
-    "uid": "275660",
-    "name": "朱莉",
-    "org_name": "天津天骏投资有限公司",
-    "org_type": "未分类",
-    "cert_type": "个人",
-    "position": "执行董事",
-    "department": "投资部",
-    "last_interaction_time": "2025-11-13 17:01:15",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "晶泰控股",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中国海油",
-        "time": "2026-03-12"
-      },
-      {
-        "company": "晶泰控股",
-        "time": "2025-11-13"
-      },
-      {
-        "company": "中化化肥",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "微创医疗",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "宁德时代",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "中烟香港",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "小鹏汽车-W",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2025-08-18"
-      }
-    ],
-    "special_companies": "联邦制药"
   },
   {
     "uid": "637021",
