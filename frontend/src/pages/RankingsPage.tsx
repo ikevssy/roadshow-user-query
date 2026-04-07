@@ -109,8 +109,13 @@ export function RankingsPage() {
 
   // 时间过滤
   const filterByTimeRange = (data: (RankingApply | RankingEffect | RankingConversion)[]) => {
+    console.log('[filterByTimeRange] called with data.length:', data.length, 'timeRange:', timeRange, 'activeTab:', activeTab);
+    
     // 热门公司榜没有start_time字段，跳过时间过滤
-    if (activeTab === 'conversion') return data;
+    if (activeTab === 'conversion') {
+      console.log('[filterByTimeRange] conversion tab - skipping filter');
+      return data;
+    }
     if (data.length === 0) return data;
 
     const now = dayjs();
@@ -146,17 +151,30 @@ export function RankingsPage() {
         end = now.endOf('month');
         break;
       default:
+        console.log('[filterByTimeRange] default case - returning all data');
         return data;
     }
 
-    return data.filter(item => {
+    console.log('[filterByTimeRange] date range:', start.format('YYYY-MM-DD'), 'to', end.format('YYYY-MM-DD'));
+
+    const filtered = data.filter(item => {
       const st = (item as any).start_time;
-      if (!st) return true;
+      if (!st) {
+        console.log('[filterByTimeRange] item has no start_time, keeping');
+        return true;
+      }
       const itemTime = dayjs(st);
-      if (!itemTime.isValid()) return true;
+      if (!itemTime.isValid()) {
+        console.log('[filterByTimeRange] itemTime invalid, keeping');
+        return true;
+      }
       const inRange = (itemTime.isAfter(start) || itemTime.isSame(start)) && (itemTime.isBefore(end) || itemTime.isSame(end));
+      console.log('[filterByTimeRange] item:', st, 'inRange:', inRange);
       return inRange;
     });
+    
+    console.log('[filterByTimeRange] result:', filtered.length);
+    return filtered;
   };
 
   const getSortedData = () => {

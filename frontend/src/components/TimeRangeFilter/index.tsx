@@ -22,6 +22,11 @@ interface TimeRangeFilterProps {
 }
 
 export function TimeRangeFilter({ value, onChange }: TimeRangeFilterProps) {
+  const handleClick = (key: string) => {
+    console.log('[TimeRangeFilter] onChange called with:', key);
+    onChange(key);
+  };
+  
   return (
     <div className={styles.container}>
       <span className={styles.label}>时间范围：</span>
@@ -31,7 +36,7 @@ export function TimeRangeFilter({ value, onChange }: TimeRangeFilterProps) {
             key={option.key}
             type={value === option.key ? 'primary' : 'default'}
             size="small"
-            onClick={() => onChange(option.key)}
+            onClick={() => handleClick(option.key)}
           >
             {option.label}
           </Button>
