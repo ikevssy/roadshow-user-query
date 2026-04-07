@@ -234,6 +234,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国同辐",
+        "time": "2026-03-30"
+      },
+      {
         "company": "联邦制药",
         "time": "2024-05-22"
       },
@@ -357,7 +361,7 @@
         "time": "2024-07-12"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2024-06-28"
       },
       {
@@ -365,7 +369,7 @@
         "time": "2024-05-23"
       }
     ],
-    "special_companies": "环球医疗,百融,远东宏信"
+    "special_companies": "环球医疗,百融智能,远东宏信"
   },
   {
     "uid": "495864",
@@ -1247,6 +1251,30 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "百望股份",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2026-03-25"
+      },
+      {
         "company": "亿胜生物科技",
         "time": "2026-03-24"
       },
@@ -1916,6 +1944,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "希玛眼科",
+        "time": "2026-03-30"
+      },
+      {
         "company": "海底捞",
         "time": "2026-03-20"
       },
@@ -2255,85 +2287,6 @@
     "special_companies": ""
   },
   {
-    "uid": "606542",
-    "name": "周彬",
-    "org_name": "北京明希资本管理有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "投资部",
-    "last_interaction_time": "2024-05-22 15:00:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "健之佳",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-05-16",
-        "meet_title": "健之佳（605266.SH）投资者推介会｜华安医药 x 路演中"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-05-22",
-        "meet_title": "健之佳（605266.SH）投资者推介会｜华安医药 x 路演中",
-        "duration": 50
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "康哲药业",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "亿胜生物科技",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "美丽田园",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "医思健康",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "完美医疗",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "药明生物",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "时代天使",
-        "time": "2025-03-24"
-      },
-      {
-        "company": "四环医药",
-        "time": "2025-02-13"
-      },
-      {
-        "company": "京新药业",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "健之佳",
-        "time": "2024-05-21"
-      },
-      {
-        "company": "华安医药",
-        "time": "2024-03-06"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2024-02-27"
-      }
-    ],
-    "special_companies": "华安医药,联邦制药"
-  },
-  {
     "uid": "1353",
     "name": "刘树祥",
     "org_name": "深圳慧利资产管理有限公司",
@@ -2371,6 +2324,18 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "保利物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中国人保",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中信证券",
+        "time": "2026-03-31"
+      },
       {
         "company": "国泰君安国际",
         "time": "2026-03-23"
@@ -2531,20 +2496,20 @@
     "special_companies": "中国建筑,中国银河证券股份研究所,华森制药,博腾股份,周黑鸭,碧桂园,贝泰妮,顺丰同城"
   },
   {
-    "uid": "506468",
-    "name": "赵则芬",
-    "org_name": "财通证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "研究所医药研究员",
-    "department": "",
-    "last_interaction_time": "2024-05-22 15:00:31",
+    "uid": "606542",
+    "name": "周彬",
+    "org_name": "北京明希资本管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "投资部",
+    "last_interaction_time": "2024-05-22 15:00:32",
     "last_interaction_behavior": "参会",
     "interaction_company": "健之佳",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2024-05-22",
+        "time": "2024-05-16",
         "meet_title": "健之佳（605266.SH）投资者推介会｜华安医药 x 路演中"
       }
     ],
@@ -2553,17 +2518,65 @@
       {
         "time": "2024-05-22",
         "meet_title": "健之佳（605266.SH）投资者推介会｜华安医药 x 路演中",
-        "duration": 28
+        "duration": 50
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "华润医药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "美丽田园",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "医思健康",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "完美医疗",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "药明生物",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "时代天使",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "四环医药",
+        "time": "2025-02-13"
+      },
+      {
+        "company": "京新药业",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "健之佳",
+        "time": "2024-05-21"
+      },
+      {
+        "company": "华安医药",
+        "time": "2024-03-06"
+      },
+      {
         "company": "联邦制药",
-        "time": "2024-05-22"
+        "time": "2024-02-27"
       }
     ],
-    "special_companies": "联邦制药"
+    "special_companies": "华安医药,联邦制药"
   },
   {
     "uid": "258619",
@@ -2673,6 +2686,41 @@
     "special_companies": "中红医疗,北陆药业"
   },
   {
+    "uid": "506468",
+    "name": "赵则芬",
+    "org_name": "财通证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "研究所医药研究员",
+    "department": "",
+    "last_interaction_time": "2024-05-22 15:00:31",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "健之佳",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-05-22",
+        "meet_title": "健之佳（605266.SH）投资者推介会｜华安医药 x 路演中"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-05-22",
+        "meet_title": "健之佳（605266.SH）投资者推介会｜华安医药 x 路演中",
+        "duration": 28
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "联邦制药",
+        "time": "2024-05-22"
+      }
+    ],
+    "special_companies": "联邦制药"
+  },
+  {
     "uid": "608438",
     "name": "徐其枫",
     "org_name": "北京明希资本管理有限公司",
@@ -2724,6 +2772,18 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "舜宇光学科技",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "小马智行",
+        "time": "2026-03-26"
+      },
       {
         "company": "地平线机器人",
         "time": "2026-03-19"

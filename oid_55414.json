@@ -1,5 +1,45 @@
 [
   {
+    "uid": "644745",
+    "name": "王姗姗",
+    "org_name": "深圳中纳博金私募证券基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "合伙人",
+    "department": "",
+    "last_interaction_time": "2026-03-26 12:23:13",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "泉峰控股",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "泉峰控股",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "石药集团",
+        "time": "2026-03-14"
+      },
+      {
+        "company": "亿航智能",
+        "time": "2026-03-14"
+      },
+      {
+        "company": "百融智能",
+        "time": "2026-02-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "278504",
     "name": "何麗敏",
     "org_name": "民银国际资产管理(北京)有限公司",
@@ -156,6 +196,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2026-03-28"
+      },
       {
         "company": "香港中旅",
         "time": "2026-03-19"
@@ -637,6 +681,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "华虹公司",
+        "time": "2026-03-30"
+      },
+      {
         "company": "滴普科技",
         "time": "2026-03-23"
       },
@@ -873,7 +921,7 @@
         "time": "2024-09-06"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2024-09-04"
       },
       {
@@ -881,7 +929,7 @@
         "time": "2024-09-04"
       }
     ],
-    "special_companies": "中国民航信息网络,比亚迪,百融"
+    "special_companies": "中国民航信息网络,比亚迪,百融智能"
   },
   {
     "uid": "635716",

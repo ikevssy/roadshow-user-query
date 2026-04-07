@@ -1,173 +1,255 @@
 [
   {
-    "uid": "424658",
-    "name": "宋雲喆",
-    "org_name": "中信建投（国际）资产管理有限公司",
-    "org_type": "券商资管",
+    "uid": "507260",
+    "name": "刘忠勋",
+    "org_name": "上海货力资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
     "cert_type": "机构投资者",
-    "position": "投資經理",
-    "department": "",
-    "last_interaction_time": "2026-02-25 09:53:17",
+    "position": "执行董事",
+    "department": "投资部",
+    "last_interaction_time": "2026-04-07 08:52:22",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "南山铝业国际",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "中国心连心化肥",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "中煤能源",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "中国海油",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "中国太保",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "中国人保",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "快手-W",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "隆基股份",
+        "time": "2025-09-28"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-09-28"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-09-28"
+      },
+      {
+        "company": "TCL中环",
+        "time": "2025-09-28"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2025-09-28"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-09-28"
+      },
+      {
+        "company": "同程旅行",
+        "time": "2025-09-28"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-09-28"
+      },
+      {
+        "company": "阅文集团",
+        "time": "2025-09-21"
+      },
+      {
+        "company": "宁德时代",
+        "time": "2025-09-21"
+      },
+      {
+        "company": "诺普信",
+        "time": "2025-09-09"
+      },
+      {
+        "company": "长江电力",
+        "time": "2025-09-02"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2025-07-01"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-06-24"
+      },
+      {
+        "company": "美的集团",
+        "time": "2025-06-24"
+      },
+      {
+        "company": "卫龙美味",
+        "time": "2025-06-24"
+      },
+      {
+        "company": "五粮液",
+        "time": "2025-06-24"
+      },
+      {
+        "company": "泸州老窖",
+        "time": "2025-06-24"
+      },
+      {
+        "company": "中国移动",
+        "time": "2025-05-15"
+      },
+      {
+        "company": "工商银行",
+        "time": "2025-05-15"
+      },
+      {
+        "company": "安踏体育",
+        "time": "2025-04-28"
+      },
+      {
+        "company": "李宁",
+        "time": "2025-04-28"
+      },
+      {
+        "company": "涪陵榨菜",
+        "time": "2025-04-28"
+      },
+      {
+        "company": "重庆啤酒",
+        "time": "2025-04-28"
+      },
+      {
+        "company": "贵州茅台",
+        "time": "2025-04-28"
+      },
+      {
+        "company": "中微公司",
+        "time": "2025-04-25"
+      },
+      {
+        "company": "极兔速递-W",
+        "time": "2025-04-25"
+      },
+      {
+        "company": "网易云音乐",
+        "time": "2025-04-25"
+      },
+      {
+        "company": "英伟达",
+        "time": "2025-04-25"
+      },
+      {
+        "company": "特斯拉",
+        "time": "2025-04-25"
+      },
+      {
+        "company": "华虹公司",
+        "time": "2025-04-25"
+      },
+      {
+        "company": "顺丰控股",
+        "time": "2025-03-29"
+      },
+      {
+        "company": "中国平安",
+        "time": "2025-01-13"
+      },
+      {
+        "company": "理想汽车-w",
+        "time": "2025-01-05"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2025-01-05"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-01-05"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-01-05"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-01-05"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-01-05"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-01-05"
+      },
+      {
+        "company": "敏华控股",
+        "time": "2025-01-05"
+      },
+      {
+        "company": "美团-W",
+        "time": "2025-01-05"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2024-11-18"
+      }
+    ],
+    "special_companies": "小米集团-W"
+  },
+  {
+    "uid": "645270",
+    "name": "賈昭陽",
+    "org_name": "东信投资",
+    "org_type": "未分类",
+    "cert_type": "机构投资者",
+    "position": "副经理",
+    "department": "投资部",
+    "last_interaction_time": "2026-04-06 14:39:41",
     "last_interaction_behavior": "报名",
     "interaction_company": "茶姬控股（霸王茶姬）",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2026-02-25",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-02-25",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
-        "duration": 14
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "新希望服务",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "龙湖集团",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "贝壳",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "万物云",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "招商蛇口",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-05-15"
-      },
-      {
-        "company": "新世界发展",
-        "time": "2023-11-14"
-      }
-    ],
-    "special_companies": "卓越商企服务"
-  },
-  {
-    "uid": "34699",
-    "name": "吴兰",
-    "org_name": "上海源铄股权投资基金管理有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "副总经理",
-    "department": "总经办",
-    "last_interaction_time": "2026-02-24 10:32:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "茶姬控股（霸王茶姬）",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-02-24",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-02-24",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "牧原股份",
-        "time": "2026-02-24"
-      },
-      {
-        "company": "三只松鼠",
-        "time": "2026-02-24"
-      },
-      {
-        "company": "歌尔微电子",
-        "time": "2026-02-24"
-      },
-      {
-        "company": "印象大红袍",
-        "time": "2026-02-24"
-      },
-      {
-        "company": "希迪智驾",
-        "time": "2026-02-24"
-      },
-      {
-        "company": "比亚迪",
-        "time": "2025-07-09"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-07-09"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-07-09"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-07-09"
-      },
-      {
-        "company": "海昌海洋公园",
-        "time": "2025-06-19"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "585484",
-    "name": "Charles Wong Kok M",
-    "org_name": "大马投资银行",
-    "org_type": "境外银行",
-    "cert_type": "服务机构",
-    "position": "Equity Fund Manager,Investment Management",
-    "department": "private banking",
-    "last_interaction_time": "2026-01-31 13:33:25",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "茶姬控股（霸王茶姬）",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-01-31",
+        "time": "2026-04-06",
         "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
       }
     ],
@@ -176,290 +258,372 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "锅圈",
-        "time": "2026-01-31"
+        "company": "名创优品",
+        "time": "2026-03-30"
       },
       {
         "company": "泡泡玛特",
-        "time": "2026-01-31"
+        "time": "2026-03-29"
       },
       {
-        "company": "黑芝麻智能",
-        "time": "2026-01-31"
+        "company": "康臣药业",
+        "time": "2026-03-29"
       },
       {
-        "company": "中芯国际",
-        "time": "2025-05-06"
+        "company": "亿胜生物科技",
+        "time": "2026-03-29"
       },
       {
-        "company": "海底捞",
-        "time": "2025-05-05"
+        "company": "中国心连心化肥",
+        "time": "2026-03-27"
       },
       {
-        "company": "华润啤酒",
-        "time": "2025-05-05"
+        "company": "小米集团-W",
+        "time": "2026-03-20"
       },
       {
-        "company": "美团-W",
-        "time": "2024-01-29"
+        "company": "中国民航信息网络",
+        "time": "2026-03-20"
       },
       {
-        "company": "比亚迪电子",
-        "time": "2024-01-29"
+        "company": "小鹏汽车-W",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2026-03-16"
       },
       {
         "company": "腾讯控股",
-        "time": "2023-12-22"
+        "time": "2026-03-16"
       },
       {
-        "company": "百度",
-        "time": "2023-11-21"
+        "company": "贝壳",
+        "time": "2026-03-16"
       },
       {
-        "company": "比亚迪",
-        "time": "2023-11-21"
+        "company": "联邦制药",
+        "time": "2026-03-16"
       }
     ],
-    "special_companies": "比亚迪,比亚迪电子"
+    "special_companies": ""
   },
   {
-    "uid": "13536",
-    "name": "刘琦雯",
-    "org_name": "宁波市浪石投资控股有限公司",
+    "uid": "341221",
+    "name": "蒋博",
+    "org_name": "深圳市坤厚私募证券投资基金管理有限公司",
     "org_type": "私募证券投资基金管理人",
     "cert_type": "机构投资者",
-    "position": "助理研究员",
+    "position": "风控负责人",
     "department": "",
-    "last_interaction_time": "2026-01-17 22:17:02",
-    "last_interaction_behavior": "报名",
+    "last_interaction_time": "2026-04-01 18:44:45",
+    "last_interaction_behavior": "参会",
     "interaction_company": "茶姬控股（霸王茶姬）",
-    "apply_count": 2,
+    "apply_count": 1,
     "apply_records": [
       {
-        "time": "2026-01-17",
-        "meet_title": "霸王茶姬（CHA.US）2025年第二季度业绩电话会"
-      },
-      {
-        "time": "2026-01-17",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
       }
     ],
-    "attend_count": 2,
+    "attend_count": 1,
     "attend_records": [
       {
-        "time": "2026-01-17",
-        "meet_title": "霸王茶姬（CHA.US）2025年第二季度业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2026-01-17",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
-        "duration": 33
+        "time": "2026-04-01",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 3
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
         "company": "茶姬控股（霸王茶姬）",
-        "time": "2026-01-17"
+        "time": "2026-03-31"
       },
       {
-        "company": "美光科技",
-        "time": "2025-09-23"
+        "company": "中海物业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "昂跑",
+        "time": "2025-11-12"
+      },
+      {
+        "company": "鸣鸣很忙集团",
+        "time": "2025-11-03"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "中国生物科技服务",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "中国平安",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "牧原股份",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "途牛",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "天风证券研究所",
+        "time": "2025-05-06"
+      },
+      {
+        "company": "思治企业咨询",
+        "time": "2025-05-06"
+      },
+      {
+        "company": "达美乐披萨",
+        "time": "2025-02-24"
+      },
+      {
+        "company": "英伟达",
+        "time": "2025-02-24"
+      },
+      {
+        "company": "招商银行",
+        "time": "2024-08-29"
+      },
+      {
+        "company": "百融智能",
+        "time": "2024-08-19"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2024-03-04"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2024-02-29"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2023-11-30"
+      },
+      {
+        "company": "美团-W",
+        "time": "2023-11-29"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2023-11-20"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2023-11-20"
+      },
+      {
+        "company": "头豹研究院",
+        "time": "2023-11-17"
+      }
+    ],
+    "special_companies": "新世界发展"
+  },
+  {
+    "uid": "608940",
+    "name": "段匡哲",
+    "org_name": "杭州附加值投资管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "财务经理",
+    "department": "",
+    "last_interaction_time": "2026-04-01 17:27:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2026-03-31"
       }
     ],
     "special_companies": ""
   },
   {
-    "uid": "581331",
-    "name": "史万青",
-    "org_name": "汇信资本投资管理（深圳）有限公司",
-    "org_type": "私募证券投资基金管理人",
+    "uid": "433505",
+    "name": "李鹏",
+    "org_name": "瑞银证券有限责任公司",
+    "org_type": "证券公司",
     "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "投资部",
-    "last_interaction_time": "2025-12-11 13:40:39",
+    "position": "董事总经理",
+    "department": "证券承销保荐上海分公司全球投资银行部",
+    "last_interaction_time": "2026-04-01 15:58:23",
     "last_interaction_behavior": "报名",
     "interaction_company": "茶姬控股（霸王茶姬）",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2025-12-11",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
+        "time": "2026-04-01",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
       }
     ],
     "attend_count": 1,
     "attend_records": [
       {
-        "time": "2025-12-11",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
-        "duration": 0
+        "time": "2026-04-01",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 4
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中信证券",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "英伟达",
+        "time": "2026-03-18"
+      },
+      {
         "company": "富途控股",
-        "time": "2026-03-12"
+        "time": "2026-03-18"
       },
       {
-        "company": "阜博集团",
-        "time": "2026-02-27"
+        "company": "快手-W",
+        "time": "2026-03-18"
       },
       {
-        "company": "江南布衣",
-        "time": "2026-02-25"
+        "company": "MiniMax",
+        "time": "2026-03-18"
       },
       {
-        "company": "达力普控股",
-        "time": "2026-01-12"
-      },
-      {
-        "company": "赛力斯",
-        "time": "2025-12-11"
-      },
-      {
-        "company": "中国太保",
-        "time": "2025-12-11"
-      },
-      {
-        "company": "美团-W",
-        "time": "2025-11-27"
-      },
-      {
-        "company": "特斯拉",
-        "time": "2025-11-27"
-      },
-      {
-        "company": "平安基金",
-        "time": "2024-12-11"
+        "company": "京东工业",
+        "time": "2026-02-26"
       },
       {
         "company": "泡泡玛特",
-        "time": "2024-11-25"
+        "time": "2025-08-21"
       },
       {
-        "company": "滨海投资",
-        "time": "2024-11-20"
+        "company": "中国燃气",
+        "time": "2025-06-18"
       },
       {
-        "company": "药明生物",
-        "time": "2024-11-12"
+        "company": "中国石化",
+        "time": "2025-03-24"
       },
       {
-        "company": "京东健康",
-        "time": "2024-11-12"
+        "company": "途虎养车",
+        "time": "2025-03-20"
       },
       {
-        "company": "卓越教育集团",
-        "time": "2024-03-28"
+        "company": "乐信",
+        "time": "2025-03-20"
       },
       {
-        "company": "协合新能源",
-        "time": "2024-03-06"
+        "company": "中国平安",
+        "time": "2025-03-19"
       },
       {
-        "company": "保利物业",
-        "time": "2023-08-23"
+        "company": "万国数据服务",
+        "time": "2025-02-20"
       },
       {
-        "company": "名创优品",
-        "time": "2023-08-22"
+        "company": "腾讯控股",
+        "time": "2024-08-14"
       },
       {
-        "company": "森松国际",
-        "time": "2023-08-21"
+        "company": "宏信建发",
+        "time": "2024-08-08"
       },
       {
-        "company": "荔枝",
-        "time": "2023-08-15"
-      },
-      {
-        "company": "微盟集团",
-        "time": "2023-08-15"
-      },
-      {
-        "company": "华夏视听教育",
-        "time": "2023-07-31"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-07-27"
+        "company": "平安好医生",
+        "time": "2024-03-18"
       }
     ],
-    "special_companies": "中国民航信息网络,保利物业,协合新能源,卓越教育集团,畅捷通,赛晶科技"
+    "special_companies": "宏信建发,腾讯控股"
   },
   {
-    "uid": "633163",
-    "name": "张龙宇",
-    "org_name": "稳泰资本",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
+    "uid": "636273",
+    "name": "敬子志",
+    "org_name": "个人投资者",
+    "org_type": "未分类",
+    "cert_type": "个人",
+    "position": "博士",
     "department": "",
-    "last_interaction_time": "2025-12-04 10:41:22",
+    "last_interaction_time": "2026-04-01 13:28:43",
     "last_interaction_behavior": "参会",
     "interaction_company": "茶姬控股（霸王茶姬）",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2025-11-27",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
       }
     ],
     "attend_count": 1,
     "attend_records": [
       {
-        "time": "2025-12-04",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
-        "duration": 0
+        "time": "2026-04-01",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 68
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "瑞幸咖啡",
-        "time": "2025-11-17"
-      },
-      {
-        "company": "中广核技",
-        "time": "2025-10-28"
-      },
-      {
-        "company": "星巴克",
-        "time": "2025-10-28"
-      },
-      {
-        "company": "金风科技",
-        "time": "2025-10-22"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2025-08-18"
+        "company": "比亚迪",
+        "time": "2026-04-01"
       }
     ],
     "special_companies": ""
   },
   {
-    "uid": "360236",
-    "name": "李宇",
-    "org_name": "丰胜资产管理有限公司",
-    "org_type": "境外资产管理公司",
+    "uid": "274508",
+    "name": "何富荣",
+    "org_name": "云映资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
     "cert_type": "机构投资者",
-    "position": "资深合伙人",
+    "position": "投资分析员",
     "department": "",
-    "last_interaction_time": "2025-12-03 11:40:02",
+    "last_interaction_time": "2026-03-31 23:21:57",
     "last_interaction_behavior": "参会",
     "interaction_company": "茶姬控股（霸王茶姬）",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2025-11-25",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
       }
     ],
     "attend_count": 1,
@@ -467,111 +631,144 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "百融",
-        "time": "2025-08-28"
+        "company": "中国同辐",
+        "time": "2026-03-25"
       },
       {
-        "company": "锦欣生殖",
-        "time": "2025-08-25"
+        "company": "子不语",
+        "time": "2026-03-25"
       },
       {
-        "company": "建发国际集团",
-        "time": "2025-08-25"
+        "company": "平安好医生",
+        "time": "2026-03-25"
       },
       {
-        "company": "卓越教育集团",
-        "time": "2025-08-22"
+        "company": "小马智行",
+        "time": "2026-03-25"
       },
       {
-        "company": "滨江服务",
-        "time": "2025-08-22"
+        "company": "中海物业",
+        "time": "2026-03-25"
       },
       {
-        "company": "IGG INC",
-        "time": "2025-05-26"
+        "company": "中国有色矿业",
+        "time": "2026-03-25"
       },
       {
-        "company": "建发物业",
-        "time": "2025-03-28"
+        "company": "滴普科技",
+        "time": "2026-03-18"
       },
       {
-        "company": "融创服务",
-        "time": "2023-08-22"
+        "company": "满帮",
+        "time": "2026-03-18"
       },
       {
-        "company": "宝龙商业",
-        "time": "2023-05-07"
+        "company": "微软",
+        "time": "2026-03-07"
       },
       {
-        "company": "金茂服务",
-        "time": "2023-04-23"
-      }
-    ],
-    "special_companies": "IGG INC,宝龙商业,建发物业,融创服务,金茂服务"
-  },
-  {
-    "uid": "283448",
-    "name": "黄锐",
-    "org_name": "开域投资咨询（上海）有限公司",
-    "org_type": "财务顾问机构",
-    "cert_type": "服务机构",
-    "position": "副总裁",
-    "department": "",
-    "last_interaction_time": "2025-12-01 11:04:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "茶姬控股（霸王茶姬）",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-11-28",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-11-28",
-        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
-        "duration": 40
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "腾讯控股",
-        "time": "2026-03-16"
+        "company": "超威半导体",
+        "time": "2026-03-07"
       },
       {
-        "company": "鸣鸣很忙集团",
-        "time": "2025-09-01"
+        "company": "META",
+        "time": "2026-03-07"
+      },
+      {
+        "company": "MiniMax",
+        "time": "2026-03-07"
       },
       {
         "company": "贝壳",
-        "time": "2025-08-18"
+        "time": "2026-03-07"
       },
       {
-        "company": "名创优品",
-        "time": "2025-08-18"
+        "company": "京东健康",
+        "time": "2026-03-04"
       },
       {
-        "company": "华住集团-S",
-        "time": "2025-08-18"
+        "company": "博通",
+        "time": "2026-03-04"
       },
       {
-        "company": "泡泡玛特",
-        "time": "2025-08-18"
+        "company": "维亚生物",
+        "time": "2026-01-18"
       },
       {
-        "company": "富途控股",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-08-18"
+        "company": "中国春来教育集团",
+        "time": "2026-01-14"
       },
       {
         "company": "零跑汽车",
+        "time": "2025-11-20"
+      },
+      {
+        "company": null,
+        "time": "2025-11-20"
+      },
+      {
+        "company": "赤子城科技",
+        "time": "2025-11-13"
+      },
+      {
+        "company": "开市客",
+        "time": "2025-09-19"
+      },
+      {
+        "company": "美光科技",
+        "time": "2025-09-19"
+      },
+      {
+        "company": "九方智投控股",
+        "time": "2025-08-30"
+      },
+      {
+        "company": "邮储银行",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "英伟达",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "华润医药",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "奈雪的茶",
         "time": "2025-08-18"
+      },
+      {
+        "company": "美的集团",
+        "time": "2025-07-31"
+      },
+      {
+        "company": "中银香港",
+        "time": "2025-07-31"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2025-07-31"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-05-07"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-05-07"
+      },
+      {
+        "company": "特海国际",
+        "time": "2024-12-25"
+      },
+      {
+        "company": "恒隆地产",
+        "time": "2024-09-08"
       }
     ],
     "special_companies": ""
@@ -584,11 +781,15 @@
     "cert_type": "卖方分析师",
     "position": "分析師",
     "department": "研究部",
-    "last_interaction_time": "2025-11-30 15:36:04",
-    "last_interaction_behavior": "参会",
+    "last_interaction_time": "2026-03-31 23:00:14",
+    "last_interaction_behavior": "报名",
     "interaction_company": "茶姬控股（霸王茶姬）",
-    "apply_count": 2,
+    "apply_count": 3,
     "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      },
       {
         "time": "2025-11-26",
         "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
@@ -598,8 +799,13 @@
         "meet_title": "霸王茶姬（CHA.US）2025年第二季度业绩电话会"
       }
     ],
-    "attend_count": 2,
+    "attend_count": 3,
     "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 0
+      },
       {
         "time": "2025-11-30",
         "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
@@ -1045,6 +1251,3203 @@
       }
     ],
     "special_companies": "中粮家佳康,九毛九,五谷磨房,卓越教育集团,呷哺呷哺,日清食品,茶姬控股（霸王茶姬）,达登饭店"
+  },
+  {
+    "uid": "334993",
+    "name": "岳家琛",
+    "org_name": "搜狐公司",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "高级编辑",
+    "department": "搜狐财经",
+    "last_interaction_time": "2026-03-31 21:16:39",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 42
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "646995",
+    "name": "饶富英",
+    "org_name": "腾讯新闻",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "编辑",
+    "department": "产经组",
+    "last_interaction_time": "2026-03-31 20:32:37",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "637572",
+    "name": "陈文冠",
+    "org_name": "浙江国恬私募基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2026-03-31 20:26:29",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "雅生活服务",
+        "time": "2026-04-02"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "永升服务",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "6126",
+    "name": "陈镇炎",
+    "org_name": "广州市罗爵私募证券投资基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资总监",
+    "department": "",
+    "last_interaction_time": "2026-03-31 20:25:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "佳鑫国际资源",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "国泰海通",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2025-10-29"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2025-09-26"
+      },
+      {
+        "company": "华检医疗",
+        "time": "2025-09-21"
+      },
+      {
+        "company": "平安银行",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "李宁",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "卓正医疗",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "蓝思科技",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "云迹科技",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "云知声",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "奇瑞汽车",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "鸣鸣很忙集团",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "微医控股",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "中国移动",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "诺和诺德",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "亚信科技",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "中国黄金国际",
+        "time": "2025-04-08"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "极兔速递-W",
+        "time": "2025-03-05"
+      },
+      {
+        "company": "再鼎医药",
+        "time": "2025-03-04"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2025-01-21"
+      },
+      {
+        "company": "万物新生（爱回收）",
+        "time": "2024-12-17"
+      },
+      {
+        "company": "VinFast",
+        "time": "2024-12-17"
+      },
+      {
+        "company": "药师帮",
+        "time": "2024-10-16"
+      },
+      {
+        "company": "中国交建",
+        "time": "2024-09-02"
+      },
+      {
+        "company": "招商银行",
+        "time": "2024-09-02"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "中国平安",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "强生",
+        "time": "2024-01-24"
+      },
+      {
+        "company": "中金公司研究所",
+        "time": "2023-11-22"
+      },
+      {
+        "company": "快手-W",
+        "time": "2023-11-22"
+      },
+      {
+        "company": "名创优品",
+        "time": "2023-11-21"
+      },
+      {
+        "company": "一品红",
+        "time": "2023-11-21"
+      },
+      {
+        "company": "满帮",
+        "time": "2023-11-20"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2023-11-17"
+      },
+      {
+        "company": "中国动向",
+        "time": "2023-11-17"
+      },
+      {
+        "company": "腾盛博药",
+        "time": "2023-11-17"
+      },
+      {
+        "company": "网易",
+        "time": "2023-11-16"
+      },
+      {
+        "company": "思睿集团",
+        "time": "2023-11-16"
+      },
+      {
+        "company": "诺辉健康",
+        "time": "2023-11-13"
+      },
+      {
+        "company": "创金合信基金",
+        "time": "2023-11-13"
+      },
+      {
+        "company": "广发基金",
+        "time": "2023-11-13"
+      },
+      {
+        "company": "Unity",
+        "time": "2023-11-10"
+      },
+      {
+        "company": "国元国际",
+        "time": "2023-11-09"
+      },
+      {
+        "company": "21世纪教育",
+        "time": "2023-09-01"
+      },
+      {
+        "company": "贝壳",
+        "time": "2023-08-31"
+      },
+      {
+        "company": "锦欣生殖",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "敏华控股",
+        "time": "2023-05-15"
+      },
+      {
+        "company": "百果园集团",
+        "time": "2023-05-12"
+      },
+      {
+        "company": "深高速",
+        "time": "2023-05-12"
+      },
+      {
+        "company": "百得利",
+        "time": "2023-05-12"
+      },
+      {
+        "company": "中国波顿",
+        "time": "2023-05-11"
+      },
+      {
+        "company": "九毛九",
+        "time": "2023-05-11"
+      },
+      {
+        "company": "头豹研究院",
+        "time": "2023-05-11"
+      },
+      {
+        "company": "迪士尼",
+        "time": "2023-05-11"
+      },
+      {
+        "company": "英恒科技",
+        "time": "2023-05-11"
+      },
+      {
+        "company": "理想汽车-w",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "德琪医药",
+        "time": "2023-05-09"
+      },
+      {
+        "company": "三生制药",
+        "time": "2023-05-09"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2023-05-09"
+      },
+      {
+        "company": "南方基金",
+        "time": "2023-05-08"
+      },
+      {
+        "company": "百奥赛图",
+        "time": "2023-05-08"
+      },
+      {
+        "company": "三生国健",
+        "time": "2023-05-08"
+      },
+      {
+        "company": "长江电力",
+        "time": "2023-05-08"
+      },
+      {
+        "company": "碧桂园",
+        "time": "2023-04-06"
+      },
+      {
+        "company": "博时基金",
+        "time": "2023-04-06"
+      },
+      {
+        "company": "星盛商业",
+        "time": "2023-03-31"
+      },
+      {
+        "company": "华润医药",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "贝康医疗",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "VESYNC",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "贝泰妮",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "三亚思睿金融控股集团有限公司（",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "金山软件",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "百融智能",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "华尔街见闻",
+        "time": "2023-03-21"
+      }
+    ],
+    "special_companies": "卓越教育集团,贝泰妮"
+  },
+  {
+    "uid": "573198",
+    "name": "左宇",
+    "org_name": "国际金融报",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "编辑",
+    "department": "",
+    "last_interaction_time": "2026-03-31 20:14:23",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 6
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "牧原股份",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "五粮液",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "三只松鼠",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "海底捞",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "GAP",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "李宁",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "重庆啤酒",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "圣农发展",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "好想你",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "探路者",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "华润啤酒",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "广州酒家",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "荷美尔食品",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "永旺(香港)百货",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "澳优",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "中国旺旺",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "波奇宠物",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "味好美",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "高鑫零售",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "中国圣牧",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "奥康国际",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "海澜之家",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "开市客",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "道道全",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "豫园股份",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "沃尔玛",
+        "time": "2025-08-04"
+      },
+      {
+        "company": "三元股份",
+        "time": "2025-08-04"
+      },
+      {
+        "company": "特海国际",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-03-21"
+      },
+      {
+        "company": "麦当劳",
+        "time": "2024-07-29"
+      },
+      {
+        "company": "百胜中国",
+        "time": "2024-07-29"
+      },
+      {
+        "company": "珀莱雅",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "江南布衣",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "李维斯",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "361度",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "耐克",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "普拉达",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "斯凯奇",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "波司登",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "中粮家佳康",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "九毛九",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "奈雪的茶",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "百果园集团",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "可口可乐",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "百事",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "达美乐披萨",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "好时",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "星巴克",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "百威亚太",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "理想汽车-w",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "丰田",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "本田汽车",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "法拉利",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "通用汽车",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "蔚来",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "吉利汽车",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "福特",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "汽车之家",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "长城汽车",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "广汽集团",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "东风集团股份",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "五菱汽车",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "上汽集团",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "长安汽车",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "华润置地",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "特斯拉",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "小牛电动",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "贝壳",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "中国海外发展",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "碧桂园",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-13"
+      }
+    ],
+    "special_companies": "万物云,中国海外宏洋集团,九毛九,新鸿基公司,珀莱雅,百果园集团"
+  },
+  {
+    "uid": "576211",
+    "name": "黎凯宁",
+    "org_name": "泰霖私募基金管理（海南）有限公司",
+    "org_type": "私募资产配置类管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "泰霖投资",
+    "last_interaction_time": "2026-03-31 20:12:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 4
+      },
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城服务",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "李宁",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "网易云音乐",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "协鑫科技",
+        "time": "2024-08-22"
+      },
+      {
+        "company": "隆基股份",
+        "time": "2024-08-22"
+      },
+      {
+        "company": "金科服务",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "融创服务",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-03-25"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2024-03-25"
+      },
+      {
+        "company": "永升服务",
+        "time": "2024-03-25"
+      }
+    ],
+    "special_companies": "万物云,世茂服务,招商银行,新城悦服务,滨江服务,碧桂园服务,融创服务,金科服务,雅生活服务"
+  },
+  {
+    "uid": "574947",
+    "name": "蒋志云",
+    "org_name": "容云资本",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "创始合伙人",
+    "department": "",
+    "last_interaction_time": "2026-03-31 20:10:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 50
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "香港中旅",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "圣贝拉",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "不同集团",
+        "time": "2025-12-08"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "达势股份",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2025-03-21"
+      },
+      {
+        "company": "极氪",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "康基医疗",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "美团-W",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "思治企业咨询",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "连连数字",
+        "time": "2024-12-19"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2024-10-08"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "汇通达网络",
+        "time": "2023-03-23"
+      }
+    ],
+    "special_companies": "中国船舶租赁,康基医疗,思治企业咨询,汇通达网络,联邦制药,艾美疫苗,连连数字"
+  },
+  {
+    "uid": "612903",
+    "name": "钟毅勇",
+    "org_name": "广州城市摩登家商业物业经营有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "项目经理",
+    "department": "",
+    "last_interaction_time": "2026-03-31 20:03:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 59
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "小米集团-W",
+        "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "610446",
+    "name": "张林晚",
+    "org_name": "耕霁(上海)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "市场部助理",
+    "department": "",
+    "last_interaction_time": "2026-03-31 20:02:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 72
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "606071",
+    "name": "陈洋洋",
+    "org_name": "耕霁(上海)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "助理",
+    "department": "",
+    "last_interaction_time": "2026-03-31 20:01:02",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会",
+        "duration": 72
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "7863",
+    "name": "黄向前",
+    "org_name": "深圳市尚诚资产管理有限责任公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2026-03-31 19:29:13",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "百望股份",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "路演中",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "子不语",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "鼎捷数智",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "大位科技",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "锅圈",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "九方智投控股",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "药捷安康",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "晶泰控股",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "顺丰同城",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "蔚来",
+        "time": "2025-09-02"
+      },
+      {
+        "company": "中广核技",
+        "time": "2025-08-31"
+      },
+      {
+        "company": "贝康医疗",
+        "time": "2025-08-31"
+      },
+      {
+        "company": "招商银行",
+        "time": "2025-08-31"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2025-08-31"
+      },
+      {
+        "company": "招商局商业房托",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "中国生物科技服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "Zoom",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "沃尔玛",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "伟仕佳杰",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "友邦保险",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "香港中华煤气",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "百度",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "爱奇艺",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "爱康医疗",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "华润医药",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "九源基因",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "工业富联",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "药师帮",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "华安医药",
+        "time": "2024-03-07"
+      }
+    ],
+    "special_companies": "中国民航信息网络,华安医药"
+  },
+  {
+    "uid": "634415",
+    "name": "吳雋詩",
+    "org_name": "花旗商业银行",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "副總裁",
+    "department": "工業組",
+    "last_interaction_time": "2026-03-31 18:12:21",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "鸿远电子",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-30"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "424964",
+    "name": "蘇迪航",
+    "org_name": "中投国际(香港)有限公司",
+    "org_type": "主权财富基金",
+    "cert_type": "机构投资者",
+    "position": "高級經理",
+    "department": "股票投資部",
+    "last_interaction_time": "2026-03-31 17:28:49",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": null,
+        "time": "2026-03-25"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中国电信",
+        "time": "2024-08-20"
+      },
+      {
+        "company": "邮储银行",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "珀莱雅",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "拼多多",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "中海物业",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "锦欣生殖",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "网易",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "网易云音乐",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "保利物业",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "百度",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "快手-W",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "华虹公司",
+        "time": "2023-08-10"
+      },
+      {
+        "company": "JS环球生活",
+        "time": "2023-08-09"
+      },
+      {
+        "company": "中国联通",
+        "time": "2023-08-09"
+      },
+      {
+        "company": "越秀地产",
+        "time": "2023-04-20"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2023-04-20"
+      },
+      {
+        "company": "台积电",
+        "time": "2023-04-20"
+      },
+      {
+        "company": "招商银行",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "美团-W",
+        "time": "2023-03-23"
+      }
+    ],
+    "special_companies": "中国人寿,中国电信,中国通信服务,中海物业,保利物业,珀莱雅"
+  },
+  {
+    "uid": "424658",
+    "name": "宋雲喆",
+    "org_name": "中信建投（国际）资产管理有限公司",
+    "org_type": "券商资管",
+    "cert_type": "机构投资者",
+    "position": "投資經理",
+    "department": "",
+    "last_interaction_time": "2026-03-31 16:59:19",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      },
+      {
+        "time": "2026-02-25",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-02-25",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
+        "duration": 14
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "建发物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "龙湖集团",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "万物云",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-05-15"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2023-11-14"
+      }
+    ],
+    "special_companies": "卓越商企服务"
+  },
+  {
+    "uid": "498962",
+    "name": "张苗",
+    "org_name": "招银国际证券有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "副总裁",
+    "department": "研究部",
+    "last_interaction_time": "2026-03-31 15:58:33",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-31"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "581447",
+    "name": "新闻记者证",
+    "org_name": "«国际金融报»社",
+    "org_type": null,
+    "cert_type": "媒体",
+    "position": "记者",
+    "department": "",
+    "last_interaction_time": "2026-03-31 15:22:55",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "农夫山泉",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "伊利股份",
+        "time": "2023-09-01"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "334863",
+    "name": "孙婉秋",
+    "org_name": "国际金融报",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "主任",
+    "department": "公司新闻采编二部",
+    "last_interaction_time": "2026-03-31 15:19:27",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "283223",
+    "name": "陈泽华",
+    "org_name": "野村国际(香港)有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "analyst",
+    "department": "",
+    "last_interaction_time": "2026-03-31 14:56:05",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-31"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "585076",
+    "name": "谭倩盈",
+    "org_name": "沸点资本",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资合伙人",
+    "department": "",
+    "last_interaction_time": "2026-03-31 13:46:00",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中煤能源",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "鸿远电子",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "农业银行",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "美光科技",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "网易云音乐",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "万豪国际酒店",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "特海国际",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "优步",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中国石油",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "英国石油",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "西方石油",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "斯伦贝谢（中国）投资",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "美国铝业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "宝洁",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "俄铝",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中化化肥",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "金力永磁",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "南山铝业国际",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中国海油",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "富途控股",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "国泰君安国际",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中信证券",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "三只松鼠",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "开市客",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "蔚来",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "宁德时代",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "理想汽车-w",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "阅文集团",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "MiniMax",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "建设银行",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "香港中旅",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "协鑫科技",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "国泰海通",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "申万宏源",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "招商银行",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "稀美资源",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中国人保",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "光大证券",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中国太保",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "小马智行",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "佳鑫国际资源",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "毛戈平",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "快手-W",
+        "time": "2024-07-19"
+      },
+      {
+        "company": "新东方",
+        "time": "2024-07-19"
+      },
+      {
+        "company": "美团-W",
+        "time": "2024-07-19"
+      },
+      {
+        "company": "交个朋友控股",
+        "time": "2024-07-19"
+      },
+      {
+        "company": "国证国际证券(香港)研究所",
+        "time": "2023-11-07"
+      }
+    ],
+    "special_companies": "中国人寿,交个朋友控股,国证国际证券(香港)研究所,百果园集团,腾讯控股"
+  },
+  {
+    "uid": "645678",
+    "name": "肖宇辰",
+    "org_name": "广州糖克乐龄健康食品有限公司",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "总经理",
+    "department": "端男民族汉",
+    "last_interaction_time": "2026-03-26 11:02:43",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "国泰海通",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "交个朋友控股",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "日清食品",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "达美乐披萨",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "开市客",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "微博-SW",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "华领医药-B",
+        "time": "2026-03-26"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "275609",
+    "name": "翁小娟",
+    "org_name": "深圳市林园投资管理有限责任公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "总助",
+    "department": "",
+    "last_interaction_time": "2026-03-25 13:39:56",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "深圳控股",
+        "time": "2026-03-29"
+      },
+      {
+        "company": "锦江酒店",
+        "time": "2026-03-29"
+      },
+      {
+        "company": "美年健康",
+        "time": "2026-03-29"
+      },
+      {
+        "company": "华测检测",
+        "time": "2026-03-29"
+      },
+      {
+        "company": "宁德时代",
+        "time": "2026-03-29"
+      },
+      {
+        "company": null,
+        "time": "2026-03-28"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "卡夫亨氏",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "雅诗兰黛",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "唯品会",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "锅圈",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "百胜中国",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中金公司研究所",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "知乎",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "MiniMax",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "京东健康",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "恒安国际",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中信建投证券研究所",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "东吴证券研究所",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "国泰海通",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "黄山旅游",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "美的集团",
+        "time": "2025-06-22"
+      },
+      {
+        "company": "邮储银行",
+        "time": "2025-04-13"
+      },
+      {
+        "company": "标普全球",
+        "time": "2025-04-12"
+      },
+      {
+        "company": "申万宏源",
+        "time": "2025-04-11"
+      },
+      {
+        "company": "招商证券",
+        "time": "2025-04-01"
+      },
+      {
+        "company": "东方财富",
+        "time": "2025-04-01"
+      },
+      {
+        "company": "同花顺",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "建设银行",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "农业银行",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "工商银行",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "上实发展",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "上实城市开发",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "上海实业控股",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "中信银行",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "雅培",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "强生",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "百度",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "光大证券研究所",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "交通银行",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "微博-SW",
+        "time": "2025-03-23"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-03-23"
+      },
+      {
+        "company": "太极集团",
+        "time": "2025-03-22"
+      },
+      {
+        "company": "中烟香港",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "中国燃气",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "中国水务",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "默沙东",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "诺华制药",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "礼来",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "辉瑞",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "深高速",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "贝莱德集团",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "摩根大通",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "花旗",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "高盛",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "富国银行",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "摩根士丹利",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "联合健康",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "诺和诺德",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "谷歌",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "特斯拉",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "亚马逊",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "可口可乐",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "百威亚太",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "开市客",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "普拉达",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "药师帮",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "中国联通",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "康基医疗",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "中国电信",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "五菱汽车",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "中国移动",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "华润医药",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "国泰君安国际",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "日清食品",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "美的置业",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "敏华控股",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-03-18"
+      }
+    ],
+    "special_companies": "中烟香港,美的集团"
+  },
+  {
+    "uid": "34699",
+    "name": "吴兰",
+    "org_name": "上海源铄股权投资基金管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "副总经理",
+    "department": "总经办",
+    "last_interaction_time": "2026-02-24 10:32:27",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-02-24",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-02-24",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "牧原股份",
+        "time": "2026-02-24"
+      },
+      {
+        "company": "三只松鼠",
+        "time": "2026-02-24"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2026-02-24"
+      },
+      {
+        "company": "印象大红袍",
+        "time": "2026-02-24"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-02-24"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2025-07-09"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-07-09"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-07-09"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-07-09"
+      },
+      {
+        "company": "海昌海洋公园",
+        "time": "2025-06-19"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "585484",
+    "name": "Charles Wong Kok M",
+    "org_name": "大马投资银行",
+    "org_type": "境外银行",
+    "cert_type": "服务机构",
+    "position": "Equity Fund Manager,Investment Management",
+    "department": "private banking",
+    "last_interaction_time": "2026-01-31 13:33:25",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-01-31",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中微公司",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "协鑫科技",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "宁德时代",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "MiniMax",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "开市客",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "锅圈",
+        "time": "2026-01-31"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2026-01-31"
+      },
+      {
+        "company": "黑芝麻智能",
+        "time": "2026-01-31"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2025-05-06"
+      },
+      {
+        "company": "海底捞",
+        "time": "2025-05-05"
+      },
+      {
+        "company": "华润啤酒",
+        "time": "2025-05-05"
+      },
+      {
+        "company": "美团-W",
+        "time": "2024-01-29"
+      },
+      {
+        "company": "比亚迪电子",
+        "time": "2024-01-29"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2023-12-22"
+      },
+      {
+        "company": "百度",
+        "time": "2023-11-21"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2023-11-21"
+      }
+    ],
+    "special_companies": "比亚迪,比亚迪电子"
+  },
+  {
+    "uid": "13536",
+    "name": "刘琦雯",
+    "org_name": "宁波市浪石投资控股有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "助理研究员",
+    "department": "",
+    "last_interaction_time": "2026-01-17 22:17:02",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-01-17",
+        "meet_title": "霸王茶姬（CHA.US）2025年第二季度业绩电话会"
+      },
+      {
+        "time": "2026-01-17",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-01-17",
+        "meet_title": "霸王茶姬（CHA.US）2025年第二季度业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2026-01-17",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
+        "duration": 33
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-01-17"
+      },
+      {
+        "company": "美光科技",
+        "time": "2025-09-23"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "581331",
+    "name": "史万青",
+    "org_name": "汇信资本投资管理（深圳）有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "投资部",
+    "last_interaction_time": "2025-12-11 13:40:39",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-12-11",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-12-11",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "富途控股",
+        "time": "2026-03-12"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-02-27"
+      },
+      {
+        "company": "江南布衣",
+        "time": "2026-02-25"
+      },
+      {
+        "company": "达力普控股",
+        "time": "2026-01-12"
+      },
+      {
+        "company": "赛力斯",
+        "time": "2025-12-11"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-12-11"
+      },
+      {
+        "company": "美团-W",
+        "time": "2025-11-27"
+      },
+      {
+        "company": "特斯拉",
+        "time": "2025-11-27"
+      },
+      {
+        "company": "平安基金",
+        "time": "2024-12-11"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2024-11-25"
+      },
+      {
+        "company": "滨海投资",
+        "time": "2024-11-20"
+      },
+      {
+        "company": "药明生物",
+        "time": "2024-11-12"
+      },
+      {
+        "company": "京东健康",
+        "time": "2024-11-12"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2024-03-06"
+      },
+      {
+        "company": "保利物业",
+        "time": "2023-08-23"
+      },
+      {
+        "company": "名创优品",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "森松国际",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "荔枝",
+        "time": "2023-08-15"
+      },
+      {
+        "company": "微盟集团",
+        "time": "2023-08-15"
+      },
+      {
+        "company": "华夏视听教育",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-07-27"
+      }
+    ],
+    "special_companies": "中国民航信息网络,保利物业,协合新能源,卓越教育集团,畅捷通,赛晶科技"
+  },
+  {
+    "uid": "633163",
+    "name": "张龙宇",
+    "org_name": "稳泰资本",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2025-12-04 10:41:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-11-27",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-12-04",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "瑞幸咖啡",
+        "time": "2025-11-17"
+      },
+      {
+        "company": "中广核技",
+        "time": "2025-10-28"
+      },
+      {
+        "company": "星巴克",
+        "time": "2025-10-28"
+      },
+      {
+        "company": "金风科技",
+        "time": "2025-10-22"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-08-18"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "360236",
+    "name": "李宇",
+    "org_name": "丰胜资产管理有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "资深合伙人",
+    "department": "",
+    "last_interaction_time": "2025-12-03 11:40:02",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-11-25",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "百融智能",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "锦欣生殖",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "IGG INC",
+        "time": "2025-05-26"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-05-07"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2023-04-23"
+      }
+    ],
+    "special_companies": "IGG INC,宝龙商业,建发物业,融创服务,金茂服务"
+  },
+  {
+    "uid": "283448",
+    "name": "黄锐",
+    "org_name": "开域投资咨询（上海）有限公司",
+    "org_type": "财务顾问机构",
+    "cert_type": "服务机构",
+    "position": "副总裁",
+    "department": "",
+    "last_interaction_time": "2025-12-01 11:04:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "茶姬控股（霸王茶姬）",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-11-28",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-11-28",
+        "meet_title": "霸王茶姬 (CHA.US) 2025年第三季度业绩电话会",
+        "duration": 40
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "鸣鸣很忙集团",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-18"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "639921",
@@ -1684,6 +5087,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "比亚迪",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-31"
+      },
+      {
         "company": "神州控股",
         "time": "2025-09-05"
       },
@@ -1802,6 +5213,22 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-26"
+      },
       {
         "company": "路演中",
         "time": "2026-01-13"
@@ -2055,7 +5482,7 @@
         "time": "2023-03-27"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2023-03-22"
       },
       {
@@ -2063,7 +5490,7 @@
         "time": "2023-03-17"
       }
     ],
-    "special_companies": "21世纪教育,万物云,东曜药业,中国太保,中广核新能源,中粮家佳康,九毛九,医脉通,华夏视听教育,华润医疗,华润医药,卓越教育集团,周黑鸭,呷哺呷哺,四环医药,国元国际,国证国际证券(香港)研究所,宝龙商业,康哲药业,康臣药业,敏华控股,新鸿基公司,日清食品,明源云,永升服务,浦林成山,深高速,玄武云,环球医疗,百融,维亚生物,联邦制药,英恒科技,赢家时尚,雅生活服务,顺丰同城"
+    "special_companies": "21世纪教育,万物云,东曜药业,中国太保,中广核新能源,中粮家佳康,九毛九,医脉通,华夏视听教育,华润医疗,华润医药,卓越教育集团,周黑鸭,呷哺呷哺,四环医药,国元国际,国证国际证券(香港)研究所,宝龙商业,康哲药业,康臣药业,敏华控股,新鸿基公司,日清食品,明源云,永升服务,浦林成山,深高速,玄武云,环球医疗,百融智能,维亚生物,联邦制药,英恒科技,赢家时尚,雅生活服务,顺丰同城"
   },
   {
     "uid": "278504",
@@ -3414,6 +6841,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "锦江酒店",
+        "time": "2026-04-01"
+      },
       {
         "company": "美光科技",
         "time": "2026-03-17"

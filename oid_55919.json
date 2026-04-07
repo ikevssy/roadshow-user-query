@@ -1,5 +1,41 @@
 [
   {
+    "uid": "494154",
+    "name": "马毓泽",
+    "org_name": "招银国际证券有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "分析员",
+    "department": "",
+    "last_interaction_time": "2026-03-27 20:09:08",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "HashKey",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "HashKey",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中国人保",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中国太保",
+        "time": "2023-04-29"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2023-03-30"
+      }
+    ],
+    "special_companies": "中国人寿"
+  },
+  {
     "uid": "346709",
     "name": "解元",
     "org_name": "德意志银行",
@@ -165,7 +201,7 @@
         "time": "2023-08-26"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2023-07-28"
       },
       {
@@ -229,7 +265,7 @@
         "time": "2023-03-17"
       }
     ],
-    "special_companies": "东方证券,中信证券,中国人保,中国人寿,中国太保,众安在线,国泰君安国际,招商银行,申万宏源,百融,绿城中国,绿城服务"
+    "special_companies": "东方证券,中信证券,中国人保,中国人寿,中国太保,众安在线,国泰君安国际,招商银行,申万宏源,百融智能,绿城中国,绿城服务"
   },
   {
     "uid": "276920",
@@ -476,6 +512,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2026-03-26"
+      },
       {
         "company": "亚马逊",
         "time": "2026-02-05"

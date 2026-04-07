@@ -1,5 +1,117 @@
 [
   {
+    "uid": "278027",
+    "name": "肖正",
+    "org_name": "深圳控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "资深经理",
+    "department": "资本运营部",
+    "last_interaction_time": "2026-03-27 19:35:01",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "晶泰控股",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "晶泰控股",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "安踏体育",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "谷歌",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "646053",
+    "name": "刘幸",
+    "org_name": "广州日报报业集团",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "记者",
+    "department": "经济新闻中心",
+    "last_interaction_time": "2026-03-25 16:10:38",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "晶泰控股",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "贝康医疗",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "晶泰控股",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "华润医药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "645845",
     "name": "周飞屹",
     "org_name": "Flynew Bio inc",
@@ -397,6 +509,18 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "希迪智驾",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "建设银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "交通银行",
+        "time": "2026-03-27"
+      },
+      {
         "company": "IGG INC",
         "time": "2026-03-16"
       },
@@ -701,7 +825,7 @@
         "time": "2025-08-12"
       },
       {
-        "company": "中国罕王",
+        "company": "罕王黄金",
         "time": "2025-08-12"
       },
       {
@@ -765,7 +889,7 @@
         "time": "2025-03-18"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2025-03-18"
       },
       {
@@ -1084,6 +1208,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "深圳控股",
+        "time": "2026-03-31"
+      },
       {
         "company": "地平线机器人",
         "time": "2026-03-19"
@@ -1464,6 +1592,30 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "百望股份",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2026-03-25"
+      },
       {
         "company": "亿胜生物科技",
         "time": "2026-03-24"
@@ -2495,7 +2647,7 @@
         "time": "2023-03-29"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2023-03-24"
       }
     ],
@@ -2670,6 +2822,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "联邦制药",
+        "time": "2026-03-28"
+      },
+      {
         "company": "银诺医药",
         "time": "2026-03-24"
       }
@@ -2756,6 +2912,18 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "佳鑫国际资源",
+        "time": "2026-03-26"
+      },
       {
         "company": "中国人寿",
         "time": "2026-03-18"
@@ -2989,6 +3157,26 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "稀美资源",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2026-03-27"
+      },
       {
         "company": "银诺医药",
         "time": "2026-01-16"
@@ -3502,7 +3690,7 @@
         "time": "2023-03-23"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2023-03-23"
       },
       {
@@ -3518,7 +3706,7 @@
         "time": "2023-03-21"
       }
     ],
-    "special_companies": "中国心连心化肥,心玮医疗,百融,药明生物"
+    "special_companies": "中国心连心化肥,心玮医疗,百融智能,药明生物"
   },
   {
     "uid": "25985",
@@ -3648,7 +3836,7 @@
         "time": "2025-08-11"
       },
       {
-        "company": "中国罕王",
+        "company": "罕王黄金",
         "time": "2025-08-11"
       },
       {
@@ -3761,6 +3949,54 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "博腾股份",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中煤能源",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "兖州煤业",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "邮储银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "农业银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中国平安",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "鸿远电子",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "建设银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "交通银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中信股份",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-26"
+      },
+      {
         "company": "滨江服务",
         "time": "2026-03-20"
       },
@@ -3813,7 +4049,7 @@
         "time": "2026-03-17"
       },
       {
-        "company": "中国罕王",
+        "company": "罕王黄金",
         "time": "2026-03-17"
       },
       {
@@ -4206,6 +4442,34 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "博腾股份",
+        "time": "2026-04-02"
+      },
+      {
+        "company": "美光科技",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "中信证券",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-03-28"
+      },
+      {
         "company": "大位科技",
         "time": "2026-01-06"
       },
@@ -4246,6 +4510,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-31"
+      },
       {
         "company": "协鑫科技",
         "time": "2026-03-24"
@@ -4743,6 +5011,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国平安",
+        "time": "2026-03-27"
+      },
+      {
         "company": "申万宏源证券研究所",
         "time": "2026-02-05"
       },
@@ -4866,6 +5138,26 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国金茂",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "吉利汽车",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-03-26"
+      },
       {
         "company": "哔哩哔哩",
         "time": "2025-08-18"

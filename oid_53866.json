@@ -28,6 +28,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "招商银行",
+        "time": "2026-03-30"
+      },
+      {
         "company": "腾讯控股",
         "time": "2026-03-15"
       },
@@ -1136,6 +1140,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国同辐",
+        "time": "2026-03-30"
+      },
+      {
         "company": "联邦制药",
         "time": "2024-05-22"
       },
@@ -1283,7 +1291,7 @@
         "time": "2024-07-12"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2024-06-28"
       },
       {
@@ -1291,7 +1299,7 @@
         "time": "2024-05-23"
       }
     ],
-    "special_companies": "环球医疗,百融,远东宏信"
+    "special_companies": "环球医疗,百融智能,远东宏信"
   },
   {
     "uid": "9906",
@@ -1350,7 +1358,7 @@
         "time": "2024-03-22"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2023-11-21"
       }
     ],
@@ -1414,6 +1422,18 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "佳鑫国际资源",
+        "time": "2026-03-26"
+      },
       {
         "company": "中国人寿",
         "time": "2026-03-18"
@@ -3288,36 +3308,6 @@
     "special_companies": "亿胜生物科技,加科思,康哲药业,康基医疗,归创通桥,思派健康,泰恩康,联邦制药,药师帮"
   },
   {
-    "uid": "610446",
-    "name": "张林晚",
-    "org_name": "耕霁(上海)投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
-    "position": "市场部助理",
-    "department": "",
-    "last_interaction_time": "2024-05-23 15:01:07",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "普门科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-05-21",
-        "meet_title": "普门科技（688389.SH）投资者推介会｜华安医药 x 路演中"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-05-23",
-        "meet_title": "普门科技（688389.SH）投资者推介会｜华安医药 x 路演中",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "250375",
     "name": "路永光",
     "org_name": "上海丰仓股权投资基金管理有限公司",
@@ -3358,6 +3348,36 @@
         "time": "2023-03-31"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "610446",
+    "name": "张林晚",
+    "org_name": "耕霁(上海)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "市场部助理",
+    "department": "",
+    "last_interaction_time": "2024-05-23 15:01:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "普门科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-05-21",
+        "meet_title": "普门科技（688389.SH）投资者推介会｜华安医药 x 路演中"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-05-23",
+        "meet_title": "普门科技（688389.SH）投资者推介会｜华安医药 x 路演中",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -3453,6 +3473,30 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "百望股份",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2026-03-25"
+      },
       {
         "company": "亿胜生物科技",
         "time": "2026-03-24"

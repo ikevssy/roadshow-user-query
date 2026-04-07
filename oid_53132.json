@@ -301,6 +301,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "金风科技",
+        "time": "2026-03-28"
+      },
+      {
         "company": "香港中旅",
         "time": "2026-03-19"
       },
@@ -1437,6 +1441,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "国泰君安国际",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "兴证国际",
+        "time": "2026-03-25"
+      },
+      {
         "company": "国泰海通",
         "time": "2026-03-22"
       },
@@ -1481,7 +1493,7 @@
     "name": "周朋",
     "org_name": "武汉山水私募基金有限公司",
     "org_type": "私募证券投资基金管理人",
-    "cert_type": "上市公司",
+    "cert_type": "机构投资者",
     "position": "研究经理",
     "department": "",
     "last_interaction_time": "2023-07-06 18:02:48",
@@ -1662,11 +1674,11 @@
         "time": "2023-05-09"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2023-03-16"
       }
     ],
-    "special_companies": "JS环球生活,百融,药明生物"
+    "special_companies": "JS环球生活,百融智能,药明生物"
   },
   {
     "uid": "500966",
@@ -1721,6 +1733,34 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "雅生活服务",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "贝康医疗",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "佳鑫国际资源",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2026-03-25"
+      },
+      {
         "company": "中海物业",
         "time": "2026-03-23"
       },
@@ -1733,7 +1773,7 @@
         "time": "2026-03-23"
       },
       {
-        "company": "中国罕王",
+        "company": "罕王黄金",
         "time": "2026-03-23"
       },
       {
@@ -1765,7 +1805,7 @@
         "time": "2026-03-23"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2026-03-23"
       },
       {

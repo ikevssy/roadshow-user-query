@@ -7,8 +7,8 @@
     "cert_type": "机构投资者",
     "position": "总经理",
     "department": "",
-    "last_interaction_time": "2026-03-24 14:44:31",
-    "last_interaction_behavior": "报名",
+    "last_interaction_time": "2026-04-07 08:53:07",
+    "last_interaction_behavior": "参会",
     "interaction_company": "地平线机器人",
     "apply_count": 1,
     "apply_records": [
@@ -18,9 +18,19 @@
       }
     ],
     "attend_count": 1,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 1
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2026-03-30"
+      },
       {
         "company": "国元国际",
         "time": "2025-12-14"
@@ -74,30 +84,30 @@
         "time": "2025-04-09"
       }
     ],
-    "special_companies": ""
+    "special_companies": "中国民航信息网络"
   },
   {
-    "uid": "494492",
-    "name": "Andy HO",
-    "org_name": "平安银行股份有限公司",
-    "org_type": "银行",
-    "cert_type": "机构投资者",
-    "position": "Investment Manager",
-    "department": "Treasury Dept",
-    "last_interaction_time": "2026-03-23 22:57:18",
-    "last_interaction_behavior": "报名",
+    "uid": "580690",
+    "name": "张楚泓",
+    "org_name": "上海申银万国证券研究所有限公司",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "交运物流分析师",
+    "department": "现代服务业研究部",
+    "last_interaction_time": "2026-04-06 19:56:11",
+    "last_interaction_behavior": "参会",
     "interaction_company": "地平线机器人",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2026-03-23",
+        "time": "2026-04-03",
         "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
       }
     ],
     "attend_count": 1,
     "attend_records": [
       {
-        "time": "2026-03-23",
+        "time": "2026-04-03",
         "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
         "duration": 0
       }
@@ -105,173 +115,185 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "金风科技",
-        "time": "2026-03-24"
+        "company": "优步",
+        "time": "2026-04-06"
       },
       {
-        "company": "中海物业",
-        "time": "2026-03-24"
+        "company": "洲际船务",
+        "time": "2025-07-03"
       },
       {
-        "company": "保利物业",
-        "time": "2026-03-21"
+        "company": "远东宏信——资金部",
+        "time": "2025-07-03"
       },
       {
-        "company": "中国民航信息网络",
-        "time": "2026-03-21"
+        "company": "国银金租",
+        "time": "2025-05-21"
       },
       {
-        "company": "光大证券",
-        "time": "2026-03-21"
+        "company": "联邦制药",
+        "time": "2025-05-20"
       },
       {
-        "company": "中集集团",
-        "time": "2026-03-21"
+        "company": "富力地产",
+        "time": "2025-03-30"
       },
       {
-        "company": "国泰君安国际",
-        "time": "2026-03-21"
+        "company": "万科A",
+        "time": "2025-03-30"
       },
       {
-        "company": "华润医疗",
-        "time": "2026-03-20"
+        "company": "香港交易及结算所",
+        "time": "2025-03-30"
       },
       {
-        "company": "平安好医生",
-        "time": "2026-03-20"
+        "company": "喜相逢集团",
+        "time": "2025-03-30"
       },
       {
-        "company": "平安银行",
-        "time": "2026-03-20"
+        "company": "易点云",
+        "time": "2025-03-30"
       },
       {
-        "company": "绿城中国",
-        "time": "2026-03-19"
+        "company": "思摩尔国际",
+        "time": "2025-03-30"
       },
       {
-        "company": "中广核新能源",
-        "time": "2026-03-19"
+        "company": "头豹研究院",
+        "time": "2025-03-30"
       },
       {
-        "company": "美团-W",
-        "time": "2026-03-19"
+        "company": "百胜中国",
+        "time": "2025-03-30"
       },
       {
-        "company": "知乎",
-        "time": "2026-03-19"
+        "company": "中芯国际",
+        "time": "2025-03-30"
       },
       {
-        "company": "小米集团-W",
-        "time": "2026-03-19"
+        "company": "华虹公司",
+        "time": "2025-03-30"
       },
       {
-        "company": "中国电信",
-        "time": "2026-03-19"
+        "company": "爱彼迎",
+        "time": "2025-03-30"
       },
       {
-        "company": "小鹏汽车-W",
-        "time": "2026-03-14"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2026-03-14"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2026-03-14"
-      },
-      {
-        "company": "苹果",
-        "time": "2025-10-28"
-      },
-      {
-        "company": "联合健康",
-        "time": "2025-10-28"
-      },
-      {
-        "company": "新东方",
-        "time": "2025-10-28"
+        "company": "爱奇艺",
+        "time": "2025-03-30"
       },
       {
         "company": "汇丰控股",
-        "time": "2025-10-28"
+        "time": "2025-03-30"
       },
       {
-        "company": "招商银行",
-        "time": "2025-08-29"
+        "company": "哔哩哔哩",
+        "time": "2025-03-30"
       },
       {
-        "company": "农业银行",
-        "time": "2025-08-29"
+        "company": "阿里巴巴-W",
+        "time": "2025-03-30"
       },
       {
-        "company": "中国银行",
-        "time": "2025-08-29"
+        "company": "唯品会",
+        "time": "2025-03-30"
       },
       {
-        "company": "中国建筑",
-        "time": "2025-08-29"
+        "company": "携程集团-S",
+        "time": "2025-03-30"
       },
       {
-        "company": "香港中旅",
-        "time": "2025-08-29"
+        "company": "Zoom",
+        "time": "2025-03-30"
       },
       {
-        "company": "深圳控股",
-        "time": "2025-08-29"
+        "company": "极兔速递-W",
+        "time": "2025-03-30"
       },
       {
-        "company": "交通银行",
-        "time": "2025-08-20"
+        "company": "宏信建发",
+        "time": "2025-03-30"
       },
       {
-        "company": "友邦保险",
-        "time": "2025-08-20"
+        "company": "远东宏信",
+        "time": "2025-03-30"
       },
       {
-        "company": "华住集团-S",
-        "time": "2025-08-20"
+        "company": "亿航智能",
+        "time": "2025-03-30"
       },
       {
-        "company": "百度",
-        "time": "2025-08-20"
+        "company": "富途控股",
+        "time": "2025-03-30"
       },
       {
-        "company": "金山软件",
-        "time": "2025-08-20"
+        "company": "小牛电动",
+        "time": "2025-03-30"
       },
       {
-        "company": "华润三九",
-        "time": "2025-08-20"
+        "company": "中国联通",
+        "time": "2025-03-30"
       },
       {
-        "company": "快手-W",
-        "time": "2025-08-20"
+        "company": "腾讯控股",
+        "time": "2025-03-30"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2025-03-30"
       },
       {
         "company": "泡泡玛特",
-        "time": "2025-08-20"
+        "time": "2025-03-30"
       },
       {
-        "company": "信義玻璃",
-        "time": "2024-08-27"
+        "company": "协鑫科技",
+        "time": "2025-03-30"
       },
       {
-        "company": "中国平安",
-        "time": "2024-03-22"
+        "company": "深高速",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "环球医疗",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "紫金矿业",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "中集集团",
+        "time": "2025-03-25"
+      },
+      {
+        "company": "中集车辆",
+        "time": "2025-03-25"
+      },
+      {
+        "company": "中集环科",
+        "time": "2025-03-25"
+      },
+      {
+        "company": "中集安瑞科",
+        "time": "2025-03-25"
       }
     ],
-    "special_companies": "建业地产"
+    "special_companies": "中国船舶租赁,喜相逢集团,远东宏信"
   },
   {
-    "uid": "610611",
-    "name": "周书冬",
-    "org_name": "深圳征途私募证券投资基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资总监",
+    "uid": "495864",
+    "name": "李雨襄",
+    "org_name": "青岛海月基金管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "个人",
+    "position": "项目总监",
     "department": "",
-    "last_interaction_time": "2026-03-23 19:07:53",
+    "last_interaction_time": "2026-04-02 14:45:37",
     "last_interaction_behavior": "参会",
     "interaction_company": "地平线机器人",
     "apply_count": 1,
@@ -284,12 +306,7 @@
     "attend_count": 1,
     "attend_records": [
       {
-        "time": "2026-03-23",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 0
-      },
-      {
-        "time": "2026-03-19",
+        "time": "2026-04-02",
         "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
         "duration": 0
       }
@@ -297,239 +314,770 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "滨江服务",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "香港中旅",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "五谷磨房",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "中国太保",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "佛朗斯股份",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "知乎",
-        "time": "2026-03-20"
-      },
-      {
         "company": "中国有色矿业",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "平安好医生",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "亿胜生物科技",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "平安银行",
-        "time": "2026-03-20"
+        "time": "2026-03-19"
       },
       {
         "company": "地平线机器人",
         "time": "2026-03-19"
       },
       {
-        "company": "腾讯音乐",
-        "time": "2026-03-17"
+        "company": "佳鑫国际资源",
+        "time": "2026-03-19"
       },
       {
-        "company": "中国罕王",
-        "time": "2026-03-17"
+        "company": "鸣鸣很忙集团",
+        "time": "2025-09-12"
+      },
+      {
+        "company": "伟仕佳杰",
+        "time": "2025-09-12"
+      },
+      {
+        "company": "江波龙",
+        "time": "2025-09-11"
+      },
+      {
+        "company": "赛力斯",
+        "time": "2025-09-11"
+      },
+      {
+        "company": "奇瑞汽车",
+        "time": "2025-08-31"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2025-07-02"
+      },
+      {
+        "company": "恒瑞医药",
+        "time": "2025-07-02"
+      },
+      {
+        "company": "美的集团",
+        "time": "2025-07-02"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-04-08"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "中煤能源",
+        "time": "2024-12-08"
+      },
+      {
+        "company": "融创服务",
+        "time": "2024-08-27"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "中烟香港",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "康基医疗",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "九毛九",
+        "time": "2024-07-13"
+      },
+      {
+        "company": "海南矿业",
+        "time": "2024-07-07"
+      },
+      {
+        "company": "交个朋友控股",
+        "time": "2024-07-07"
+      },
+      {
+        "company": "阿拉丁",
+        "time": "2024-07-05"
+      },
+      {
+        "company": "中海油服",
+        "time": "2024-06-14"
+      },
+      {
+        "company": "中国海油",
+        "time": "2024-06-04"
+      },
+      {
+        "company": "迈普医学",
+        "time": "2024-05-30"
+      },
+      {
+        "company": "贵州三力",
+        "time": "2024-05-27"
+      },
+      {
+        "company": "桂林三金",
+        "time": "2024-05-21"
+      },
+      {
+        "company": "九典制药",
+        "time": "2024-05-20"
+      },
+      {
+        "company": "药师帮",
+        "time": "2024-05-20"
+      },
+      {
+        "company": "以岭药业",
+        "time": "2024-05-20"
+      },
+      {
+        "company": "可孚医疗",
+        "time": "2024-05-20"
+      },
+      {
+        "company": "康泰生物",
+        "time": "2024-05-20"
+      },
+      {
+        "company": "华润三九",
+        "time": "2024-05-19"
+      },
+      {
+        "company": "健之佳",
+        "time": "2024-05-19"
+      },
+      {
+        "company": "广誉远",
+        "time": "2024-05-19"
+      },
+      {
+        "company": "康恩贝",
+        "time": "2024-05-19"
+      },
+      {
+        "company": "太极集团",
+        "time": "2024-05-19"
+      },
+      {
+        "company": "老百姓",
+        "time": "2024-05-19"
+      },
+      {
+        "company": "伯克希尔-哈撒韦",
+        "time": "2024-05-11"
+      },
+      {
+        "company": "中粮包装",
+        "time": "2024-03-24"
+      },
+      {
+        "company": "京东物流",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "复星旅游文化",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2024-03-14"
+      },
+      {
+        "company": "信达证券研究所",
+        "time": "2024-03-14"
+      },
+      {
+        "company": "华安医药",
+        "time": "2024-03-06"
+      },
+      {
+        "company": "华安证券研究所",
+        "time": "2024-02-27"
+      },
+      {
+        "company": "名创优品",
+        "time": "2023-12-17"
+      },
+      {
+        "company": "361度",
+        "time": "2023-12-01"
+      },
+      {
+        "company": "华能国际",
+        "time": "2023-11-30"
+      },
+      {
+        "company": "华森制药",
+        "time": "2023-11-30"
+      },
+      {
+        "company": "国元国际",
+        "time": "2023-11-30"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2023-11-28"
+      },
+      {
+        "company": "芯源微",
+        "time": "2023-11-28"
+      },
+      {
+        "company": "友邦保险",
+        "time": "2023-11-10"
+      },
+      {
+        "company": "百胜中国",
+        "time": "2023-11-06"
+      },
+      {
+        "company": "国证国际证券(香港)研究所",
+        "time": "2023-11-03"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2023-10-31"
+      },
+      {
+        "company": "兖煤澳大利亚",
+        "time": "2023-10-30"
+      },
+      {
+        "company": "绿景中国地产",
+        "time": "2023-10-25"
+      },
+      {
+        "company": "健康元",
+        "time": "2023-10-07"
+      },
+      {
+        "company": "用友网络",
+        "time": "2023-10-01"
+      },
+      {
+        "company": "济川药业",
+        "time": "2023-10-01"
+      },
+      {
+        "company": "太古地产",
+        "time": "2023-09-13"
+      },
+      {
+        "company": "蒙牛乳业",
+        "time": "2023-09-13"
+      },
+      {
+        "company": "恒隆地产",
+        "time": "2023-09-13"
+      },
+      {
+        "company": "商汤-W",
+        "time": "2023-09-13"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2023-09-08"
+      },
+      {
+        "company": "百果园集团",
+        "time": "2023-09-07"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2023-09-07"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2023-09-06"
+      },
+      {
+        "company": "星盛商业",
+        "time": "2023-09-04"
+      },
+      {
+        "company": "上海证券报",
+        "time": "2023-09-01"
+      },
+      {
+        "company": "宝龙地产",
+        "time": "2023-08-14"
+      },
+      {
+        "company": "中国中药",
+        "time": "2023-07-16"
+      },
+      {
+        "company": "东方财富直播厅",
+        "time": "2023-05-19"
+      },
+      {
+        "company": "金融街物业",
+        "time": "2023-05-07"
+      },
+      {
+        "company": "建发物业",
+        "time": "2023-05-07"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2023-05-07"
+      },
+      {
+        "company": "保利物业",
+        "time": "2023-05-07"
+      },
+      {
+        "company": "中海物业",
+        "time": "2023-05-07"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2023-05-04"
+      },
+      {
+        "company": "华宝新能",
+        "time": "2023-04-29"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2023-04-17"
+      },
+      {
+        "company": "百诚医药",
+        "time": "2023-04-14"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-04-06"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-04-03"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2023-04-02"
+      },
+      {
+        "company": "顺丰同城",
+        "time": "2023-03-25"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-25"
+      },
+      {
+        "company": "中信银行",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "招商局商业房托",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "深高速",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "华尔街见闻",
+        "time": "2023-03-18"
+      },
+      {
+        "company": "TCL电子",
+        "time": "2023-03-16"
+      },
+      {
+        "company": "华润医药",
+        "time": "2023-03-15"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2023-03-13"
+      }
+    ],
+    "special_companies": "万物云,上海医药,世茂服务,东方财富直播厅,中广核技,中烟香港,中粮包装,九典制药,交个朋友控股,亿胜生物科技,兖煤澳大利亚,华安医药,华森制药,华润医疗,华润医药,卓越商企服务,国证国际证券(香港)研究所,宏信建发,宝龙商业,广誉远,招商局商业房托,招商蛇口,敏华控股,新希望服务,新鸿基公司,星盛商业,永升服务,江南布衣,海南矿业,深高速,百果园集团,绿城服务,美的集团,老百姓,药师帮,越秀服务,金科服务,雅生活服务,顺丰同城"
+  },
+  {
+    "uid": "633738",
+    "name": "陈凌英",
+    "org_name": "上海浦东发展银行股份有限公司",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "副总经理",
+    "department": "投资银行部",
+    "last_interaction_time": "2026-04-01 10:57:34",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 51
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中国人保",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-19"
       },
       {
         "company": "中国电信",
         "time": "2026-03-17"
       },
       {
-        "company": "雾芯科技",
-        "time": "2026-03-13"
+        "company": "友邦保险",
+        "time": "2026-03-17"
       },
       {
-        "company": "湾区发展",
-        "time": "2026-03-11"
+        "company": "滨江服务",
+        "time": "2026-03-14"
       },
       {
-        "company": "工商银行",
-        "time": "2026-03-11"
+        "company": "绿城服务",
+        "time": "2026-03-14"
       },
       {
-        "company": "中国银行",
-        "time": "2026-03-11"
+        "company": "小马智行",
+        "time": "2025-11-19"
       },
       {
-        "company": "蔚来",
-        "time": "2026-03-10"
+        "company": "华住集团-S",
+        "time": "2025-11-14"
       },
       {
-        "company": "滴普科技",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "联想集团",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "微软",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "谷歌",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "英伟达",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "META",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "超威半导体",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "MiniMax",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "恒安国际",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "万物云",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "理想汽车-w",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "中国再保险",
-        "time": "2026-01-13"
-      },
-      {
-        "company": "国锐生活",
-        "time": "2026-01-08"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2026-01-08"
-      },
-      {
-        "company": "锅圈",
-        "time": "2026-01-08"
-      },
-      {
-        "company": "山高新能源",
-        "time": "2026-01-08"
-      },
-      {
-        "company": "亚信科技",
-        "time": "2026-01-08"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2026-01-08"
-      },
-      {
-        "company": "心玮医疗",
-        "time": "2026-01-08"
-      },
-      {
-        "company": "晶泰控股",
-        "time": "2026-01-08"
-      },
-      {
-        "company": "中烟香港",
-        "time": "2025-12-26"
-      },
-      {
-        "company": "挚文集团",
-        "time": "2025-12-26"
-      },
-      {
-        "company": "上海实业控股",
-        "time": "2025-09-01"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "阅文集团",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "安踏体育",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "携程集团-S",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "恒瑞医药",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "美的集团",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "网易",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "美团-W",
-        "time": "2025-08-18"
+        "company": "万国数据服务",
+        "time": "2025-11-13"
       },
       {
         "company": "小米集团-W",
-        "time": "2025-08-18"
+        "time": "2025-11-13"
       },
       {
-        "company": "比亚迪",
-        "time": "2025-08-18"
+        "company": "中芯国际",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "工业富联",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "京东物流",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "百胜中国",
+        "time": "2025-11-02"
+      },
+      {
+        "company": "华虹公司",
+        "time": "2025-10-30"
+      },
+      {
+        "company": "海螺水泥",
+        "time": "2025-10-30"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-08-25"
       },
       {
         "company": "阿里巴巴-W",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "美团-W",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "百融智能",
+        "time": "2025-07-07"
+      },
+      {
+        "company": "中微公司",
+        "time": "2025-05-29"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-05-26"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2025-04-29"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "582988",
+    "name": "C.Y. Li",
+    "org_name": "上海银行（香港）有限公司",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "Associate Director",
+    "department": "Greater Bay Area Business Division",
+    "last_interaction_time": "2026-03-30 10:13:58",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 25
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "鸿远电子",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "协鑫科技",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "子不语",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中金岭南",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集车辆",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集环科",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集安瑞科",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "440499",
+    "name": "张艳",
+    "org_name": "北京方圆金鼎投资管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资总监",
+    "department": "",
+    "last_interaction_time": "2026-03-28 12:26:07",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-28",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "7589",
+    "name": "彭飞虹",
+    "org_name": "深圳市鲲鹏恒隆投资有限公司",
+    "org_type": "其他私募投资基金管理人(未备案)",
+    "cert_type": "机构投资者",
+    "position": "执行董事",
+    "department": "",
+    "last_interaction_time": "2026-03-28 10:53:41",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-28",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中煤能源",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "马钢股份",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "浙商银行",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "贝康医疗",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "农业银行",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "申万宏源",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "科大讯飞",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "华润医药",
         "time": "2025-08-18"
       },
       {
-        "company": "牧原股份",
+        "company": "佛朗斯股份",
         "time": "2025-08-18"
       },
       {
-        "company": "赛力斯",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "东鹏饮料",
+        "company": "永升服务",
         "time": "2025-08-18"
       },
       {
@@ -537,288 +1085,268 @@
         "time": "2025-08-18"
       },
       {
-        "company": "中国同辐",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "美的置业",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "名创优品",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "金山软件",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "中广核新能源",
-        "time": "2025-08-18"
+        "company": "药师帮",
+        "time": "2025-08-15"
       },
       {
         "company": "泡泡玛特",
-        "time": "2025-08-18"
+        "time": "2025-08-15"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2025-08-15"
       },
       {
         "company": "小鹏汽车-W",
-        "time": "2025-08-18"
+        "time": "2025-08-15"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-15"
       },
       {
         "company": "零跑汽车",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "快手-W",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "中国人保",
-        "time": "2025-08-13"
+        "time": "2025-08-15"
       },
       {
         "company": "康哲药业",
-        "time": "2025-08-13"
+        "time": "2025-08-15"
       },
       {
-        "company": "天图投资",
-        "time": "2025-08-07"
+        "company": "罕王黄金",
+        "time": "2025-08-15"
       },
       {
-        "company": "爱奇艺",
-        "time": "2025-07-19"
+        "company": "湾区发展",
+        "time": "2025-08-15"
       },
       {
-        "company": "网易云音乐",
-        "time": "2025-07-19"
+        "company": "途牛",
+        "time": "2025-08-15"
       },
       {
-        "company": "申万宏源证券研究所",
-        "time": "2025-07-19"
+        "company": "中国有色矿业",
+        "time": "2025-06-15"
       },
       {
-        "company": "天风证券研究所",
-        "time": "2025-07-19"
+        "company": "英伟达",
+        "time": "2025-01-18"
       },
       {
-        "company": "国泰海通证券研究所",
-        "time": "2025-07-19"
+        "company": "财通基金",
+        "time": "2024-12-25"
       },
       {
-        "company": "中金公司研究所",
-        "time": "2025-07-19"
+        "company": "万事达",
+        "time": "2024-11-01"
       },
       {
-        "company": "中信建投证券研究所",
-        "time": "2025-07-19"
+        "company": "亚马逊",
+        "time": "2023-08-08"
       },
       {
-        "company": "苹果",
-        "time": "2025-07-19"
+        "company": "爱彼迎",
+        "time": "2023-08-08"
       },
       {
-        "company": "可口可乐",
-        "time": "2025-07-19"
-      },
-      {
-        "company": "达美乐披萨",
-        "time": "2025-07-19"
-      },
-      {
-        "company": "中国燃气",
-        "time": "2025-06-24"
-      },
-      {
-        "company": "波司登",
-        "time": "2025-06-24"
-      },
-      {
-        "company": "联邦快递",
-        "time": "2025-06-24"
-      },
-      {
-        "company": "招商银行",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "交个朋友控股",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "九方智投控股",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "中国船舶租赁",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "光大证券",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "子不语",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "华润三九",
-        "time": "2025-03-26"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2025-03-26"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2025-03-25"
-      },
-      {
-        "company": "中集集团",
-        "time": "2025-03-25"
-      },
-      {
-        "company": "华润医药",
-        "time": "2025-03-25"
-      },
-      {
-        "company": "拼多多",
-        "time": "2025-03-20"
-      },
-      {
-        "company": "吉利汽车",
-        "time": "2025-03-20"
-      },
-      {
-        "company": "昆药集团",
-        "time": "2025-01-10"
-      },
-      {
-        "company": "天士力",
-        "time": "2024-08-29"
-      },
-      {
-        "company": "广誉远",
-        "time": "2024-05-22"
+        "company": "锦好医疗",
+        "time": "2023-05-15"
       }
     ],
-    "special_companies": "中集集团,华润医疗,华润医药,子不语,广誉远,康臣药业,招商银行"
+    "special_companies": "英伟达"
   },
   {
-    "uid": "638994",
-    "name": "陈青",
-    "org_name": "天马微电子股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "经理",
-    "department": "市场部",
-    "last_interaction_time": "2026-03-23 14:52:46",
-    "last_interaction_behavior": "报名",
+    "uid": "573119",
+    "name": "傅晓烺",
+    "org_name": "信达证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "计算机行业分析师",
+    "department": "研究开发中心",
+    "last_interaction_time": "2026-03-27 18:00:54",
+    "last_interaction_behavior": "参会",
     "interaction_company": "地平线机器人",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2026-03-23",
+        "time": "2026-03-27",
         "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
       }
     ],
     "attend_count": 1,
     "attend_records": [
       {
-        "time": "2026-03-23",
+        "time": "2026-03-27",
         "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 71
+        "duration": 93
+      },
+      {
+        "time": "2026-03-27",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "334186",
+    "name": "陈宁晖",
+    "org_name": "深圳富达价值投资有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "高级研究员",
+    "department": "",
+    "last_interaction_time": "2026-03-27 16:45:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "超威半导体",
-        "time": "2026-02-03"
+        "company": "美的置业",
+        "time": "2025-03-31"
       },
       {
-        "company": "中国中冶",
-        "time": "2025-12-12"
-      },
-      {
-        "company": "文远知行",
-        "time": "2025-11-24"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "BOSS直聘",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "摩根大通",
-        "time": "2025-11-07"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "联邦快递",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "达美航空",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "港铁公司",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "湾区发展",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "云迹科技",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "蓝思科技",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "歌尔微电子",
-        "time": "2025-10-27"
+        "company": "碧桂园服务",
+        "time": "2025-03-26"
       }
     ],
+    "special_companies": "碧桂园服务"
+  },
+  {
+    "uid": "270475",
+    "name": "夏清莹",
+    "org_name": "万联证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "TMT行业首席分析师",
+    "department": "研究所",
+    "last_interaction_time": "2026-03-27 09:54:12",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
-    "uid": "1209",
-    "name": "陈玮",
-    "org_name": "中海基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
+    "uid": "288511",
+    "name": "钟云飞",
+    "org_name": "第一上海证券有限公司",
+    "org_type": "证券公司",
     "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "权益投资部",
-    "last_interaction_time": "2026-03-23 11:28:37",
+    "position": "副总裁",
+    "department": "资本市场部",
+    "last_interaction_time": "2026-03-26 15:44:48",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 10
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "瑞幸咖啡",
+        "time": "2025-04-24"
+      },
+      {
+        "company": "长安汽车",
+        "time": "2025-04-11"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-03-21"
+      },
+      {
+        "company": "中国平安",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "美丽田园",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "九毛九",
+        "time": "2024-07-12"
+      },
+      {
+        "company": "强生",
+        "time": "2024-01-24"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2023-10-10"
+      },
+      {
+        "company": "路演中",
+        "time": "2023-04-04"
+      },
+      {
+        "company": "碧桂园",
+        "time": "2023-04-04"
+      }
+    ],
+    "special_companies": "思路迪医药股份,碧桂园,路演中"
+  },
+  {
+    "uid": "424658",
+    "name": "宋雲喆",
+    "org_name": "中信建投（国际）资产管理有限公司",
+    "org_type": "券商资管",
+    "cert_type": "机构投资者",
+    "position": "投資經理",
+    "department": "",
+    "last_interaction_time": "2026-03-26 09:36:49",
     "last_interaction_behavior": "参会",
     "interaction_company": "地平线机器人",
     "apply_count": 1,
@@ -829,176 +1357,227 @@
       }
     ],
     "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-23",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 2
-      }
-    ],
+    "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "中集集团",
+        "company": "绿城管理控股",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "建发物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "龙湖集团",
         "time": "2026-03-23"
       },
       {
-        "company": "地平线机器人",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "佳鑫国际资源",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "阜博集团",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "新世界发展",
-        "time": "2026-02-26"
-      },
-      {
-        "company": "江南布衣",
-        "time": "2026-02-26"
-      },
-      {
-        "company": "亿航智能",
-        "time": "2025-11-25"
-      },
-      {
-        "company": "宝尊电商",
-        "time": "2025-11-25"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-11-25"
-      },
-      {
-        "company": "小马智行",
-        "time": "2025-11-25"
-      },
-      {
-        "company": "心玮医疗",
-        "time": "2025-08-31"
-      },
-      {
-        "company": "拼多多",
-        "time": "2025-08-23"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-23"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "IGG INC",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "爱康医疗",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "名创优品",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "瑞声科技",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "万国数据服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "金山软件",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-19"
-      },
-      {
         "company": "碧桂园服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "艾美疫苗",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "工业富联",
-        "time": "2025-08-11"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2025-07-28"
-      },
-      {
-        "company": "亚信科技",
-        "time": "2025-07-28"
-      },
-      {
-        "company": "百融",
-        "time": "2025-07-07"
-      },
-      {
-        "company": "波司登",
-        "time": "2025-06-24"
-      },
-      {
-        "company": "敏华控股",
-        "time": "2025-05-09"
-      },
-      {
-        "company": "腾讯音乐",
-        "time": "2024-03-18"
-      },
-      {
-        "company": "比亚迪电子",
-        "time": "2023-03-27"
+        "time": "2026-03-23"
       },
       {
         "company": "中国海外宏洋集团",
-        "time": "2023-03-27"
+        "time": "2026-03-23"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "万物云",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-05-15"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2023-11-14"
       }
     ],
-    "special_companies": "中国海外宏洋集团,比亚迪电子"
+    "special_companies": "卓越商企服务"
   },
   {
-    "uid": "500471",
-    "name": "康怡聪",
-    "org_name": "美图公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "高级投资者关系经理",
+    "uid": "282923",
+    "name": "管力峰",
+    "org_name": "北京古山投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "合伙人",
     "department": "",
-    "last_interaction_time": "2026-03-23 11:10:44",
+    "last_interaction_time": "2026-03-26 06:04:12",
     "last_interaction_behavior": "参会",
     "interaction_company": "地平线机器人",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2026-03-23",
+        "time": "2026-03-26",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "信达生物-B",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "龙湖集团",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "中信建投证券研究所",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "中金公司研究所",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "三只松鼠",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "微医控股",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-05-27"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "固生堂",
+        "time": "2024-11-08"
+      },
+      {
+        "company": "金沙中国",
+        "time": "2024-11-08"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2024-11-08"
+      },
+      {
+        "company": "伊利股份",
+        "time": "2024-08-31"
+      },
+      {
+        "company": "环球医疗",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "农夫山泉",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "华润啤酒",
+        "time": "2024-08-19"
+      },
+      {
+        "company": "拼多多",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "中国电信",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "海尔智家",
+        "time": "2024-03-20"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-03-20"
+      },
+      {
+        "company": "微创脑科学",
+        "time": "2024-03-20"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-03-20"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2024-03-20"
+      },
+      {
+        "company": "中国生物制药",
+        "time": "2023-08-25"
+      }
+    ],
+    "special_companies": "万物云,中国光大环境,中国电信,保利物业,农夫山泉,华润医疗,拼多多,敏华控股"
+  },
+  {
+    "uid": "645107",
+    "name": "曾慕",
+    "org_name": "北京市炜衡（西安）律师事务所",
+    "org_type": "律师事务所",
+    "cert_type": "服务机构",
+    "position": "律师",
+    "department": "",
+    "last_interaction_time": "2026-03-25 19:19:10",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
         "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
       }
     ],
     "attend_count": 1,
     "attend_records": [
       {
-        "time": "2026-03-23",
+        "time": "2026-03-25",
         "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
         "duration": 0
       }
@@ -1006,21 +1585,239 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "百融",
-        "time": "2026-03-23"
+        "company": "平安好医生",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "知乎",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-03-24"
       }
     ],
     "special_companies": ""
   },
   {
-    "uid": "275776",
-    "name": "毛卫文",
-    "org_name": "上海至璞资产管理合伙企业（有限合伙）",
-    "org_type": "私募证券投资基金管理人",
+    "uid": "612891",
+    "name": "陈良美",
+    "org_name": "广州高景实业投资有限公司",
+    "org_type": "实业投资",
     "cert_type": "个人",
-    "position": "研发合伙人",
+    "position": "执行董事",
+    "department": "总部",
+    "last_interaction_time": "2026-03-25 17:30:02",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "建发国际集团",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "建发物业",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "稀美资源",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "美团-W",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "知乎",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "快手-W",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "国泰君安国际",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "万物云",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "滴普科技",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "百望股份",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "文远知行",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "华润医药",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2024-08-30"
+      }
+    ],
+    "special_companies": "联邦制药"
+  },
+  {
+    "uid": "608366",
+    "name": "邵楚天",
+    "org_name": "声通科技股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "投资者关系总监",
     "department": "",
-    "last_interaction_time": "2026-03-23 09:21:25",
+    "last_interaction_time": "2026-03-25 16:47:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "小米集团-W",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "快手-W",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "商汤-W",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "美团-W",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "黑芝麻智能",
+        "time": "2025-08-23"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "美图公司",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "亚信科技",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "声通科技",
+        "time": "2025-07-14"
+      },
+      {
+        "company": "香港投资者关系协会",
+        "time": "2024-12-16"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "276824",
+    "name": "竺镇波",
+    "org_name": "上海宝腾电子科技有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "总经理/项目经理",
+    "department": "",
+    "last_interaction_time": "2026-03-25 13:11:45",
     "last_interaction_behavior": "参会",
     "interaction_company": "地平线机器人",
     "apply_count": 1,
@@ -1032,6 +1829,720 @@
     ],
     "attend_count": 1,
     "attend_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华润医药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "百望股份",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "工业富联",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "中国人保",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "小牛电动",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "网易有道公司",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "爱奇艺",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "罕王黄金",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "途牛",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "唯品会",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "网易",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "京东物流",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "中国电信",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "阅文集团",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "西方石油",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "再鼎医药",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "再生元制药",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "搜狐",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "迪士尼",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "华虹公司",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "亚信科技",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2024-03-06"
+      }
+    ],
+    "special_companies": "华润医疗,协合新能源,绿城服务"
+  },
+  {
+    "uid": "272632",
+    "name": "卢红梅",
+    "org_name": "国元证券（香港）有限公司",
+    "org_type": "证券公司",
+    "cert_type": "服务机构",
+    "position": "副总裁",
+    "department": "",
+    "last_interaction_time": "2026-03-25 11:21:18",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "路演中",
+        "time": "2026-01-13"
+      },
+      {
+        "company": "茶姬控股（霸王茶姬）",
+        "time": "2025-11-28"
+      },
+      {
+        "company": "知乎",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "商汤-W",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "九源基因",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-05-20"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2025-05-20"
+      },
+      {
+        "company": "农业银行",
+        "time": "2025-05-20"
+      },
+      {
+        "company": "金风科技",
+        "time": "2025-04-28"
+      },
+      {
+        "company": "日清食品",
+        "time": "2025-04-07"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "中国平安",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "安东油田服务",
+        "time": "2025-03-04"
+      },
+      {
+        "company": "国元国际",
+        "time": "2024-12-17"
+      },
+      {
+        "company": "永升服务",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "华润医药",
+        "time": "2024-08-29"
+      },
+      {
+        "company": "中粮家佳康",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "周黑鸭",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "中国铁塔",
+        "time": "2024-08-08"
+      },
+      {
+        "company": "中电控股",
+        "time": "2024-08-07"
+      },
+      {
+        "company": "中国水务",
+        "time": "2024-07-10"
+      },
+      {
+        "company": "天伦燃气",
+        "time": "2024-07-09"
+      },
+      {
+        "company": "中国电力",
+        "time": "2024-07-09"
+      },
+      {
+        "company": "国证国际证券(香港)研究所",
+        "time": "2024-06-26"
+      },
+      {
+        "company": "浦林成山",
+        "time": "2024-06-25"
+      },
+      {
+        "company": "21世纪教育",
+        "time": "2024-04-02"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "华夏视听教育",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "中国海油",
+        "time": "2024-03-21"
+      },
+      {
+        "company": "瑞声科技",
+        "time": "2024-03-21"
+      },
+      {
+        "company": "东曜药业",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "汇添富基金",
+        "time": "2024-01-23"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-12-07"
+      },
+      {
+        "company": "赤子城科技",
+        "time": "2023-11-02"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2023-08-23"
+      },
+      {
+        "company": "四环医药",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "信义光能",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "敏华控股",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "环球医疗",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "九毛九",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "英恒科技",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "新高教集团",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "医脉通",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "和铂医药",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "信邦制药",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "赢家时尚",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "玄武云",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "快手-W",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "明源云",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "顺丰同城",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "中国太保",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "威胜控股",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "深高速",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "招商银行",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "百融智能",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2023-03-17"
+      }
+    ],
+    "special_companies": "21世纪教育,万物云,东曜药业,中国太保,中广核新能源,中粮家佳康,九毛九,医脉通,华夏视听教育,华润医疗,华润医药,卓越教育集团,周黑鸭,呷哺呷哺,四环医药,国元国际,国证国际证券(香港)研究所,宝龙商业,康哲药业,康臣药业,敏华控股,新鸿基公司,日清食品,明源云,永升服务,浦林成山,深高速,玄武云,环球医疗,百融智能,维亚生物,联邦制药,英恒科技,赢家时尚,雅生活服务,顺丰同城"
+  },
+  {
+    "uid": "645638",
+    "name": "王熠",
+    "org_name": "深圳谦元投资咨询有限公司",
+    "org_type": "财务顾问机构",
+    "cert_type": "服务机构",
+    "position": "CEO",
+    "department": "",
+    "last_interaction_time": "2026-03-25 09:25:21",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 23
+      },
+      {
+        "time": "2026-03-25",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "第四范式",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-03-24"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "573713",
+    "name": "周新平",
+    "org_name": "投研会京研汇",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "首席研究员",
+    "department": "港股中小市值公司调研",
+    "last_interaction_time": "2026-03-25 09:19:21",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "稀美资源",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "百融智能",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "挚文集团",
+        "time": "2025-12-10"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2025-12-10"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2025-10-09"
+      },
+      {
+        "company": "中广核技",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "理士国际",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2025-08-30"
+      },
+      {
+        "company": "招商银行",
+        "time": "2025-08-30"
+      },
+      {
+        "company": "贝康医疗",
+        "time": "2025-08-30"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中国动向",
+        "time": "2025-06-23"
+      },
+      {
+        "company": "国银金租",
+        "time": "2025-04-26"
+      },
+      {
+        "company": "中粮科技",
+        "time": "2025-04-26"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2025-04-08"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2025-03-13"
+      },
+      {
+        "company": "大唐新能源",
+        "time": "2024-12-16"
+      },
+      {
+        "company": "五矿资源",
+        "time": "2024-09-22"
+      },
+      {
+        "company": "归创通桥",
+        "time": "2024-09-15"
+      },
+      {
+        "company": "中粮家佳康",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "广发基金",
+        "time": "2024-08-08"
+      },
+      {
+        "company": "中国铁塔",
+        "time": "2024-08-08"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2024-08-08"
+      },
+      {
+        "company": "东软教育",
+        "time": "2023-12-29"
+      },
+      {
+        "company": "华尔街见闻",
+        "time": "2023-12-19"
+      },
+      {
+        "company": "东曜药业",
+        "time": "2023-11-17"
+      },
+      {
+        "company": "上海实业控股",
+        "time": "2023-11-15"
+      },
+      {
+        "company": "国元国际",
+        "time": "2023-11-14"
+      },
+      {
+        "company": "中国心连心化肥",
+        "time": "2023-11-10"
+      },
+      {
+        "company": "信邦控股",
+        "time": "2023-11-07"
+      },
+      {
+        "company": "中石化冠德",
+        "time": "2023-11-07"
+      }
+    ],
+    "special_companies": "中国动向,中国心连心化肥,中石化冠德,中粮家佳康"
+  },
+  {
+    "uid": "275776",
+    "name": "毛卫文",
+    "org_name": "上海至璞资产管理合伙企业（有限合伙）",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "研发合伙人",
+    "department": "",
+    "last_interaction_time": "2026-03-24 20:34:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 55
+      },
       {
         "time": "2026-03-23",
         "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
@@ -1045,6 +2556,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "深圳控股",
+        "time": "2026-03-31"
+      },
       {
         "company": "地平线机器人",
         "time": "2026-03-19"
@@ -1149,1643 +2664,6 @@
     "special_companies": "中国人保,中粮包装,小米集团-W,比亚迪,深圳国际,石化油服,锦欣生殖"
   },
   {
-    "uid": "344588",
-    "name": "王登峰",
-    "org_name": "互动派科技股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "CFO",
-    "department": "",
-    "last_interaction_time": "2026-03-23 09:08:31",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-23",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "1450",
-    "name": "盧超",
-    "org_name": "理成(开曼)资产管理有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "",
-    "last_interaction_time": "2026-03-22 15:50:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-22",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 3
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "希迪智驾",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "九方智投控股",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "小马智行",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "香港中旅",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "稀美资源",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "中国民航信息网络",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "百融",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "五谷磨房",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "美团-W",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "恒安国际",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "阜博集团",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-11-09"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-08-29"
-      },
-      {
-        "company": "理士国际",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "中国银行",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "招商银行",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "顺丰同城",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "合景悠活",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "拼多多",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "美的置业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "卓越教育集团",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "百度",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "药师帮",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "名创优品",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "佛朗斯股份",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "中国电信",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "快手-W",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "金山软件",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "小鹏汽车-W",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-08-08"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "京东物流",
-        "time": "2025-08-06"
-      }
-    ],
-    "special_companies": "呷哺呷哺,国证国际证券(香港)研究所,沛嘉医疗,滨江服务"
-  },
-  {
-    "uid": "636839",
-    "name": "卢嘉情",
-    "org_name": "上海源熹投资管理中心(有限合伙)",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "合伙人",
-    "department": "",
-    "last_interaction_time": "2026-03-21 22:49:03",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-21",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-21",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "复星国际",
-        "time": "2025-08-22"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "282963",
-    "name": "翟志文",
-    "org_name": "卓德资产有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "董事",
-    "department": "",
-    "last_interaction_time": "2026-03-20 16:23:03",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 92
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "滴普科技",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-20"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "270430",
-    "name": "丁文亚",
-    "org_name": "佛山亚商资本投资管理有限公司",
-    "org_type": "私募基金管理人(已注销)",
-    "cert_type": "个人",
-    "position": "研究总监",
-    "department": null,
-    "last_interaction_time": "2026-03-20 16:18:35",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-18",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "拼多多",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "华润医药",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "中国有色矿业",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "万物云",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "中广核新能源",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "小鹏汽车-W",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "中国建筑",
-        "time": "2025-09-05"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2025-08-27"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2025-08-27"
-      },
-      {
-        "company": "特海国际",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "锦欣生殖",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "中国同辐",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "中煤能源",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "朝聚眼科",
-        "time": "2024-08-30"
-      },
-      {
-        "company": "心通医疗",
-        "time": "2024-05-23"
-      },
-      {
-        "company": "现代牙科",
-        "time": "2024-04-18"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "天能动力",
-        "time": "2023-05-23"
-      },
-      {
-        "company": "敏华控股",
-        "time": "2023-05-15"
-      },
-      {
-        "company": "中汇集团",
-        "time": "2023-05-12"
-      },
-      {
-        "company": "信義玻璃",
-        "time": "2023-05-11"
-      },
-      {
-        "company": "新高教集团",
-        "time": "2023-05-10"
-      },
-      {
-        "company": "归创通桥",
-        "time": "2023-05-08"
-      }
-    ],
-    "special_companies": "中汇集团,归创通桥,心通医疗,敏华控股,朝聚眼科"
-  },
-  {
-    "uid": "638114",
-    "name": "汪政",
-    "org_name": "上海鑫迪华数据技术有限公司",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "高级研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-20 14:26:48",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "蔚来",
-        "time": "2025-09-02"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "495104",
-    "name": "吴佳",
-    "org_name": "深圳市国融鼎创投资有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "总经理",
-    "department": "",
-    "last_interaction_time": "2026-03-20 06:05:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "华润医疗",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "国泰君安国际",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "香港中旅",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "知乎",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "药师帮",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "明源云",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-08-01"
-      },
-      {
-        "company": "中石化冠德",
-        "time": "2023-05-12"
-      }
-    ],
-    "special_companies": "呷哺呷哺,明源云"
-  },
-  {
-    "uid": "21874",
-    "name": "James Lu",
-    "org_name": "Dragon China Capital Company, LTD",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Managing Director",
-    "department": "",
-    "last_interaction_time": "2026-03-19 22:53:15",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "小鹏汽车-W",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "心玮医疗",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "招商银行",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "顺丰同城",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "中国平安",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "特海国际",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "中国太保",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "中国同辐",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "中国人保",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "国泰君安国际",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "亿胜生物科技",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "阜博集团",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "卓越教育集团",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "百融",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "爱康医疗",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "子不语",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "华纳音乐",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "协合新能源",
-        "time": "2025-07-23"
-      },
-      {
-        "company": "永升服务",
-        "time": "2024-08-30"
-      },
-      {
-        "company": "融创中国",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "融创服务",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "平安好医生",
-        "time": "2024-03-20"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-08-25"
-      },
-      {
-        "company": "中广核新能源",
-        "time": "2023-08-23"
-      },
-      {
-        "company": "药明生物",
-        "time": "2023-06-20"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2023-03-25"
-      }
-    ],
-    "special_companies": "协合新能源,宝龙商业,药明生物,融创服务"
-  },
-  {
-    "uid": "582515",
-    "name": "王艳娇",
-    "org_name": "业如金融控股有限公司",
-    "org_type": "实业投资",
-    "cert_type": "机构投资者",
-    "position": "高级投资经理",
-    "department": "投资部",
-    "last_interaction_time": "2026-03-19 20:48:59",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 48
-      },
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 0
-      },
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 22
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2025-08-11"
-      },
-      {
-        "company": "瑞幸咖啡",
-        "time": "2025-07-28"
-      },
-      {
-        "company": "阜博集团",
-        "time": "2025-07-14"
-      },
-      {
-        "company": "天风证券研究所",
-        "time": "2025-05-12"
-      },
-      {
-        "company": "乖宝宠物",
-        "time": "2025-04-28"
-      },
-      {
-        "company": "景顺长城基金",
-        "time": "2025-01-02"
-      },
-      {
-        "company": "英伟达",
-        "time": "2024-11-21"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2024-11-11"
-      },
-      {
-        "company": "贝壳",
-        "time": "2024-11-11"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2024-11-11"
-      },
-      {
-        "company": "金山软件",
-        "time": "2024-11-06"
-      },
-      {
-        "company": "联想集团",
-        "time": "2024-11-06"
-      },
-      {
-        "company": "安德玛",
-        "time": "2024-11-06"
-      },
-      {
-        "company": "爱彼迎",
-        "time": "2024-11-06"
-      },
-      {
-        "company": "汽车之家",
-        "time": "2024-11-06"
-      },
-      {
-        "company": "高通",
-        "time": "2024-11-06"
-      },
-      {
-        "company": "苹果",
-        "time": "2024-11-06"
-      },
-      {
-        "company": "亚马逊",
-        "time": "2024-11-06"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2024-11-06"
-      },
-      {
-        "company": "华熙生物",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "台积电",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "新东方",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "百威亚太",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "百胜中国",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "中国移动",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "阅文集团",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "腾讯音乐",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "京东物流",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "海底捞",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "美丽田园",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "农夫山泉",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "珀莱雅",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "美团-W",
-        "time": "2024-08-27"
-      },
-      {
-        "company": "丸美生物",
-        "time": "2024-08-26"
-      },
-      {
-        "company": "李宁",
-        "time": "2024-08-23"
-      },
-      {
-        "company": "金风科技",
-        "time": "2024-08-23"
-      },
-      {
-        "company": "潍柴动力",
-        "time": "2024-08-23"
-      },
-      {
-        "company": "上美股份",
-        "time": "2024-08-22"
-      },
-      {
-        "company": "固生堂",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "华润啤酒",
-        "time": "2024-08-19"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2024-07-17"
-      },
-      {
-        "company": "时代天使",
-        "time": "2024-07-12"
-      },
-      {
-        "company": "海尔智家",
-        "time": "2024-07-11"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2024-05-22"
-      },
-      {
-        "company": "携程集团-S",
-        "time": "2024-05-22"
-      },
-      {
-        "company": "网易",
-        "time": "2024-05-22"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2024-05-22"
-      },
-      {
-        "company": "快手-W",
-        "time": "2024-05-22"
-      },
-      {
-        "company": "拼多多",
-        "time": "2024-05-22"
-      },
-      {
-        "company": "重庆啤酒",
-        "time": "2024-05-22"
-      },
-      {
-        "company": "华能国际",
-        "time": "2024-05-22"
-      },
-      {
-        "company": "伯克希尔-哈撒韦",
-        "time": "2024-05-22"
-      },
-      {
-        "company": "名创优品",
-        "time": "2024-05-22"
-      },
-      {
-        "company": "蒙牛乳业",
-        "time": "2024-05-08"
-      }
-    ],
-    "special_companies": "丸美生物,农夫山泉,华熙生物,快手-W,拼多多,美丽田园,腾讯控股,英伟达,金风科技"
-  },
-  {
-    "uid": "612903",
-    "name": "钟毅勇",
-    "org_name": "广州城市摩登家商业物业经营有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "项目经理",
-    "department": "",
-    "last_interaction_time": "2026-03-19 20:47:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-18",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "348653",
-    "name": "王骞",
-    "org_name": "工银资管（全球）有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "主管",
-    "department": "固定收益投资部",
-    "last_interaction_time": "2026-03-19 20:45:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "开市客",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "美丽田园",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "拼多多",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "滴普科技",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "富途控股",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "META",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "MiniMax",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "友邦保险",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "新世界发展",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "优步",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "美光科技",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "万国数据服务",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "阅文集团",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "吉利汽车",
-        "time": "2025-03-20"
-      },
-      {
-        "company": "百度",
-        "time": "2024-11-08"
-      },
-      {
-        "company": "快手-W",
-        "time": "2024-11-08"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2024-11-08"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2024-11-08"
-      },
-      {
-        "company": "京东物流",
-        "time": "2024-11-08"
-      },
-      {
-        "company": "腾讯音乐",
-        "time": "2024-11-08"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2024-11-08"
-      },
-      {
-        "company": "华虹公司",
-        "time": "2024-11-07"
-      },
-      {
-        "company": "英特尔",
-        "time": "2024-05-03"
-      },
-      {
-        "company": "兴证全球基金",
-        "time": "2024-05-03"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2024-05-03"
-      },
-      {
-        "company": "苹果",
-        "time": "2024-05-03"
-      },
-      {
-        "company": "网龙",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "美的置业",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2024-03-19"
-      },
-      {
-        "company": "小鹏汽车-W",
-        "time": "2024-03-19"
-      },
-      {
-        "company": "药明生物",
-        "time": "2023-08-24"
-      },
-      {
-        "company": "英伟达",
-        "time": "2023-08-23"
-      },
-      {
-        "company": "百果园集团",
-        "time": "2023-08-22"
-      },
-      {
-        "company": "沃尔玛",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "伯克希尔-哈撒韦",
-        "time": "2023-05-06"
-      },
-      {
-        "company": "路演中",
-        "time": "2023-03-31"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2023-03-28"
-      }
-    ],
-    "special_companies": "小米集团-W,小鹏汽车-W,快手-W,百果园集团,网龙,美的置业,腾讯控股,药明生物,路演中"
-  },
-  {
-    "uid": "9485",
-    "name": "阮如江",
-    "org_name": "深圳康桥资产管理有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "执行董事",
-    "department": "",
-    "last_interaction_time": "2026-03-19 20:16:32",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 17
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-08-29"
-      },
-      {
-        "company": "中国建筑",
-        "time": "2025-08-29"
-      },
-      {
-        "company": "复星国际",
-        "time": "2025-08-29"
-      },
-      {
-        "company": "周黑鸭",
-        "time": "2025-08-29"
-      },
-      {
-        "company": "顺丰同城",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "锦欣生殖",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "亿胜生物科技",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "拼多多",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "金风科技",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "卓越教育集团",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "沃尔玛",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "快手-W",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "友邦保险",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "瑞声科技",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "富途控股",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-20"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "5228",
-    "name": "李然",
-    "org_name": "深圳市圣为投资管理有限公司",
-    "org_type": "一般企业",
-    "cert_type": "服务机构",
-    "position": "投资总监",
-    "department": "",
-    "last_interaction_time": "2026-03-19 19:44:31",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 48
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "阿里巴巴-W",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "李宁",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "维亚生物",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "爱康医疗",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "名创优品",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "伟仕佳杰",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "小鹏汽车-W",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "中国罕王",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "中国同辐",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "阜博集团",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "富途控股",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "药师帮",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "九源基因",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "亿胜生物科技",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "京能清洁能源",
-        "time": "2025-03-22"
-      },
-      {
-        "company": "安东油田服务",
-        "time": "2025-03-22"
-      },
-      {
-        "company": "信义光能",
-        "time": "2023-05-22"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-03-25"
-      },
-      {
-        "company": "百融",
-        "time": "2023-03-23"
-      },
-      {
-        "company": "星盛商业",
-        "time": "2023-03-21"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2023-03-21"
-      },
-      {
-        "company": "英恒科技",
-        "time": "2023-03-21"
-      },
-      {
-        "company": "中原建业",
-        "time": "2023-03-21"
-      },
-      {
-        "company": "信义储电",
-        "time": "2023-03-21"
-      },
-      {
-        "company": "融创服务",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2023-03-20"
-      }
-    ],
-    "special_companies": "万物云,中原建业,亿胜生物科技,信义储电,信义光能,宝龙商业,星盛商业,百融,绿城管理控股,英恒科技,融创服务"
-  },
-  {
-    "uid": "607055",
-    "name": "王进",
-    "org_name": "浙江吉晟资产管理有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
-    "position": "投资总监",
-    "department": "投资部",
-    "last_interaction_time": "2026-03-19 19:36:11",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "宁德时代",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "东吴证券研究所",
-        "time": "2025-05-31"
-      },
-      {
-        "company": "头豹研究院",
-        "time": "2025-05-31"
-      },
-      {
-        "company": "小鹏汽车-W",
-        "time": "2025-05-31"
-      },
-      {
-        "company": "中国建筑",
-        "time": "2025-04-22"
-      },
-      {
-        "company": "长安汽车",
-        "time": "2025-04-07"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-04-01"
-      },
-      {
-        "company": "比亚迪",
-        "time": "2025-03-31"
-      }
-    ],
-    "special_companies": "东吴证券研究所,中国建筑,头豹研究院,小鹏汽车-W,绿城中国"
-  },
-  {
     "uid": "274507",
     "name": "吴慧鋒",
     "org_name": "明大投资有限公司",
@@ -2793,7 +2671,7 @@
     "cert_type": "个人",
     "position": "GM",
     "department": "",
-    "last_interaction_time": "2026-03-19 19:33:26",
+    "last_interaction_time": "2026-03-24 16:20:11",
     "last_interaction_behavior": "参会",
     "interaction_company": "地平线机器人",
     "apply_count": 1,
@@ -2806,6 +2684,11 @@
     "attend_count": 1,
     "attend_records": [
       {
+        "time": "2026-03-24",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      },
+      {
         "time": "2026-03-19",
         "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
         "duration": 0
@@ -2813,6 +2696,34 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "鸿远电子",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "圣贝拉",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "招商银行",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中信股份",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "兴业银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "佳鑫国际资源",
+        "time": "2026-03-26"
+      },
       {
         "company": "滴普科技",
         "time": "2026-03-23"
@@ -3790,7 +3701,7 @@
         "time": "2023-08-24"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2023-08-23"
       },
       {
@@ -3814,7 +3725,7 @@
         "time": "2023-08-21"
       },
       {
-        "company": "中国罕王",
+        "company": "罕王黄金",
         "time": "2023-08-21"
       },
       {
@@ -4286,7 +4197,2717 @@
         "time": "2023-02-03"
       }
     ],
-    "special_companies": "JS环球生活,一品红,万利,世茂服务,东方财富直播厅,东软教育,中信证券,中原建业,中国中冶,中国交通建设集团有限公司,中国光大环境,中国春来教育集团,中国民航信息网络,中国波顿,中国燃气,中国电信,中国电力,中国石墨,中国罕王,中国通信服务,中国通号,中国黄金国际,中广核技,中烟香港,中石化冠德,中粮包装,中粮家佳康,中银香港,中集车辆,丸美生物,乐享集团,九方智投控股,亚信科技,交个朋友控股,亿帆医药,伟仕佳杰,信义光能,先瑞达医疗,兖煤澳大利亚,利群股份,力劲科技,力合微,力鸿检验,加科思,华夏视听教育,华润啤酒,华润电力,卓越教育集团,启明医疗,周大福创建,喜相逢集团,复宏汉霖,天玛智控,天能动力,宏信建发,宜明昂科,小鹏汽车-W,康哲药业,康宁医院,建发国际集团,思治企业咨询,敏华控股,方舟健客,日清食品,明源云,易点云,星盛商业,晶门半导体,望尘科技控股有限公司,杰克股份,极光,欧陆通,比亚迪,民银国际研究部,汇通达网络,波司登,澳洲成峰高教,玄武云,环球新材国际,理士国际,申万宏源,百奥家庭互动,百得利,百果园集团,百融,石化油服,碧桂园,神威药业,科笛,粉笔,粤丰环保,粤海置地,纳科诺尔,网龙,美丽田园,美的置业,联邦制药,艾德韦宣集团,艾美疫苗,英恒科技,药师帮,诺辉健康,路演中,量子之歌,长久股份,长江电力,阜博集团,首惠产业金融,香港中旅"
+    "special_companies": "JS环球生活,一品红,万利,世茂服务,东方财富直播厅,东软教育,中信证券,中原建业,中国中冶,中国交通建设集团有限公司,中国光大环境,中国春来教育集团,中国民航信息网络,中国波顿,中国燃气,中国电信,中国电力,中国石墨,中国通信服务,中国通号,中国黄金国际,中广核技,中烟香港,中石化冠德,中粮包装,中粮家佳康,中银香港,中集车辆,丸美生物,乐享集团,九方智投控股,亚信科技,交个朋友控股,亿帆医药,伟仕佳杰,信义光能,先瑞达医疗,兖煤澳大利亚,利群股份,力劲科技,力合微,力鸿检验,加科思,华夏视听教育,华润啤酒,华润电力,卓越教育集团,启明医疗,周大福创建,喜相逢集团,复宏汉霖,天玛智控,天能动力,宏信建发,宜明昂科,小鹏汽车-W,康哲药业,康宁医院,建发国际集团,思治企业咨询,敏华控股,方舟健客,日清食品,明源云,易点云,星盛商业,晶门半导体,望尘科技控股有限公司,杰克股份,极光,欧陆通,比亚迪,民银国际研究部,汇通达网络,波司登,澳洲成峰高教,玄武云,环球新材国际,理士国际,申万宏源,百奥家庭互动,百得利,百果园集团,百融智能,石化油服,碧桂园,神威药业,科笛,粉笔,粤丰环保,粤海置地,纳科诺尔,网龙,罕王黄金,美丽田园,美的置业,联邦制药,艾德韦宣集团,艾美疫苗,英恒科技,药师帮,诺辉健康,路演中,量子之歌,长久股份,长江电力,阜博集团,首惠产业金融,香港中旅"
+  },
+  {
+    "uid": "494492",
+    "name": "Andy HO",
+    "org_name": "平安银行股份有限公司",
+    "org_type": "银行",
+    "cert_type": "机构投资者",
+    "position": "Investment Manager",
+    "department": "Treasury Dept",
+    "last_interaction_time": "2026-03-23 22:57:18",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "申万宏源",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "建设银行",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中国人保",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "光大证券",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "国泰君安国际",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "平安银行",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "美团-W",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "知乎",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2026-03-14"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-14"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-14"
+      },
+      {
+        "company": "苹果",
+        "time": "2025-10-28"
+      },
+      {
+        "company": "联合健康",
+        "time": "2025-10-28"
+      },
+      {
+        "company": "新东方",
+        "time": "2025-10-28"
+      },
+      {
+        "company": "汇丰控股",
+        "time": "2025-10-28"
+      },
+      {
+        "company": "招商银行",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "农业银行",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "中国银行",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "香港中旅",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "交通银行",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "友邦保险",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "百度",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "华润三九",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "信義玻璃",
+        "time": "2024-08-27"
+      },
+      {
+        "company": "中国平安",
+        "time": "2024-03-22"
+      }
+    ],
+    "special_companies": "建业地产"
+  },
+  {
+    "uid": "610611",
+    "name": "周书冬",
+    "org_name": "深圳征途私募证券投资基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资总监",
+    "department": "",
+    "last_interaction_time": "2026-03-23 19:07:53",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      },
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "博腾股份",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中煤能源",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "兖州煤业",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "邮储银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "农业银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中国平安",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "鸿远电子",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "建设银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "交通银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中信股份",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "香港中旅",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "中国太保",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "知乎",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "平安银行",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "罕王黄金",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "雾芯科技",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2026-03-11"
+      },
+      {
+        "company": "工商银行",
+        "time": "2026-03-11"
+      },
+      {
+        "company": "中国银行",
+        "time": "2026-03-11"
+      },
+      {
+        "company": "蔚来",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "滴普科技",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "联想集团",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "微软",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "谷歌",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "英伟达",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "META",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "超威半导体",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "MiniMax",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "恒安国际",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "万物云",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "理想汽车-w",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "中国再保险",
+        "time": "2026-01-13"
+      },
+      {
+        "company": "国锐生活",
+        "time": "2026-01-08"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-01-08"
+      },
+      {
+        "company": "锅圈",
+        "time": "2026-01-08"
+      },
+      {
+        "company": "山高新能源",
+        "time": "2026-01-08"
+      },
+      {
+        "company": "亚信科技",
+        "time": "2026-01-08"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-01-08"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-01-08"
+      },
+      {
+        "company": "晶泰控股",
+        "time": "2026-01-08"
+      },
+      {
+        "company": "中烟香港",
+        "time": "2025-12-26"
+      },
+      {
+        "company": "挚文集团",
+        "time": "2025-12-26"
+      },
+      {
+        "company": "上海实业控股",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "阅文集团",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "安踏体育",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "恒瑞医药",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "美的集团",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "网易",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "美团-W",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "牧原股份",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "赛力斯",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "东鹏饮料",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "美的置业",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "中国人保",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "天图投资",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "爱奇艺",
+        "time": "2025-07-19"
+      },
+      {
+        "company": "网易云音乐",
+        "time": "2025-07-19"
+      },
+      {
+        "company": "申万宏源证券研究所",
+        "time": "2025-07-19"
+      },
+      {
+        "company": "天风证券研究所",
+        "time": "2025-07-19"
+      },
+      {
+        "company": "国泰海通证券研究所",
+        "time": "2025-07-19"
+      },
+      {
+        "company": "中金公司研究所",
+        "time": "2025-07-19"
+      },
+      {
+        "company": "中信建投证券研究所",
+        "time": "2025-07-19"
+      },
+      {
+        "company": "苹果",
+        "time": "2025-07-19"
+      },
+      {
+        "company": "可口可乐",
+        "time": "2025-07-19"
+      },
+      {
+        "company": "达美乐披萨",
+        "time": "2025-07-19"
+      },
+      {
+        "company": "中国燃气",
+        "time": "2025-06-24"
+      },
+      {
+        "company": "波司登",
+        "time": "2025-06-24"
+      },
+      {
+        "company": "联邦快递",
+        "time": "2025-06-24"
+      },
+      {
+        "company": "招商银行",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "交个朋友控股",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "九方智投控股",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "光大证券",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "子不语",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "华润三九",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-03-25"
+      },
+      {
+        "company": "中集集团",
+        "time": "2025-03-25"
+      },
+      {
+        "company": "华润医药",
+        "time": "2025-03-25"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "吉利汽车",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "昆药集团",
+        "time": "2025-01-10"
+      },
+      {
+        "company": "天士力",
+        "time": "2024-08-29"
+      },
+      {
+        "company": "广誉远",
+        "time": "2024-05-22"
+      }
+    ],
+    "special_companies": "中集集团,华润医疗,华润医药,子不语,广誉远,康臣药业,招商银行"
+  },
+  {
+    "uid": "638994",
+    "name": "陈青",
+    "org_name": "天马微电子股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "市场部",
+    "last_interaction_time": "2026-03-23 14:52:46",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 71
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "超威半导体",
+        "time": "2026-02-03"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2025-12-12"
+      },
+      {
+        "company": "文远知行",
+        "time": "2025-11-24"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "摩根大通",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "联邦快递",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "达美航空",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "港铁公司",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "云迹科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "蓝思科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2025-10-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "1209",
+    "name": "陈玮",
+    "org_name": "中海基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "权益投资部",
+    "last_interaction_time": "2026-03-23 11:28:37",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-18",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 2
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "农业银行",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "佳鑫国际资源",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-02-26"
+      },
+      {
+        "company": "江南布衣",
+        "time": "2026-02-26"
+      },
+      {
+        "company": "亿航智能",
+        "time": "2025-11-25"
+      },
+      {
+        "company": "宝尊电商",
+        "time": "2025-11-25"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-11-25"
+      },
+      {
+        "company": "小马智行",
+        "time": "2025-11-25"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2025-08-31"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-08-23"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-23"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "IGG INC",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "爱康医疗",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "瑞声科技",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "工业富联",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2025-07-28"
+      },
+      {
+        "company": "亚信科技",
+        "time": "2025-07-28"
+      },
+      {
+        "company": "百融智能",
+        "time": "2025-07-07"
+      },
+      {
+        "company": "波司登",
+        "time": "2025-06-24"
+      },
+      {
+        "company": "敏华控股",
+        "time": "2025-05-09"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2024-03-18"
+      },
+      {
+        "company": "比亚迪电子",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": "中国海外宏洋集团,比亚迪电子"
+  },
+  {
+    "uid": "500471",
+    "name": "康怡聪",
+    "org_name": "美图公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "高级投资者关系经理",
+    "department": "",
+    "last_interaction_time": "2026-03-23 11:10:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "百融智能",
+        "time": "2026-03-23"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "344588",
+    "name": "王登峰",
+    "org_name": "互动派科技股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "CFO",
+    "department": "",
+    "last_interaction_time": "2026-03-23 09:08:31",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "1450",
+    "name": "盧超",
+    "org_name": "理成(开曼)资产管理有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2026-03-22 15:50:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-22",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 3
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "九方智投控股",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "小马智行",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "香港中旅",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "稀美资源",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "百融智能",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "美团-W",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "恒安国际",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-09"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "理士国际",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "中国银行",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "招商银行",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "顺丰同城",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "美的置业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "百度",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "药师帮",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "中国电信",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "京东物流",
+        "time": "2025-08-06"
+      }
+    ],
+    "special_companies": "呷哺呷哺,国证国际证券(香港)研究所,沛嘉医疗,滨江服务"
+  },
+  {
+    "uid": "636839",
+    "name": "卢嘉情",
+    "org_name": "上海源熹投资管理中心(有限合伙)",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "合伙人",
+    "department": "",
+    "last_interaction_time": "2026-03-21 22:49:03",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-21",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-21",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华润医药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "百望股份",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "复星国际",
+        "time": "2025-08-22"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "282963",
+    "name": "翟志文",
+    "org_name": "卓德资产有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "董事",
+    "department": "",
+    "last_interaction_time": "2026-03-20 16:23:03",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 92
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "滴普科技",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-20"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "270430",
+    "name": "丁文亚",
+    "org_name": "佛山亚商资本投资管理有限公司",
+    "org_type": "私募基金管理人(已注销)",
+    "cert_type": "个人",
+    "position": "研究总监",
+    "department": null,
+    "last_interaction_time": "2026-03-20 16:18:35",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-18",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "美团-W",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "香港中旅",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "华润医药",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "万物云",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2025-09-05"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "特海国际",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "锦欣生殖",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "中煤能源",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "朝聚眼科",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "心通医疗",
+        "time": "2024-05-23"
+      },
+      {
+        "company": "现代牙科",
+        "time": "2024-04-18"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "天能动力",
+        "time": "2023-05-23"
+      },
+      {
+        "company": "敏华控股",
+        "time": "2023-05-15"
+      },
+      {
+        "company": "中汇集团",
+        "time": "2023-05-12"
+      },
+      {
+        "company": "信義玻璃",
+        "time": "2023-05-11"
+      },
+      {
+        "company": "新高教集团",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "归创通桥",
+        "time": "2023-05-08"
+      }
+    ],
+    "special_companies": "中汇集团,归创通桥,心通医疗,敏华控股,朝聚眼科"
+  },
+  {
+    "uid": "638114",
+    "name": "汪政",
+    "org_name": "上海鑫迪华数据技术有限公司",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "高级研究员",
+    "department": "",
+    "last_interaction_time": "2026-03-20 14:26:48",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "蔚来",
+        "time": "2025-09-02"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "495104",
+    "name": "吴佳",
+    "org_name": "深圳市国融鼎创投资有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2026-03-20 06:05:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华润医疗",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "国泰君安国际",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "香港中旅",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "知乎",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "明源云",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-08-01"
+      },
+      {
+        "company": "中石化冠德",
+        "time": "2023-05-12"
+      }
+    ],
+    "special_companies": "呷哺呷哺,明源云"
+  },
+  {
+    "uid": "21874",
+    "name": "James Lu",
+    "org_name": "Dragon China Capital Company, LTD",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Managing Director",
+    "department": "",
+    "last_interaction_time": "2026-03-19 22:53:15",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "招商银行",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "顺丰同城",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "中国平安",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "特海国际",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "中国人保",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "国泰君安国际",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "百融智能",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "爱康医疗",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "子不语",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "华纳音乐",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2025-07-23"
+      },
+      {
+        "company": "永升服务",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "融创中国",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "融创服务",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2024-03-20"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-08-25"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2023-08-23"
+      },
+      {
+        "company": "药明生物",
+        "time": "2023-06-20"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-03-25"
+      }
+    ],
+    "special_companies": "协合新能源,宝龙商业,药明生物,融创服务"
+  },
+  {
+    "uid": "582515",
+    "name": "王艳娇",
+    "org_name": "业如金融控股有限公司",
+    "org_type": "实业投资",
+    "cert_type": "机构投资者",
+    "position": "高级投资经理",
+    "department": "投资部",
+    "last_interaction_time": "2026-03-19 20:48:59",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 48
+      },
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      },
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 22
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "舜宇光学科技",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "小马智行",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "瑞幸咖啡",
+        "time": "2025-07-28"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2025-07-14"
+      },
+      {
+        "company": "天风证券研究所",
+        "time": "2025-05-12"
+      },
+      {
+        "company": "乖宝宠物",
+        "time": "2025-04-28"
+      },
+      {
+        "company": "景顺长城基金",
+        "time": "2025-01-02"
+      },
+      {
+        "company": "英伟达",
+        "time": "2024-11-21"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2024-11-11"
+      },
+      {
+        "company": "贝壳",
+        "time": "2024-11-11"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2024-11-11"
+      },
+      {
+        "company": "金山软件",
+        "time": "2024-11-06"
+      },
+      {
+        "company": "联想集团",
+        "time": "2024-11-06"
+      },
+      {
+        "company": "安德玛",
+        "time": "2024-11-06"
+      },
+      {
+        "company": "爱彼迎",
+        "time": "2024-11-06"
+      },
+      {
+        "company": "汽车之家",
+        "time": "2024-11-06"
+      },
+      {
+        "company": "高通",
+        "time": "2024-11-06"
+      },
+      {
+        "company": "苹果",
+        "time": "2024-11-06"
+      },
+      {
+        "company": "亚马逊",
+        "time": "2024-11-06"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2024-11-06"
+      },
+      {
+        "company": "华熙生物",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "台积电",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "新东方",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "百威亚太",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "百胜中国",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "中国移动",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "阅文集团",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "京东物流",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "海底捞",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "美丽田园",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "农夫山泉",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "珀莱雅",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "美团-W",
+        "time": "2024-08-27"
+      },
+      {
+        "company": "丸美生物",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "李宁",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "金风科技",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "潍柴动力",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "上美股份",
+        "time": "2024-08-22"
+      },
+      {
+        "company": "固生堂",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "华润啤酒",
+        "time": "2024-08-19"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2024-07-17"
+      },
+      {
+        "company": "时代天使",
+        "time": "2024-07-12"
+      },
+      {
+        "company": "海尔智家",
+        "time": "2024-07-11"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "网易",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "快手-W",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "拼多多",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "重庆啤酒",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "华能国际",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "伯克希尔-哈撒韦",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "名创优品",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "蒙牛乳业",
+        "time": "2024-05-08"
+      }
+    ],
+    "special_companies": "丸美生物,农夫山泉,华熙生物,快手-W,拼多多,美丽田园,腾讯控股,英伟达,金风科技"
+  },
+  {
+    "uid": "612903",
+    "name": "钟毅勇",
+    "org_name": "广州城市摩登家商业物业经营有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "项目经理",
+    "department": "",
+    "last_interaction_time": "2026-03-19 20:47:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-18",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "小米集团-W",
+        "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "348653",
+    "name": "王骞",
+    "org_name": "工银资管（全球）有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "主管",
+    "department": "固定收益投资部",
+    "last_interaction_time": "2026-03-19 20:45:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "开市客",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "美丽田园",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "滴普科技",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "富途控股",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "META",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "MiniMax",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "友邦保险",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "优步",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "美光科技",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "阅文集团",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "吉利汽车",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "百度",
+        "time": "2024-11-08"
+      },
+      {
+        "company": "快手-W",
+        "time": "2024-11-08"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2024-11-08"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2024-11-08"
+      },
+      {
+        "company": "京东物流",
+        "time": "2024-11-08"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2024-11-08"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2024-11-08"
+      },
+      {
+        "company": "华虹公司",
+        "time": "2024-11-07"
+      },
+      {
+        "company": "英特尔",
+        "time": "2024-05-03"
+      },
+      {
+        "company": "兴证全球基金",
+        "time": "2024-05-03"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2024-05-03"
+      },
+      {
+        "company": "苹果",
+        "time": "2024-05-03"
+      },
+      {
+        "company": "网龙",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "美的置业",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2024-03-19"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2024-03-19"
+      },
+      {
+        "company": "药明生物",
+        "time": "2023-08-24"
+      },
+      {
+        "company": "英伟达",
+        "time": "2023-08-23"
+      },
+      {
+        "company": "百果园集团",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "沃尔玛",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "伯克希尔-哈撒韦",
+        "time": "2023-05-06"
+      },
+      {
+        "company": "路演中",
+        "time": "2023-03-31"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2023-03-28"
+      }
+    ],
+    "special_companies": "小米集团-W,小鹏汽车-W,快手-W,百果园集团,网龙,美的置业,腾讯控股,药明生物,路演中"
+  },
+  {
+    "uid": "9485",
+    "name": "阮如江",
+    "org_name": "深圳康桥资产管理有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "执行董事",
+    "department": "",
+    "last_interaction_time": "2026-03-19 20:16:32",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 17
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "复星国际",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "周黑鸭",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "顺丰同城",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "锦欣生殖",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "金风科技",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "沃尔玛",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "友邦保险",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "瑞声科技",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-20"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "5228",
+    "name": "李然",
+    "org_name": "深圳市圣为投资管理有限公司",
+    "org_type": "一般企业",
+    "cert_type": "服务机构",
+    "position": "投资总监",
+    "department": "",
+    "last_interaction_time": "2026-03-19 19:44:31",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 48
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "IGG INC",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "香港中旅",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "稀美资源",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "美团-W",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "李宁",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "爱康医疗",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "伟仕佳杰",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "罕王黄金",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "药师帮",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "九源基因",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "京能清洁能源",
+        "time": "2025-03-22"
+      },
+      {
+        "company": "安东油田服务",
+        "time": "2025-03-22"
+      },
+      {
+        "company": "信义光能",
+        "time": "2023-05-22"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-25"
+      },
+      {
+        "company": "百融智能",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "星盛商业",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "英恒科技",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "中原建业",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "信义储电",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-03-20"
+      }
+    ],
+    "special_companies": "万物云,中原建业,亿胜生物科技,信义储电,信义光能,宝龙商业,星盛商业,百融智能,绿城管理控股,英恒科技,融创服务"
+  },
+  {
+    "uid": "607055",
+    "name": "王进",
+    "org_name": "浙江吉晟资产管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "个人",
+    "position": "投资总监",
+    "department": "投资部",
+    "last_interaction_time": "2026-03-19 19:36:11",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "地平线机器人",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "宁德时代",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "东吴证券研究所",
+        "time": "2025-05-31"
+      },
+      {
+        "company": "头豹研究院",
+        "time": "2025-05-31"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-05-31"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2025-04-22"
+      },
+      {
+        "company": "长安汽车",
+        "time": "2025-04-07"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-04-01"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2025-03-31"
+      }
+    ],
+    "special_companies": "东吴证券研究所,中国建筑,头豹研究院,小鹏汽车-W,绿城中国"
   },
   {
     "uid": "505942",
@@ -4509,7 +7130,7 @@
         "time": "2024-03-26"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2024-03-26"
       },
       {
@@ -4521,7 +7142,7 @@
         "time": "2024-03-05"
       }
     ],
-    "special_companies": "中汇集团,小鹏汽车-W,百融,碧桂园服务,阜博集团"
+    "special_companies": "中汇集团,小鹏汽车-W,百融智能,碧桂园服务,阜博集团"
   },
   {
     "uid": "38910",
@@ -4955,7 +7576,7 @@
         "time": "2025-03-27"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2025-03-26"
       },
       {
@@ -5015,7 +7636,7 @@
         "time": "2023-03-20"
       }
     ],
-    "special_companies": "华熙生物,比亚迪电子,百融,腾讯控股,英伟达,阿里巴巴-W"
+    "special_companies": "华熙生物,比亚迪电子,百融智能,腾讯控股,英伟达,阿里巴巴-W"
   },
   {
     "uid": "576211",
@@ -5133,6 +7754,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "西锐",
+        "time": "2026-03-25"
+      },
+      {
         "company": "万国数据服务",
         "time": "2026-03-16"
       },
@@ -5247,6 +7872,26 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "国泰海通",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "建设银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "贝康医疗",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "申万宏源",
+        "time": "2026-03-27"
+      },
       {
         "company": "小米集团-W",
         "time": "2026-03-19"
@@ -5652,7 +8297,7 @@
         "time": "2024-03-26"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2024-03-26"
       },
       {
@@ -5664,7 +8309,7 @@
         "time": "2023-03-29"
       }
     ],
-    "special_companies": "中国交建,中国电信,中国船舶租赁,中广核新能源,保利置业集团,建发物业,新世界发展,新城发展,新城控股,星盛商业,比亚迪,比亚迪电子,深圳控股,滨江服务,百融,碧桂园服务,绿景中国地产"
+    "special_companies": "中国交建,中国电信,中国船舶租赁,中广核新能源,保利置业集团,建发物业,新世界发展,新城发展,新城控股,星盛商业,比亚迪,比亚迪电子,深圳控股,滨江服务,百融智能,碧桂园服务,绿景中国地产"
   },
   {
     "uid": "1301",
@@ -5694,6 +8339,14 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2026-03-24"
+      },
       {
         "company": "阿里巴巴-W",
         "time": "2026-03-19"
@@ -5860,16 +8513,7 @@
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2026-03-16"
-      }
-    ],
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -5894,6 +8538,22 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "泡泡玛特",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "国泰君安国际",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "申万宏源",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-24"
+      },
       {
         "company": "地平线机器人",
         "time": "2026-03-19"
@@ -6312,7 +8972,7 @@
         "time": "2025-08-10"
       },
       {
-        "company": "中国罕王",
+        "company": "罕王黄金",
         "time": "2025-08-10"
       },
       {
@@ -6424,7 +9084,7 @@
         "time": "2025-07-07"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2025-07-07"
       },
       {
@@ -6451,633 +9111,6 @@
     "special_companies": "英恒科技"
   },
   {
-    "uid": "276824",
-    "name": "竺镇波",
-    "org_name": "上海宝腾电子科技有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "总经理/项目经理",
-    "department": "",
-    "last_interaction_time": "2026-03-19 16:10:01",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "阿里巴巴-W",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "湾区发展",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "工业富联",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "中国人保",
-        "time": "2025-08-08"
-      },
-      {
-        "company": "中广核新能源",
-        "time": "2025-08-08"
-      },
-      {
-        "company": "小牛电动",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "网易有道公司",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "金山软件",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "爱奇艺",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "快手-W",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "小鹏汽车-W",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "中国罕王",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "途牛",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "唯品会",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "网易",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "京东物流",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "中国电信",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "阅文集团",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "西方石油",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "再鼎医药",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "再生元制药",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "腾讯音乐",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "搜狐",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "迪士尼",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "华虹公司",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "亚信科技",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "协合新能源",
-        "time": "2024-03-06"
-      }
-    ],
-    "special_companies": "华润医疗,协合新能源,绿城服务"
-  },
-  {
-    "uid": "495864",
-    "name": "李雨襄",
-    "org_name": "青岛海月基金管理有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
-    "position": "项目总监",
-    "department": "",
-    "last_interaction_time": "2026-03-19 15:34:31",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中国有色矿业",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "佳鑫国际资源",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "鸣鸣很忙集团",
-        "time": "2025-09-12"
-      },
-      {
-        "company": "伟仕佳杰",
-        "time": "2025-09-12"
-      },
-      {
-        "company": "江波龙",
-        "time": "2025-09-11"
-      },
-      {
-        "company": "赛力斯",
-        "time": "2025-09-11"
-      },
-      {
-        "company": "奇瑞汽车",
-        "time": "2025-08-31"
-      },
-      {
-        "company": "携程集团-S",
-        "time": "2025-07-02"
-      },
-      {
-        "company": "恒瑞医药",
-        "time": "2025-07-02"
-      },
-      {
-        "company": "美的集团",
-        "time": "2025-07-02"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-04-08"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-03-24"
-      },
-      {
-        "company": "中煤能源",
-        "time": "2024-12-08"
-      },
-      {
-        "company": "融创服务",
-        "time": "2024-08-27"
-      },
-      {
-        "company": "新鸿基公司",
-        "time": "2024-08-26"
-      },
-      {
-        "company": "中烟香港",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "康基医疗",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "中广核新能源",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "九毛九",
-        "time": "2024-07-13"
-      },
-      {
-        "company": "海南矿业",
-        "time": "2024-07-07"
-      },
-      {
-        "company": "交个朋友控股",
-        "time": "2024-07-07"
-      },
-      {
-        "company": "阿拉丁",
-        "time": "2024-07-05"
-      },
-      {
-        "company": "中海油服",
-        "time": "2024-06-14"
-      },
-      {
-        "company": "中国海油",
-        "time": "2024-06-04"
-      },
-      {
-        "company": "迈普医学",
-        "time": "2024-05-30"
-      },
-      {
-        "company": "贵州三力",
-        "time": "2024-05-27"
-      },
-      {
-        "company": "桂林三金",
-        "time": "2024-05-21"
-      },
-      {
-        "company": "九典制药",
-        "time": "2024-05-20"
-      },
-      {
-        "company": "药师帮",
-        "time": "2024-05-20"
-      },
-      {
-        "company": "以岭药业",
-        "time": "2024-05-20"
-      },
-      {
-        "company": "可孚医疗",
-        "time": "2024-05-20"
-      },
-      {
-        "company": "康泰生物",
-        "time": "2024-05-20"
-      },
-      {
-        "company": "华润三九",
-        "time": "2024-05-19"
-      },
-      {
-        "company": "健之佳",
-        "time": "2024-05-19"
-      },
-      {
-        "company": "广誉远",
-        "time": "2024-05-19"
-      },
-      {
-        "company": "康恩贝",
-        "time": "2024-05-19"
-      },
-      {
-        "company": "太极集团",
-        "time": "2024-05-19"
-      },
-      {
-        "company": "老百姓",
-        "time": "2024-05-19"
-      },
-      {
-        "company": "伯克希尔-哈撒韦",
-        "time": "2024-05-11"
-      },
-      {
-        "company": "中粮包装",
-        "time": "2024-03-24"
-      },
-      {
-        "company": "京东物流",
-        "time": "2024-03-15"
-      },
-      {
-        "company": "复星旅游文化",
-        "time": "2024-03-15"
-      },
-      {
-        "company": "宏信建发",
-        "time": "2024-03-14"
-      },
-      {
-        "company": "信达证券研究所",
-        "time": "2024-03-14"
-      },
-      {
-        "company": "华安医药",
-        "time": "2024-03-06"
-      },
-      {
-        "company": "华安证券研究所",
-        "time": "2024-02-27"
-      },
-      {
-        "company": "名创优品",
-        "time": "2023-12-17"
-      },
-      {
-        "company": "361度",
-        "time": "2023-12-01"
-      },
-      {
-        "company": "华能国际",
-        "time": "2023-11-30"
-      },
-      {
-        "company": "华森制药",
-        "time": "2023-11-30"
-      },
-      {
-        "company": "国元国际",
-        "time": "2023-11-30"
-      },
-      {
-        "company": "亿胜生物科技",
-        "time": "2023-11-28"
-      },
-      {
-        "company": "芯源微",
-        "time": "2023-11-28"
-      },
-      {
-        "company": "友邦保险",
-        "time": "2023-11-10"
-      },
-      {
-        "company": "百胜中国",
-        "time": "2023-11-06"
-      },
-      {
-        "company": "国证国际证券(香港)研究所",
-        "time": "2023-11-03"
-      },
-      {
-        "company": "博腾股份",
-        "time": "2023-10-31"
-      },
-      {
-        "company": "兖煤澳大利亚",
-        "time": "2023-10-30"
-      },
-      {
-        "company": "绿景中国地产",
-        "time": "2023-10-25"
-      },
-      {
-        "company": "健康元",
-        "time": "2023-10-07"
-      },
-      {
-        "company": "用友网络",
-        "time": "2023-10-01"
-      },
-      {
-        "company": "济川药业",
-        "time": "2023-10-01"
-      },
-      {
-        "company": "太古地产",
-        "time": "2023-09-13"
-      },
-      {
-        "company": "蒙牛乳业",
-        "time": "2023-09-13"
-      },
-      {
-        "company": "恒隆地产",
-        "time": "2023-09-13"
-      },
-      {
-        "company": "商汤-W",
-        "time": "2023-09-13"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2023-09-08"
-      },
-      {
-        "company": "百果园集团",
-        "time": "2023-09-07"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2023-09-07"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2023-09-06"
-      },
-      {
-        "company": "星盛商业",
-        "time": "2023-09-04"
-      },
-      {
-        "company": "上海证券报",
-        "time": "2023-09-01"
-      },
-      {
-        "company": "宝龙地产",
-        "time": "2023-08-14"
-      },
-      {
-        "company": "中国中药",
-        "time": "2023-07-16"
-      },
-      {
-        "company": "东方财富直播厅",
-        "time": "2023-05-19"
-      },
-      {
-        "company": "金融街物业",
-        "time": "2023-05-07"
-      },
-      {
-        "company": "建发物业",
-        "time": "2023-05-07"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2023-05-07"
-      },
-      {
-        "company": "保利物业",
-        "time": "2023-05-07"
-      },
-      {
-        "company": "中海物业",
-        "time": "2023-05-07"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2023-05-04"
-      },
-      {
-        "company": "华宝新能",
-        "time": "2023-04-29"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2023-04-17"
-      },
-      {
-        "company": "百诚医药",
-        "time": "2023-04-14"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2023-04-06"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-04-03"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2023-04-02"
-      },
-      {
-        "company": "顺丰同城",
-        "time": "2023-03-25"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-03-25"
-      },
-      {
-        "company": "中信银行",
-        "time": "2023-03-24"
-      },
-      {
-        "company": "招商局商业房托",
-        "time": "2023-03-23"
-      },
-      {
-        "company": "深高速",
-        "time": "2023-03-21"
-      },
-      {
-        "company": "华尔街见闻",
-        "time": "2023-03-18"
-      },
-      {
-        "company": "TCL电子",
-        "time": "2023-03-16"
-      },
-      {
-        "company": "华润医药",
-        "time": "2023-03-15"
-      },
-      {
-        "company": "平安好医生",
-        "time": "2023-03-13"
-      }
-    ],
-    "special_companies": "万物云,上海医药,世茂服务,东方财富直播厅,中广核技,中烟香港,中粮包装,九典制药,交个朋友控股,亿胜生物科技,兖煤澳大利亚,华安医药,华森制药,华润医疗,华润医药,卓越商企服务,国证国际证券(香港)研究所,宏信建发,宝龙商业,广誉远,招商局商业房托,招商蛇口,敏华控股,新希望服务,新鸿基公司,星盛商业,永升服务,江南布衣,海南矿业,深高速,百果园集团,绿城服务,美的集团,老百姓,药师帮,越秀服务,金科服务,雅生活服务,顺丰同城"
-  },
-  {
-    "uid": "334186",
-    "name": "陈宁晖",
-    "org_name": "深圳富达价值投资有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "高级研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-19 15:17:48",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "美的置业",
-        "time": "2025-03-31"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-03-26"
-      }
-    ],
-    "special_companies": "碧桂园服务"
-  },
-  {
     "uid": "350757",
     "name": "黎雯玲",
     "org_name": "Bloomberg L.P.",
@@ -7099,6 +9132,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "达势股份",
+        "time": "2026-03-25"
+      },
       {
         "company": "鸣鸣很忙集团",
         "time": "2026-03-24"
@@ -7237,6 +9274,18 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "邮储银行",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "华润饮料",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-03-26"
+      },
       {
         "company": "贝康医疗",
         "time": "2026-03-20"
@@ -7603,6 +9652,18 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "鸿远电子",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "协鑫科技",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "小马智行",
+        "time": "2026-03-26"
+      },
+      {
         "company": "中广核新能源",
         "time": "2026-03-19"
       },
@@ -7624,83 +9685,6 @@
       }
     ],
     "special_companies": "金风科技"
-  },
-  {
-    "uid": "424658",
-    "name": "宋雲喆",
-    "org_name": "中信建投（国际）资产管理有限公司",
-    "org_type": "券商资管",
-    "cert_type": "机构投资者",
-    "position": "投資經理",
-    "department": "",
-    "last_interaction_time": "2026-03-18 21:00:38",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "地平线机器人",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-18",
-        "meet_title": "地平线机器人-W（09660.HK）2025年全年业绩发布电话会议"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "新希望服务",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "龙湖集团",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "贝壳",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "万物云",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "招商蛇口",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-05-15"
-      },
-      {
-        "company": "新世界发展",
-        "time": "2023-11-14"
-      }
-    ],
-    "special_companies": "卓越商企服务"
   },
   {
     "uid": "34852",
@@ -8172,6 +10156,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "拼多多",
+        "time": "2026-03-25"
+      },
+      {
         "company": "地平线机器人",
         "time": "2026-03-18"
       },
@@ -8324,6 +10312,18 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "长飞光纤",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-24"
+      },
+      {
         "company": "京东健康",
         "time": "2026-03-02"
       },
@@ -8357,10 +10357,6 @@
       },
       {
         "company": "美团-W",
-        "time": "2025-08-29"
-      },
-      {
-        "company": "泡泡玛特",
         "time": "2025-08-29"
       },
       {
@@ -8491,6 +10487,26 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中国建筑国际",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2026-03-24"
+      },
       {
         "company": "美丽田园",
         "time": "2026-01-08"
@@ -8676,6 +10692,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "邮储银行",
+        "time": "2026-03-25"
+      },
+      {
         "company": "万物云",
         "time": "2026-03-10"
       },
@@ -8760,7 +10780,7 @@
         "time": "2023-05-15"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2023-05-15"
       },
       {
@@ -8983,6 +11003,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "华虹公司",
+        "time": "2026-03-30"
+      },
       {
         "company": "滴普科技",
         "time": "2026-03-23"
@@ -9220,7 +11244,7 @@
         "time": "2024-09-06"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2024-09-04"
       },
       {
@@ -9228,7 +11252,7 @@
         "time": "2024-09-04"
       }
     ],
-    "special_companies": "中国民航信息网络,比亚迪,百融"
+    "special_companies": "中国民航信息网络,比亚迪,百融智能"
   },
   {
     "uid": "347617",
@@ -9284,11 +11308,11 @@
         "time": "2023-08-08"
       },
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2023-01-08"
       }
     ],
-    "special_companies": "中国心连心化肥,华润医疗,新里程,百融,锦欣生殖"
+    "special_companies": "中国心连心化肥,华润医疗,新里程,百融智能,锦欣生殖"
   },
   {
     "uid": "495905",
@@ -9568,7 +11592,7 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
-        "company": "百融",
+        "company": "百融智能",
         "time": "2025-08-18"
       },
       {
@@ -9656,7 +11680,7 @@
         "time": "2023-08-17"
       }
     ],
-    "special_companies": "万物云,保利物业,小鹏汽车-W,康哲药业,建发物业,滨江服务,百融,绿城中国,绿城服务"
+    "special_companies": "万物云,保利物业,小鹏汽车-W,康哲药业,建发物业,滨江服务,百融智能,绿城中国,绿城服务"
   },
   {
     "uid": "334163",
