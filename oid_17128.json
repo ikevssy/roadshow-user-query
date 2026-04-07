@@ -1,5 +1,104 @@
 [
   {
+    "uid": "638994",
+    "name": "陈青",
+    "org_name": "天马微电子股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "市场部",
+    "last_interaction_time": "2026-04-07 17:27:13",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "美团-W",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-04-07",
+        "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会"
+      },
+      {
+        "time": "2025-11-06",
+        "meet_title": "美团-W（03690.HK）2025年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-11-06",
+        "meet_title": "美团-W（03690.HK）2025年第二季度业绩电话会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "超威半导体",
+        "time": "2026-02-03"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2025-12-12"
+      },
+      {
+        "company": "文远知行",
+        "time": "2025-11-24"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "摩根大通",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "联邦快递",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "达美航空",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "港铁公司",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "云迹科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "蓝思科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2025-10-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "645270",
     "name": "賈昭陽",
     "org_name": "东信投资",
@@ -11112,6 +11211,67 @@
     "special_companies": ""
   },
   {
+    "uid": "494228",
+    "name": "廖望",
+    "org_name": "北京恩赛私募基金管理有限公司",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "创始合伙人",
+    "department": "",
+    "last_interaction_time": "2026-03-26 19:01:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美团-W",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会"
+      },
+      {
+        "time": "2025-11-28",
+        "meet_title": "美团-W（03690.HK）2025年第三季度业绩电话会"
+      },
+      {
+        "time": "2025-05-26",
+        "meet_title": "美团-W（03690.HK）2025年第一季度业绩电话会"
+      },
+      {
+        "time": "2025-03-21",
+        "meet_title": "美团（03690.HK）2024年第四季度及全年财务业绩电话会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会",
+        "duration": 60
+      },
+      {
+        "time": "2025-11-28",
+        "meet_title": "美团-W（03690.HK）2025年第三季度业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2025-03-21",
+        "meet_title": "美团（03690.HK）2024年第四季度及全年财务业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-05-10"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-05-10"
+      }
+    ],
+    "special_companies": "中国电信,药明生物"
+  },
+  {
     "uid": "632665",
     "name": "刘幸贇",
     "org_name": "福特汽车",
@@ -11217,67 +11377,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "494228",
-    "name": "廖望",
-    "org_name": "北京恩赛私募基金管理有限公司",
-    "org_type": null,
-    "cert_type": "机构投资者",
-    "position": "创始合伙人",
-    "department": "",
-    "last_interaction_time": "2026-03-26 19:01:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美团-W",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会"
-      },
-      {
-        "time": "2025-11-28",
-        "meet_title": "美团-W（03690.HK）2025年第三季度业绩电话会"
-      },
-      {
-        "time": "2025-05-26",
-        "meet_title": "美团-W（03690.HK）2025年第一季度业绩电话会"
-      },
-      {
-        "time": "2025-03-21",
-        "meet_title": "美团（03690.HK）2024年第四季度及全年财务业绩电话会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会",
-        "duration": 60
-      },
-      {
-        "time": "2025-11-28",
-        "meet_title": "美团-W（03690.HK）2025年第三季度业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-21",
-        "meet_title": "美团（03690.HK）2024年第四季度及全年财务业绩电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-05-10"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-05-10"
-      }
-    ],
-    "special_companies": "中国电信,药明生物"
   },
   {
     "uid": "347908",
@@ -11998,6 +12097,36 @@
     "special_companies": "华熙生物,珀莱雅,贝泰妮"
   },
   {
+    "uid": "633428",
+    "name": "杨志勇",
+    "org_name": "无锡市红阳资本管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "高级研究员",
+    "department": "",
+    "last_interaction_time": "2026-03-26 19:01:08",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美团-W",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会",
+        "duration": 3
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "425300",
     "name": "金光",
     "org_name": "京兆资产管理有限公司",
@@ -12324,95 +12453,6 @@
     "special_companies": "万物云,中南建设,中国海外宏洋集团,保利物业,信义光能,协合新能源,协鑫科技,卓越商企服务,合景泰富集团,呷哺呷哺,国证国际证券(香港)研究所,宝龙商业,宝龙地产,康臣药业,建发国际集团,心玮医疗,招商蛇口,敏华控股,新城发展,新城悦服务,新城控股,新希望服务,新鸿基公司,永升服务,湾区发展,滨江服务,碧桂园,绿城中国,绿城服务,美的置业,融创服务,越秀服务,远洋服务,金科服务,顺丰同城"
   },
   {
-    "uid": "633428",
-    "name": "杨志勇",
-    "org_name": "无锡市红阳资本管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "高级研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-26 19:01:08",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美团-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会",
-        "duration": 3
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "608260",
-    "name": "朱加奇",
-    "org_name": "红思客资产管理(北京)有限责任公司",
-    "org_type": "其他私募投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-26 19:01:07",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美团-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会",
-        "duration": 17
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "美团-W",
-        "time": "2026-03-26"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2026-03-26"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2026-03-11"
-      },
-      {
-        "company": "华润医药",
-        "time": "2026-03-11"
-      },
-      {
-        "company": "达仁堂",
-        "time": "2026-03-03"
-      },
-      {
-        "company": "同仁堂",
-        "time": "2026-03-03"
-      },
-      {
-        "company": "以岭药业",
-        "time": "2025-09-17"
-      }
-    ],
-    "special_companies": "联邦制药"
-  },
-  {
     "uid": "276643",
     "name": "Julia Pan",
     "org_name": "UOB Kay Hian Investment Consulting （Shanghai） Co.,Ltd.  ",
@@ -12601,6 +12641,65 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "608260",
+    "name": "朱加奇",
+    "org_name": "红思客资产管理(北京)有限责任公司",
+    "org_type": "其他私募投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2026-03-26 19:01:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美团-W",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "美团-W（03690.HK）2025年第四季度及全年财务业绩电话会",
+        "duration": 17
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "美团-W",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2026-03-11"
+      },
+      {
+        "company": "华润医药",
+        "time": "2026-03-11"
+      },
+      {
+        "company": "达仁堂",
+        "time": "2026-03-03"
+      },
+      {
+        "company": "同仁堂",
+        "time": "2026-03-03"
+      },
+      {
+        "company": "以岭药业",
+        "time": "2025-09-17"
+      }
+    ],
+    "special_companies": "联邦制药"
   },
   {
     "uid": "344057",
@@ -14780,6 +14879,18 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "博腾股份",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-04-07"
+      },
       {
         "company": "建发国际集团",
         "time": "2026-03-25"
@@ -28866,6 +28977,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "新世界发展",
+        "time": "2026-04-07"
+      },
+      {
         "company": "茶姬控股（霸王茶姬）",
         "time": "2025-11-27"
       },
@@ -30955,97 +31070,6 @@
       }
     ],
     "special_companies": "工业富联,金风科技"
-  },
-  {
-    "uid": "638994",
-    "name": "陈青",
-    "org_name": "天马微电子股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "经理",
-    "department": "市场部",
-    "last_interaction_time": "2025-11-06 19:05:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美团-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-11-06",
-        "meet_title": "美团-W（03690.HK）2025年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-11-06",
-        "meet_title": "美团-W（03690.HK）2025年第二季度业绩电话会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "超威半导体",
-        "time": "2026-02-03"
-      },
-      {
-        "company": "中国中冶",
-        "time": "2025-12-12"
-      },
-      {
-        "company": "文远知行",
-        "time": "2025-11-24"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "BOSS直聘",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "摩根大通",
-        "time": "2025-11-07"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "联邦快递",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "达美航空",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "港铁公司",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "湾区发展",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "云迹科技",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "蓝思科技",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "歌尔微电子",
-        "time": "2025-10-27"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "639329",
@@ -38855,45 +38879,6 @@
     "special_companies": "小米集团-W,小鹏汽车-W,快手-W,百果园集团,网龙,美的置业,腾讯控股,药明生物,路演中"
   },
   {
-    "uid": "582375",
-    "name": "王海刚",
-    "org_name": "深圳市绿能照明有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "总经理",
-    "department": "",
-    "last_interaction_time": "2025-08-27 19:02:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美团-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "美团-W（03690.HK）2025年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "美团-W（03690.HK）2025年第二季度业绩电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "美团-W",
-        "time": "2025-08-27"
-      },
-      {
-        "company": "融创服务",
-        "time": "2023-08-22"
-      }
-    ],
-    "special_companies": "融创服务"
-  },
-  {
     "uid": "636907",
     "name": "李姿忆",
     "org_name": "摩登国际(香港)有限公司",
@@ -38931,6 +38916,45 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "582375",
+    "name": "王海刚",
+    "org_name": "深圳市绿能照明有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2025-08-27 19:02:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美团-W",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "美团-W（03690.HK）2025年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "美团-W（03690.HK）2025年第二季度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "美团-W",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-08-22"
+      }
+    ],
+    "special_companies": "融创服务"
   },
   {
     "uid": "607539",
@@ -40387,6 +40411,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "金域医学",
+        "time": "2026-04-07"
+      },
       {
         "company": "理士国际",
         "time": "2026-04-02"
@@ -51684,6 +51712,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "BOSS直聘",
+        "time": "2026-04-07"
+      },
       {
         "company": "敏华控股",
         "time": "2024-11-28"

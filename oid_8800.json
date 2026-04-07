@@ -20229,6 +20229,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
+      {
         "company": "超威半导体",
         "time": "2026-02-03"
       },
@@ -23304,6 +23308,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "新世界发展",
+        "time": "2026-04-07"
+      },
       {
         "company": "茶姬控股（霸王茶姬）",
         "time": "2025-11-27"
@@ -52175,53 +52183,6 @@
     "special_companies": ""
   },
   {
-    "uid": "582314",
-    "name": "王超",
-    "org_name": "华福证券有限责任公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "商业社服行业研究员",
-    "department": "研究所",
-    "last_interaction_time": "2023-08-25 09:06:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华住集团-S",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "华住（01179.HK，HTHT.US）2023年第二季度及中期业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-25",
-        "meet_title": "华住（01179.HK，HTHT.US）2023年第二季度及中期业绩电话会",
-        "duration": 60
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "复星国际",
-        "time": "2023-08-22"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-08-22"
-      },
-      {
-        "company": "百融智能",
-        "time": "2023-08-22"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2023-08-22"
-      }
-    ],
-    "special_companies": "呷哺呷哺,复星国际"
-  },
-  {
     "uid": "276134",
     "name": "李杨",
     "org_name": "中国人寿富兰克林资产管理有限公司",
@@ -52272,6 +52233,53 @@
       }
     ],
     "special_companies": "比亚迪"
+  },
+  {
+    "uid": "582314",
+    "name": "王超",
+    "org_name": "华福证券有限责任公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "商业社服行业研究员",
+    "department": "研究所",
+    "last_interaction_time": "2023-08-25 09:06:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华住集团-S",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "华住（01179.HK，HTHT.US）2023年第二季度及中期业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-25",
+        "meet_title": "华住（01179.HK，HTHT.US）2023年第二季度及中期业绩电话会",
+        "duration": 60
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "复星国际",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "百融智能",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2023-08-22"
+      }
+    ],
+    "special_companies": "呷哺呷哺,复星国际"
   },
   {
     "uid": "335880",

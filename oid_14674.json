@@ -6838,45 +6838,6 @@
     "special_companies": ""
   },
   {
-    "uid": "637695",
-    "name": "佟明辉",
-    "org_name": "第一创业投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "生物医药投资 博士",
-    "department": "",
-    "last_interaction_time": "2025-08-28 09:28:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "IGG INC",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-26",
-        "meet_title": "IGG INC（00799.HK）2025年度中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "IGG INC（00799.HK）2025年度中期业绩发布会",
-        "duration": 53
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "科笛",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "IGG INC",
-        "time": "2025-08-26"
-      }
-    ],
-    "special_companies": "IGG INC"
-  },
-  {
     "uid": "336082",
     "name": "黎銘豊",
     "org_name": "V Moxie Capital Limited",
@@ -6922,6 +6883,45 @@
       }
     ],
     "special_companies": "呷哺呷哺"
+  },
+  {
+    "uid": "637695",
+    "name": "佟明辉",
+    "org_name": "第一创业投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "生物医药投资 博士",
+    "department": "",
+    "last_interaction_time": "2025-08-28 09:28:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "IGG INC",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-26",
+        "meet_title": "IGG INC（00799.HK）2025年度中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "IGG INC（00799.HK）2025年度中期业绩发布会",
+        "duration": 53
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "科笛",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "IGG INC",
+        "time": "2025-08-26"
+      }
+    ],
+    "special_companies": "IGG INC"
   },
   {
     "uid": "337961",

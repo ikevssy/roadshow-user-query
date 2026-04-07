@@ -1,5 +1,169 @@
 [
   {
+    "uid": "283528",
+    "name": "刘启宗",
+    "org_name": "华兴证券(香港)有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "经理",
+    "department": "研究部",
+    "last_interaction_time": "2026-04-07 22:44:39",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "五谷磨房",
+    "apply_count": 5,
+    "apply_records": [
+      {
+        "time": "2026-04-04",
+        "meet_title": "五谷磨房（01837.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2026-04-04",
+        "meet_title": "五谷磨房（01837.HK）投资者交流会｜安信国际 x 路演中"
+      },
+      {
+        "time": "2026-04-04",
+        "meet_title": "五谷磨房（01837.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2026-03-31",
+        "meet_title": "五谷磨房（01837.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2023-03-21",
+        "meet_title": "五谷磨房（01837.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2026-04-04",
+        "meet_title": "五谷磨房（01837.HK）2022年度业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2026-04-04",
+        "meet_title": "五谷磨房（01837.HK）投资者交流会｜安信国际 x 路演中",
+        "duration": 0
+      },
+      {
+        "time": "2026-04-04",
+        "meet_title": "五谷磨房（01837.HK）2024年度业绩发布会",
+        "duration": 10
+      },
+      {
+        "time": "2026-03-31",
+        "meet_title": "五谷磨房（01837.HK）2025年度业绩发布会",
+        "duration": 6
+      },
+      {
+        "time": "2026-03-31",
+        "meet_title": "五谷磨房（01837.HK）2025年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "星盛商业",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2023-03-21"
+      }
+    ],
+    "special_companies": "滨江服务"
+  },
+  {
+    "uid": "638994",
+    "name": "陈青",
+    "org_name": "天马微电子股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "市场部",
+    "last_interaction_time": "2026-04-07 20:36:35",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "五谷磨房",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-07",
+        "meet_title": "五谷磨房（01837.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "超威半导体",
+        "time": "2026-02-03"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2025-12-12"
+      },
+      {
+        "company": "文远知行",
+        "time": "2025-11-24"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "摩根大通",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "联邦快递",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "达美航空",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "港铁公司",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "云迹科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "蓝思科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2025-10-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "284246",
     "name": "周伟",
     "org_name": "广东狐尾松资产管理有限公司",
@@ -777,81 +941,6 @@
       }
     ],
     "special_companies": "万物云,万物新生（爱回收）,世茂服务,中国圣牧,中国黄金国际,中广核新能源,中集安瑞科,五谷磨房,亚信科技,亿胜生物科技,兖煤澳大利亚,兴科蓉医药,力劲科技,力鸿检验,加科思,华润电力,协合新能源,卓越商企服务,合景悠活,和铂医药,国元国际,国泰君安国际,国证国际证券(香港)研究所,复星国际,宏华集团,康宁医院,思治企业咨询,新世界发展,新城悦服务,星盛商业,映宇宙,晶门半导体,畅捷通,百融智能,移卡,绿城管理控股,英恒科技,融创服务,贝康医疗,远东发展,金茂服务,锦欣生殖"
-  },
-  {
-    "uid": "283528",
-    "name": "刘启宗",
-    "org_name": "华兴证券(香港)有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "经理",
-    "department": "研究部",
-    "last_interaction_time": "2026-04-04 00:35:55",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "五谷磨房",
-    "apply_count": 5,
-    "apply_records": [
-      {
-        "time": "2026-04-04",
-        "meet_title": "五谷磨房（01837.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2026-04-04",
-        "meet_title": "五谷磨房（01837.HK）投资者交流会｜安信国际 x 路演中"
-      },
-      {
-        "time": "2026-04-04",
-        "meet_title": "五谷磨房（01837.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2026-03-31",
-        "meet_title": "五谷磨房（01837.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2023-03-21",
-        "meet_title": "五谷磨房（01837.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2026-04-04",
-        "meet_title": "五谷磨房（01837.HK）2022年度业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2026-04-04",
-        "meet_title": "五谷磨房（01837.HK）投资者交流会｜安信国际 x 路演中",
-        "duration": 0
-      },
-      {
-        "time": "2026-04-04",
-        "meet_title": "五谷磨房（01837.HK）2024年度业绩发布会",
-        "duration": 10
-      },
-      {
-        "time": "2026-03-31",
-        "meet_title": "五谷磨房（01837.HK）2025年度业绩发布会",
-        "duration": 6
-      },
-      {
-        "time": "2026-03-31",
-        "meet_title": "五谷磨房（01837.HK）2025年度业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "星盛商业",
-        "time": "2023-03-21"
-      },
-      {
-        "company": "五谷磨房",
-        "time": "2023-03-21"
-      }
-    ],
-    "special_companies": "滨江服务"
   },
   {
     "uid": "633414",
@@ -5871,6 +5960,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "金域医学",
+        "time": "2026-04-07"
+      },
       {
         "company": "理士国际",
         "time": "2026-04-02"

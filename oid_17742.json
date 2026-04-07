@@ -1,5 +1,100 @@
 [
   {
+    "uid": "638994",
+    "name": "陈青",
+    "org_name": "天马微电子股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "市场部",
+    "last_interaction_time": "2026-04-08 01:06:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "谷歌",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-02-25",
+        "meet_title": "谷歌 (GOOG.US) 2025年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-02-25",
+        "meet_title": "谷歌 (GOOG.US) 2025年第四季度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "超威半导体",
+        "time": "2026-02-03"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2025-12-12"
+      },
+      {
+        "company": "文远知行",
+        "time": "2025-11-24"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "摩根大通",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "联邦快递",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "达美航空",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "港铁公司",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "云迹科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "蓝思科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2025-10-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "344997",
     "name": "王雷",
     "org_name": "恺英网络股份有限公司",
@@ -2270,97 +2365,6 @@
       }
     ],
     "special_companies": "中国交建,中国燃气,宏信建发,越秀交通基建,远东宏信"
-  },
-  {
-    "uid": "638994",
-    "name": "陈青",
-    "org_name": "天马微电子股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "经理",
-    "department": "市场部",
-    "last_interaction_time": "2026-02-25 14:27:29",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "谷歌",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-02-25",
-        "meet_title": "谷歌 (GOOG.US) 2025年第四季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-02-25",
-        "meet_title": "谷歌 (GOOG.US) 2025年第四季度业绩电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "超威半导体",
-        "time": "2026-02-03"
-      },
-      {
-        "company": "中国中冶",
-        "time": "2025-12-12"
-      },
-      {
-        "company": "文远知行",
-        "time": "2025-11-24"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "BOSS直聘",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "摩根大通",
-        "time": "2025-11-07"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "联邦快递",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "达美航空",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "港铁公司",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "湾区发展",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "云迹科技",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "蓝思科技",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "歌尔微电子",
-        "time": "2025-10-27"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "284237",
