@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-04-08 20:33:57",
+  "update_time": "2026-04-09 01:36:22",
   "companies_count": 52606,
   "data_start_time": "2023-01-01",
   "synced_companies": 2154,
@@ -62,7 +62,7 @@
       "oid": 18365,
       "cn_short_name": "工业富联",
       "filename": "oid_18365.json",
-      "user_count": 1180,
+      "user_count": 1189,
       "release_batch": 2
     },
     {
@@ -104,7 +104,7 @@
       "oid": 1144,
       "cn_short_name": "比亚迪",
       "filename": "oid_1144.json",
-      "user_count": 1045,
+      "user_count": 1047,
       "release_batch": 1
     },
     {
@@ -3776,6 +3776,13 @@
       "release_batch": 1
     },
     {
+      "oid": 17662,
+      "cn_short_name": "美高梅",
+      "filename": "oid_17662.json",
+      "user_count": 40,
+      "release_batch": 2
+    },
+    {
       "oid": 2304,
       "cn_short_name": "中航重机",
       "filename": "oid_2304.json",
@@ -3793,13 +3800,6 @@
       "oid": 9292,
       "cn_short_name": "国泰君安期货",
       "filename": "oid_9292.json",
-      "user_count": 40,
-      "release_batch": 2
-    },
-    {
-      "oid": 17662,
-      "cn_short_name": "美高梅",
-      "filename": "oid_17662.json",
       "user_count": 40,
       "release_batch": 2
     },
@@ -7801,6 +7801,13 @@
       "release_batch": 2
     },
     {
+      "oid": 51803,
+      "cn_short_name": "雅乐科技",
+      "filename": "oid_51803.json",
+      "user_count": 7,
+      "release_batch": 3
+    },
+    {
       "oid": 51826,
       "cn_short_name": "Twilio",
       "filename": "oid_51826.json",
@@ -8009,13 +8016,6 @@
       "filename": "oid_2459.json",
       "user_count": 7,
       "release_batch": 1
-    },
-    {
-      "oid": 51803,
-      "cn_short_name": "雅乐科技",
-      "filename": "oid_51803.json",
-      "user_count": 7,
-      "release_batch": 3
     },
     {
       "oid": 19430,
