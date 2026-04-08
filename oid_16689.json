@@ -1,5 +1,126 @@
 [
   {
+    "uid": "279541",
+    "name": "麥導民",
+    "org_name": "邁道投資有限公司",
+    "org_type": "境外投资公司",
+    "cert_type": "机构投资者",
+    "position": "投資總監",
+    "department": "",
+    "last_interaction_time": "2026-04-08 15:44:47",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "阅文集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-08",
+        "meet_title": "阅文集团（0772.HK）2025年全年业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "稀美资源",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-01-16"
+      },
+      {
+        "company": "晶泰控股",
+        "time": "2026-01-09"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-01-09"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-01-09"
+      },
+      {
+        "company": "九源基因",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "汇量科技",
+        "time": "2025-02-05"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2025-02-05"
+      },
+      {
+        "company": "先瑞达医疗",
+        "time": "2025-02-05"
+      },
+      {
+        "company": "健世科技",
+        "time": "2025-02-05"
+      },
+      {
+        "company": "云康集团",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "万科A",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "星盛商业",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "宝尊电商",
+        "time": "2023-08-28"
+      },
+      {
+        "company": "上海实业控股",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "奈雪的茶",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "中粮包装",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "龙湖集团",
+        "time": "2023-08-21"
+      }
+    ],
+    "special_companies": "JS环球生活,五谷磨房,呷哺呷哺,碧桂园服务"
+  },
+  {
     "uid": "270799",
     "name": "杜锷",
     "org_name": "广东汇创投资管理有限公司",
@@ -22,9 +143,19 @@
       }
     ],
     "attend_count": 2,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-07",
+        "meet_title": "阅文集团（0772.HK）2025年全年业绩电话会",
+        "duration": 2
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-04-08"
+      },
       {
         "company": "联邦制药",
         "time": "2025-10-13"
@@ -9962,6 +10093,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国太平保险控股",
+        "time": "2026-04-08"
+      },
       {
         "company": "阅文集团",
         "time": "2026-03-06"

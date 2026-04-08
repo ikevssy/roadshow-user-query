@@ -18,7 +18,13 @@
       }
     ],
     "attend_count": 1,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-07",
+        "meet_title": "【国君越男周周谈】小商品城、潮宏基、重庆百货基本面近况更新及投资逻辑交流邀请",
+        "duration": 0
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
@@ -2845,6 +2851,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国太平保险控股",
+        "time": "2026-04-08"
+      },
       {
         "company": "阅文集团",
         "time": "2026-03-06"
@@ -11952,6 +11962,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-04-08"
+      },
       {
         "company": "联邦制药",
         "time": "2025-10-13"

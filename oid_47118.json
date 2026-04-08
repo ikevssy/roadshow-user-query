@@ -1,5 +1,109 @@
 [
   {
+    "uid": "638994",
+    "name": "陈青",
+    "org_name": "天马微电子股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "市场部",
+    "last_interaction_time": "2026-04-08 16:14:43",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "超威半导体",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-02-03",
+        "meet_title": "超微半导体 (AMD.US) 2025年第四季度及全年业绩电话会"
+      },
+      {
+        "time": "2025-11-08",
+        "meet_title": "AMD (AMD.US) 2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-02-04",
+        "meet_title": "超微半导体 (AMD.US) 2025年第四季度及全年业绩电话会",
+        "duration": 10
+      },
+      {
+        "time": "2025-11-08",
+        "meet_title": "AMD (AMD.US) 2025年第三季度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "超威半导体",
+        "time": "2026-02-03"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2025-12-12"
+      },
+      {
+        "company": "文远知行",
+        "time": "2025-11-24"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "摩根大通",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "联邦快递",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "达美航空",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "港铁公司",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "云迹科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "蓝思科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2025-10-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "608242",
     "name": "金荣",
     "org_name": "华安证券股份有限公司",
@@ -3220,110 +3324,6 @@
       }
     ],
     "special_companies": "思治企业咨询"
-  },
-  {
-    "uid": "638994",
-    "name": "陈青",
-    "org_name": "天马微电子股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "经理",
-    "department": "市场部",
-    "last_interaction_time": "2026-02-04 18:08:30",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "超威半导体",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-02-03",
-        "meet_title": "超微半导体 (AMD.US) 2025年第四季度及全年业绩电话会"
-      },
-      {
-        "time": "2025-11-08",
-        "meet_title": "AMD (AMD.US) 2025年第三季度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-02-04",
-        "meet_title": "超微半导体 (AMD.US) 2025年第四季度及全年业绩电话会",
-        "duration": 10
-      },
-      {
-        "time": "2025-11-08",
-        "meet_title": "AMD (AMD.US) 2025年第三季度业绩电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中信股份",
-        "time": "2026-04-08"
-      },
-      {
-        "company": "超威半导体",
-        "time": "2026-02-03"
-      },
-      {
-        "company": "中国中冶",
-        "time": "2025-12-12"
-      },
-      {
-        "company": "文远知行",
-        "time": "2025-11-24"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "BOSS直聘",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "摩根大通",
-        "time": "2025-11-07"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "联邦快递",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "达美航空",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "港铁公司",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "湾区发展",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "云迹科技",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "蓝思科技",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "歌尔微电子",
-        "time": "2025-10-27"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "644779",
@@ -6645,6 +6645,50 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国海油",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "中国联通",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "长江电力",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "汇丰控股",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "美的集团",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "中国移动",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "工商银行",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "洛阳钼业",
+        "time": "2026-04-08"
+      },
       {
         "company": "兖州煤业",
         "time": "2026-03-14"

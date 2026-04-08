@@ -7526,6 +7526,49 @@
     "special_companies": "华润医疗,华润医药,复星医药,敏华控股,新城发展,新城控股,福寿园"
   },
   {
+    "uid": "501942",
+    "name": "朱磊",
+    "org_name": "香港中财金融投资有限公司",
+    "org_type": "境外投资公司",
+    "cert_type": "个人",
+    "position": "特许金融分析师/总监",
+    "department": "研究部",
+    "last_interaction_time": "2024-08-28 15:07:25",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "环球医疗",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-27",
+        "meet_title": "环球医疗（2666.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-28",
+        "meet_title": "环球医疗（2666.HK）2024年中期业绩发布会",
+        "duration": 76
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国神华",
+        "time": "2024-09-02"
+      },
+      {
+        "company": "环球医疗",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2024-03-20"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "351288",
     "name": "刘国斌",
     "org_name": "方圆天成资产管理(深圳)有限公司",
@@ -7751,49 +7794,6 @@
     "special_companies": "协合新能源,宝龙商业,药明生物,融创服务"
   },
   {
-    "uid": "501942",
-    "name": "朱磊",
-    "org_name": "香港中财金融投资有限公司",
-    "org_type": "境外投资公司",
-    "cert_type": "个人",
-    "position": "特许金融分析师/总监",
-    "department": "研究部",
-    "last_interaction_time": "2024-08-28 15:07:25",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "环球医疗",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-27",
-        "meet_title": "环球医疗（2666.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-28",
-        "meet_title": "环球医疗（2666.HK）2024年中期业绩发布会",
-        "duration": 76
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国神华",
-        "time": "2024-09-02"
-      },
-      {
-        "company": "环球医疗",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2024-03-20"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "283563",
     "name": "张鑫辉",
     "org_name": "上海德邻众福投资管理有限公司",
@@ -7977,6 +7977,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "永辉超市",
+        "time": "2026-04-08"
+      },
       {
         "company": "金域医学",
         "time": "2026-04-07"

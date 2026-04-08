@@ -13334,41 +13334,6 @@
     "special_companies": ""
   },
   {
-    "uid": "636120",
-    "name": "刘鑫程",
-    "org_name": "昆明海恒投资发展有限公司",
-    "org_type": "一般企业",
-    "cert_type": "机构投资者",
-    "position": "投资总监",
-    "department": "投资部",
-    "last_interaction_time": "2025-08-01 16:46:42",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "协合新能源",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-07-29",
-        "meet_title": "协合新能源（00182.HK）2025中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-01",
-        "meet_title": "协合新能源（00182.HK）2025中期业绩发布会",
-        "duration": 49
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "协合新能源",
-        "time": "2025-07-29"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "435365",
     "name": "李羚玮",
     "org_name": "第一上海证券有限公司",
@@ -13455,6 +13420,41 @@
       }
     ],
     "special_companies": "中广核新能源,协合新能源"
+  },
+  {
+    "uid": "636120",
+    "name": "刘鑫程",
+    "org_name": "昆明海恒投资发展有限公司",
+    "org_type": "一般企业",
+    "cert_type": "机构投资者",
+    "position": "投资总监",
+    "department": "投资部",
+    "last_interaction_time": "2025-08-01 16:46:42",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "协合新能源",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-07-29",
+        "meet_title": "协合新能源（00182.HK）2025中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-01",
+        "meet_title": "协合新能源（00182.HK）2025中期业绩发布会",
+        "duration": 49
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "协合新能源",
+        "time": "2025-07-29"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "426135",
@@ -16881,6 +16881,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-04-08"
+      },
       {
         "company": "联邦制药",
         "time": "2025-10-13"

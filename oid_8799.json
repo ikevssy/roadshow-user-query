@@ -1,5 +1,109 @@
 [
   {
+    "uid": "638994",
+    "name": "陈青",
+    "org_name": "天马微电子股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "市场部",
+    "last_interaction_time": "2026-04-08 02:00:34",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "微博-SW",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "微博（09898.HK，WB.US）2025年第四季度业绩电话会"
+      },
+      {
+        "time": "2025-11-24",
+        "meet_title": "微博（09898.HK，WB.US）2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "微博（09898.HK，WB.US）2025年第四季度业绩电话会",
+        "duration": 61
+      },
+      {
+        "time": "2025-11-24",
+        "meet_title": "微博（09898.HK，WB.US）2025年第三季度业绩电话会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "超威半导体",
+        "time": "2026-02-03"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2025-12-12"
+      },
+      {
+        "company": "文远知行",
+        "time": "2025-11-24"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "摩根大通",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "联邦快递",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "达美航空",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "港铁公司",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "云迹科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "蓝思科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2025-10-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "434461",
     "name": "戚巧云",
     "org_name": "中国中金财富证券有限公司",
@@ -27,6 +131,11 @@
     ],
     "attend_count": 3,
     "attend_records": [
+      {
+        "time": "2026-04-07",
+        "meet_title": "微博（09898.HK，WB.US）2025年第四季度业绩电话会",
+        "duration": 0
+      },
       {
         "time": "2026-03-25",
         "meet_title": "微博（09898.HK，WB.US）2025年第四季度业绩电话会",
@@ -1667,110 +1776,6 @@
     "special_companies": "呷哺呷哺,明源云"
   },
   {
-    "uid": "638994",
-    "name": "陈青",
-    "org_name": "天马微电子股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "经理",
-    "department": "市场部",
-    "last_interaction_time": "2026-03-19 18:24:59",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "微博-SW",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "微博（09898.HK，WB.US）2025年第四季度业绩电话会"
-      },
-      {
-        "time": "2025-11-24",
-        "meet_title": "微博（09898.HK，WB.US）2025年第三季度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "微博（09898.HK，WB.US）2025年第四季度业绩电话会",
-        "duration": 61
-      },
-      {
-        "time": "2025-11-24",
-        "meet_title": "微博（09898.HK，WB.US）2025年第三季度业绩电话会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中信股份",
-        "time": "2026-04-08"
-      },
-      {
-        "company": "超威半导体",
-        "time": "2026-02-03"
-      },
-      {
-        "company": "中国中冶",
-        "time": "2025-12-12"
-      },
-      {
-        "company": "文远知行",
-        "time": "2025-11-24"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "BOSS直聘",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "摩根大通",
-        "time": "2025-11-07"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "联邦快递",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "达美航空",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "港铁公司",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "湾区发展",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "云迹科技",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "蓝思科技",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "歌尔微电子",
-        "time": "2025-10-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "612903",
     "name": "钟毅勇",
     "org_name": "广州城市摩登家商业物业经营有限公司",
@@ -1847,6 +1852,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "海尔智家",
+        "time": "2026-04-08"
+      },
       {
         "company": "万科A",
         "time": "2026-04-01"
