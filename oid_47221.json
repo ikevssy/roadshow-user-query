@@ -4313,45 +4313,6 @@
     "special_companies": "万物新生（爱回收）,中国中药,中国同辐,华润医疗,华润医药,小鹏汽车-W,康宁医院,微创脑科学,招商局商业房托,神威药业,诺辉健康,鹰瞳科技"
   },
   {
-    "uid": "426493",
-    "name": "张利华",
-    "org_name": "广州市格栅汇投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究总监",
-    "department": "",
-    "last_interaction_time": "2026-03-30 10:35:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国同辐",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-25",
-        "meet_title": "中国同辐股份有限公司2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "中国同辐股份有限公司2025年度业绩发布会",
-        "duration": 74
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国同辐",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "稀美资源",
-        "time": "2026-03-25"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "634622",
     "name": "黄小莉",
     "org_name": "成都开元诚投私募基金管理有限公司",
@@ -4426,6 +4387,45 @@
       {
         "company": "湾区发展",
         "time": "2025-08-15"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "426493",
+    "name": "张利华",
+    "org_name": "广州市格栅汇投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究总监",
+    "department": "",
+    "last_interaction_time": "2026-03-30 10:35:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国同辐",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "中国同辐股份有限公司2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "中国同辐股份有限公司2025年度业绩发布会",
+        "duration": 74
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国同辐",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "稀美资源",
+        "time": "2026-03-25"
       }
     ],
     "special_companies": ""
@@ -6164,30 +6164,6 @@
     "special_companies": "中国民航信息网络"
   },
   {
-    "uid": "497048",
-    "name": "Qi Wen",
-    "org_name": "Jefferies",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "vice president equity research healthcare",
-    "department": "",
-    "last_interaction_time": "2026-03-30 10:30:10",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国同辐",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "中国同辐股份有限公司2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "百融智能,罕王黄金,联邦制药"
-  },
-  {
     "uid": "348671",
     "name": "朱一泓",
     "org_name": "宽潭资本",
@@ -6242,6 +6218,30 @@
       }
     ],
     "special_companies": "康臣药业,思派健康"
+  },
+  {
+    "uid": "497048",
+    "name": "Qi Wen",
+    "org_name": "Jefferies",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "vice president equity research healthcare",
+    "department": "",
+    "last_interaction_time": "2026-03-30 10:30:10",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国同辐",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "中国同辐股份有限公司2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "百融智能,罕王黄金,联邦制药"
   },
   {
     "uid": "634582",

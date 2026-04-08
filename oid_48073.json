@@ -5862,36 +5862,6 @@
     "special_companies": ""
   },
   {
-    "uid": "632260",
-    "name": "黄梦可",
-    "org_name": "耕霁(上海)投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资助理",
-    "department": "研究部",
-    "last_interaction_time": "2025-09-17 16:01:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-09-08",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-09-17",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "282847",
     "name": "马旭桢",
     "org_name": "上海龙全投资管理有限公司",
@@ -5991,6 +5961,36 @@
       }
     ],
     "special_companies": "万物云,宝龙商业"
+  },
+  {
+    "uid": "632260",
+    "name": "黄梦可",
+    "org_name": "耕霁(上海)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资助理",
+    "department": "研究部",
+    "last_interaction_time": "2025-09-17 16:01:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-09-08",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-09-17",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "496270",
@@ -30400,6 +30400,45 @@
     "special_companies": "中国船舶租赁,保利物业,美的置业"
   },
   {
+    "uid": "503939",
+    "name": "郑爽",
+    "org_name": "惠誉（北京）信用评级有限公司上海分公司",
+    "org_type": "评级服务机构",
+    "cert_type": "个人",
+    "position": "高级分析师",
+    "department": "非银金融机构评级",
+    "last_interaction_time": "2024-03-27 16:01:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-25",
+        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会"
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
+        "duration": 85
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会",
+        "duration": 71
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "272826",
     "name": "丁璨",
     "org_name": "辰杉资管",
@@ -30441,45 +30480,6 @@
         "time": "2023-05-10"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "503939",
-    "name": "郑爽",
-    "org_name": "惠誉（北京）信用评级有限公司上海分公司",
-    "org_type": "评级服务机构",
-    "cert_type": "个人",
-    "position": "高级分析师",
-    "department": "非银金融机构评级",
-    "last_interaction_time": "2024-03-27 16:01:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-25",
-        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会"
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
-        "duration": 85
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会",
-        "duration": 71
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {

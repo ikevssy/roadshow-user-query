@@ -6080,7 +6080,7 @@
     "uid": "431110",
     "name": "朱思源",
     "org_name": "中国国际海运集装箱(集团)股份有限公司",
-    "org_type": "一般企业",
+    "org_type": null,
     "cert_type": "上市公司",
     "position": "信息披露高级经理",
     "department": "董事会秘书办公室",
@@ -6321,7 +6321,7 @@
     "uid": "314948",
     "name": "张馨冉",
     "org_name": "中国国际海运集装箱(集团)股份有限公司",
-    "org_type": "一般企业",
+    "org_type": null,
     "cert_type": "上市公司",
     "position": "信息披露事务经理",
     "department": "董事会秘书办公室",
@@ -9867,6 +9867,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "天齐锂业",
+        "time": "2026-04-08"
+      },
+      {
         "company": "思治企业咨询",
         "time": "2025-10-15"
       },
@@ -10691,7 +10695,7 @@
     "uid": "346682",
     "name": "彭文熙",
     "org_name": "中国国际海运集装箱(集团)股份有限公司",
-    "org_type": "一般企业",
+    "org_type": null,
     "cert_type": "上市公司",
     "position": "信息披露",
     "department": "董事会秘书办公室",
@@ -27157,7 +27161,7 @@
     "uid": "424192",
     "name": "何林滢",
     "org_name": "中国国际海运集装箱(集团)股份有限公司",
-    "org_type": "一般企业",
+    "org_type": null,
     "cert_type": "上市公司",
     "position": "证券事务代表",
     "department": "董秘办",
@@ -27330,7 +27334,7 @@
     "uid": "345538",
     "name": "韩晓娜",
     "org_name": "中国国际海运集装箱(集团)股份有限公司",
-    "org_type": "一般企业",
+    "org_type": null,
     "cert_type": "上市公司",
     "position": "投资者关系经理",
     "department": "董事会秘书处",
@@ -37918,6 +37922,36 @@
     "special_companies": ""
   },
   {
+    "uid": "613762",
+    "name": "刘晨",
+    "org_name": "兖矿能源集团股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "投资者关系经理",
+    "department": "董事会秘书处",
+    "last_interaction_time": "2024-10-29 13:59:38",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "思治企业咨询",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-10-28",
+        "meet_title": "【香港公司治理公会】企业可持续发展趋势与MSCI ESG评级方法论讲座"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-10-29",
+        "meet_title": "【香港公司治理公会】企业可持续发展趋势与MSCI ESG评级方法论讲座",
+        "duration": 174
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "613716",
     "name": "王瑶",
     "org_name": "中国农业银行股份有限公司",
@@ -37960,36 +37994,6 @@
       }
     ],
     "special_companies": "思治企业咨询"
-  },
-  {
-    "uid": "613762",
-    "name": "刘晨",
-    "org_name": "兖矿能源集团股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "投资者关系经理",
-    "department": "董事会秘书处",
-    "last_interaction_time": "2024-10-29 13:59:38",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "思治企业咨询",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-10-28",
-        "meet_title": "【香港公司治理公会】企业可持续发展趋势与MSCI ESG评级方法论讲座"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-10-29",
-        "meet_title": "【香港公司治理公会】企业可持续发展趋势与MSCI ESG评级方法论讲座",
-        "duration": 174
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "440995",
@@ -40767,7 +40771,7 @@
     "uid": "336840",
     "name": "陈冠先",
     "org_name": "中国国际海运集装箱(集团)股份有限公司",
-    "org_type": "一般企业",
+    "org_type": null,
     "cert_type": "上市公司",
     "position": "信息披露事务经理",
     "department": "董事会秘书办公室",

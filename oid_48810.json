@@ -27136,54 +27136,6 @@
     "special_companies": ""
   },
   {
-    "uid": "497412",
-    "name": "陈笑",
-    "org_name": "国泰君安证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "分析师",
-    "department": "研究所",
-    "last_interaction_time": "2023-10-18 14:00:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "百果园集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-10-18",
-        "meet_title": "百果园控股般果B2B平台发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-10-18",
-        "meet_title": "百果园控股般果B2B平台发布会",
-        "duration": 107
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "百果园（02411.HK）2023年中期业绩发布会",
-        "duration": 61
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "汇通达网络",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "百果园集团",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "JS环球生活",
-        "time": "2023-08-21"
-      }
-    ],
-    "special_companies": "汇通达网络"
-  },
-  {
     "uid": "493075",
     "name": "郑婷婷",
     "org_name": "成吉思汗基金管理有限公司",
@@ -27329,6 +27281,54 @@
       }
     ],
     "special_companies": "中广核新能源,信义能源,兖煤澳大利亚,华熙生物,协合新能源,泡泡玛特,百果园集团,贝泰妮"
+  },
+  {
+    "uid": "497412",
+    "name": "陈笑",
+    "org_name": "国泰君安证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "分析师",
+    "department": "研究所",
+    "last_interaction_time": "2023-10-18 14:00:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "百果园集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-10-18",
+        "meet_title": "百果园控股般果B2B平台发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-10-18",
+        "meet_title": "百果园控股般果B2B平台发布会",
+        "duration": 107
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "百果园（02411.HK）2023年中期业绩发布会",
+        "duration": 61
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "汇通达网络",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "百果园集团",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "JS环球生活",
+        "time": "2023-08-21"
+      }
+    ],
+    "special_companies": "汇通达网络"
   },
   {
     "uid": "493451",

@@ -2057,41 +2057,6 @@
     "special_companies": "万物云,万物新生（爱回收）,中国通信服务,中广核新能源,中粮包装,中粮家佳康,保利物业,信义光能,信義玻璃,华润医疗,华润电力,协合新能源,宝龙商业,康臣药业,建发物业,招商银行,深圳控股,滨江服务,碧桂园服务,绿城中国,绿城服务,美的置业,联邦制药,融创服务"
   },
   {
-    "uid": "636429",
-    "name": "常洪雨",
-    "org_name": "上海申银万国证券研究所有限公司",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "分析师",
-    "department": "能源环保研究部",
-    "last_interaction_time": "2026-04-01 10:05:48",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中广核新能源",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-24",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-04-01",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
-        "duration": 49
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中广核新能源",
-        "time": "2025-08-11"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "559706",
     "name": "宋燕华",
     "org_name": "深圳易度新能源有限责任公司",
@@ -2150,6 +2115,41 @@
       }
     ],
     "special_companies": "中广核新能源,协合新能源"
+  },
+  {
+    "uid": "636429",
+    "name": "常洪雨",
+    "org_name": "上海申银万国证券研究所有限公司",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "分析师",
+    "department": "能源环保研究部",
+    "last_interaction_time": "2026-04-01 10:05:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中广核新能源",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
+        "duration": 49
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中广核新能源",
+        "time": "2025-08-11"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "274507",
@@ -7425,45 +7425,6 @@
     "special_companies": ""
   },
   {
-    "uid": "632545",
-    "name": "普开良",
-    "org_name": "深圳市兴海荣投资有限公司",
-    "org_type": "实业投资",
-    "cert_type": "个人",
-    "position": "行业分析师",
-    "department": "研究部",
-    "last_interaction_time": "2026-04-01 09:59:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中广核新能源",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-04-01",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "华住集团-S",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中电控股",
-        "time": "2025-08-04"
-      }
-    ],
-    "special_companies": "华住集团-S"
-  },
-  {
     "uid": "645469",
     "name": "徐佳",
     "org_name": "杭州荣泽石资产管理有限公司",
@@ -7545,6 +7506,45 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "632545",
+    "name": "普开良",
+    "org_name": "深圳市兴海荣投资有限公司",
+    "org_type": "实业投资",
+    "cert_type": "个人",
+    "position": "行业分析师",
+    "department": "研究部",
+    "last_interaction_time": "2026-04-01 09:59:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中广核新能源",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华住集团-S",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中电控股",
+        "time": "2025-08-04"
+      }
+    ],
+    "special_companies": "华住集团-S"
   },
   {
     "uid": "283465",
@@ -8633,41 +8633,6 @@
     "special_companies": ""
   },
   {
-    "uid": "642971",
-    "name": "陆文瑶",
-    "org_name": "中国广核新能源控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "綜合管理部行政助理",
-    "department": "",
-    "last_interaction_time": "2026-04-01 09:59:34",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中广核新能源",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-04-01",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
-        "duration": 20
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中广核新能源",
-        "time": "2026-03-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "580985",
     "name": "田刚",
     "org_name": "中国人保资产管理有限公司",
@@ -8714,6 +8679,41 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": "中广核新能源"
+  },
+  {
+    "uid": "642971",
+    "name": "陆文瑶",
+    "org_name": "中国广核新能源控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "綜合管理部行政助理",
+    "department": "",
+    "last_interaction_time": "2026-04-01 09:59:34",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中广核新能源",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
+        "duration": 20
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-27"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "579743",
@@ -20095,6 +20095,58 @@
     "special_companies": ""
   },
   {
+    "uid": "608299",
+    "name": "黄波",
+    "org_name": "华泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "公用事业高级研究员",
+    "department": "研究所",
+    "last_interaction_time": "2025-08-20 10:00:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中广核新能源",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-21",
+        "meet_title": "中广核新能源（1811.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会",
+        "duration": 57
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会",
+        "duration": 61
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "协合新能源",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2025-03-26"
+      }
+    ],
+    "special_companies": "中广核新能源"
+  },
+  {
     "uid": "611602",
     "name": "蘇淑賢",
     "org_name": "中国建设银行(亚洲)有限公司",
@@ -20164,58 +20216,6 @@
     "special_companies": "中广核新能源,招商蛇口,深圳控股"
   },
   {
-    "uid": "608299",
-    "name": "黄波",
-    "org_name": "华泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "公用事业高级研究员",
-    "department": "研究所",
-    "last_interaction_time": "2025-08-20 10:00:03",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中广核新能源",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-21",
-        "meet_title": "中广核新能源（1811.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会",
-        "duration": 57
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会",
-        "duration": 61
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "协合新能源",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "中广核新能源",
-        "time": "2025-03-26"
-      }
-    ],
-    "special_companies": "中广核新能源"
-  },
-  {
     "uid": "636531",
     "name": "司政",
     "org_name": "中国银行澳门分行",
@@ -20248,6 +20248,54 @@
         "time": "2025-08-13"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "610488",
+    "name": "张俊龙",
+    "org_name": "耕霁(上海)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "助理",
+    "department": "市场部",
+    "last_interaction_time": "2025-08-20 10:00:01",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中广核新能源",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2025-08-11",
+        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-21",
+        "meet_title": "中广核新能源（1811.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会",
+        "duration": 58
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会",
+        "duration": 61
+      },
+      {
+        "time": "2024-08-21",
+        "meet_title": "中广核新能源（1811.HK）2024年中期业绩发布会",
+        "duration": 47
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -20305,54 +20353,6 @@
         "time": "2023-08-22"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "610488",
-    "name": "张俊龙",
-    "org_name": "耕霁(上海)投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
-    "position": "助理",
-    "department": "市场部",
-    "last_interaction_time": "2025-08-20 10:00:01",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中广核新能源",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2025-08-11",
-        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-21",
-        "meet_title": "中广核新能源（1811.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会",
-        "duration": 58
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会",
-        "duration": 61
-      },
-      {
-        "time": "2024-08-21",
-        "meet_title": "中广核新能源（1811.HK）2024年中期业绩发布会",
-        "duration": 47
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -26802,36 +26802,6 @@
     "special_companies": ""
   },
   {
-    "uid": "500336",
-    "name": "裴振华",
-    "org_name": "天风证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "助理分析师",
-    "department": "研究所",
-    "last_interaction_time": "2025-03-26 10:00:13",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中广核新能源",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-17",
-        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-26",
-        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会",
-        "duration": 25
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "340668",
     "name": "張潔琼",
     "org_name": "中国建设银行(亚洲)有限公司",
@@ -26877,6 +26847,36 @@
       }
     ],
     "special_companies": "中广核新能源"
+  },
+  {
+    "uid": "500336",
+    "name": "裴振华",
+    "org_name": "天风证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "助理分析师",
+    "department": "研究所",
+    "last_interaction_time": "2025-03-26 10:00:13",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中广核新能源",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-17",
+        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-26",
+        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会",
+        "duration": 25
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "612081",

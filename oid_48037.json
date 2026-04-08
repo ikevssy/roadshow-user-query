@@ -4952,6 +4952,31 @@
     "special_companies": "万物云,永升服务,碧桂园服务,融创服务"
   },
   {
+    "uid": "646296",
+    "name": "王奕婕",
+    "org_name": "卓越商企服务",
+    "org_type": null,
+    "cert_type": "上市公司",
+    "position": "财务报表主管",
+    "department": "财务部",
+    "last_interaction_time": "2026-03-27 10:00:01",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "卓越商企服务",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会",
+        "duration": 46
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "426996",
     "name": "黃金土",
     "org_name": "广州观点信息资讯服务有限公司",
@@ -4975,31 +5000,6 @@
         "time": "2026-03-27",
         "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会",
         "duration": 47
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "646296",
-    "name": "王奕婕",
-    "org_name": "卓越商企服务",
-    "org_type": null,
-    "cert_type": "上市公司",
-    "position": "财务报表主管",
-    "department": "财务部",
-    "last_interaction_time": "2026-03-27 10:00:01",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "卓越商企服务",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会",
-        "duration": 46
       }
     ],
     "is_first_attend": true,
@@ -15411,41 +15411,6 @@
     "special_companies": ""
   },
   {
-    "uid": "272707",
-    "name": "贝荣辉",
-    "org_name": "深圳格隆汇信息科技有限公司",
-    "org_type": "财经媒体",
-    "cert_type": "服务机构",
-    "position": "项目经理",
-    "department": "商务中心",
-    "last_interaction_time": "2025-08-27 10:28:03",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "卓越商企服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-22",
-        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-24"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "581468",
     "name": "郭俊炜",
     "org_name": "方圆天成资产管理（深圳）有限公司",
@@ -15501,6 +15466,41 @@
       }
     ],
     "special_companies": "世茂服务"
+  },
+  {
+    "uid": "272707",
+    "name": "贝荣辉",
+    "org_name": "深圳格隆汇信息科技有限公司",
+    "org_type": "财经媒体",
+    "cert_type": "服务机构",
+    "position": "项目经理",
+    "department": "商务中心",
+    "last_interaction_time": "2025-08-27 10:28:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "卓越商企服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-22",
+        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
+        "duration": 56
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-24"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "607362",
@@ -15784,6 +15784,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "永辉超市",
+        "time": "2026-04-08"
+      },
       {
         "company": "金域医学",
         "time": "2026-04-07"

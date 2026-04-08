@@ -5837,6 +5837,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国太平保险控股",
+        "time": "2026-04-08"
+      },
+      {
         "company": "阅文集团",
         "time": "2026-03-06"
       },
@@ -8584,6 +8588,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "天齐锂业",
+        "time": "2026-04-08"
+      },
       {
         "company": "思治企业咨询",
         "time": "2025-10-15"
@@ -30887,6 +30895,41 @@
     "special_companies": ""
   },
   {
+    "uid": "579601",
+    "name": "陈雪",
+    "org_name": "上海牛乎资产管理有限公司",
+    "org_type": "财富管理公司",
+    "cert_type": "缺少分类",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-05-15 10:00:29",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "商汤-W",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-05-12",
+        "meet_title": "商汤（0020.HK）线上交流会｜\"2023上市公司路演大会•第四季\""
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-05-15",
+        "meet_title": "商汤（0020.HK）线上交流会｜\"2023上市公司路演大会•第四季\"",
+        "duration": 58
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "慧择控股",
+        "time": "2023-11-03"
+      }
+    ],
+    "special_companies": "神州控股"
+  },
+  {
     "uid": "357388",
     "name": "戚小莉",
     "org_name": "国证国际证券(香港)有限公司研究所",
@@ -30940,41 +30983,6 @@
       }
     ],
     "special_companies": "中国船舶租赁,中国黄金国际,国证国际证券(香港)研究所,日清食品,维亚生物"
-  },
-  {
-    "uid": "579601",
-    "name": "陈雪",
-    "org_name": "上海牛乎资产管理有限公司",
-    "org_type": "财富管理公司",
-    "cert_type": "缺少分类",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-05-15 10:00:29",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "商汤-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-05-12",
-        "meet_title": "商汤（0020.HK）线上交流会｜\"2023上市公司路演大会•第四季\""
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-05-15",
-        "meet_title": "商汤（0020.HK）线上交流会｜\"2023上市公司路演大会•第四季\"",
-        "duration": 58
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "慧择控股",
-        "time": "2023-11-03"
-      }
-    ],
-    "special_companies": "神州控股"
   },
   {
     "uid": "7863",
