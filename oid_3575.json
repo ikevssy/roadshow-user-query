@@ -1,13 +1,495 @@
 [
   {
     "uid": "647340",
-    "name": "Katie Ryan, CFA",
-    "org_name": "WASATCH",
+    "name": "Katie Ryan",
+    "org_name": "Wasatch Global Investors",
     "org_type": null,
     "cert_type": "机构投资者",
-    "position": "Associate Research Analyst",
-    "department": null,
-    "last_interaction_time": "2026-04-08 00:52:19",
+    "position": "Associate Research Analyst, CFA",
+    "department": "",
+    "last_interaction_time": "2026-04-08 23:32:53",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康臣药业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-08",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "645560",
+    "name": "曾伟杰",
+    "org_name": "康臣药业集团有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "实习生",
+    "department": "董事局投资者关系部",
+    "last_interaction_time": "2026-04-08 23:01:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康臣药业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-04-03",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2026-04-03",
+        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
+        "duration": 11
+      },
+      {
+        "time": "2026-04-01",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2026-03-26",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
+        "duration": 76
+      },
+      {
+        "time": "2026-03-25",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2026-03-19",
+        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "康臣药业",
+        "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "424137",
+    "name": "冯业扬",
+    "org_name": "康臣药业集团有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "投资者关系部经理",
+    "department": "",
+    "last_interaction_time": "2026-04-08 18:43:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康臣药业",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-16",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
+      },
+      {
+        "time": "2024-08-25",
+        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会"
+      },
+      {
+        "time": "2024-05-03",
+        "meet_title": "康臣药业（01681.HK）2023年年报业绩电话会"
+      },
+      {
+        "time": "2023-08-31",
+        "meet_title": "康臣药业（1681.HK）2023年中期业绩电话交流会"
+      }
+    ],
+    "attend_count": 8,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
+        "duration": 19
+      },
+      {
+        "time": "2025-09-02",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 37
+      },
+      {
+        "time": "2025-09-01",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 52
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2025-03-01",
+        "meet_title": "康臣药业（01681.HK）2023年年报业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2025-03-01",
+        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会",
+        "duration": 2
+      },
+      {
+        "time": "2024-08-28",
+        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会",
+        "duration": 93
+      },
+      {
+        "time": "2024-08-25",
+        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2024-05-03",
+        "meet_title": "康臣药业（01681.HK）2023年年报业绩电话会",
+        "duration": 1
+      },
+      {
+        "time": "2023-08-31",
+        "meet_title": "康臣药业（01681.HK）2022年中期业绩电话交流会",
+        "duration": 0
+      },
+      {
+        "time": "2023-08-31",
+        "meet_title": "康臣药业（1681.HK）2023年中期业绩电话交流会",
+        "duration": 0
+      },
+      {
+        "time": "2023-05-15",
+        "meet_title": "康臣药业（01681.HK）线上交流会｜\"2023上市公司路演大会•第四季\"",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "636853",
+    "name": "王小燕",
+    "org_name": "深圳市德远投资有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2026-04-08 17:10:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康臣药业",
+    "apply_count": 7,
+    "apply_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
+      },
+      {
+        "time": "2026-01-05",
+        "meet_title": "康臣药业2026投资者交流会"
+      },
+      {
+        "time": "2025-08-30",
+        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会"
+      },
+      {
+        "time": "2025-08-21",
+        "meet_title": "康臣药业（01681.HK）2022年中期业绩电话交流会"
+      },
+      {
+        "time": "2025-08-21",
+        "meet_title": "康臣药业（01681.HK）2017年中期业绩投资者推介会及电话会议"
+      },
+      {
+        "time": "2025-08-21",
+        "meet_title": "康臣药业（1681.HK）2023年中期业绩电话交流会"
+      },
+      {
+        "time": "2025-08-21",
+        "meet_title": "康臣药业（01681.HK）2023年年报业绩电话会"
+      }
+    ],
+    "attend_count": 6,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
+        "duration": 62
+      },
+      {
+        "time": "2025-08-30",
+        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会",
+        "duration": 83
+      },
+      {
+        "time": "2025-08-30",
+        "meet_title": "康臣药业（01681.HK）2023年年报业绩电话会",
+        "duration": 49
+      },
+      {
+        "time": "2025-08-30",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 10
+      },
+      {
+        "time": "2025-08-21",
+        "meet_title": "康臣药业（01681.HK）2023年年报业绩电话会",
+        "duration": 15
+      },
+      {
+        "time": "2025-08-21",
+        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
+        "duration": 60
+      },
+      {
+        "time": "2025-08-20",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 56
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "泡泡玛特",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "国泰君安国际",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "申万宏源",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-01-09"
+      },
+      {
+        "company": "神州控股",
+        "time": "2026-01-05"
+      },
+      {
+        "company": "中国石油",
+        "time": "2026-01-05"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "百度",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "爱奇艺",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "小牛电动",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "迪士尼",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "京东物流",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "工业富联",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "索尼",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2025-09-18"
+      },
+      {
+        "company": "开市客",
+        "time": "2025-09-18"
+      },
+      {
+        "company": "美光科技",
+        "time": "2025-09-18"
+      },
+      {
+        "company": "联邦快递",
+        "time": "2025-09-18"
+      },
+      {
+        "company": "上实城市开发",
+        "time": "2025-09-09"
+      },
+      {
+        "company": "上实发展",
+        "time": "2025-09-09"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "上海实业控股",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "美团-W",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "微创脑科学",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "云顶新耀",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "蒙牛乳业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "中集集团",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "顺丰同城",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "锦欣生殖",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "复星国际",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "美的置业",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "华润医药",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "长江电力",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "中国生物科技服务",
+        "time": "2025-08-20"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "270799",
+    "name": "杜锷",
+    "org_name": "广东汇创投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "高级分析师",
+    "department": "",
+    "last_interaction_time": "2026-04-08 07:33:13",
     "last_interaction_behavior": "报名",
     "interaction_company": "康臣药业",
     "apply_count": 1,
@@ -17,11 +499,28 @@
         "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
       }
     ],
-    "attend_count": 0,
+    "attend_count": 1,
     "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-10-13"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2025-09-19"
+      },
+      {
+        "company": "招商基金",
+        "time": "2023-03-19"
+      }
+    ],
+    "special_companies": "比亚迪,越秀地产"
   },
   {
     "uid": "638994",
@@ -43,6 +542,11 @@
     ],
     "attend_count": 1,
     "attend_records": [
+      {
+        "time": "2026-04-07",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
+        "duration": 0
+      },
       {
         "time": "2026-04-01",
         "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
@@ -173,6 +677,11 @@
     "attend_count": 2,
     "attend_records": [
       {
+        "time": "2026-04-07",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
+        "duration": 77
+      },
+      {
         "time": "2026-03-30",
         "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
         "duration": 0
@@ -265,8 +774,8 @@
     "uid": "647324",
     "name": "李明桂",
     "org_name": "德泉资本",
-    "org_type": null,
-    "cert_type": "个人",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
     "position": "合伙入",
     "department": "",
     "last_interaction_time": "2026-04-06 23:49:32",
@@ -650,163 +1159,6 @@
       }
     ],
     "special_companies": "国证国际证券(香港)研究所,滨江服务"
-  },
-  {
-    "uid": "424137",
-    "name": "冯业扬",
-    "org_name": "康臣药业集团有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "投资者关系部经理",
-    "department": "",
-    "last_interaction_time": "2026-04-03 16:53:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康臣药业",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-16",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
-      },
-      {
-        "time": "2024-08-25",
-        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会"
-      },
-      {
-        "time": "2024-05-03",
-        "meet_title": "康臣药业（01681.HK）2023年年报业绩电话会"
-      },
-      {
-        "time": "2023-08-31",
-        "meet_title": "康臣药业（1681.HK）2023年中期业绩电话交流会"
-      }
-    ],
-    "attend_count": 8,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
-        "duration": 19
-      },
-      {
-        "time": "2025-09-02",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 37
-      },
-      {
-        "time": "2025-09-01",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 52
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-01",
-        "meet_title": "康臣药业（01681.HK）2023年年报业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-01",
-        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会",
-        "duration": 2
-      },
-      {
-        "time": "2024-08-28",
-        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会",
-        "duration": 93
-      },
-      {
-        "time": "2024-08-25",
-        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2024-05-03",
-        "meet_title": "康臣药业（01681.HK）2023年年报业绩电话会",
-        "duration": 1
-      },
-      {
-        "time": "2023-08-31",
-        "meet_title": "康臣药业（01681.HK）2022年中期业绩电话交流会",
-        "duration": 0
-      },
-      {
-        "time": "2023-08-31",
-        "meet_title": "康臣药业（1681.HK）2023年中期业绩电话交流会",
-        "duration": 0
-      },
-      {
-        "time": "2023-05-15",
-        "meet_title": "康臣药业（01681.HK）线上交流会｜\"2023上市公司路演大会•第四季\"",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "645560",
-    "name": "曾伟杰",
-    "org_name": "康臣药业集团有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "实习生",
-    "department": "董事局投资者关系部",
-    "last_interaction_time": "2026-04-03 11:27:34",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康臣药业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-25",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-04-03",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2026-04-03",
-        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
-        "duration": 11
-      },
-      {
-        "time": "2026-04-01",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2026-03-26",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
-        "duration": 76
-      },
-      {
-        "time": "2026-03-25",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2026-03-19",
-        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "康臣药业",
-        "time": "2026-03-25"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "252584",
@@ -5856,307 +6208,6 @@
     "special_companies": "复星国际"
   },
   {
-    "uid": "636853",
-    "name": "王小燕",
-    "org_name": "深圳市德远投资有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-26 19:51:43",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康臣药业",
-    "apply_count": 7,
-    "apply_records": [
-      {
-        "time": "2026-03-24",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
-      },
-      {
-        "time": "2026-01-05",
-        "meet_title": "康臣药业2026投资者交流会"
-      },
-      {
-        "time": "2025-08-30",
-        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会"
-      },
-      {
-        "time": "2025-08-21",
-        "meet_title": "康臣药业（01681.HK）2022年中期业绩电话交流会"
-      },
-      {
-        "time": "2025-08-21",
-        "meet_title": "康臣药业（01681.HK）2017年中期业绩投资者推介会及电话会议"
-      },
-      {
-        "time": "2025-08-21",
-        "meet_title": "康臣药业（1681.HK）2023年中期业绩电话交流会"
-      },
-      {
-        "time": "2025-08-21",
-        "meet_title": "康臣药业（01681.HK）2023年年报业绩电话会"
-      }
-    ],
-    "attend_count": 6,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
-        "duration": 62
-      },
-      {
-        "time": "2025-08-30",
-        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会",
-        "duration": 83
-      },
-      {
-        "time": "2025-08-30",
-        "meet_title": "康臣药业（01681.HK）2023年年报业绩电话会",
-        "duration": 49
-      },
-      {
-        "time": "2025-08-30",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 10
-      },
-      {
-        "time": "2025-08-21",
-        "meet_title": "康臣药业（01681.HK）2023年年报业绩电话会",
-        "duration": 15
-      },
-      {
-        "time": "2025-08-21",
-        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
-        "duration": 60
-      },
-      {
-        "time": "2025-08-20",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "泡泡玛特",
-        "time": "2026-03-28"
-      },
-      {
-        "company": "国泰君安国际",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "申万宏源",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "金风科技",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "中国电信",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "艾美疫苗",
-        "time": "2026-01-09"
-      },
-      {
-        "company": "神州控股",
-        "time": "2026-01-05"
-      },
-      {
-        "company": "中国石油",
-        "time": "2026-01-05"
-      },
-      {
-        "company": "金山软件",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "快手-W",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "富途控股",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "百度",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "爱奇艺",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "携程集团-S",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "小鹏汽车-W",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "小牛电动",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "迪士尼",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "京东物流",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "工业富联",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "腾讯音乐",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "索尼",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "新世界发展",
-        "time": "2025-09-18"
-      },
-      {
-        "company": "开市客",
-        "time": "2025-09-18"
-      },
-      {
-        "company": "美光科技",
-        "time": "2025-09-18"
-      },
-      {
-        "company": "联邦快递",
-        "time": "2025-09-18"
-      },
-      {
-        "company": "上实城市开发",
-        "time": "2025-09-09"
-      },
-      {
-        "company": "上实发展",
-        "time": "2025-09-09"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2025-08-29"
-      },
-      {
-        "company": "心玮医疗",
-        "time": "2025-08-29"
-      },
-      {
-        "company": "上海实业控股",
-        "time": "2025-08-29"
-      },
-      {
-        "company": "美团-W",
-        "time": "2025-08-27"
-      },
-      {
-        "company": "微创脑科学",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "云顶新耀",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "蒙牛乳业",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "中集集团",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "顺丰同城",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "锦欣生殖",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "复星国际",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "美的置业",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "华润医药",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "拼多多",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "长江电力",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "中国生物科技服务",
-        "time": "2025-08-20"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "644104",
     "name": "郭红星",
     "org_name": "深圳市华基投资有限公司",
@@ -7416,202 +7467,6 @@
     "special_companies": ""
   },
   {
-    "uid": "573713",
-    "name": "周新平",
-    "org_name": "投研会京研汇",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "首席研究员",
-    "department": "港股中小市值公司调研",
-    "last_interaction_time": "2026-03-26 17:10:31",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康臣药业",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-25",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
-      },
-      {
-        "time": "2025-08-19",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会"
-      },
-      {
-        "time": "2024-08-27",
-        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会"
-      },
-      {
-        "time": "2023-10-25",
-        "meet_title": "康臣药业（1681.HK）2023年中期业绩电话交流会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
-        "duration": 5
-      },
-      {
-        "time": "2025-04-12",
-        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2025-04-03",
-        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
-        "duration": 4
-      },
-      {
-        "time": "2024-08-27",
-        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会",
-        "duration": 33
-      },
-      {
-        "time": "2023-10-26",
-        "meet_title": "康臣药业（1681.HK）2023年中期业绩电话交流会",
-        "duration": 4
-      },
-      {
-        "time": "2023-10-25",
-        "meet_title": "康臣药业（1681.HK）2023年中期业绩电话交流会",
-        "duration": 44
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "稀美资源",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "百融智能",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "中国有色矿业",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "挚文集团",
-        "time": "2025-12-10"
-      },
-      {
-        "company": "艾美疫苗",
-        "time": "2025-12-10"
-      },
-      {
-        "company": "维亚生物",
-        "time": "2025-10-09"
-      },
-      {
-        "company": "中广核技",
-        "time": "2025-09-01"
-      },
-      {
-        "company": "理士国际",
-        "time": "2025-09-01"
-      },
-      {
-        "company": "心玮医疗",
-        "time": "2025-08-30"
-      },
-      {
-        "company": "招商银行",
-        "time": "2025-08-30"
-      },
-      {
-        "company": "贝康医疗",
-        "time": "2025-08-30"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中国动向",
-        "time": "2025-06-23"
-      },
-      {
-        "company": "国银金租",
-        "time": "2025-04-26"
-      },
-      {
-        "company": "中粮科技",
-        "time": "2025-04-26"
-      },
-      {
-        "company": "中国同辐",
-        "time": "2025-04-08"
-      },
-      {
-        "company": "亿胜生物科技",
-        "time": "2025-03-13"
-      },
-      {
-        "company": "大唐新能源",
-        "time": "2024-12-16"
-      },
-      {
-        "company": "五矿资源",
-        "time": "2024-09-22"
-      },
-      {
-        "company": "归创通桥",
-        "time": "2024-09-15"
-      },
-      {
-        "company": "中粮家佳康",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "广发基金",
-        "time": "2024-08-08"
-      },
-      {
-        "company": "中国铁塔",
-        "time": "2024-08-08"
-      },
-      {
-        "company": "宏信建发",
-        "time": "2024-08-08"
-      },
-      {
-        "company": "东软教育",
-        "time": "2023-12-29"
-      },
-      {
-        "company": "华尔街见闻",
-        "time": "2023-12-19"
-      },
-      {
-        "company": "东曜药业",
-        "time": "2023-11-17"
-      },
-      {
-        "company": "上海实业控股",
-        "time": "2023-11-15"
-      },
-      {
-        "company": "国元国际",
-        "time": "2023-11-14"
-      },
-      {
-        "company": "中国心连心化肥",
-        "time": "2023-11-10"
-      },
-      {
-        "company": "信邦控股",
-        "time": "2023-11-07"
-      },
-      {
-        "company": "中石化冠德",
-        "time": "2023-11-07"
-      }
-    ],
-    "special_companies": "中国动向,中国心连心化肥,中石化冠德,中粮家佳康"
-  },
-  {
     "uid": "6126",
     "name": "陈镇炎",
     "org_name": "广州市罗爵私募证券投资基金管理有限公司",
@@ -7982,6 +7837,202 @@
       }
     ],
     "special_companies": "卓越教育集团,贝泰妮"
+  },
+  {
+    "uid": "573713",
+    "name": "周新平",
+    "org_name": "投研会京研汇",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "首席研究员",
+    "department": "港股中小市值公司调研",
+    "last_interaction_time": "2026-03-26 17:10:31",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康臣药业",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
+      },
+      {
+        "time": "2025-08-19",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会"
+      },
+      {
+        "time": "2024-08-27",
+        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会"
+      },
+      {
+        "time": "2023-10-25",
+        "meet_title": "康臣药业（1681.HK）2023年中期业绩电话交流会"
+      }
+    ],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
+        "duration": 5
+      },
+      {
+        "time": "2025-04-12",
+        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2025-04-03",
+        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
+        "duration": 4
+      },
+      {
+        "time": "2024-08-27",
+        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会",
+        "duration": 33
+      },
+      {
+        "time": "2023-10-26",
+        "meet_title": "康臣药业（1681.HK）2023年中期业绩电话交流会",
+        "duration": 4
+      },
+      {
+        "time": "2023-10-25",
+        "meet_title": "康臣药业（1681.HK）2023年中期业绩电话交流会",
+        "duration": 44
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "稀美资源",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "百融智能",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "挚文集团",
+        "time": "2025-12-10"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2025-12-10"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2025-10-09"
+      },
+      {
+        "company": "中广核技",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "理士国际",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2025-08-30"
+      },
+      {
+        "company": "招商银行",
+        "time": "2025-08-30"
+      },
+      {
+        "company": "贝康医疗",
+        "time": "2025-08-30"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中国动向",
+        "time": "2025-06-23"
+      },
+      {
+        "company": "国银金租",
+        "time": "2025-04-26"
+      },
+      {
+        "company": "中粮科技",
+        "time": "2025-04-26"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2025-04-08"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2025-03-13"
+      },
+      {
+        "company": "大唐新能源",
+        "time": "2024-12-16"
+      },
+      {
+        "company": "五矿资源",
+        "time": "2024-09-22"
+      },
+      {
+        "company": "归创通桥",
+        "time": "2024-09-15"
+      },
+      {
+        "company": "中粮家佳康",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "广发基金",
+        "time": "2024-08-08"
+      },
+      {
+        "company": "中国铁塔",
+        "time": "2024-08-08"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2024-08-08"
+      },
+      {
+        "company": "东软教育",
+        "time": "2023-12-29"
+      },
+      {
+        "company": "华尔街见闻",
+        "time": "2023-12-19"
+      },
+      {
+        "company": "东曜药业",
+        "time": "2023-11-17"
+      },
+      {
+        "company": "上海实业控股",
+        "time": "2023-11-15"
+      },
+      {
+        "company": "国元国际",
+        "time": "2023-11-14"
+      },
+      {
+        "company": "中国心连心化肥",
+        "time": "2023-11-10"
+      },
+      {
+        "company": "信邦控股",
+        "time": "2023-11-07"
+      },
+      {
+        "company": "中石化冠德",
+        "time": "2023-11-07"
+      }
+    ],
+    "special_companies": "中国动向,中国心连心化肥,中石化冠德,中粮家佳康"
   },
   {
     "uid": "645680",
@@ -12804,92 +12855,6 @@
     "special_companies": ""
   },
   {
-    "uid": "645707",
-    "name": "Yiheng You",
-    "org_name": "HONG KONG BAPTIST UNIVERSITY",
-    "org_type": null,
-    "cert_type": "个人",
-    "position": "PHD Accountancy",
-    "department": "",
-    "last_interaction_time": "2026-03-26 16:30:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康臣药业",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
-        "duration": 77
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "康臣药业",
-        "time": "2026-03-26"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "4537",
-    "name": "胡博新",
-    "org_name": "东兴证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "首席医药分析师",
-    "department": "",
-    "last_interaction_time": "2026-03-26 16:30:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康臣药业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
-        "duration": 56
-      },
-      {
-        "time": "2025-08-19",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "康臣药业",
-        "time": "2026-03-26"
-      },
-      {
-        "company": "康基医疗",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "维亚生物",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2025-08-18"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "275745",
     "name": "张晓东",
     "org_name": "深圳市可林卓特电子有限公司",
@@ -13021,6 +12986,92 @@
       }
     ],
     "special_companies": "中国民航信息网络,康臣药业,绿城中国"
+  },
+  {
+    "uid": "4537",
+    "name": "胡博新",
+    "org_name": "东兴证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "首席医药分析师",
+    "department": "",
+    "last_interaction_time": "2026-03-26 16:30:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康臣药业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
+        "duration": 56
+      },
+      {
+        "time": "2025-08-19",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "康臣药业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "康基医疗",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-08-18"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "645707",
+    "name": "Yiheng You",
+    "org_name": "HONG KONG BAPTIST UNIVERSITY",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "PHD Accountancy",
+    "department": "",
+    "last_interaction_time": "2026-03-26 16:30:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康臣药业",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
+        "duration": 77
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "康臣药业",
+        "time": "2026-03-26"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "636625",
@@ -13787,51 +13838,6 @@
     "special_companies": "联邦制药"
   },
   {
-    "uid": "636957",
-    "name": "林彤",
-    "org_name": "深圳市林园投资管理有限责任公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "副总经理",
-    "department": "",
-    "last_interaction_time": "2026-03-26 16:30:06",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康臣药业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-21",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
-        "duration": 77
-      },
-      {
-        "time": "2025-08-19",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-19",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 22
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "康臣药业",
-        "time": "2026-03-26"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "633362",
     "name": "黄凯伟",
     "org_name": "深圳世纪量子资本管理有限公司",
@@ -13977,6 +13983,51 @@
         "time": "2026-03-26",
         "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
         "duration": 77
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "康臣药业",
+        "time": "2026-03-26"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "636957",
+    "name": "林彤",
+    "org_name": "深圳市林园投资管理有限责任公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "副总经理",
+    "department": "",
+    "last_interaction_time": "2026-03-26 16:30:06",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康臣药业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-21",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
+        "duration": 77
+      },
+      {
+        "time": "2025-08-19",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-19",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 22
       }
     ],
     "is_first_attend": true,
@@ -14198,44 +14249,114 @@
     "special_companies": ""
   },
   {
-    "uid": "633571",
-    "name": "左志锋",
-    "org_name": "伊能通科技（香港）有限公司",
-    "org_type": null,
-    "cert_type": "个人",
-    "position": "总经理",
+    "uid": "333883",
+    "name": "李艳杰",
+    "org_name": "广东天创私募证券投资基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
     "department": "",
     "last_interaction_time": "2026-03-26 16:30:04",
     "last_interaction_behavior": "参会",
     "interaction_company": "康臣药业",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 3,
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-21",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
+      },
+      {
+        "time": "2025-08-14",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会"
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会"
+      },
+      {
+        "time": "2025-03-10",
+        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会"
+      }
+    ],
+    "attend_count": 4,
     "attend_records": [
       {
         "time": "2026-03-26",
         "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
-        "duration": 76
+        "duration": 77
       },
       {
         "time": "2025-08-19",
         "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 9
+        "duration": 68
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会",
+        "duration": 0
       },
       {
         "time": "2025-03-26",
         "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
-        "duration": 9
+        "duration": 69
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国石油",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "康基医疗",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "中国海油",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "中国移动",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "五矿资源",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "中国黄金国际",
+        "time": "2025-04-08"
+      },
+      {
         "company": "康臣药业",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "滨江服务",
         "time": "2025-03-26"
       }
     ],
-    "special_companies": "康臣药业"
+    "special_companies": "保利物业"
   },
   {
     "uid": "636952",
@@ -14281,6 +14402,46 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "633571",
+    "name": "左志锋",
+    "org_name": "伊能通科技（香港）有限公司",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2026-03-26 16:30:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康臣药业",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
+        "duration": 76
+      },
+      {
+        "time": "2025-08-19",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 9
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
+        "duration": 9
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "康臣药业",
+        "time": "2025-03-26"
+      }
+    ],
+    "special_companies": "康臣药业"
   },
   {
     "uid": "322515",
@@ -14403,116 +14564,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "333883",
-    "name": "李艳杰",
-    "org_name": "广东天创私募证券投资基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-26 16:30:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康臣药业",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-21",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会"
-      },
-      {
-        "time": "2025-08-14",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会"
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会"
-      },
-      {
-        "time": "2025-03-10",
-        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "康臣药业（1681.HK）2025年度业绩电话会",
-        "duration": 77
-      },
-      {
-        "time": "2025-08-19",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 68
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "康臣药业（1681.HK）2024年中期业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
-        "duration": 69
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国石油",
-        "time": "2025-08-27"
-      },
-      {
-        "company": "康基医疗",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "中国海油",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "中国移动",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "五矿资源",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "中国有色矿业",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "中国黄金国际",
-        "time": "2025-04-08"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2025-03-26"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-03-26"
-      }
-    ],
-    "special_companies": "保利物业"
   },
   {
     "uid": "282885",
@@ -25356,44 +25407,6 @@
     "special_companies": ""
   },
   {
-    "uid": "336590",
-    "name": "張皓淵",
-    "org_name": "招商证券（香港）有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "副总裁",
-    "department": "",
-    "last_interaction_time": "2025-08-19 16:31:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康臣药业",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "华润医药",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "微医控股",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2025-08-19"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "15376",
     "name": "唐天",
     "org_name": "博时基金管理有限公司",
@@ -25470,6 +25483,44 @@
       }
     ],
     "special_companies": "珀莱雅,药明生物,锦欣生殖"
+  },
+  {
+    "uid": "336590",
+    "name": "張皓淵",
+    "org_name": "招商证券（香港）有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "副总裁",
+    "department": "",
+    "last_interaction_time": "2025-08-19 16:31:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康臣药业",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华润医药",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "微医控股",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-08-19"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "572722",
@@ -25677,6 +25728,36 @@
     "special_companies": ""
   },
   {
+    "uid": "268235",
+    "name": "何帅",
+    "org_name": "务时私募基金管理有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "缺少分类",
+    "position": "合伙人 基金经理",
+    "department": "",
+    "last_interaction_time": "2025-08-19 16:31:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康臣药业",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 51
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "康臣药业",
+        "time": "2025-08-19"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "9900",
     "name": "林义翔",
     "org_name": "珠海德摩基金管理有限公司",
@@ -25743,36 +25824,6 @@
       {
         "company": "康臣药业",
         "time": "2025-08-18"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "268235",
-    "name": "何帅",
-    "org_name": "务时私募基金管理有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "缺少分类",
-    "position": "合伙人 基金经理",
-    "department": "",
-    "last_interaction_time": "2025-08-19 16:31:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康臣药业",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 51
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "康臣药业",
-        "time": "2025-08-19"
       }
     ],
     "special_companies": ""
@@ -26008,6 +26059,36 @@
     "special_companies": ""
   },
   {
+    "uid": "636954",
+    "name": "KHOO SEOW CHIONG",
+    "org_name": "REPUBLIC OF SINGAPORE",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "Wu ",
+    "department": "Nil",
+    "last_interaction_time": "2025-08-19 16:31:02",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康臣药业",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "康臣药业",
+        "time": "2025-08-19"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "610488",
     "name": "张俊龙",
     "org_name": "耕霁(上海)投资管理有限公司",
@@ -26056,36 +26137,6 @@
     "special_companies": ""
   },
   {
-    "uid": "636954",
-    "name": "KHOO SEOW CHIONG",
-    "org_name": "REPUBLIC OF SINGAPORE",
-    "org_type": null,
-    "cert_type": "个人",
-    "position": "Wu ",
-    "department": "Nil",
-    "last_interaction_time": "2025-08-19 16:31:02",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康臣药业",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "康臣药业",
-        "time": "2025-08-19"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "612671",
     "name": "黄卫",
     "org_name": "深圳市林园投资管理有限责任公司",
@@ -26109,6 +26160,82 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "4508",
+    "name": "林柏川",
+    "org_name": "北京枫泉投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究总监 I 基金经理",
+    "department": "",
+    "last_interaction_time": "2025-08-19 16:31:00",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康臣药业",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会"
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
+        "duration": 68
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
+        "duration": 69
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国同辐",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-03-13"
+      },
+      {
+        "company": "康基医疗",
+        "time": "2025-03-13"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-03-10"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "上海实业控股",
+        "time": "2024-08-29"
+      },
+      {
+        "company": "华润医药",
+        "time": "2024-08-29"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2024-03-07"
+      }
+    ],
+    "special_companies": "上海实业控股,华润医疗,华润医药,康哲药业,联邦制药,艾美疫苗"
   },
   {
     "uid": "636848",
@@ -26263,82 +26390,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "4508",
-    "name": "林柏川",
-    "org_name": "北京枫泉投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究总监 I 基金经理",
-    "department": "",
-    "last_interaction_time": "2025-08-19 16:31:00",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康臣药业",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会"
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "康臣药业（1681.HK）2025年中期业绩电话会",
-        "duration": 68
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "康臣药业（1681.HK）2024年度业绩电话会",
-        "duration": 69
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国同辐",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2025-03-13"
-      },
-      {
-        "company": "康基医疗",
-        "time": "2025-03-13"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2025-03-10"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2024-08-30"
-      },
-      {
-        "company": "艾美疫苗",
-        "time": "2024-08-30"
-      },
-      {
-        "company": "上海实业控股",
-        "time": "2024-08-29"
-      },
-      {
-        "company": "华润医药",
-        "time": "2024-08-29"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2024-03-07"
-      }
-    ],
-    "special_companies": "上海实业控股,华润医疗,华润医药,康哲药业,联邦制药,艾美疫苗"
   },
   {
     "uid": "502366",

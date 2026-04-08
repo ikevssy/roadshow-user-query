@@ -895,6 +895,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "天齐锂业",
+        "time": "2026-04-08"
+      },
+      {
         "company": "思治企业咨询",
         "time": "2025-10-15"
       },
@@ -10016,6 +10020,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-04-08"
+      },
       {
         "company": "联邦制药",
         "time": "2025-10-13"
@@ -20318,36 +20326,6 @@
     "special_companies": "星帅尔,金固股份"
   },
   {
-    "uid": "425192",
-    "name": "Mako",
-    "org_name": "SCRIPTS Asia Limited",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "Corporate Partnership Manager",
-    "department": "",
-    "last_interaction_time": "2023-08-24 15:59:56",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "瑞声科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-24",
-        "meet_title": "瑞声科技（02018.HK）2023年中期业绩投资者电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-24",
-        "meet_title": "瑞声科技（02018.HK）2023年中期业绩投资者电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "333179",
     "name": "Ray LI",
     "org_name": "睿利资本",
@@ -20433,6 +20411,36 @@
       }
     ],
     "special_companies": "JS环球生活,中国电信,中国联通"
+  },
+  {
+    "uid": "425192",
+    "name": "Mako",
+    "org_name": "SCRIPTS Asia Limited",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "Corporate Partnership Manager",
+    "department": "",
+    "last_interaction_time": "2023-08-24 15:59:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "瑞声科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-24",
+        "meet_title": "瑞声科技（02018.HK）2023年中期业绩投资者电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-24",
+        "meet_title": "瑞声科技（02018.HK）2023年中期业绩投资者电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "34873",

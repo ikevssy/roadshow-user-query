@@ -1,44 +1,5 @@
 [
   {
-    "uid": "645625",
-    "name": "汪铁",
-    "org_name": "国金证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "研究助理",
-    "department": "研究所",
-    "last_interaction_time": "2026-04-04 18:36:21",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "远大医药",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-04-04",
-        "meet_title": "远大医药（0512.HK）2020年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-04-04",
-        "meet_title": "远大医药（0512.HK）2020年度业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "远大医药",
-        "time": "2026-04-04"
-      },
-      {
-        "company": "中国同辐",
-        "time": "2026-03-20"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "427017",
     "name": "Ella. Zheng",
     "org_name": "好未来集团",
@@ -46,8 +7,8 @@
     "cert_type": "个人",
     "position": "Senior Legal Manager",
     "department": "",
-    "last_interaction_time": "2026-04-02 13:14:45",
-    "last_interaction_behavior": "订阅",
+    "last_interaction_time": "2026-04-08 09:40:18",
+    "last_interaction_behavior": "参会",
     "interaction_company": "远大医药",
     "apply_count": 0,
     "apply_records": [],
@@ -114,6 +75,45 @@
       {
         "company": "远大医药",
         "time": "2026-04-02"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "645625",
+    "name": "汪铁",
+    "org_name": "国金证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "研究助理",
+    "department": "研究所",
+    "last_interaction_time": "2026-04-04 18:36:21",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "远大医药",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-04",
+        "meet_title": "远大医药（0512.HK）2020年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-04",
+        "meet_title": "远大医药（0512.HK）2020年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "远大医药",
+        "time": "2026-04-04"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-03-20"
       }
     ],
     "special_companies": ""

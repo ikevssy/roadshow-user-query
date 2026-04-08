@@ -812,6 +812,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-08"
+      },
+      {
         "company": "腾讯控股",
         "time": "2026-04-07"
       },
@@ -10435,7 +10439,7 @@
     "uid": "264880",
     "name": "沈扬",
     "org_name": "中国国际海运集装箱(集团)股份有限公司",
-    "org_type": "一般企业",
+    "org_type": null,
     "cert_type": "上市公司",
     "position": "董事会秘书办公室副主任",
     "department": "",
@@ -19243,6 +19247,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国太平保险控股",
+        "time": "2026-04-08"
+      },
       {
         "company": "阅文集团",
         "time": "2026-03-06"

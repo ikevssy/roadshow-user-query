@@ -11440,6 +11440,70 @@
     "special_companies": "九方智投控股"
   },
   {
+    "uid": "499973",
+    "name": "傅子平",
+    "org_name": "上海摩旗投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "权益类投资总监/副总经理",
+    "department": "",
+    "last_interaction_time": "2026-02-11 08:31:00",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中芯国际",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-01-28",
+        "meet_title": "中芯国际（688981.SH，00981.HK）2025年第四季度业绩说明会"
+      },
+      {
+        "time": "2025-11-14",
+        "meet_title": "中芯国际（688981.SH，00981.HK）2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-02-11",
+        "meet_title": "中芯国际（688981.SH，00981.HK）2025年第四季度业绩说明会",
+        "duration": 41
+      },
+      {
+        "time": "2025-11-14",
+        "meet_title": "中芯国际（688981.SH，00981.HK）2025年第三季度业绩电话会",
+        "duration": 56
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-11-25"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2025-11-14"
+      },
+      {
+        "company": "阳光电源",
+        "time": "2025-10-28"
+      },
+      {
+        "company": "金风科技",
+        "time": "2025-03-31"
+      },
+      {
+        "company": "思派健康",
+        "time": "2024-11-28"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2024-05-14"
+      }
+    ],
+    "special_companies": "腾讯控股,金风科技"
+  },
+  {
     "uid": "633738",
     "name": "陈凌英",
     "org_name": "上海浦东发展银行股份有限公司",
@@ -11615,70 +11679,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "499973",
-    "name": "傅子平",
-    "org_name": "上海摩旗投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "权益类投资总监/副总经理",
-    "department": "",
-    "last_interaction_time": "2026-02-11 08:31:00",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中芯国际",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-01-28",
-        "meet_title": "中芯国际（688981.SH，00981.HK）2025年第四季度业绩说明会"
-      },
-      {
-        "time": "2025-11-14",
-        "meet_title": "中芯国际（688981.SH，00981.HK）2025年第三季度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-02-11",
-        "meet_title": "中芯国际（688981.SH，00981.HK）2025年第四季度业绩说明会",
-        "duration": 41
-      },
-      {
-        "time": "2025-11-14",
-        "meet_title": "中芯国际（688981.SH，00981.HK）2025年第三季度业绩电话会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-11-25"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2025-11-14"
-      },
-      {
-        "company": "阳光电源",
-        "time": "2025-10-28"
-      },
-      {
-        "company": "金风科技",
-        "time": "2025-03-31"
-      },
-      {
-        "company": "思派健康",
-        "time": "2024-11-28"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2024-05-14"
-      }
-    ],
-    "special_companies": "腾讯控股,金风科技"
   },
   {
     "uid": "22987",
@@ -14804,6 +14804,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-08"
+      },
+      {
         "company": "腾讯控股",
         "time": "2026-04-07"
       },
@@ -15523,6 +15527,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-04-08"
+      },
       {
         "company": "联邦制药",
         "time": "2025-10-13"
@@ -30600,6 +30608,50 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国海油",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "中国联通",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "长江电力",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "汇丰控股",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "美的集团",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "中国移动",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "工商银行",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "洛阳钼业",
+        "time": "2026-04-08"
+      },
+      {
         "company": "兖州煤业",
         "time": "2026-03-14"
       },
@@ -43291,7 +43343,12 @@
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [],
+    "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-08"
+      }
+    ],
     "special_companies": ""
   },
   {
