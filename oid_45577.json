@@ -407,6 +407,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "联邦制药",
+        "time": "2026-04-09"
+      },
+      {
         "company": "康臣药业",
         "time": "2026-04-01"
       },
@@ -10778,57 +10782,6 @@
     "special_companies": "华润医疗,华润医药,爱康医疗,联邦制药,锦欣生殖"
   },
   {
-    "uid": "279549",
-    "name": "颜倩雯",
-    "org_name": "北京朗辉信泽投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "家族办公室",
-    "last_interaction_time": "2026-03-25 15:55:26",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华润医药",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-10",
-        "meet_title": " 华润医药（3320.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-25",
-        "meet_title": " 华润医药（3320.HK）2025年度业绩发布会",
-        "duration": 86
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "华润医药",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "礼来",
-        "time": "2024-08-14"
-      },
-      {
-        "company": "阿斯利康",
-        "time": "2024-08-14"
-      },
-      {
-        "company": "辉瑞",
-        "time": "2024-08-14"
-      },
-      {
-        "company": "再鼎医药",
-        "time": "2024-08-14"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "608083",
     "name": "陈明星",
     "org_name": "华润医药集团有限公司",
@@ -10894,6 +10847,57 @@
       }
     ],
     "special_companies": "华润医药"
+  },
+  {
+    "uid": "279549",
+    "name": "颜倩雯",
+    "org_name": "北京朗辉信泽投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "家族办公室",
+    "last_interaction_time": "2026-03-25 15:55:26",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华润医药",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-10",
+        "meet_title": " 华润医药（3320.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": " 华润医药（3320.HK）2025年度业绩发布会",
+        "duration": 86
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华润医药",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "礼来",
+        "time": "2024-08-14"
+      },
+      {
+        "company": "阿斯利康",
+        "time": "2024-08-14"
+      },
+      {
+        "company": "辉瑞",
+        "time": "2024-08-14"
+      },
+      {
+        "company": "再鼎医药",
+        "time": "2024-08-14"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "346119",
@@ -51087,6 +51091,45 @@
     "special_companies": "华安医药"
   },
   {
+    "uid": "574306",
+    "name": "高星",
+    "org_name": "淡水泉（北京）投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资分析师",
+    "department": "",
+    "last_interaction_time": "2024-03-26 15:03:29",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华润医药",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-26",
+        "meet_title": "华润医药（3320.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "华润医药（3320.HK）2022全年业绩投资者及分析师推介会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-26",
+        "meet_title": "华润医药（3320.HK）2023年度业绩发布会",
+        "duration": 90
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "华润医药（3320.HK）2022全年业绩投资者及分析师推介会",
+        "duration": 61
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "347285",
     "name": "丁政寧",
     "org_name": "浦银国际控股有限公司研究所",
@@ -51132,45 +51175,6 @@
       }
     ],
     "special_companies": "三生制药,复星医药,康哲药业,诺辉健康"
-  },
-  {
-    "uid": "574306",
-    "name": "高星",
-    "org_name": "淡水泉（北京）投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资分析师",
-    "department": "",
-    "last_interaction_time": "2024-03-26 15:03:29",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华润医药",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-26",
-        "meet_title": "华润医药（3320.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "华润医药（3320.HK）2022全年业绩投资者及分析师推介会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-26",
-        "meet_title": "华润医药（3320.HK）2023年度业绩发布会",
-        "duration": 90
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "华润医药（3320.HK）2022全年业绩投资者及分析师推介会",
-        "duration": 61
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "348200",
@@ -63066,6 +63070,41 @@
     "special_companies": ""
   },
   {
+    "uid": "574092",
+    "name": "馬昊初",
+    "org_name": "安捷资产管理有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "个人",
+    "position": "研究助理",
+    "department": "",
+    "last_interaction_time": "2023-03-30 15:08:37",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华润医药",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "华润医药（3320.HK）2022全年业绩投资者及分析师推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "华润医药（3320.HK）2022全年业绩投资者及分析师推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "华润医药（3320.HK）2022全年业绩投资者及分析师推介会",
+        "duration": 59
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "577879",
     "name": "王声亮",
     "org_name": "兴业证券股份有限公司",
@@ -63098,41 +63137,6 @@
         "time": "2023-03-30",
         "meet_title": "华润医药（3320.HK）2022全年业绩投资者及分析师推介会",
         "duration": 60
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "574092",
-    "name": "馬昊初",
-    "org_name": "安捷资产管理有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "个人",
-    "position": "研究助理",
-    "department": "",
-    "last_interaction_time": "2023-03-30 15:08:37",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华润医药",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "华润医药（3320.HK）2022全年业绩投资者及分析师推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "华润医药（3320.HK）2022全年业绩投资者及分析师推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "华润医药（3320.HK）2022全年业绩投资者及分析师推介会",
-        "duration": 59
       }
     ],
     "is_first_attend": true,

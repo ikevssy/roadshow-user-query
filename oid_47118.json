@@ -24,6 +24,11 @@
     "attend_count": 2,
     "attend_records": [
       {
+        "time": "2026-04-08",
+        "meet_title": "超微半导体 (AMD.US) 2025年第四季度及全年业绩电话会",
+        "duration": 75
+      },
+      {
         "time": "2026-02-04",
         "meet_title": "超微半导体 (AMD.US) 2025年第四季度及全年业绩电话会",
         "duration": 10
@@ -36,6 +41,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
       {
         "company": "中信股份",
         "time": "2026-04-08"
@@ -3353,6 +3362,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
       {
         "company": "博腾股份",
         "time": "2026-04-03"
@@ -8134,7 +8147,7 @@
     "org_name": "开源证券股份有限公司",
     "org_type": "证券公司",
     "cert_type": "卖方分析师",
-    "position": "电子行业高级分析师",
+    "position": "电子组资深分析师",
     "department": "研究所",
     "last_interaction_time": "2025-03-24 20:11:07",
     "last_interaction_behavior": "订阅",

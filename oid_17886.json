@@ -20293,6 +20293,45 @@
     "special_companies": "世茂服务,中国海外宏洋集团,保利发展,保利物业,招商蛇口,新世界发展,绿城服务"
   },
   {
+    "uid": "632313",
+    "name": "刘廷轩",
+    "org_name": "新世界中国地产有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "Deputy General Manager",
+    "department": "",
+    "last_interaction_time": "2025-09-26 17:45:57",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新世界发展",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-09-26",
+        "meet_title": "【广东话】新世界发展有限公司(17.HK)2025财政年度业绩发布会"
+      },
+      {
+        "time": "2025-02-28",
+        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-09-26",
+        "meet_title": "【广东话】新世界发展有限公司(17.HK)2025财政年度业绩发布会",
+        "duration": 38
+      },
+      {
+        "time": "2025-02-28",
+        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会",
+        "duration": 44
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "637459",
     "name": "Tse Kay Chung",
     "org_name": "交银国际证券有限公司",
@@ -20381,45 +20420,6 @@
         "time": "2025-08-25"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "632313",
-    "name": "刘廷轩",
-    "org_name": "新世界中国地产有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "Deputy General Manager",
-    "department": "",
-    "last_interaction_time": "2025-09-26 17:45:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新世界发展",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-09-26",
-        "meet_title": "【广东话】新世界发展有限公司(17.HK)2025财政年度业绩发布会"
-      },
-      {
-        "time": "2025-02-28",
-        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-09-26",
-        "meet_title": "【广东话】新世界发展有限公司(17.HK)2025财政年度业绩发布会",
-        "duration": 38
-      },
-      {
-        "time": "2025-02-28",
-        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会",
-        "duration": 44
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -31730,40 +31730,6 @@
     "special_companies": ""
   },
   {
-    "uid": "572273",
-    "name": "馮浩",
-    "org_name": "国元咨询服务（深圳）有限公司",
-    "org_type": "一般企业",
-    "cert_type": "卖方分析师",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2025-02-28 17:44:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新世界发展",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-02-28",
-        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
-      },
-      {
-        "time": "2025-02-28",
-        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-02-28",
-        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "中国交建"
-  },
-  {
     "uid": "439365",
     "name": "謝博淵",
     "org_name": "中國人壽富蘭克林資產管理有限公司",
@@ -31801,6 +31767,40 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "572273",
+    "name": "馮浩",
+    "org_name": "国元咨询服务（深圳）有限公司",
+    "org_type": "一般企业",
+    "cert_type": "卖方分析师",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2025-02-28 17:44:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新世界发展",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-02-28",
+        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
+      },
+      {
+        "time": "2025-02-28",
+        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-02-28",
+        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "中国交建"
   },
   {
     "uid": "632237",
@@ -39059,36 +39059,6 @@
     "special_companies": "新世界发展"
   },
   {
-    "uid": "613574",
-    "name": "林爾諾",
-    "org_name": "BFAM合伙(香港)有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Junior Portfolio Manager",
-    "department": "",
-    "last_interaction_time": "2024-10-16 11:00:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新世界发展",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-10-14",
-        "meet_title": "新世界发展有限公司（17.HK）管理层非交易路演"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-10-16",
-        "meet_title": "新世界发展有限公司（17.HK）管理层非交易路演",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "440370",
     "name": "高朕逸",
     "org_name": "摩根大通证券（亚太）有限公司",
@@ -39195,6 +39165,36 @@
       }
     ],
     "special_companies": "保利物业,新城悦服务,绿城中国"
+  },
+  {
+    "uid": "613574",
+    "name": "林爾諾",
+    "org_name": "BFAM合伙(香港)有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Junior Portfolio Manager",
+    "department": "",
+    "last_interaction_time": "2024-10-16 11:00:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新世界发展",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-10-14",
+        "meet_title": "新世界发展有限公司（17.HK）管理层非交易路演"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-10-16",
+        "meet_title": "新世界发展有限公司（17.HK）管理层非交易路演",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "335410",
@@ -39502,6 +39502,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国船舶租赁",
+        "time": "2026-04-09"
+      },
       {
         "company": "中集集团",
         "time": "2026-03-24"
@@ -42231,36 +42235,6 @@
     "special_companies": ""
   },
   {
-    "uid": "613361",
-    "name": "Huihui Zhu",
-    "org_name": "K11 Concepts Limited",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "AM",
-    "department": "",
-    "last_interaction_time": "2024-09-26 17:59:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新世界发展",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-09-26",
-        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-09-26",
-        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会",
-        "duration": 14
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "278641",
     "name": "苏祎",
     "org_name": "新世界百货中国有限公司",
@@ -42414,6 +42388,36 @@
       }
     ],
     "special_companies": "卓越商企服务,建发国际集团,新世界发展,绿城管理控股"
+  },
+  {
+    "uid": "613361",
+    "name": "Huihui Zhu",
+    "org_name": "K11 Concepts Limited",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "AM",
+    "department": "",
+    "last_interaction_time": "2024-09-26 17:59:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新世界发展",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-09-26",
+        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-09-26",
+        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会",
+        "duration": 14
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "572468",

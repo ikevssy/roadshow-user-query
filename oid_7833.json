@@ -1,5 +1,29 @@
 [
   {
+    "uid": "646017",
+    "name": "黄鑫",
+    "org_name": "上海浦东发展银行股份有限公司",
+    "org_type": "银行",
+    "cert_type": "服务机构",
+    "position": "公司客户经理",
+    "department": "深圳万象汇支行",
+    "last_interaction_time": "2026-04-09 16:49:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "深圳控股",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "深圳控股（0604.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "6126",
     "name": "陈镇炎",
     "org_name": "广州市罗爵私募证券投资基金管理有限公司",
@@ -4434,6 +4458,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
       {
         "company": "鸿远电子",
         "time": "2026-03-27"
@@ -10835,30 +10863,6 @@
     "position": "公司行长",
     "department": "深圳万象汇支行",
     "last_interaction_time": "2026-03-25 14:28:53",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "深圳控股",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-25",
-        "meet_title": "深圳控股（0604.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "646017",
-    "name": "黄鑫",
-    "org_name": "上海浦东发展银行股份有限公司",
-    "org_type": "银行",
-    "cert_type": "服务机构",
-    "position": "公司客户经理",
-    "department": "深圳万象汇支行",
-    "last_interaction_time": "2026-03-25 14:23:49",
     "last_interaction_behavior": "报名",
     "interaction_company": "深圳控股",
     "apply_count": 1,
