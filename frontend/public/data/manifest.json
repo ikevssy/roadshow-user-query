@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-04-09 20:34:16",
+  "update_time": "2026-04-10 01:36:00",
   "companies_count": 52609,
   "data_start_time": "2023-01-01",
   "synced_companies": 2154,
@@ -573,7 +573,7 @@
       "oid": 48073,
       "cn_short_name": "中国船舶租赁",
       "filename": "oid_48073.json",
-      "user_count": 431,
+      "user_count": 432,
       "release_batch": 3
     },
     {
@@ -1347,18 +1347,18 @@
       "release_batch": 1
     },
     {
-      "oid": 3480,
-      "cn_short_name": "农业银行",
-      "filename": "oid_3480.json",
-      "user_count": 174,
-      "release_batch": 1
-    },
-    {
       "oid": 47395,
       "cn_short_name": "维亚生物",
       "filename": "oid_47395.json",
       "user_count": 174,
       "release_batch": 3
+    },
+    {
+      "oid": 3480,
+      "cn_short_name": "农业银行",
+      "filename": "oid_3480.json",
+      "user_count": 174,
+      "release_batch": 1
     },
     {
       "oid": 11050,
@@ -4063,6 +4063,13 @@
       "release_batch": 1
     },
     {
+      "oid": 18176,
+      "cn_short_name": "中矿资源",
+      "filename": "oid_18176.json",
+      "user_count": 36,
+      "release_batch": 2
+    },
+    {
       "oid": 53031,
       "cn_short_name": "量子之歌",
       "filename": "oid_53031.json",
@@ -4096,13 +4103,6 @@
       "filename": "oid_1153.json",
       "user_count": 36,
       "release_batch": 1
-    },
-    {
-      "oid": 18176,
-      "cn_short_name": "中矿资源",
-      "filename": "oid_18176.json",
-      "user_count": 36,
-      "release_batch": 2
     },
     {
       "oid": 1984,
