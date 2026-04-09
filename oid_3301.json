@@ -1,5 +1,57 @@
 [
   {
+    "uid": "645310",
+    "name": "林德钦",
+    "org_name": "北京蓝鼎世纪科技有限公司",
+    "org_type": "一般企业",
+    "cert_type": "服务机构",
+    "position": "副总经理",
+    "department": "",
+    "last_interaction_time": "2026-04-10 01:15:49",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "亿胜生物科技",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-04-10",
+        "meet_title": "亿胜生物科技（01061.HK）投资者推介会｜华安医药 x 路演中"
+      },
+      {
+        "time": "2026-03-18",
+        "meet_title": "亿胜生物科技（01061.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "亿胜生物科技（01061.HK）2025年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2026-03-24",
+        "meet_title": "亿胜生物科技（01061.HK）2025年度业绩发布会",
+        "duration": 37
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "周生生",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2026-03-18"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "573713",
     "name": "周新平",
     "org_name": "投研会京研汇",
@@ -6644,54 +6696,6 @@
       }
     ],
     "special_companies": "卓越教育集团,贝泰妮"
-  },
-  {
-    "uid": "645310",
-    "name": "林德钦",
-    "org_name": "北京蓝鼎世纪科技有限公司",
-    "org_type": "一般企业",
-    "cert_type": "服务机构",
-    "position": "副总经理",
-    "department": "",
-    "last_interaction_time": "2026-03-24 10:03:45",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "亿胜生物科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-18",
-        "meet_title": "亿胜生物科技（01061.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-24",
-        "meet_title": "亿胜生物科技（01061.HK）2025年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2026-03-24",
-        "meet_title": "亿胜生物科技（01061.HK）2025年度业绩发布会",
-        "duration": 37
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "周生生",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "拼多多",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "亿胜生物科技",
-        "time": "2026-03-18"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "645714",

@@ -24,6 +24,11 @@
     "attend_count": 2,
     "attend_records": [
       {
+        "time": "2026-04-08",
+        "meet_title": "中芯国际（688981.SH，00981.HK）2025年第四季度业绩说明会",
+        "duration": 0
+      },
+      {
         "time": "2026-03-19",
         "meet_title": "中芯国际（688981.SH，00981.HK）2025年第四季度业绩说明会",
         "duration": 0
@@ -56,6 +61,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
       {
         "company": "中信股份",
         "time": "2026-04-08"
@@ -1005,6 +1014,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
       {
         "company": "博腾股份",
         "time": "2026-04-03"
@@ -14406,6 +14419,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国船舶租赁",
+        "time": "2026-04-09"
+      },
+      {
         "company": "中集集团",
         "time": "2026-03-24"
       },
@@ -23868,6 +23885,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
         "company": "中国民航信息网络",
         "time": "2026-03-31"
       },
@@ -26805,6 +26826,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国船舶租赁",
+        "time": "2026-04-09"
+      },
       {
         "company": "稀美资源",
         "time": "2026-03-30"
@@ -34265,7 +34290,7 @@
     "org_name": "开源证券股份有限公司",
     "org_type": "证券公司",
     "cert_type": "卖方分析师",
-    "position": "电子行业高级分析师",
+    "position": "电子组资深分析师",
     "department": "研究所",
     "last_interaction_time": "2025-03-27 21:31:48",
     "last_interaction_behavior": "参会",
@@ -41676,6 +41701,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
       {
         "company": "舜宇光学科技",
         "time": "2026-03-30"
@@ -64194,36 +64223,6 @@
     "special_companies": ""
   },
   {
-    "uid": "579043",
-    "name": "刘雅馨",
-    "org_name": "兴业证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "业务董事",
-    "department": "北京分公司机构业务部",
-    "last_interaction_time": "2023-05-12 08:31:46",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中芯国际",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-05-11",
-        "meet_title": "中芯国际（688981.SH，00981.HK）2023年第一季度业绩说明电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-05-12",
-        "meet_title": "中芯国际（688981.SH，00981.HK）2023年第一季度业绩说明电话会",
-        "duration": 9
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "282772",
     "name": "王晓明",
     "org_name": "恒越基金管理有限公司",
@@ -64261,6 +64260,36 @@
         "time": "2023-08-16"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "579043",
+    "name": "刘雅馨",
+    "org_name": "兴业证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "业务董事",
+    "department": "北京分公司机构业务部",
+    "last_interaction_time": "2023-05-12 08:31:46",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中芯国际",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-05-11",
+        "meet_title": "中芯国际（688981.SH，00981.HK）2023年第一季度业绩说明电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-05-12",
+        "meet_title": "中芯国际（688981.SH，00981.HK）2023年第一季度业绩说明电话会",
+        "duration": 9
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {

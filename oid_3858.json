@@ -1,5 +1,89 @@
 [
   {
+    "uid": "354806",
+    "name": "郭义伟",
+    "org_name": "中国罕王控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "ESG主管兼投资者关系助理",
+    "department": "投资者关系部",
+    "last_interaction_time": "2026-04-09 15:26:30",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "罕王黄金",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-04-09",
+        "meet_title": "罕王黄金（3788.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国罕王（3788.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-24",
+        "meet_title": "中国罕王（3788.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-04-10",
+        "meet_title": "中国罕王（3788.HK）2023年中期业绩发布会",
+        "duration": 1
+      },
+      {
+        "time": "2023-08-25",
+        "meet_title": "中国罕王（3788.HK）2023年中期业绩发布会",
+        "duration": 1
+      },
+      {
+        "time": "2023-08-25",
+        "meet_title": "中国罕王（3788.HK）2023年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国罕王（3788.HK）2023年中期业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2023-03-31",
+        "meet_title": "中国罕王（3788.HK）2022年度业绩发布会",
+        "duration": 1
+      },
+      {
+        "time": "2023-03-24",
+        "meet_title": "中国罕王（3788.HK）2022年度业绩发布会",
+        "duration": 3
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "复星国际",
+        "time": "2025-05-09"
+      },
+      {
+        "company": "思治企业咨询",
+        "time": "2025-02-28"
+      },
+      {
+        "company": "香港投资者关系协会",
+        "time": "2024-12-16"
+      },
+      {
+        "company": "中信建投证券研究所",
+        "time": "2023-12-12"
+      },
+      {
+        "company": "罕王黄金",
+        "time": "2023-03-24"
+      }
+    ],
+    "special_companies": "中国建筑,罕王黄金"
+  },
+  {
     "uid": "580690",
     "name": "张楚泓",
     "org_name": "上海申银万国证券研究所有限公司",
@@ -10854,86 +10938,6 @@
       }
     ],
     "special_companies": "中国中冶,中国交建,中国船舶租赁"
-  },
-  {
-    "uid": "354806",
-    "name": "郭义伟",
-    "org_name": "中国罕王控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "ESG主管兼投资者关系助理",
-    "department": "投资者关系部",
-    "last_interaction_time": "2025-04-10 14:30:14",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "罕王黄金",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国罕王（3788.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-24",
-        "meet_title": "中国罕王（3788.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-04-10",
-        "meet_title": "中国罕王（3788.HK）2023年中期业绩发布会",
-        "duration": 1
-      },
-      {
-        "time": "2023-08-25",
-        "meet_title": "中国罕王（3788.HK）2023年中期业绩发布会",
-        "duration": 1
-      },
-      {
-        "time": "2023-08-25",
-        "meet_title": "中国罕王（3788.HK）2023年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国罕王（3788.HK）2023年中期业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2023-03-31",
-        "meet_title": "中国罕王（3788.HK）2022年度业绩发布会",
-        "duration": 1
-      },
-      {
-        "time": "2023-03-24",
-        "meet_title": "中国罕王（3788.HK）2022年度业绩发布会",
-        "duration": 3
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "复星国际",
-        "time": "2025-05-09"
-      },
-      {
-        "company": "思治企业咨询",
-        "time": "2025-02-28"
-      },
-      {
-        "company": "香港投资者关系协会",
-        "time": "2024-12-16"
-      },
-      {
-        "company": "中信建投证券研究所",
-        "time": "2023-12-12"
-      },
-      {
-        "company": "罕王黄金",
-        "time": "2023-03-24"
-      }
-    ],
-    "special_companies": "中国建筑,罕王黄金"
   },
   {
     "uid": "333392",

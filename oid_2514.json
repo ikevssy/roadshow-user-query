@@ -1,5 +1,70 @@
 [
   {
+    "uid": "644779",
+    "name": "于不清",
+    "org_name": "君伦石油有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "首席技术执行官",
+    "department": "技术部",
+    "last_interaction_time": "2026-04-09 12:08:01",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国平安",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-09",
+        "meet_title": "中国平安（601318.SH，02318.HK）2025年度业绩媒体发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-04-03"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "美光科技",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "吉利汽车",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "宁德时代",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "英伟达",
+        "time": "2026-02-26"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2026-02-11"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "538845",
     "name": "李志伟",
     "org_name": "厦门骅逸永兴资产管理有限公司",
@@ -4258,6 +4323,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
         "company": "中煤能源",
         "time": "2026-04-01"
       },
@@ -5166,6 +5235,10 @@
     "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
       {
         "company": "鸿远电子",
         "time": "2026-03-27"
@@ -40852,36 +40925,6 @@
     "special_companies": ""
   },
   {
-    "uid": "579937",
-    "name": "赵欣",
-    "org_name": "广州金控期货有限公司",
-    "org_type": "期货公司",
-    "cert_type": "个人",
-    "position": "业务总监",
-    "department": "产业部",
-    "last_interaction_time": "2024-03-22 11:52:37",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国平安",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-21",
-        "meet_title": "中国平安（601318.SH，02318.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-22",
-        "meet_title": "中国平安（601318.SH，02318.HK）2023年度业绩发布会",
-        "duration": 58
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "333477",
     "name": "郑南宏",
     "org_name": "平安证券股份有限公司",
@@ -40919,6 +40962,36 @@
       }
     ],
     "special_companies": "保利物业,宏信建发"
+  },
+  {
+    "uid": "579937",
+    "name": "赵欣",
+    "org_name": "广州金控期货有限公司",
+    "org_type": "期货公司",
+    "cert_type": "个人",
+    "position": "业务总监",
+    "department": "产业部",
+    "last_interaction_time": "2024-03-22 11:52:37",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国平安",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-21",
+        "meet_title": "中国平安（601318.SH，02318.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-22",
+        "meet_title": "中国平安（601318.SH，02318.HK）2023年度业绩发布会",
+        "duration": 58
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "282299",
@@ -44617,6 +44690,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国船舶租赁",
+        "time": "2026-04-09"
+      },
       {
         "company": "中集集团",
         "time": "2026-03-24"

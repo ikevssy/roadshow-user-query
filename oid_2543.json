@@ -18080,41 +18080,6 @@
     "special_companies": ""
   },
   {
-    "uid": "634742",
-    "name": "谭唱",
-    "org_name": "道明资产管理公司",
-    "org_type": null,
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "",
-    "last_interaction_time": "2025-04-21 16:00:59",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国建筑",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-04-21",
-        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-04-21",
-        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会",
-        "duration": 35
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国建筑",
-        "time": "2025-04-21"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "340437",
     "name": "苗野",
     "org_name": "中国房地产报",
@@ -18195,6 +18160,41 @@
     "special_companies": "中南建设,中国建筑"
   },
   {
+    "uid": "634742",
+    "name": "谭唱",
+    "org_name": "道明资产管理公司",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "",
+    "last_interaction_time": "2025-04-21 16:00:59",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国建筑",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-04-21",
+        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-04-21",
+        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会",
+        "duration": 35
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2025-04-21"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "280221",
     "name": "王金琳",
     "org_name": "摩根士丹利华鑫基金管理有限公司",
@@ -18235,45 +18235,6 @@
     "special_companies": ""
   },
   {
-    "uid": "633749",
-    "name": "王炳旭",
-    "org_name": "中原信托有限公司",
-    "org_type": "信托公司",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "固有业务部",
-    "last_interaction_time": "2025-04-21 16:00:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国建筑",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-04-14",
-        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-04-21",
-        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会",
-        "duration": 37
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中集集团",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "中国太保",
-        "time": "2025-03-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "430206",
     "name": "王金琳",
     "org_name": "摩根士丹利亚洲有限公司",
@@ -18311,6 +18272,45 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": "中国交建"
+  },
+  {
+    "uid": "633749",
+    "name": "王炳旭",
+    "org_name": "中原信托有限公司",
+    "org_type": "信托公司",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "固有业务部",
+    "last_interaction_time": "2025-04-21 16:00:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国建筑",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-04-14",
+        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-04-21",
+        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会",
+        "duration": 37
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中集集团",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-03-27"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "251659",

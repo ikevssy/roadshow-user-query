@@ -12406,6 +12406,36 @@
     "special_companies": "新城悦服务"
   },
   {
+    "uid": "573422",
+    "name": "张正",
+    "org_name": "华西证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "研究助理",
+    "department": "",
+    "last_interaction_time": "2023-03-16 16:16:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "361度",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-15",
+        "meet_title": "361度国际（01361.HK）2022年全年业绩投资者电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-16",
+        "meet_title": "361度国际（01361.HK）2022年全年业绩投资者电话会",
+        "duration": 70
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "265675",
     "name": "高岗",
     "org_name": "上海景富投资管理有限公司",
@@ -12536,36 +12566,6 @@
         "time": "2023-03-16",
         "meet_title": "361度国际（01361.HK）2022年全年业绩投资者电话会",
         "duration": 57
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "573422",
-    "name": "张正",
-    "org_name": "华西证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "研究助理",
-    "department": "",
-    "last_interaction_time": "2023-03-16 16:16:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "361度",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-15",
-        "meet_title": "361度国际（01361.HK）2022年全年业绩投资者电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-16",
-        "meet_title": "361度国际（01361.HK）2022年全年业绩投资者电话会",
-        "duration": 70
       }
     ],
     "is_first_attend": true,
