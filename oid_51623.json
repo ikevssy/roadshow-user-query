@@ -15211,6 +15211,36 @@
     "special_companies": "特步国际,锦欣生殖"
   },
   {
+    "uid": "611456",
+    "name": "杨萱",
+    "org_name": "GNJAPITAL",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "-",
+    "department": "-",
+    "last_interaction_time": "2024-08-30 11:00:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "贝康医疗",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-30",
+        "meet_title": "贝康医疗（2170.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-30",
+        "meet_title": "贝康医疗（2170.HK）2024年中期业绩发布会",
+        "duration": 73
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "582911",
     "name": "邓强",
     "org_name": "信达鲲鹏(深圳)股权投资管理有限公司",
@@ -15269,39 +15299,9 @@
     "special_companies": "贝康医疗"
   },
   {
-    "uid": "611456",
-    "name": "杨萱",
-    "org_name": "GNJAPITAL",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
-    "position": "-",
-    "department": "-",
-    "last_interaction_time": "2024-08-30 11:00:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "贝康医疗",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-30",
-        "meet_title": "贝康医疗（2170.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-30",
-        "meet_title": "贝康医疗（2170.HK）2024年中期业绩发布会",
-        "duration": 73
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "612744",
-    "name": "余静文",
-    "org_name": "晨岭资本有限公司",
+    "uid": "612689",
+    "name": "赵宁",
+    "org_name": "道远资本管理(北京)有限公司",
     "org_type": "私募股权/创业投资基金管理人",
     "cert_type": "个人",
     "position": "投资经理",
@@ -15329,9 +15329,9 @@
     "special_companies": ""
   },
   {
-    "uid": "612689",
-    "name": "赵宁",
-    "org_name": "道远资本管理(北京)有限公司",
+    "uid": "612744",
+    "name": "余静文",
+    "org_name": "晨岭资本有限公司",
     "org_type": "私募股权/创业投资基金管理人",
     "cert_type": "个人",
     "position": "投资经理",

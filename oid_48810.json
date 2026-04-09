@@ -9283,6 +9283,39 @@
     "special_companies": "绿城服务"
   },
   {
+    "uid": "270354",
+    "name": "黄婉银",
+    "org_name": "每日经济新闻",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "资深记者",
+    "department": "房地产频道",
+    "last_interaction_time": "2024-08-22 10:32:08",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "百果园集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-22",
+        "meet_title": "百果园（2411.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "长和",
+        "time": "2025-03-17"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-03-27"
+      }
+    ],
+    "special_companies": "碧桂园服务,美的置业"
+  },
+  {
     "uid": "348317",
     "name": "李青全",
     "org_name": "北京东方引擎投资管理有限公司",
@@ -9454,39 +9487,6 @@
       }
     ],
     "special_companies": "伟仕佳杰,吉利汽车,奈雪的茶,建业新生活,新城悦服务,易居企业控股,星盛商业,沛嘉医疗,波司登,百果园集团,赢家时尚,雅生活服务,顺丰同城"
-  },
-  {
-    "uid": "270354",
-    "name": "黄婉银",
-    "org_name": "每日经济新闻",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "资深记者",
-    "department": "房地产频道",
-    "last_interaction_time": "2024-08-22 10:32:08",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "百果园集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-22",
-        "meet_title": "百果园（2411.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "长和",
-        "time": "2025-03-17"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2024-03-27"
-      }
-    ],
-    "special_companies": "碧桂园服务,美的置业"
   },
   {
     "uid": "4504",
@@ -10534,143 +10534,6 @@
     "special_companies": "佛朗斯股份,敏华控股,珀莱雅"
   },
   {
-    "uid": "581383",
-    "name": "王会晋",
-    "org_name": "大华继显私人有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "Director",
-    "department": "",
-    "last_interaction_time": "2024-08-22 10:30:12",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "百果园集团",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-08-19",
-        "meet_title": "百果园（2411.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2023-08-14",
-        "meet_title": "百果园（02411.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-08-22",
-        "meet_title": "百果园（2411.HK）2024年中期业绩发布会",
-        "duration": 1
-      },
-      {
-        "time": "2024-08-22",
-        "meet_title": "百果园（2411.HK）2024年中期业绩发布会",
-        "duration": 55
-      },
-      {
-        "time": "2023-08-23",
-        "meet_title": "百果园（02411.HK）2023年中期业绩发布会",
-        "duration": 7
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "吉利汽车",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "万国数据服务",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "中集集团",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "卓越教育集团",
-        "time": "2025-03-21"
-      },
-      {
-        "company": "金风科技",
-        "time": "2024-10-28"
-      },
-      {
-        "company": "贝康医疗",
-        "time": "2024-08-30"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2024-08-22"
-      },
-      {
-        "company": "中石化冠德",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "美的置业",
-        "time": "2024-08-19"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-08-19"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2024-08-16"
-      },
-      {
-        "company": "中国动向",
-        "time": "2024-06-26"
-      },
-      {
-        "company": "百融智能",
-        "time": "2024-03-26"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-08-19"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2023-08-16"
-      },
-      {
-        "company": "药师帮",
-        "time": "2023-08-16"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2023-08-09"
-      },
-      {
-        "company": "协合新能源",
-        "time": "2023-08-01"
-      },
-      {
-        "company": "信義玻璃",
-        "time": "2023-08-01"
-      },
-      {
-        "company": "中国天瑞水泥",
-        "time": "2023-07-31"
-      },
-      {
-        "company": "JS环球生活",
-        "time": "2023-07-31"
-      }
-    ],
-    "special_companies": "万物云,中国动向,中石化冠德,中集集团,信義玻璃,协合新能源,小米集团-W,康哲药业,百果园集团,百融智能,美的置业,联邦制药,药师帮,贝康医疗,金风科技,雅生活服务"
-  },
-  {
     "uid": "1353",
     "name": "刘树祥",
     "org_name": "深圳慧利资产管理有限公司",
@@ -10880,6 +10743,143 @@
       }
     ],
     "special_companies": "中国建筑,中国银河证券股份研究所,华森制药,博腾股份,周黑鸭,碧桂园,贝泰妮,顺丰同城"
+  },
+  {
+    "uid": "581383",
+    "name": "王会晋",
+    "org_name": "大华继显私人有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "Director",
+    "department": "",
+    "last_interaction_time": "2024-08-22 10:30:12",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "百果园集团",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-08-19",
+        "meet_title": "百果园（2411.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2023-08-14",
+        "meet_title": "百果园（02411.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-08-22",
+        "meet_title": "百果园（2411.HK）2024年中期业绩发布会",
+        "duration": 1
+      },
+      {
+        "time": "2024-08-22",
+        "meet_title": "百果园（2411.HK）2024年中期业绩发布会",
+        "duration": 55
+      },
+      {
+        "time": "2023-08-23",
+        "meet_title": "百果园（02411.HK）2023年中期业绩发布会",
+        "duration": 7
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "吉利汽车",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "中集集团",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2025-03-21"
+      },
+      {
+        "company": "金风科技",
+        "time": "2024-10-28"
+      },
+      {
+        "company": "贝康医疗",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2024-08-22"
+      },
+      {
+        "company": "中石化冠德",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "美的置业",
+        "time": "2024-08-19"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-08-19"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2024-08-16"
+      },
+      {
+        "company": "中国动向",
+        "time": "2024-06-26"
+      },
+      {
+        "company": "百融智能",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-08-19"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2023-08-16"
+      },
+      {
+        "company": "药师帮",
+        "time": "2023-08-16"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2023-08-09"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2023-08-01"
+      },
+      {
+        "company": "信義玻璃",
+        "time": "2023-08-01"
+      },
+      {
+        "company": "中国天瑞水泥",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "JS环球生活",
+        "time": "2023-07-31"
+      }
+    ],
+    "special_companies": "万物云,中国动向,中石化冠德,中集集团,信義玻璃,协合新能源,小米集团-W,康哲药业,百果园集团,百融智能,美的置业,联邦制药,药师帮,贝康医疗,金风科技,雅生活服务"
   },
   {
     "uid": "504734",
@@ -19130,109 +19130,6 @@
     "special_companies": ""
   },
   {
-    "uid": "332342",
-    "name": "Bin Wang CFA",
-    "org_name": "Austin Pacific Asset Management, LTD",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Managing Director",
-    "department": "",
-    "last_interaction_time": "2024-03-28 10:05:15",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "百果园集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-26",
-        "meet_title": "百果园（02411.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "百果园（02411.HK）2023年度业绩发布会",
-        "duration": 17
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "永升服务",
-        "time": "2024-08-20"
-      },
-      {
-        "company": "中国金茂",
-        "time": "2024-04-21"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2024-04-21"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2024-04-17"
-      },
-      {
-        "company": "融创服务",
-        "time": "2024-04-15"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2024-04-11"
-      },
-      {
-        "company": "新城悦服务",
-        "time": "2024-03-29"
-      },
-      {
-        "company": "九毛九",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "南方航空",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "中国平安",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "中国人保",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "宏信建发",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "保利物业",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "中国电信",
-        "time": "2024-03-26"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-03-26"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2024-03-26"
-      },
-      {
-        "company": "百融智能",
-        "time": "2024-03-26"
-      }
-    ],
-    "special_companies": "万物云,中国人保,保利物业,宝龙商业,建发物业,新城悦服务,新希望服务,滨江服务,百融智能,碧桂园服务,绿城服务,融创服务,金茂服务,雅生活服务"
-  },
-  {
     "uid": "573545",
     "name": "鄭凱恩",
     "org_name": "东方证券（香港）有限公司",
@@ -19360,6 +19257,109 @@
       }
     ],
     "special_companies": "滨江服务,百奥家庭互动"
+  },
+  {
+    "uid": "332342",
+    "name": "Bin Wang CFA",
+    "org_name": "Austin Pacific Asset Management, LTD",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Managing Director",
+    "department": "",
+    "last_interaction_time": "2024-03-28 10:05:15",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "百果园集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-26",
+        "meet_title": "百果园（02411.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "百果园（02411.HK）2023年度业绩发布会",
+        "duration": 17
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "永升服务",
+        "time": "2024-08-20"
+      },
+      {
+        "company": "中国金茂",
+        "time": "2024-04-21"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2024-04-21"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2024-04-17"
+      },
+      {
+        "company": "融创服务",
+        "time": "2024-04-15"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2024-04-11"
+      },
+      {
+        "company": "新城悦服务",
+        "time": "2024-03-29"
+      },
+      {
+        "company": "九毛九",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "南方航空",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "中国平安",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "中国人保",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "中国电信",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "百融智能",
+        "time": "2024-03-26"
+      }
+    ],
+    "special_companies": "万物云,中国人保,保利物业,宝龙商业,建发物业,新城悦服务,新希望服务,滨江服务,百融智能,碧桂园服务,绿城服务,融创服务,金茂服务,雅生活服务"
   },
   {
     "uid": "33524",
@@ -27136,6 +27136,54 @@
     "special_companies": ""
   },
   {
+    "uid": "497412",
+    "name": "陈笑",
+    "org_name": "国泰君安证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "分析师",
+    "department": "研究所",
+    "last_interaction_time": "2023-10-18 14:00:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "百果园集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-10-18",
+        "meet_title": "百果园控股般果B2B平台发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-10-18",
+        "meet_title": "百果园控股般果B2B平台发布会",
+        "duration": 107
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "百果园（02411.HK）2023年中期业绩发布会",
+        "duration": 61
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "汇通达网络",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "百果园集团",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "JS环球生活",
+        "time": "2023-08-21"
+      }
+    ],
+    "special_companies": "汇通达网络"
+  },
+  {
     "uid": "493075",
     "name": "郑婷婷",
     "org_name": "成吉思汗基金管理有限公司",
@@ -27281,54 +27329,6 @@
       }
     ],
     "special_companies": "中广核新能源,信义能源,兖煤澳大利亚,华熙生物,协合新能源,泡泡玛特,百果园集团,贝泰妮"
-  },
-  {
-    "uid": "497412",
-    "name": "陈笑",
-    "org_name": "国泰君安证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "分析师",
-    "department": "研究所",
-    "last_interaction_time": "2023-10-18 14:00:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "百果园集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-10-18",
-        "meet_title": "百果园控股般果B2B平台发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-10-18",
-        "meet_title": "百果园控股般果B2B平台发布会",
-        "duration": 107
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "百果园（02411.HK）2023年中期业绩发布会",
-        "duration": 61
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "汇通达网络",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "百果园集团",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "JS环球生活",
-        "time": "2023-08-21"
-      }
-    ],
-    "special_companies": "汇通达网络"
   },
   {
     "uid": "493451",
@@ -32160,6 +32160,41 @@
     "special_companies": ""
   },
   {
+    "uid": "582120",
+    "name": "韩斌",
+    "org_name": "深圳市百果园投资发展有限公司",
+    "org_type": "实业投资",
+    "cert_type": "个人",
+    "position": "投资经理",
+    "department": "",
+    "last_interaction_time": "2023-08-22 10:30:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "百果园集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-18",
+        "meet_title": "百果园（02411.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "百果园（02411.HK）2023年中期业绩发布会",
+        "duration": 30
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "百果园集团",
+        "time": "2023-08-18"
+      }
+    ],
+    "special_companies": "百果园集团"
+  },
+  {
     "uid": "338313",
     "name": "彭建岗",
     "org_name": "深圳市可林卓特电子有限公司",
@@ -32227,41 +32262,6 @@
     "special_companies": "中国太保,中广核新能源,众安在线,康哲药业,招商蛇口,新希望服务"
   },
   {
-    "uid": "582120",
-    "name": "韩斌",
-    "org_name": "深圳市百果园投资发展有限公司",
-    "org_type": "实业投资",
-    "cert_type": "个人",
-    "position": "投资经理",
-    "department": "",
-    "last_interaction_time": "2023-08-22 10:30:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "百果园集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-18",
-        "meet_title": "百果园（02411.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "百果园（02411.HK）2023年中期业绩发布会",
-        "duration": 30
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "百果园集团",
-        "time": "2023-08-18"
-      }
-    ],
-    "special_companies": "百果园集团"
-  },
-  {
     "uid": "344797",
     "name": "Iris Lee",
     "org_name": "Strategic Financial Relations Limited",
@@ -32285,6 +32285,36 @@
         "time": "2023-08-22",
         "meet_title": "百果园（02411.HK）2023年中期业绩发布会",
         "duration": 65
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "439469",
+    "name": "王长龙",
+    "org_name": "浙商证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "消费行业研究员",
+    "department": "研究所",
+    "last_interaction_time": "2023-08-22 10:30:39",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "百果园集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "百果园（02411.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "百果园（02411.HK）2023年中期业绩发布会",
+        "duration": 51
       }
     ],
     "is_first_attend": true,
@@ -32338,36 +32368,6 @@
       }
     ],
     "special_companies": "中国电信"
-  },
-  {
-    "uid": "439469",
-    "name": "王长龙",
-    "org_name": "浙商证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "消费行业研究员",
-    "department": "研究所",
-    "last_interaction_time": "2023-08-22 10:30:39",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "百果园集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "百果园（02411.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "百果园（02411.HK）2023年中期业绩发布会",
-        "duration": 51
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "2500",

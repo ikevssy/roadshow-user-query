@@ -525,6 +525,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "联邦制药",
+        "time": "2026-04-09"
+      },
+      {
         "company": "康臣药业",
         "time": "2026-04-01"
       },
@@ -1662,6 +1666,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
       {
         "company": "中煤能源",
         "time": "2026-04-01"
@@ -28270,41 +28278,6 @@
     "special_companies": ""
   },
   {
-    "uid": "16216",
-    "name": "吴国清",
-    "org_name": "南方基金管理股份有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "专户投资经理",
-    "department": "",
-    "last_interaction_time": "2025-08-20 10:01:02",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "泡泡玛特",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会",
-        "duration": 77
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-19"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "349884",
     "name": "李芷莹",
     "org_name": "信达国际控股有限公司",
@@ -28337,6 +28310,41 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "16216",
+    "name": "吴国清",
+    "org_name": "南方基金管理股份有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "专户投资经理",
+    "department": "",
+    "last_interaction_time": "2025-08-20 10:01:02",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "泡泡玛特",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会",
+        "duration": 77
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-19"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -28498,53 +28506,6 @@
     "special_companies": ""
   },
   {
-    "uid": "349435",
-    "name": "謝俊鵬",
-    "org_name": "东英金融集团",
-    "org_type": "金融控股集团",
-    "cert_type": "卖方分析师",
-    "position": "研究部經理",
-    "department": "研究部",
-    "last_interaction_time": "2025-08-20 10:00:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "泡泡玛特",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会",
-        "duration": 84
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "安踏体育",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "李宁",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2023-03-10"
-      }
-    ],
-    "special_companies": "中国黄金国际,绿城管理控股"
-  },
-  {
     "uid": "247802",
     "name": "李卓",
     "org_name": "北京龙茂弘熙咨询有限公司",
@@ -28594,6 +28555,53 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "349435",
+    "name": "謝俊鵬",
+    "org_name": "东英金融集团",
+    "org_type": "金融控股集团",
+    "cert_type": "卖方分析师",
+    "position": "研究部經理",
+    "department": "研究部",
+    "last_interaction_time": "2025-08-20 10:00:57",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "泡泡玛特",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会",
+        "duration": 84
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "安踏体育",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "李宁",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-03-10"
+      }
+    ],
+    "special_companies": "中国黄金国际,绿城管理控股"
   },
   {
     "uid": "635110",
@@ -34529,6 +34537,46 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "MiniMax",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "快手-W",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "通用电气",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "波音",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "霍尼韦尔",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "宁德时代",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2026-04-09"
+      },
       {
         "company": "亿航智能",
         "time": "2025-12-23"
@@ -53098,6 +53146,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
       {
         "company": "舜宇光学科技",
         "time": "2026-03-30"

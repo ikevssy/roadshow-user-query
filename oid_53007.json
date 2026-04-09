@@ -668,6 +668,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国船舶租赁",
+        "time": "2026-04-09"
+      },
+      {
         "company": "中集集团",
         "time": "2026-03-24"
       },
@@ -11749,6 +11753,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
         "company": "舜宇光学科技",
         "time": "2026-03-30"
       },
@@ -21301,6 +21309,61 @@
     "special_companies": "万物新生（爱回收）,上海实业控股,呷哺呷哺,康基医疗,建发物业,神威药业,绿城管理控股,英恒科技,长江电力"
   },
   {
+    "uid": "338879",
+    "name": "何生",
+    "org_name": "广西高卓投资管理有限公司",
+    "org_type": "财务顾问机构",
+    "cert_type": "服务机构",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2024-05-04 22:00:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "伯克希尔-哈撒韦",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-04-29",
+        "meet_title": "伯克希尔-哈撒韦（BRK.A.US）2024巴菲特股东大会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-05-04",
+        "meet_title": "伯克希尔-哈撒韦（BRK.A.US）2024巴菲特股东大会",
+        "duration": 74
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "万物云",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中国平安",
+        "time": "2024-03-22"
+      }
+    ],
+    "special_companies": "建业新生活"
+  },
+  {
     "uid": "1123",
     "name": "周炜炜",
     "org_name": "上海开思股权投资基金管理有限公司",
@@ -21459,61 +21522,6 @@
       }
     ],
     "special_companies": "万物云,兖煤澳大利亚,医脉通,华润医疗,呷哺呷哺,敏华控股,民生教育,环球新材国际,百果园集团,神威药业,粉笔"
-  },
-  {
-    "uid": "338879",
-    "name": "何生",
-    "org_name": "广西高卓投资管理有限公司",
-    "org_type": "财务顾问机构",
-    "cert_type": "服务机构",
-    "position": "总经理",
-    "department": "",
-    "last_interaction_time": "2024-05-04 22:00:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "伯克希尔-哈撒韦",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-04-29",
-        "meet_title": "伯克希尔-哈撒韦（BRK.A.US）2024巴菲特股东大会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-05-04",
-        "meet_title": "伯克希尔-哈撒韦（BRK.A.US）2024巴菲特股东大会",
-        "duration": 74
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "绿城管理控股",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "万物云",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "中海物业",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "保利物业",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "中国平安",
-        "time": "2024-03-22"
-      }
-    ],
-    "special_companies": "建业新生活"
   },
   {
     "uid": "583866",

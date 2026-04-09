@@ -1,5 +1,100 @@
 [
   {
+    "uid": "582988",
+    "name": "C.Y. Li",
+    "org_name": "上海银行（香港）有限公司",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "Associate Director",
+    "department": "Greater Bay Area Business Division",
+    "last_interaction_time": "2026-04-09 11:26:49",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "元光科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "MetaLight Inc.（02605.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "MetaLight Inc.（02605.HK）2025年度业绩发布会",
+        "duration": 3
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "鸿远电子",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "协鑫科技",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "子不语",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中金岭南",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集车辆",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集环科",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集安瑞科",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "644779",
     "name": "于不清",
     "org_name": "君伦石油有限公司",
@@ -18,9 +113,19 @@
       }
     ],
     "attend_count": 1,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-08",
+        "meet_title": "MetaLight Inc.（02605.HK）2025年度业绩发布会",
+        "duration": 3
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
       {
         "company": "博腾股份",
         "time": "2026-04-03"
@@ -94,6 +199,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
         "company": "中信股份",
         "time": "2026-04-08"
       },
@@ -156,97 +265,6 @@
       {
         "company": "歌尔微电子",
         "time": "2025-10-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "582988",
-    "name": "C.Y. Li",
-    "org_name": "上海银行（香港）有限公司",
-    "org_type": "银行",
-    "cert_type": "个人",
-    "position": "Associate Director",
-    "department": "Greater Bay Area Business Division",
-    "last_interaction_time": "2026-03-31 09:35:51",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "元光科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "MetaLight Inc.（02605.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "MetaLight Inc.（02605.HK）2025年度业绩发布会",
-        "duration": 3
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "鸿远电子",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "中广核新能源",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "五谷磨房",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "艾美疫苗",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "协鑫科技",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "金风科技",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "佛朗斯股份",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "子不语",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "中金岭南",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "中集车辆",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "中集环科",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "中集安瑞科",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "中集集团",
-        "time": "2026-03-25"
       }
     ],
     "special_companies": ""

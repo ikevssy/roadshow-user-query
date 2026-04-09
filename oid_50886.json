@@ -10504,84 +10504,6 @@
     "special_companies": "万物云,中信证券,中海物业,保利物业,国泰君安国际,建发国际集团,建发物业,思派健康,滨江服务,绿城服务,绿城管理控股"
   },
   {
-    "uid": "573615",
-    "name": "李子恒",
-    "org_name": "源码资本",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "",
-    "last_interaction_time": "2025-08-26 10:00:09",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金茂服务",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2025-08-21",
-        "meet_title": "金茂服务（0816.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-19",
-        "meet_title": "金茂服务（0816.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-03-24",
-        "meet_title": "金茂服务（0816.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-03-20",
-        "meet_title": "金茂服务（0816.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2025-08-26",
-        "meet_title": "金茂服务（0816.HK）2025年中期业绩发布会",
-        "duration": 15
-      },
-      {
-        "time": "2025-03-24",
-        "meet_title": "金茂服务（0816.HK）2024年度业绩发布会",
-        "duration": 54
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "金茂服务（0816.HK）2023年度业绩发布会",
-        "duration": 46
-      },
-      {
-        "time": "2023-03-24",
-        "meet_title": "金茂服务（0816.HK）2022年度业绩发布会",
-        "duration": 60
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "深圳控股",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2024-03-26"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "43892",
     "name": "何潇",
     "org_name": "杭州静默资产管理有限公司",
@@ -10729,6 +10651,84 @@
       }
     ],
     "special_companies": "国证国际证券(香港)研究所,滨江服务"
+  },
+  {
+    "uid": "573615",
+    "name": "李子恒",
+    "org_name": "源码资本",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "",
+    "last_interaction_time": "2025-08-26 10:00:09",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金茂服务",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2025-08-21",
+        "meet_title": "金茂服务（0816.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-19",
+        "meet_title": "金茂服务（0816.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-03-24",
+        "meet_title": "金茂服务（0816.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-03-20",
+        "meet_title": "金茂服务（0816.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2025-08-26",
+        "meet_title": "金茂服务（0816.HK）2025年中期业绩发布会",
+        "duration": 15
+      },
+      {
+        "time": "2025-03-24",
+        "meet_title": "金茂服务（0816.HK）2024年度业绩发布会",
+        "duration": 54
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "金茂服务（0816.HK）2023年度业绩发布会",
+        "duration": 46
+      },
+      {
+        "time": "2023-03-24",
+        "meet_title": "金茂服务（0816.HK）2022年度业绩发布会",
+        "duration": 60
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "深圳控股",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2024-03-26"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "436781",
@@ -10964,121 +10964,6 @@
     "special_companies": ""
   },
   {
-    "uid": "589134",
-    "name": "李艾莼",
-    "org_name": "西南证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "分析师",
-    "department": "研究发展中心",
-    "last_interaction_time": "2025-08-26 09:59:51",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金茂服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "金茂服务（0816.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-26",
-        "meet_title": "金茂服务（0816.HK）2025年中期业绩发布会",
-        "duration": 61
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "合景悠活",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "新鸿基公司",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "美的置业",
-        "time": "2025-08-18"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "496065",
     "name": "钟志斌",
     "org_name": "北京泽淳永联投资管理有限公司",
@@ -11254,6 +11139,121 @@
       }
     ],
     "special_companies": "保利物业,合景悠活,国证国际证券(香港)研究所,宝龙商业,建业新生活,捷利交易宝,新希望服务,滨江服务,碧桂园服务,绿城服务"
+  },
+  {
+    "uid": "589134",
+    "name": "李艾莼",
+    "org_name": "西南证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析师",
+    "department": "研究发展中心",
+    "last_interaction_time": "2025-08-26 09:59:51",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金茂服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "金茂服务（0816.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-26",
+        "meet_title": "金茂服务（0816.HK）2025年中期业绩发布会",
+        "duration": 61
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "美的置业",
+        "time": "2025-08-18"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "335275",
@@ -48200,53 +48200,6 @@
     "special_companies": "保利置业集团"
   },
   {
-    "uid": "438541",
-    "name": "王栋",
-    "org_name": "香港上海汇丰银行有限公司",
-    "org_type": "境外银行",
-    "cert_type": "机构投资者",
-    "position": "房地产业务亚太区研究",
-    "department": "环球研究",
-    "last_interaction_time": "2023-03-24 17:15:58",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金茂服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-20",
-        "meet_title": "金茂服务（0816.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-24",
-        "meet_title": "金茂服务（0816.HK）2022年度业绩发布会",
-        "duration": 64
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中海物业",
-        "time": "2026-03-26"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "保利物业",
-        "time": "2023-08-23"
-      }
-    ],
-    "special_companies": "中国海外宏洋集团,保利物业,建发国际集团,碧桂园服务,绿城中国,绿城管理控股,融创服务"
-  },
-  {
     "uid": "434693",
     "name": "李佳璠",
     "org_name": "中国国际金融股份有限公司",
@@ -48304,6 +48257,53 @@
       }
     ],
     "special_companies": "保利物业"
+  },
+  {
+    "uid": "438541",
+    "name": "王栋",
+    "org_name": "香港上海汇丰银行有限公司",
+    "org_type": "境外银行",
+    "cert_type": "机构投资者",
+    "position": "房地产业务亚太区研究",
+    "department": "环球研究",
+    "last_interaction_time": "2023-03-24 17:15:58",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金茂服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-20",
+        "meet_title": "金茂服务（0816.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-24",
+        "meet_title": "金茂服务（0816.HK）2022年度业绩发布会",
+        "duration": 64
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中海物业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "保利物业",
+        "time": "2023-08-23"
+      }
+    ],
+    "special_companies": "中国海外宏洋集团,保利物业,建发国际集团,碧桂园服务,绿城中国,绿城管理控股,融创服务"
   },
   {
     "uid": "506735",
@@ -48498,6 +48498,36 @@
     "special_companies": "金茂服务"
   },
   {
+    "uid": "503157",
+    "name": "孙静",
+    "org_name": "金茂物业服务发展股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "品牌公关高级经理",
+    "department": "",
+    "last_interaction_time": "2023-03-24 17:15:36",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金茂服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-20",
+        "meet_title": "金茂服务（0816.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-24",
+        "meet_title": "金茂服务（0816.HK）2022年度业绩发布会",
+        "duration": 63
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "503129",
     "name": "谢萌",
     "org_name": "中和资本",
@@ -48530,36 +48560,6 @@
         "time": "2024-09-14"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "503157",
-    "name": "孙静",
-    "org_name": "金茂物业服务发展股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "品牌公关高级经理",
-    "department": "",
-    "last_interaction_time": "2023-03-24 17:15:36",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金茂服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-20",
-        "meet_title": "金茂服务（0816.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-24",
-        "meet_title": "金茂服务（0816.HK）2022年度业绩发布会",
-        "duration": 63
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {

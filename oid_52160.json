@@ -11899,36 +11899,6 @@
     "special_companies": "心玮医疗"
   },
   {
-    "uid": "32954",
-    "name": "Tony ding",
-    "org_name": "清池资本(香港)有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Managing Director  Assistant",
-    "department": "",
-    "last_interaction_time": "2025-09-01 09:29:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "心玮医疗",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-31",
-        "meet_title": "心玮医疗（6609.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-09-01",
-        "meet_title": "心玮医疗（6609.HK）2025年中期业绩发布会",
-        "duration": 71
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "334483",
     "name": "张雪",
     "org_name": "川财证券有限责任公司研究所",
@@ -11961,6 +11931,36 @@
         "time": "2025-09-01"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "32954",
+    "name": "Tony ding",
+    "org_name": "清池资本(香港)有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Managing Director  Assistant",
+    "department": "",
+    "last_interaction_time": "2025-09-01 09:29:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "心玮医疗",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-31",
+        "meet_title": "心玮医疗（6609.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-09-01",
+        "meet_title": "心玮医疗（6609.HK）2025年中期业绩发布会",
+        "duration": 71
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -20971,50 +20971,6 @@
     "special_companies": ""
   },
   {
-    "uid": "581591",
-    "name": "Anita Lou",
-    "org_name": "SAGE Partners Funds",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Analyst",
-    "department": "",
-    "last_interaction_time": "2024-09-02 13:29:10",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "心玮医疗",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-08-30",
-        "meet_title": "心玮医疗（6609.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "心玮医疗（06609.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-09-02",
-        "meet_title": "心玮医疗（6609.HK）2024年中期业绩发布会",
-        "duration": 57
-      },
-      {
-        "time": "2024-03-29",
-        "meet_title": "心玮医疗（06609.HK）2023年度业绩发布会",
-        "duration": 59
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "华安医药",
-        "time": "2024-05-16"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "440925",
     "name": "钱枫琳",
     "org_name": "苏州铧皓投资管理有限公司",
@@ -21077,6 +21033,50 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "581591",
+    "name": "Anita Lou",
+    "org_name": "SAGE Partners Funds",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Analyst",
+    "department": "",
+    "last_interaction_time": "2024-09-02 13:29:10",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "心玮医疗",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-08-30",
+        "meet_title": "心玮医疗（6609.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "心玮医疗（06609.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-09-02",
+        "meet_title": "心玮医疗（6609.HK）2024年中期业绩发布会",
+        "duration": 57
+      },
+      {
+        "time": "2024-03-29",
+        "meet_title": "心玮医疗（06609.HK）2023年度业绩发布会",
+        "duration": 59
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华安医药",
+        "time": "2024-05-16"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -23771,6 +23771,30 @@
     "special_companies": ""
   },
   {
+    "uid": "608966",
+    "name": "彭晴",
+    "org_name": "湖南源乘私募基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投研助理",
+    "department": "",
+    "last_interaction_time": "2024-03-29 09:02:39",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "心玮医疗",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "心玮医疗（06609.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "427084",
     "name": "张杰",
     "org_name": "静瑞私募基金管理(上海)有限公司",
@@ -23809,30 +23833,6 @@
       }
     ],
     "special_companies": "锦欣生殖"
-  },
-  {
-    "uid": "608966",
-    "name": "彭晴",
-    "org_name": "湖南源乘私募基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投研助理",
-    "department": "",
-    "last_interaction_time": "2024-03-29 09:02:39",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "心玮医疗",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "心玮医疗（06609.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "579937",

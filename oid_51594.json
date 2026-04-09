@@ -1,5 +1,40 @@
 [
   {
+    "uid": "346442",
+    "name": "刘海旋",
+    "org_name": "思治企业咨询（北京）有限公司",
+    "org_type": "财务顾问机构",
+    "cert_type": "个人",
+    "position": "会计专员",
+    "department": "",
+    "last_interaction_time": "2026-04-09 15:55:14",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "思治企业咨询",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-12-17",
+        "meet_title": "【12月17日香港公司治理公会】第八十八期公司治理专业人士强化持续专业发展讲座暨董事、高管、公司秘书培训示范课程",
+        "duration": 3
+      },
+      {
+        "time": "2024-12-05",
+        "meet_title": "【香港公司治理公会】香港IPO辅导公开课程(第二期)（12月5日）",
+        "duration": 240
+      },
+      {
+        "time": "2024-12-05",
+        "meet_title": "【香港公司治理公会】香港IPO辅导公开课程(第二期)（12月5日）",
+        "duration": 240
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "581129",
     "name": "薛姗姗",
     "org_name": "锅圈食品(上海)股份有限公司",
@@ -8556,41 +8591,6 @@
       }
     ],
     "special_companies": "思治企业咨询"
-  },
-  {
-    "uid": "346442",
-    "name": "刘海旋",
-    "org_name": "思治企业咨询（北京）有限公司",
-    "org_type": "财务顾问机构",
-    "cert_type": "个人",
-    "position": "会计专员",
-    "department": "",
-    "last_interaction_time": "2025-12-17 10:46:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "思治企业咨询",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-12-17",
-        "meet_title": "【12月17日香港公司治理公会】第八十八期公司治理专业人士强化持续专业发展讲座暨董事、高管、公司秘书培训示范课程",
-        "duration": 3
-      },
-      {
-        "time": "2024-12-05",
-        "meet_title": "【香港公司治理公会】香港IPO辅导公开课程(第二期)（12月5日）",
-        "duration": 240
-      },
-      {
-        "time": "2024-12-05",
-        "meet_title": "【香港公司治理公会】香港IPO辅导公开课程(第二期)（12月5日）",
-        "duration": 240
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "426292",

@@ -1551,6 +1551,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
         "company": "中信股份",
         "time": "2026-04-08"
       },
@@ -11091,6 +11095,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
         "company": "舜宇光学科技",
         "time": "2026-03-30"
       },
@@ -14863,6 +14871,43 @@
     "special_companies": ""
   },
   {
+    "uid": "494874",
+    "name": "赵瑞瑶",
+    "org_name": "海通国际证券集团有限公司",
+    "org_type": "证券公司",
+    "cert_type": "服务机构",
+    "position": "Assistant Analyst",
+    "department": "Corporate Finance 企业融资部",
+    "last_interaction_time": "2025-08-21 17:00:59",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "名创优品",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "名创优品（09896.HK，MNSO.US）2025年第二季度业绩电话会"
+      },
+      {
+        "time": "2025-03-21",
+        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "名创优品",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-03-23"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "386348",
     "name": "吴典",
     "org_name": "国际金融报",
@@ -14936,43 +14981,6 @@
       }
     ],
     "special_companies": "华熙生物,卓越商企服务"
-  },
-  {
-    "uid": "494874",
-    "name": "赵瑞瑶",
-    "org_name": "海通国际证券集团有限公司",
-    "org_type": "证券公司",
-    "cert_type": "服务机构",
-    "position": "Assistant Analyst",
-    "department": "Corporate Finance 企业融资部",
-    "last_interaction_time": "2025-08-21 17:00:59",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "名创优品",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "名创优品（09896.HK，MNSO.US）2025年第二季度业绩电话会"
-      },
-      {
-        "time": "2025-03-21",
-        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "名创优品",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-03-23"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "283910",
@@ -32720,6 +32728,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
       {
         "company": "中煤能源",
         "time": "2026-04-01"

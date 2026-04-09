@@ -1,5 +1,901 @@
 [
   {
+    "uid": "9919",
+    "name": "李声农",
+    "org_name": "苏州龙远投资管理有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2026-04-09 22:18:47",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-09",
+        "meet_title": "中国船舶租赁（3877.HK）2025全年业绩发布会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国船舶租赁",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "稀美资源",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "中国财险",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "中国人保",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "兖州煤业",
+        "time": "2024-04-02"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "中集安瑞科",
+        "time": "2023-10-24"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2023-08-08"
+      },
+      {
+        "company": "华虹公司",
+        "time": "2023-08-08"
+      },
+      {
+        "company": "中国联通",
+        "time": "2023-08-08"
+      },
+      {
+        "company": "中国电信",
+        "time": "2023-08-08"
+      }
+    ],
+    "special_companies": "中国民航信息网络,中国电信,中国联通,中集安瑞科,联邦制药"
+  },
+  {
+    "uid": "440479",
+    "name": "Sisley Guan",
+    "org_name": "Guangzhou Xinyu Properties Co., Ltd.",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "Manager-General",
+    "department": "",
+    "last_interaction_time": "2026-04-09 20:03:19",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-04-09",
+        "meet_title": "中国船舶租赁（3877.HK）2025全年业绩发布会"
+      },
+      {
+        "time": "2023-10-07",
+        "meet_title": "中国船舶租赁（3877.HK）2023年ESG专题业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-10-10",
+        "meet_title": "中国船舶租赁（3877.HK）2023年ESG专题业绩发布会",
+        "duration": 40
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国船舶租赁",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "香港中旅",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "友邦保险",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "摩根大通",
+        "time": "2026-01-13"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-01-13"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-27"
+      },
+      {
+        "company": "特斯拉",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "特斯拉",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "特斯拉",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2025-11-12"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2025-11-12"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2025-10-22"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-10-22"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2025-10-22"
+      },
+      {
+        "company": "农业银行",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "中国银行",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "中信银行",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "平安银行",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "美团-W",
+        "time": "2025-04-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "538845",
+    "name": "李志伟",
+    "org_name": "厦门骅逸永兴资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资总监",
+    "department": "",
+    "last_interaction_time": "2026-04-09 17:03:33",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 5,
+    "apply_records": [
+      {
+        "time": "2026-04-09",
+        "meet_title": "中国船舶租赁（3877.HK）2025全年业绩发布会"
+      },
+      {
+        "time": "2025-03-19",
+        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-19",
+        "meet_title": "中国船舶租赁（3877.HK）线上交流会｜从中国资本市场改革与发展逻辑来理解\"中特估\"的含义、定位与路径｜\"2023上市公司路演大会•第四季\""
+      },
+      {
+        "time": "2025-03-06",
+        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会"
+      },
+      {
+        "time": "2025-03-06",
+        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会"
+      }
+    ],
+    "attend_count": 5,
+    "attend_records": [
+      {
+        "time": "2025-08-13",
+        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-12",
+        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
+        "duration": 1
+      },
+      {
+        "time": "2025-08-12",
+        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-03-28",
+        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2025-03-19",
+        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会",
+        "duration": 43
+      },
+      {
+        "time": "2025-03-07",
+        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
+        "duration": 55
+      },
+      {
+        "time": "2025-03-06",
+        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
+        "duration": 44
+      },
+      {
+        "time": "2025-03-06",
+        "meet_title": "中国船舶租赁（03877.HK）2024年中期业绩发布会",
+        "duration": 70
+      },
+      {
+        "time": "2025-03-06",
+        "meet_title": "中国船舶租赁（03877.HK）2024年中期业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "平安银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中国太平保险控股",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-12-25"
+      },
+      {
+        "company": "美的集团",
+        "time": "2025-10-28"
+      },
+      {
+        "company": "伯克希尔-哈撒韦",
+        "time": "2025-06-18"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2025-06-09"
+      },
+      {
+        "company": "国银金租",
+        "time": "2025-04-22"
+      },
+      {
+        "company": "交通银行",
+        "time": "2025-04-21"
+      },
+      {
+        "company": "建设银行",
+        "time": "2025-03-31"
+      },
+      {
+        "company": "农业银行",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "工商银行",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "中国银行",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2025-03-06"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2024-11-11"
+      },
+      {
+        "company": "阳光保险集团股份有限公司",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "中国电信",
+        "time": "2024-08-14"
+      },
+      {
+        "company": "李宁",
+        "time": "2024-07-17"
+      },
+      {
+        "company": "周黑鸭",
+        "time": "2024-06-27"
+      },
+      {
+        "company": "361度",
+        "time": "2024-06-24"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2024-05-15"
+      },
+      {
+        "company": "波司登",
+        "time": "2024-04-18"
+      },
+      {
+        "company": "众安在线",
+        "time": "2024-04-10"
+      },
+      {
+        "company": "中石化冠德",
+        "time": "2024-04-10"
+      },
+      {
+        "company": "中国石油",
+        "time": "2024-04-09"
+      },
+      {
+        "company": "复星国际",
+        "time": "2024-04-09"
+      },
+      {
+        "company": "新华文轩",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "中国人保",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "蒙牛乳业",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "华润啤酒",
+        "time": "2024-03-25"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2023-11-27"
+      },
+      {
+        "company": "中国燃气",
+        "time": "2023-11-27"
+      },
+      {
+        "company": "中国海油",
+        "time": "2023-11-15"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2023-11-15"
+      },
+      {
+        "company": "安踏体育",
+        "time": "2023-11-06"
+      },
+      {
+        "company": "中国移动",
+        "time": "2023-09-06"
+      },
+      {
+        "company": "中信国际电讯",
+        "time": "2023-09-06"
+      },
+      {
+        "company": "新华保险",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "伊利股份",
+        "time": "2023-08-28"
+      },
+      {
+        "company": "洋河股份",
+        "time": "2023-08-28"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-08-27"
+      },
+      {
+        "company": "招商银行",
+        "time": "2023-08-24"
+      },
+      {
+        "company": "中国太保",
+        "time": "2023-08-24"
+      },
+      {
+        "company": "中国平安",
+        "time": "2023-08-24"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2023-08-24"
+      },
+      {
+        "company": "招商基金",
+        "time": "2023-08-24"
+      }
+    ],
+    "special_companies": "中国人保,中国人寿,中国太保,中国石油,众安在线,周黑鸭,呷哺呷哺,国银金租,招商银行,波司登,百果园集团"
+  },
+  {
+    "uid": "345519",
+    "name": "罗浩",
+    "org_name": "上海巴富罗投资管理中心(有限合伙)",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "董事长",
+    "department": "",
+    "last_interaction_time": "2026-04-09 17:02:39",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-04-09",
+        "meet_title": "中国船舶租赁（3877.HK）2025全年业绩发布会"
+      },
+      {
+        "time": "2025-09-15",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-09-17",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
+        "duration": 46
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国船舶租赁",
+        "time": "2025-09-15"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "591688",
+    "name": "赖文晖",
+    "org_name": "广州越秀资本控股集团股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "分析师",
+    "department": "战略管理部",
+    "last_interaction_time": "2026-04-09 17:00:18",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-04-09",
+        "meet_title": "中国船舶租赁（3877.HK）2025全年业绩发布会"
+      },
+      {
+        "time": "2025-09-08",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-09-18",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-09-17",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
+        "duration": 50
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中煤能源",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "协鑫科技",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "申万宏源",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "国银金租",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2026-03-12"
+      },
+      {
+        "company": "理想汽车-w",
+        "time": "2026-03-07"
+      },
+      {
+        "company": "蔚来",
+        "time": "2026-03-07"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2026-02-26"
+      },
+      {
+        "company": "摩根士丹利",
+        "time": "2026-01-16"
+      },
+      {
+        "company": "花旗",
+        "time": "2026-01-16"
+      },
+      {
+        "company": "高盛",
+        "time": "2026-01-16"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-11-14"
+      },
+      {
+        "company": "百度",
+        "time": "2025-11-14"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "麦当劳",
+        "time": "2025-11-05"
+      },
+      {
+        "company": "百胜中国",
+        "time": "2025-11-03"
+      },
+      {
+        "company": "联合健康",
+        "time": "2025-10-24"
+      },
+      {
+        "company": "联合租赁",
+        "time": "2025-10-24"
+      },
+      {
+        "company": "可口可乐",
+        "time": "2025-10-21"
+      },
+      {
+        "company": "苹果",
+        "time": "2025-10-17"
+      },
+      {
+        "company": "微软",
+        "time": "2025-10-17"
+      },
+      {
+        "company": "特斯拉",
+        "time": "2025-10-17"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2025-09-18"
+      },
+      {
+        "company": "万利",
+        "time": "2025-09-11"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2025-09-08"
+      },
+      {
+        "company": "中信证券",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "杭州银行",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "华润医药",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "浙商银行",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "交通银行",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "金风科技",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "英伟达",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "九方智投控股",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "复星国际",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "国泰君安国际",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "友邦保险",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "工业富联",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "美的集团",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "恒瑞医药",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "中国人保",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "中信银行",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "汇丰控股",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "农业银行",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "中国平安",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "建设银行",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "中国银行",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "招商银行",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "工商银行",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2025-08-05"
+      },
+      {
+        "company": null,
+        "time": "2025-08-05"
+      },
+      {
+        "company": "一德期货有限公司",
+        "time": "2025-08-05"
+      }
+    ],
+    "special_companies": "国银金租"
+  },
+  {
+    "uid": "502549",
+    "name": "Yunyan Sang",
+    "org_name": "Lexington Partners Asia Limited",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "Director",
+    "department": "",
+    "last_interaction_time": "2026-04-09 16:56:07",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-04-09",
+        "meet_title": "中国船舶租赁（3877.HK）2025全年业绩发布会"
+      },
+      {
+        "time": "2025-10-02",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-10-02",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
+        "duration": 29
+      },
+      {
+        "time": "2025-10-02",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
+        "duration": 9
+      },
+      {
+        "time": "2024-09-24",
+        "meet_title": "中国船舶租赁（03877.HK）2024年中期业绩发布会",
+        "duration": 29
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "美的置业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "招商银行",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-01-05"
+      },
+      {
+        "company": "百胜中国",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2025-10-02"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "433450",
     "name": "丁志豪",
     "org_name": "国泰君安证券股份有限公司",
@@ -343,6 +1239,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
       {
         "company": "中信股份",
         "time": "2026-04-08"
@@ -1616,75 +2516,6 @@
     "special_companies": "国证国际证券(香港)研究所,复星国际,英伟达"
   },
   {
-    "uid": "502549",
-    "name": "Yunyan Sang",
-    "org_name": "Lexington Partners Asia Limited",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "Director",
-    "department": "",
-    "last_interaction_time": "2025-10-02 13:49:34",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-10-02",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-10-02",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
-        "duration": 29
-      },
-      {
-        "time": "2025-10-02",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
-        "duration": 9
-      },
-      {
-        "time": "2024-09-24",
-        "meet_title": "中国船舶租赁（03877.HK）2024年中期业绩发布会",
-        "duration": 29
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "美的置业",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "招商银行",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2026-01-05"
-      },
-      {
-        "company": "百胜中国",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "中国船舶租赁",
-        "time": "2025-10-02"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "353185",
     "name": "赵巍华",
     "org_name": "远信投资",
@@ -1978,306 +2809,6 @@
     "special_companies": ""
   },
   {
-    "uid": "591688",
-    "name": "赖文晖",
-    "org_name": "广州越秀资本控股集团股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "分析师",
-    "department": "战略管理部",
-    "last_interaction_time": "2025-09-18 07:32:26",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-09-08",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-09-18",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-09-17",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
-        "duration": 50
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中煤能源",
-        "time": "2026-04-01"
-      },
-      {
-        "company": "中国通信服务",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "协鑫科技",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "申万宏源",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "贝壳",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "国银金租",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "万国数据服务",
-        "time": "2026-03-12"
-      },
-      {
-        "company": "理想汽车-w",
-        "time": "2026-03-07"
-      },
-      {
-        "company": "蔚来",
-        "time": "2026-03-07"
-      },
-      {
-        "company": "宏信建发",
-        "time": "2026-02-26"
-      },
-      {
-        "company": "摩根士丹利",
-        "time": "2026-01-16"
-      },
-      {
-        "company": "花旗",
-        "time": "2026-01-16"
-      },
-      {
-        "company": "高盛",
-        "time": "2026-01-16"
-      },
-      {
-        "company": "金山软件",
-        "time": "2025-11-14"
-      },
-      {
-        "company": "百度",
-        "time": "2025-11-14"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "麦当劳",
-        "time": "2025-11-05"
-      },
-      {
-        "company": "百胜中国",
-        "time": "2025-11-03"
-      },
-      {
-        "company": "联合健康",
-        "time": "2025-10-24"
-      },
-      {
-        "company": "联合租赁",
-        "time": "2025-10-24"
-      },
-      {
-        "company": "可口可乐",
-        "time": "2025-10-21"
-      },
-      {
-        "company": "苹果",
-        "time": "2025-10-17"
-      },
-      {
-        "company": "微软",
-        "time": "2025-10-17"
-      },
-      {
-        "company": "特斯拉",
-        "time": "2025-10-17"
-      },
-      {
-        "company": "新世界发展",
-        "time": "2025-09-18"
-      },
-      {
-        "company": "万利",
-        "time": "2025-09-11"
-      },
-      {
-        "company": "中国船舶租赁",
-        "time": "2025-09-08"
-      },
-      {
-        "company": "中信证券",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "杭州银行",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "华润医药",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "浙商银行",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "中国太保",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "交通银行",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "佛朗斯股份",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "金风科技",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "英伟达",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "九方智投控股",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "复星国际",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "国泰君安国际",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "友邦保险",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "富途控股",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "工业富联",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "美的集团",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "恒瑞医药",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "比亚迪",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "中国人保",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "中广核新能源",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "中信银行",
-        "time": "2025-08-11"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-08-11"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "汇丰控股",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "农业银行",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "中国平安",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "建设银行",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "中国银行",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "招商银行",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "工商银行",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2025-08-05"
-      },
-      {
-        "company": null,
-        "time": "2025-08-05"
-      },
-      {
-        "company": "一德期货有限公司",
-        "time": "2025-08-05"
-      }
-    ],
-    "special_companies": "国银金租"
-  },
-  {
     "uid": "637942",
     "name": "杨征宇",
     "org_name": "广东海际明律师事务所",
@@ -2310,41 +2841,6 @@
       {
         "company": "IGG INC",
         "time": "2025-08-28"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "345519",
-    "name": "罗浩",
-    "org_name": "上海巴富罗投资管理中心(有限合伙)",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "董事长",
-    "department": "",
-    "last_interaction_time": "2025-09-17 19:15:25",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-09-15",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-09-17",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
-        "duration": 46
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国船舶租赁",
-        "time": "2025-09-15"
       }
     ],
     "special_companies": ""
@@ -5862,6 +6358,36 @@
     "special_companies": ""
   },
   {
+    "uid": "632260",
+    "name": "黄梦可",
+    "org_name": "耕霁(上海)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资助理",
+    "department": "研究部",
+    "last_interaction_time": "2025-09-17 16:01:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-09-08",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-09-17",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "282847",
     "name": "马旭桢",
     "org_name": "上海龙全投资管理有限公司",
@@ -5961,36 +6487,6 @@
       }
     ],
     "special_companies": "万物云,宝龙商业"
-  },
-  {
-    "uid": "632260",
-    "name": "黄梦可",
-    "org_name": "耕霁(上海)投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资助理",
-    "department": "研究部",
-    "last_interaction_time": "2025-09-17 16:01:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-09-08",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-09-17",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "496270",
@@ -7533,274 +8029,6 @@
       }
     ],
     "special_companies": "万物云,碧桂园服务,美的置业"
-  },
-  {
-    "uid": "538845",
-    "name": "李志伟",
-    "org_name": "厦门骅逸永兴资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资总监",
-    "department": "",
-    "last_interaction_time": "2025-08-13 10:33:38",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2025-03-19",
-        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-19",
-        "meet_title": "中国船舶租赁（3877.HK）线上交流会｜从中国资本市场改革与发展逻辑来理解\"中特估\"的含义、定位与路径｜\"2023上市公司路演大会•第四季\""
-      },
-      {
-        "time": "2025-03-06",
-        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会"
-      },
-      {
-        "time": "2025-03-06",
-        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会"
-      }
-    ],
-    "attend_count": 5,
-    "attend_records": [
-      {
-        "time": "2025-08-13",
-        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-12",
-        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
-        "duration": 1
-      },
-      {
-        "time": "2025-08-12",
-        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-28",
-        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2025-03-19",
-        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会",
-        "duration": 43
-      },
-      {
-        "time": "2025-03-07",
-        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
-        "duration": 55
-      },
-      {
-        "time": "2025-03-06",
-        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
-        "duration": 44
-      },
-      {
-        "time": "2025-03-06",
-        "meet_title": "中国船舶租赁（03877.HK）2024年中期业绩发布会",
-        "duration": 70
-      },
-      {
-        "time": "2025-03-06",
-        "meet_title": "中国船舶租赁（03877.HK）2024年中期业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "平安银行",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "中国太平保险控股",
-        "time": "2026-03-26"
-      },
-      {
-        "company": "名创优品",
-        "time": "2025-12-25"
-      },
-      {
-        "company": "美的集团",
-        "time": "2025-10-28"
-      },
-      {
-        "company": "伯克希尔-哈撒韦",
-        "time": "2025-06-18"
-      },
-      {
-        "company": "中国有色矿业",
-        "time": "2025-06-09"
-      },
-      {
-        "company": "国银金租",
-        "time": "2025-04-22"
-      },
-      {
-        "company": "交通银行",
-        "time": "2025-04-21"
-      },
-      {
-        "company": "建设银行",
-        "time": "2025-03-31"
-      },
-      {
-        "company": "农业银行",
-        "time": "2025-03-19"
-      },
-      {
-        "company": "工商银行",
-        "time": "2025-03-19"
-      },
-      {
-        "company": "中国银行",
-        "time": "2025-03-19"
-      },
-      {
-        "company": "中国船舶租赁",
-        "time": "2025-03-06"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2024-11-11"
-      },
-      {
-        "company": "阳光保险集团股份有限公司",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "中国电信",
-        "time": "2024-08-14"
-      },
-      {
-        "company": "李宁",
-        "time": "2024-07-17"
-      },
-      {
-        "company": "周黑鸭",
-        "time": "2024-06-27"
-      },
-      {
-        "company": "361度",
-        "time": "2024-06-24"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2024-05-15"
-      },
-      {
-        "company": "波司登",
-        "time": "2024-04-18"
-      },
-      {
-        "company": "众安在线",
-        "time": "2024-04-10"
-      },
-      {
-        "company": "中石化冠德",
-        "time": "2024-04-10"
-      },
-      {
-        "company": "中国石油",
-        "time": "2024-04-09"
-      },
-      {
-        "company": "复星国际",
-        "time": "2024-04-09"
-      },
-      {
-        "company": "新华文轩",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "中国人保",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "蒙牛乳业",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "华润啤酒",
-        "time": "2024-03-25"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2023-11-27"
-      },
-      {
-        "company": "中国燃气",
-        "time": "2023-11-27"
-      },
-      {
-        "company": "中国海油",
-        "time": "2023-11-15"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2023-11-15"
-      },
-      {
-        "company": "安踏体育",
-        "time": "2023-11-06"
-      },
-      {
-        "company": "中国移动",
-        "time": "2023-09-06"
-      },
-      {
-        "company": "中信国际电讯",
-        "time": "2023-09-06"
-      },
-      {
-        "company": "新华保险",
-        "time": "2023-08-30"
-      },
-      {
-        "company": "伊利股份",
-        "time": "2023-08-28"
-      },
-      {
-        "company": "洋河股份",
-        "time": "2023-08-28"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-08-27"
-      },
-      {
-        "company": "招商银行",
-        "time": "2023-08-24"
-      },
-      {
-        "company": "中国太保",
-        "time": "2023-08-24"
-      },
-      {
-        "company": "中国平安",
-        "time": "2023-08-24"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2023-08-24"
-      },
-      {
-        "company": "招商基金",
-        "time": "2023-08-24"
-      }
-    ],
-    "special_companies": "中国人保,中国人寿,中国太保,中国石油,众安在线,周黑鸭,呷哺呷哺,国银金租,招商银行,波司登,百果园集团"
   },
   {
     "uid": "580690",
@@ -13191,6 +13419,69 @@
     "special_companies": ""
   },
   {
+    "uid": "336814",
+    "name": "欧阳建平",
+    "org_name": "西南证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "个人",
+    "position": "业务经理",
+    "department": "",
+    "last_interaction_time": "2025-03-28 14:29:53",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-28",
+        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
+        "duration": 43
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "国银金租",
+        "time": "2025-04-27"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2025-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "581383",
     "name": "王会晋",
     "org_name": "大华继显私人有限公司",
@@ -13314,69 +13605,6 @@
       }
     ],
     "special_companies": "万物云,中国动向,中石化冠德,中集集团,信義玻璃,协合新能源,小米集团-W,康哲药业,百果园集团,百融智能,美的置业,联邦制药,药师帮,贝康医疗,金风科技,雅生活服务"
-  },
-  {
-    "uid": "336814",
-    "name": "欧阳建平",
-    "org_name": "西南证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "个人",
-    "position": "业务经理",
-    "department": "",
-    "last_interaction_time": "2025-03-28 14:29:53",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-28",
-        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
-        "duration": 43
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "贝壳",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "国银金租",
-        "time": "2025-04-27"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-03-26"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2025-03-25"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "632889",
@@ -30400,45 +30628,6 @@
     "special_companies": "中国船舶租赁,保利物业,美的置业"
   },
   {
-    "uid": "503939",
-    "name": "郑爽",
-    "org_name": "惠誉（北京）信用评级有限公司上海分公司",
-    "org_type": "评级服务机构",
-    "cert_type": "个人",
-    "position": "高级分析师",
-    "department": "非银金融机构评级",
-    "last_interaction_time": "2024-03-27 16:01:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-25",
-        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会"
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
-        "duration": 85
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会",
-        "duration": 71
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "272826",
     "name": "丁璨",
     "org_name": "辰杉资管",
@@ -30480,6 +30669,45 @@
         "time": "2023-05-10"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "503939",
+    "name": "郑爽",
+    "org_name": "惠誉（北京）信用评级有限公司上海分公司",
+    "org_type": "评级服务机构",
+    "cert_type": "个人",
+    "position": "高级分析师",
+    "department": "非银金融机构评级",
+    "last_interaction_time": "2024-03-27 16:01:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-25",
+        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会"
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
+        "duration": 85
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会",
+        "duration": 71
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -33889,125 +34117,6 @@
     "special_companies": ""
   },
   {
-    "uid": "440479",
-    "name": "Sisley Guan",
-    "org_name": "Guangzhou Xinyu Properties Co., Ltd.",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "Manager-General",
-    "department": "",
-    "last_interaction_time": "2023-10-10 15:39:02",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-10-07",
-        "meet_title": "中国船舶租赁（3877.HK）2023年ESG专题业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-10-10",
-        "meet_title": "中国船舶租赁（3877.HK）2023年ESG专题业绩发布会",
-        "duration": 40
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中集集团",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "香港中旅",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "友邦保险",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "摩根大通",
-        "time": "2026-01-13"
-      },
-      {
-        "company": "台积电",
-        "time": "2026-01-13"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-11-27"
-      },
-      {
-        "company": "特斯拉",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "特斯拉",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "特斯拉",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "携程集团-S",
-        "time": "2025-11-12"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2025-11-12"
-      },
-      {
-        "company": "新鸿基公司",
-        "time": "2025-10-22"
-      },
-      {
-        "company": "中国太保",
-        "time": "2025-10-22"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2025-10-22"
-      },
-      {
-        "company": "农业银行",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "中国银行",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "中信银行",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "平安银行",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "美团-W",
-        "time": "2025-04-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "503144",
     "name": "张君",
     "org_name": "武汉路特斯科技有限公司",
@@ -34270,6 +34379,36 @@
     "special_companies": "中原建业,中石化冠德,中飞租赁,协鑫科技"
   },
   {
+    "uid": "584115",
+    "name": "SAMANTHA WANG",
+    "org_name": "Citigate Dewe Rogerson",
+    "org_type": "财经公关服务",
+    "cert_type": "个人",
+    "position": "ASSOCIATE DIRECTOR",
+    "department": "",
+    "last_interaction_time": "2023-10-10 14:12:29",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-09-28",
+        "meet_title": "中国船舶租赁（3877.HK）2023年ESG专题业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-10-10",
+        "meet_title": "中国船舶租赁（3877.HK）2023年ESG专题业绩发布会",
+        "duration": 146
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "574081",
     "name": "邓升亮",
     "org_name": "东莞证券股份有限公司",
@@ -34375,36 +34514,6 @@
       }
     ],
     "special_companies": "九毛九,呷哺呷哺,国证国际证券(香港)研究所,路演中"
-  },
-  {
-    "uid": "584115",
-    "name": "SAMANTHA WANG",
-    "org_name": "Citigate Dewe Rogerson",
-    "org_type": "财经公关服务",
-    "cert_type": "个人",
-    "position": "ASSOCIATE DIRECTOR",
-    "department": "",
-    "last_interaction_time": "2023-10-10 14:12:29",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-09-28",
-        "meet_title": "中国船舶租赁（3877.HK）2023年ESG专题业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-10-10",
-        "meet_title": "中国船舶租赁（3877.HK）2023年ESG专题业绩发布会",
-        "duration": 146
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "339807",
