@@ -1,5 +1,83 @@
 [
   {
+    "uid": "637644",
+    "name": "尚满义",
+    "org_name": "宁夏东方钽业股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "投关专员",
+    "department": "证券部",
+    "last_interaction_time": "2026-04-10 17:17:34",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "稀美资源",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "稀美资源控股有限公司（9936.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-09-19",
+        "meet_title": "稀美资源（09936.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2025-08-26",
+        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-03-28",
+        "meet_title": "稀美资源（09936.HK）2024年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2026-03-27",
+        "meet_title": "稀美资源控股有限公司（9936.HK）2025年度业绩发布会",
+        "duration": 22
+      },
+      {
+        "time": "2026-03-26",
+        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2026-01-28",
+        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-11-04",
+        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-10-16",
+        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会",
+        "duration": 17
+      },
+      {
+        "time": "2025-09-19",
+        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2025-09-13",
+        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "稀美资源",
+        "time": "2025-08-26"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "337430",
     "name": "郭其伟",
     "org_name": "华福证券有限责任公司",
@@ -243,84 +321,6 @@
       }
     ],
     "special_companies": "中国民航信息网络,中国电信,中国联通,中集安瑞科,联邦制药"
-  },
-  {
-    "uid": "637644",
-    "name": "尚满义",
-    "org_name": "宁夏东方钽业股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "投关专员",
-    "department": "证券部",
-    "last_interaction_time": "2026-03-30 09:20:43",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "稀美资源",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-23",
-        "meet_title": "稀美资源控股有限公司（9936.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-09-19",
-        "meet_title": "稀美资源（09936.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2025-08-26",
-        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-03-28",
-        "meet_title": "稀美资源（09936.HK）2024年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2026-03-27",
-        "meet_title": "稀美资源控股有限公司（9936.HK）2025年度业绩发布会",
-        "duration": 22
-      },
-      {
-        "time": "2026-03-26",
-        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2026-01-28",
-        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-11-04",
-        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-10-16",
-        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会",
-        "duration": 17
-      },
-      {
-        "time": "2025-09-19",
-        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2025-09-13",
-        "meet_title": "稀美资源（09936.HK）2025年中期业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "稀美资源",
-        "time": "2025-08-26"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "573713",

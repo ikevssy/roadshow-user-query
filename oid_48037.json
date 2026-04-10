@@ -15411,6 +15411,46 @@
     "special_companies": ""
   },
   {
+    "uid": "607362",
+    "name": "鲁仁浩",
+    "org_name": "知新资产管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2025-08-27 10:28:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "卓越商企服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-26",
+        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-27",
+        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
+        "duration": 56
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-26"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "581468",
     "name": "郭俊炜",
     "org_name": "方圆天成资产管理（深圳）有限公司",
@@ -15466,46 +15506,6 @@
       }
     ],
     "special_companies": "世茂服务"
-  },
-  {
-    "uid": "607362",
-    "name": "鲁仁浩",
-    "org_name": "知新资产管理有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "",
-    "last_interaction_time": "2025-08-27 10:28:03",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "卓越商企服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-26",
-        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-27",
-        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-26"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "272707",
@@ -18527,6 +18527,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国海外发展",
+        "time": "2026-04-10"
+      },
       {
         "company": "绿城中国",
         "time": "2023-08-28"
@@ -31432,55 +31436,6 @@
     "special_companies": "金茂服务"
   },
   {
-    "uid": "341373",
-    "name": "张增艳",
-    "org_name": "中国互联网新闻中心",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "记者",
-    "department": "财经中心",
-    "last_interaction_time": "2024-08-29 10:29:46",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "卓越商企服务",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2024-08-29",
-        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会",
-        "duration": 62
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会",
-        "duration": 68
-      },
-      {
-        "time": "2023-08-30",
-        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩媒体发布会",
-        "duration": 39
-      },
-      {
-        "time": "2023-03-28",
-        "meet_title": "卓越商企服务（6989.HK）2022年度业绩媒体发布会",
-        "duration": 51
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "卓越商企服务",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-03-22"
-      }
-    ],
-    "special_companies": "万物云"
-  },
-  {
     "uid": "585838",
     "name": "武非凡",
     "org_name": "深圳市路演中网络科技有限公司",
@@ -31552,6 +31507,55 @@
       }
     ],
     "special_companies": "中国人寿,中国电信,亿胜生物科技,康臣药业,心玮医疗,思路迪医药股份,玄武云,药师帮,路演中,远东发展,金风科技"
+  },
+  {
+    "uid": "341373",
+    "name": "张增艳",
+    "org_name": "中国互联网新闻中心",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "记者",
+    "department": "财经中心",
+    "last_interaction_time": "2024-08-29 10:29:46",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "卓越商企服务",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2024-08-29",
+        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会",
+        "duration": 62
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会",
+        "duration": 68
+      },
+      {
+        "time": "2023-08-30",
+        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩媒体发布会",
+        "duration": 39
+      },
+      {
+        "time": "2023-03-28",
+        "meet_title": "卓越商企服务（6989.HK）2022年度业绩媒体发布会",
+        "duration": 51
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "卓越商企服务",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-03-22"
+      }
+    ],
+    "special_companies": "万物云"
   },
   {
     "uid": "346874",
@@ -43279,6 +43283,36 @@
     "special_companies": "保利物业,卓越商企服务,合景悠活,宝龙商业,新城悦服务,碧桂园服务,绿城服务,绿城管理控股,金科服务,雅生活服务"
   },
   {
+    "uid": "582035",
+    "name": "季弈文",
+    "org_name": "中泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "房地产分析师",
+    "department": "研究所",
+    "last_interaction_time": "2023-08-30 11:30:30",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "卓越商企服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-27",
+        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-30",
+        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "卓越商企服务"
+  },
+  {
     "uid": "352594",
     "name": "李志坚",
     "org_name": "青岛素本投资管理有限公司",
@@ -43316,36 +43350,6 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "582035",
-    "name": "季弈文",
-    "org_name": "中泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "房地产分析师",
-    "department": "研究所",
-    "last_interaction_time": "2023-08-30 11:30:30",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "卓越商企服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-27",
-        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-30",
-        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "卓越商企服务"
   },
   {
     "uid": "333226",

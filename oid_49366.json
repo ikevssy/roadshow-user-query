@@ -1,5 +1,78 @@
 [
   {
+    "uid": "644779",
+    "name": "于不清",
+    "org_name": "君伦石油有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "首席技术执行官",
+    "department": "技术部",
+    "last_interaction_time": "2026-04-10 12:20:07",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "新希望服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-10",
+        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "新希望服务",
+        "time": "2026-04-10"
+      },
+      {
+        "company": "百融智能",
+        "time": "2026-04-10"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-04-03"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "美光科技",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "吉利汽车",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "宁德时代",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "英伟达",
+        "time": "2026-02-26"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2026-02-11"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "434461",
     "name": "戚巧云",
     "org_name": "中国中金财富证券有限公司",
@@ -6483,49 +6556,6 @@
     "special_companies": ""
   },
   {
-    "uid": "573427",
-    "name": "刘凌霄",
-    "org_name": "金融公关(香港)有限公司",
-    "org_type": "财经公关服务",
-    "cert_type": "服务机构",
-    "position": "高级客户主任",
-    "department": "",
-    "last_interaction_time": "2026-03-31 16:00:51",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新希望服务",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-18",
-        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-12-15",
-        "meet_title": "新希望服务（3658.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "新希望服务（3658.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会",
-        "duration": 45
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "新希望服务（3658.HK）2024年度业绩发布会",
-        "duration": 59
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "16501",
     "name": "李昊原",
     "org_name": "中国银河证券股份有限公司",
@@ -6570,38 +6600,46 @@
     "special_companies": ""
   },
   {
-    "uid": "645632",
-    "name": "李哲",
-    "org_name": "贝壳找房科技有限公司",
-    "org_type": "一般企业",
-    "cert_type": "机构投资者",
-    "position": "投资vp",
-    "department": "投资管理中心",
-    "last_interaction_time": "2026-03-31 16:00:45",
-    "last_interaction_behavior": "订阅",
+    "uid": "573427",
+    "name": "刘凌霄",
+    "org_name": "金融公关(香港)有限公司",
+    "org_type": "财经公关服务",
+    "cert_type": "服务机构",
+    "position": "高级客户主任",
+    "department": "",
+    "last_interaction_time": "2026-03-31 16:00:51",
+    "last_interaction_behavior": "参会",
     "interaction_company": "新希望服务",
-    "apply_count": 1,
+    "apply_count": 3,
     "apply_records": [
       {
-        "time": "2026-03-31",
+        "time": "2026-03-18",
         "meet_title": "新希望服务（3658.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-12-15",
+        "meet_title": "新希望服务（3658.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "新希望服务（3658.HK）2024年度业绩发布会"
       }
     ],
-    "attend_count": 1,
+    "attend_count": 2,
     "attend_records": [
       {
         "time": "2026-03-31",
         "meet_title": "新希望服务（3658.HK）2025年度业绩发布会",
-        "duration": 54
+        "duration": 45
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "新希望服务（3658.HK）2024年度业绩发布会",
+        "duration": 59
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "新希望服务",
-        "time": "2026-03-31"
-      }
-    ],
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -6782,6 +6820,41 @@
       }
     ],
     "special_companies": "万物云,中南建设,保利物业,卓越商企服务,宝龙商业,建业新生活,建发国际集团,招商局商业房托,新城悦服务,新城控股,深圳控股,绿城中国,绿城服务,美的置业,金科服务"
+  },
+  {
+    "uid": "645632",
+    "name": "李哲",
+    "org_name": "贝壳找房科技有限公司",
+    "org_type": "一般企业",
+    "cert_type": "机构投资者",
+    "position": "投资vp",
+    "department": "投资管理中心",
+    "last_interaction_time": "2026-03-31 16:00:45",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "新希望服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "新希望服务",
+        "time": "2026-03-31"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "348953",
@@ -8248,6 +8321,122 @@
     "special_companies": "众安集团,合景悠活,新城悦服务,新希望服务,星盛商业,永升服务,滨江服务,碧桂园服务,金科服务"
   },
   {
+    "uid": "281961",
+    "name": "James Yan",
+    "org_name": "方瀛研究與投資（香港）有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Equity Research Associate",
+    "department": "",
+    "last_interaction_time": "2026-03-31 16:00:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新希望服务",
+    "apply_count": 9,
+    "apply_records": [
+      {
+        "time": "2026-03-17",
+        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-21",
+        "meet_title": "新希望服务（3658.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-17",
+        "meet_title": "新希望服务（3658.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-22",
+        "meet_title": "新希望服务（3658.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-18",
+        "meet_title": "新希望服务（3658.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-10-24",
+        "meet_title": "新希望服务（03658.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
+      },
+      {
+        "time": "2023-08-18",
+        "meet_title": "新希望服务（3658.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-06-08",
+        "meet_title": "新希望服务（03658.HK）线上交流会｜\"2023上市公司路演大会•第四季\""
+      },
+      {
+        "time": "2023-03-16",
+        "meet_title": "新希望服务（3658.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 8,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会",
+        "duration": 62
+      },
+      {
+        "time": "2025-08-29",
+        "meet_title": "新希望服务（3658.HK）2025年中期业绩发布会",
+        "duration": 59
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "新希望服务（3658.HK）2024年度业绩发布会",
+        "duration": 58
+      },
+      {
+        "time": "2024-08-27",
+        "meet_title": "新希望服务（3658.HK）2024年中期业绩发布会",
+        "duration": 3
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "新希望服务（3658.HK）2023年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "新希望服务（3658.HK）2023年度业绩发布会",
+        "duration": 61
+      },
+      {
+        "time": "2023-10-25",
+        "meet_title": "新希望服务（03658.HK）线上交流会｜\"2023上市公司路演大会•第五季\"",
+        "duration": 44
+      },
+      {
+        "time": "2023-09-05",
+        "meet_title": "新希望服务（3658.HK）2023年中期业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2023-08-29",
+        "meet_title": "新希望服务（3658.HK）2023年中期业绩发布会",
+        "duration": 61
+      },
+      {
+        "time": "2023-03-23",
+        "meet_title": "新希望服务（3658.HK）2022年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "百融智能",
+        "time": "2023-03-23"
+      }
+    ],
+    "special_companies": "呷哺呷哺,新希望服务,百融智能"
+  },
+  {
     "uid": "492464",
     "name": "张苗",
     "org_name": "招银国际证券有限公司",
@@ -8473,122 +8662,6 @@
       }
     ],
     "special_companies": "万物云,中南建设,中国交通建设集团有限公司,信義玻璃,招商蛇口,星盛商业,绿城中国,绿城管理控股,美丽田园,远东宏信"
-  },
-  {
-    "uid": "281961",
-    "name": "James Yan",
-    "org_name": "方瀛研究與投資（香港）有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Equity Research Associate",
-    "department": "",
-    "last_interaction_time": "2026-03-31 16:00:07",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新希望服务",
-    "apply_count": 9,
-    "apply_records": [
-      {
-        "time": "2026-03-17",
-        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-21",
-        "meet_title": "新希望服务（3658.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-17",
-        "meet_title": "新希望服务（3658.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-22",
-        "meet_title": "新希望服务（3658.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-18",
-        "meet_title": "新希望服务（3658.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-10-24",
-        "meet_title": "新希望服务（03658.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
-      },
-      {
-        "time": "2023-08-18",
-        "meet_title": "新希望服务（3658.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-06-08",
-        "meet_title": "新希望服务（03658.HK）线上交流会｜\"2023上市公司路演大会•第四季\""
-      },
-      {
-        "time": "2023-03-16",
-        "meet_title": "新希望服务（3658.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 8,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会",
-        "duration": 62
-      },
-      {
-        "time": "2025-08-29",
-        "meet_title": "新希望服务（3658.HK）2025年中期业绩发布会",
-        "duration": 59
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "新希望服务（3658.HK）2024年度业绩发布会",
-        "duration": 58
-      },
-      {
-        "time": "2024-08-27",
-        "meet_title": "新希望服务（3658.HK）2024年中期业绩发布会",
-        "duration": 3
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "新希望服务（3658.HK）2023年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "新希望服务（3658.HK）2023年度业绩发布会",
-        "duration": 61
-      },
-      {
-        "time": "2023-10-25",
-        "meet_title": "新希望服务（03658.HK）线上交流会｜\"2023上市公司路演大会•第五季\"",
-        "duration": 44
-      },
-      {
-        "time": "2023-09-05",
-        "meet_title": "新希望服务（3658.HK）2023年中期业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2023-08-29",
-        "meet_title": "新希望服务（3658.HK）2023年中期业绩发布会",
-        "duration": 61
-      },
-      {
-        "time": "2023-03-23",
-        "meet_title": "新希望服务（3658.HK）2022年度业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-03-28"
-      },
-      {
-        "company": "百融智能",
-        "time": "2023-03-23"
-      }
-    ],
-    "special_companies": "呷哺呷哺,新希望服务,百融智能"
   },
   {
     "uid": "264985",
@@ -8869,45 +8942,6 @@
     "special_companies": ""
   },
   {
-    "uid": "349366",
-    "name": "莫璟",
-    "org_name": "广州观点信息资讯服务有限公司",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "《观点》编辑",
-    "department": "编辑部",
-    "last_interaction_time": "2026-03-31 16:00:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新希望服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "新希望服务",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2026-03-22"
-      }
-    ],
-    "special_companies": "新希望服务"
-  },
-  {
     "uid": "333396",
     "name": "王婷婷",
     "org_name": "凤凰网",
@@ -9008,6 +9042,45 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "349366",
+    "name": "莫璟",
+    "org_name": "广州观点信息资讯服务有限公司",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "《观点》编辑",
+    "department": "编辑部",
+    "last_interaction_time": "2026-03-31 16:00:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新希望服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "新希望服务",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2026-03-22"
+      }
+    ],
+    "special_companies": "新希望服务"
   },
   {
     "uid": "498962",
@@ -11189,6 +11262,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国海外发展",
+        "time": "2026-04-10"
+      },
       {
         "company": "绿城中国",
         "time": "2023-08-28"

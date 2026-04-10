@@ -32160,41 +32160,6 @@
     "special_companies": ""
   },
   {
-    "uid": "582120",
-    "name": "韩斌",
-    "org_name": "深圳市百果园投资发展有限公司",
-    "org_type": "实业投资",
-    "cert_type": "个人",
-    "position": "投资经理",
-    "department": "",
-    "last_interaction_time": "2023-08-22 10:30:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "百果园集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-18",
-        "meet_title": "百果园（02411.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "百果园（02411.HK）2023年中期业绩发布会",
-        "duration": 30
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "百果园集团",
-        "time": "2023-08-18"
-      }
-    ],
-    "special_companies": "百果园集团"
-  },
-  {
     "uid": "338313",
     "name": "彭建岗",
     "org_name": "深圳市可林卓特电子有限公司",
@@ -32260,6 +32225,41 @@
       }
     ],
     "special_companies": "中国太保,中广核新能源,众安在线,康哲药业,招商蛇口,新希望服务"
+  },
+  {
+    "uid": "582120",
+    "name": "韩斌",
+    "org_name": "深圳市百果园投资发展有限公司",
+    "org_type": "实业投资",
+    "cert_type": "个人",
+    "position": "投资经理",
+    "department": "",
+    "last_interaction_time": "2023-08-22 10:30:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "百果园集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-18",
+        "meet_title": "百果园（02411.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "百果园（02411.HK）2023年中期业绩发布会",
+        "duration": 30
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "百果园集团",
+        "time": "2023-08-18"
+      }
+    ],
+    "special_companies": "百果园集团"
   },
   {
     "uid": "344797",
