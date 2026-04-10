@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-04-10 20:34:30",
+  "update_time": "2026-04-11 01:35:02",
   "companies_count": 52619,
   "data_start_time": "2023-01-01",
   "synced_companies": 2154,
@@ -1564,16 +1564,16 @@
       "release_batch": 1
     },
     {
-      "oid": 3895,
-      "cn_short_name": "微软",
-      "filename": "oid_3895.json",
+      "oid": 4857,
+      "cn_short_name": "华安基金",
+      "filename": "oid_4857.json",
       "user_count": 148,
       "release_batch": 1
     },
     {
-      "oid": 4857,
-      "cn_short_name": "华安基金",
-      "filename": "oid_4857.json",
+      "oid": 3895,
+      "cn_short_name": "微软",
+      "filename": "oid_3895.json",
       "user_count": 148,
       "release_batch": 1
     },
@@ -5155,6 +5155,13 @@
       "release_batch": 2
     },
     {
+      "oid": 10133,
+      "cn_short_name": "国信证券研究所",
+      "filename": "oid_10133.json",
+      "user_count": 22,
+      "release_batch": 2
+    },
+    {
       "oid": 3734,
       "cn_short_name": "京信通信",
       "filename": "oid_3734.json",
@@ -5195,13 +5202,6 @@
       "filename": "oid_50764.json",
       "user_count": 22,
       "release_batch": 3
-    },
-    {
-      "oid": 10133,
-      "cn_short_name": "国信证券研究所",
-      "filename": "oid_10133.json",
-      "user_count": 22,
-      "release_batch": 2
     },
     {
       "oid": 3398,
@@ -6268,6 +6268,13 @@
       "release_batch": 1
     },
     {
+      "oid": 53643,
+      "cn_short_name": "世纪互联",
+      "filename": "oid_53643.json",
+      "user_count": 14,
+      "release_batch": 3
+    },
+    {
       "oid": 54378,
       "cn_short_name": "声通科技",
       "filename": "oid_54378.json",
@@ -6348,13 +6355,6 @@
       "oid": 53216,
       "cn_short_name": "硕腾",
       "filename": "oid_53216.json",
-      "user_count": 14,
-      "release_batch": 3
-    },
-    {
-      "oid": 53643,
-      "cn_short_name": "世纪互联",
-      "filename": "oid_53643.json",
       "user_count": 14,
       "release_batch": 3
     },
