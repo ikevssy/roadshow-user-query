@@ -1,8 +1,92 @@
 [
   {
+    "uid": "634595",
+    "name": "汪勇",
+    "org_name": "上海天下粮仓投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2026-04-10 11:22:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国交建",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "吉利汽车",
+        "time": "2026-04-10"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2026-04-10"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "国元国际",
+        "time": "2025-12-14"
+      },
+      {
+        "company": "猫眼娱乐",
+        "time": "2025-10-09"
+      },
+      {
+        "company": "蒙牛乳业",
+        "time": "2025-09-17"
+      },
+      {
+        "company": "国电南瑞",
+        "time": "2025-09-14"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2025-09-13"
+      },
+      {
+        "company": "商汤-W",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2025-04-22"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2025-04-09"
+      },
+      {
+        "company": "新城发展",
+        "time": "2025-04-09"
+      },
+      {
+        "company": "贝泰妮",
+        "time": "2025-04-09"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2025-04-09"
+      },
+      {
+        "company": "珀莱雅",
+        "time": "2025-04-09"
+      }
+    ],
+    "special_companies": "中国民航信息网络"
+  },
+  {
     "uid": "646012",
     "name": "刘万志",
-    "org_name": "前观科技(湖北)有限责任公司",
+    "org_name": "前观科技（湖北）有限责任公司",
     "org_type": null,
     "cert_type": "个人",
     "position": "总裁助理",
@@ -58,6 +142,11 @@
     ],
     "attend_count": 5,
     "attend_records": [
+      {
+        "time": "2026-04-09",
+        "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会",
+        "duration": 0
+      },
       {
         "time": "2026-04-02",
         "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会",
@@ -2246,6 +2335,14 @@
     "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "新希望服务",
+        "time": "2026-04-10"
+      },
+      {
+        "company": "百融智能",
+        "time": "2026-04-10"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-09"
@@ -4972,74 +5069,6 @@
     "special_companies": ""
   },
   {
-    "uid": "428821",
-    "name": "曾慧诗",
-    "org_name": "深圳市黑匣子速记有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "经理",
-    "department": "",
-    "last_interaction_time": "2026-04-02 10:01:51",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国交建",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-04-02",
-        "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会",
-        "duration": 90
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国同辐",
-        "time": "2025-04-22"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-03-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "308022",
-    "name": "段靜嫻",
-    "org_name": "国元国际控股有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "分析師",
-    "department": "研究部",
-    "last_interaction_time": "2026-04-02 10:01:51",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国交建",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-04-01",
-        "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "中国交建（601800.SH，1800.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-04-02",
-        "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会",
-        "duration": 88
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "506804",
     "name": "冯晖",
     "org_name": "杭州市建筑工程监理有限公司",
@@ -5125,6 +5154,74 @@
       }
     ],
     "special_companies": "中国交建,中国交通建设集团有限公司"
+  },
+  {
+    "uid": "428821",
+    "name": "曾慧诗",
+    "org_name": "深圳市黑匣子速记有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "",
+    "last_interaction_time": "2026-04-02 10:01:51",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国交建",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-02",
+        "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会",
+        "duration": 90
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国同辐",
+        "time": "2025-04-22"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-03-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "308022",
+    "name": "段靜嫻",
+    "org_name": "国元国际控股有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析師",
+    "department": "研究部",
+    "last_interaction_time": "2026-04-02 10:01:51",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国交建",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "中国交建（601800.SH，1800.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-02",
+        "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会",
+        "duration": 88
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "9952",
@@ -13251,6 +13348,31 @@
     "special_companies": ""
   },
   {
+    "uid": "429665",
+    "name": "曾总诗",
+    "org_name": "深圳市黑匣子速记有限公司",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "经理",
+    "department": "",
+    "last_interaction_time": "2025-03-31 15:01:06",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国交建",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-31",
+        "meet_title": "中国交建（601800.SH，1800.HK）2024年度业绩发布会",
+        "duration": 85
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "496270",
     "name": "蔡錦煌",
     "org_name": "交银国际（亚洲）有限公司",
@@ -13558,31 +13680,6 @@
       }
     ],
     "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "429665",
-    "name": "曾总诗",
-    "org_name": "深圳市黑匣子速记有限公司",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "经理",
-    "department": "",
-    "last_interaction_time": "2025-03-31 15:01:06",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国交建",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-31",
-        "meet_title": "中国交建（601800.SH，1800.HK）2024年度业绩发布会",
-        "duration": 85
-      }
-    ],
-    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -22014,31 +22111,6 @@
     "special_companies": "东方财富直播厅,中国人寿,中国建筑,中国建筑国际,中国通信服务,中金公司研究所,中集集团,信義玻璃,华安医药,吉利汽车,国元国际,国证国际证券(香港)研究所,宝龙商业,小鹏汽车-W,捷利交易宝,欧陆通,深高速,石化油服,药明生物"
   },
   {
-    "uid": "336520",
-    "name": "黄世吉",
-    "org_name": "平安资产管理有限责任公司",
-    "org_type": "保险资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "信评分析师",
-    "department": "信评研究部",
-    "last_interaction_time": "2024-09-03 10:01:03",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国交建",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-09-03",
-        "meet_title": "中国交建（601800.SH，1800.HK）2024年中期业绩说明会",
-        "duration": 90
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "427952",
     "name": "陈孟智",
     "org_name": "平安资产管理有限责任公司",
@@ -22067,6 +22139,31 @@
       }
     ],
     "special_companies": "绿城中国"
+  },
+  {
+    "uid": "336520",
+    "name": "黄世吉",
+    "org_name": "平安资产管理有限责任公司",
+    "org_type": "保险资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "信评分析师",
+    "department": "信评研究部",
+    "last_interaction_time": "2024-09-03 10:01:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国交建",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-09-03",
+        "meet_title": "中国交建（601800.SH，1800.HK）2024年中期业绩说明会",
+        "duration": 90
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "610446",

@@ -18,9 +18,23 @@
       }
     ],
     "attend_count": 1,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-09",
+        "meet_title": "中国平安（601318.SH，02318.HK）2025年度业绩媒体发布会",
+        "duration": 63
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "新希望服务",
+        "time": "2026-04-10"
+      },
+      {
+        "company": "百融智能",
+        "time": "2026-04-10"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-09"
@@ -1909,6 +1923,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "思源电气",
+        "time": "2026-04-10"
+      },
       {
         "company": "中国神华",
         "time": "2026-04-02"

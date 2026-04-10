@@ -1,5 +1,40 @@
 [
   {
+    "uid": "637644",
+    "name": "尚满义",
+    "org_name": "宁夏东方钽业股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "投关专员",
+    "department": "证券部",
+    "last_interaction_time": "2026-04-10 17:18:00",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国有色矿业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "中国有色矿业（1258.HK）2025年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "中国有色矿业（1258.HK）2025年度业绩说明会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "稀美资源",
+        "time": "2025-08-26"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "637231",
     "name": "王娟",
     "org_name": "易居（中国）企业控股有限公司",
@@ -3037,41 +3072,6 @@
     "special_companies": ""
   },
   {
-    "uid": "637644",
-    "name": "尚满义",
-    "org_name": "宁夏东方钽业股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "投关专员",
-    "department": "证券部",
-    "last_interaction_time": "2026-03-26 09:10:59",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "中国有色矿业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "中国有色矿业（1258.HK）2025年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "中国有色矿业（1258.HK）2025年度业绩说明会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "稀美资源",
-        "time": "2025-08-26"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "634589",
     "name": "郭熠敏",
     "org_name": "浙江图腾律师事务所",
@@ -5958,6 +5958,65 @@
     "special_companies": ""
   },
   {
+    "uid": "338624",
+    "name": "郭朝勤",
+    "org_name": "福州远望投资管理有限公司",
+    "org_type": "财务顾问机构",
+    "cert_type": "个人",
+    "position": "投资总监",
+    "department": "",
+    "last_interaction_time": "2026-03-25 15:11:57",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国有色矿业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-22",
+        "meet_title": "中国有色矿业（1258.HK）2025年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "中国有色矿业（1258.HK）2025年度业绩说明会",
+        "duration": 5
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-22"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-03-19"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2023-03-19"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-03-19"
+      }
+    ],
+    "special_companies": "卓越商企服务,宝龙商业,融创服务"
+  },
+  {
     "uid": "437619",
     "name": "刘健豪",
     "org_name": "宁波万坤投资管理合伙企业(有限合伙)",
@@ -6043,65 +6102,6 @@
       }
     ],
     "special_companies": "保利物业"
-  },
-  {
-    "uid": "338624",
-    "name": "郭朝勤",
-    "org_name": "福州远望投资管理有限公司",
-    "org_type": "财务顾问机构",
-    "cert_type": "个人",
-    "position": "投资总监",
-    "department": "",
-    "last_interaction_time": "2026-03-25 15:11:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国有色矿业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-22",
-        "meet_title": "中国有色矿业（1258.HK）2025年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-25",
-        "meet_title": "中国有色矿业（1258.HK）2025年度业绩说明会",
-        "duration": 5
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国有色矿业",
-        "time": "2026-03-22"
-      },
-      {
-        "company": "拼多多",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "药师帮",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2023-03-19"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2023-03-19"
-      },
-      {
-        "company": "融创服务",
-        "time": "2023-03-19"
-      }
-    ],
-    "special_companies": "卓越商企服务,宝龙商业,融创服务"
   },
   {
     "uid": "33065",
@@ -18019,36 +18019,6 @@
     "special_companies": ""
   },
   {
-    "uid": "494202",
-    "name": "熊立南",
-    "org_name": "国泰君安国际控股有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "Senior Analyst",
-    "department": "Principal Investment Management",
-    "last_interaction_time": "2025-03-27 14:58:31",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国有色矿业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-27",
-        "meet_title": "中国有色矿业（1258.HK）2024年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-27",
-        "meet_title": "中国有色矿业（1258.HK）2024年度业绩说明会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "337193",
     "name": "黄聪",
     "org_name": "天津津融投资服务集团有限公司",
@@ -18126,6 +18096,36 @@
       }
     ],
     "special_companies": "中国有色矿业,中国民航信息网络,中烟香港,华熙生物,合景泰富集团,比亚迪,深圳控股,融创服务"
+  },
+  {
+    "uid": "494202",
+    "name": "熊立南",
+    "org_name": "国泰君安国际控股有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "Senior Analyst",
+    "department": "Principal Investment Management",
+    "last_interaction_time": "2025-03-27 14:58:31",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国有色矿业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-27",
+        "meet_title": "中国有色矿业（1258.HK）2024年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-27",
+        "meet_title": "中国有色矿业（1258.HK）2024年度业绩说明会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "38742",

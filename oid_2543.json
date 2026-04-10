@@ -9776,6 +9776,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "吉利汽车",
+        "time": "2026-04-10"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2026-04-10"
+      },
+      {
         "company": "金风科技",
         "time": "2026-03-30"
       },
@@ -18235,45 +18243,6 @@
     "special_companies": ""
   },
   {
-    "uid": "430206",
-    "name": "王金琳",
-    "org_name": "摩根士丹利亚洲有限公司",
-    "org_type": "境外银行",
-    "cert_type": "服务机构",
-    "position": "",
-    "department": "研究部",
-    "last_interaction_time": "2025-04-21 16:00:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国建筑",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-04-17",
-        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
-      },
-      {
-        "time": "2024-04-19",
-        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-04-21",
-        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会",
-        "duration": 0
-      },
-      {
-        "time": "2024-04-19",
-        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会",
-        "duration": 65
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "中国交建"
-  },
-  {
     "uid": "633749",
     "name": "王炳旭",
     "org_name": "中原信托有限公司",
@@ -18311,6 +18280,45 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "430206",
+    "name": "王金琳",
+    "org_name": "摩根士丹利亚洲有限公司",
+    "org_type": "境外银行",
+    "cert_type": "服务机构",
+    "position": "",
+    "department": "研究部",
+    "last_interaction_time": "2025-04-21 16:00:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国建筑",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-04-17",
+        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
+      },
+      {
+        "time": "2024-04-19",
+        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-04-21",
+        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会",
+        "duration": 0
+      },
+      {
+        "time": "2024-04-19",
+        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会",
+        "duration": 65
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "中国交建"
   },
   {
     "uid": "251659",
@@ -22832,6 +22840,36 @@
     "special_companies": ""
   },
   {
+    "uid": "333447",
+    "name": "杨程成",
+    "org_name": "凤凰网房产",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "高级总监",
+    "department": "总编室",
+    "last_interaction_time": "2024-09-02 15:58:15",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国建筑",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-09-02",
+        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-09-02",
+        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会",
+        "duration": 71
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "506936",
     "name": "张依璟",
     "org_name": "北京汉和汉华资本管理有限公司",
@@ -22896,36 +22934,6 @@
       }
     ],
     "special_companies": "中国交建,中国建筑"
-  },
-  {
-    "uid": "333447",
-    "name": "杨程成",
-    "org_name": "凤凰网房产",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "高级总监",
-    "department": "总编室",
-    "last_interaction_time": "2024-09-02 15:58:15",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国建筑",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-09-02",
-        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-09-02",
-        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会",
-        "duration": 71
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "439101",
