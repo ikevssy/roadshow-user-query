@@ -2882,6 +2882,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "新希望服务",
+        "time": "2026-04-10"
+      },
+      {
+        "company": "百融智能",
+        "time": "2026-04-10"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-09"
       },
@@ -10187,6 +10195,36 @@
     "special_companies": ""
   },
   {
+    "uid": "639408",
+    "name": "王元平",
+    "org_name": "临沂市宏恩资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2025-11-06 17:01:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华虹公司",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-11-06",
+        "meet_title": "华虹半导体（01347.HK，688347.SH）2025年第三季度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-11-06",
+        "meet_title": "华虹半导体（01347.HK，688347.SH）2025年第三季度业绩发布会",
+        "duration": 31
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "607404",
     "name": "汤旸玚",
     "org_name": "上海允公资产管理有限公司",
@@ -10232,36 +10270,6 @@
       }
     ],
     "special_companies": "康基医疗,绿城管理控股"
-  },
-  {
-    "uid": "639408",
-    "name": "王元平",
-    "org_name": "临沂市宏恩资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "",
-    "last_interaction_time": "2025-11-06 17:01:48",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华虹公司",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-11-06",
-        "meet_title": "华虹半导体（01347.HK，688347.SH）2025年第三季度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-11-06",
-        "meet_title": "华虹半导体（01347.HK，688347.SH）2025年第三季度业绩发布会",
-        "duration": 31
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "611461",
@@ -28829,6 +28837,36 @@
     "special_companies": "碧桂园服务"
   },
   {
+    "uid": "611456",
+    "name": "杨萱",
+    "org_name": "GNJAPITAL",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "-",
+    "department": "-",
+    "last_interaction_time": "2024-08-08 17:01:06",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华虹公司",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-07",
+        "meet_title": "华虹半导体（01347.HK，688347.SH）2024年第二季度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-08",
+        "meet_title": "华虹半导体（01347.HK，688347.SH）2024年第二季度业绩说明会",
+        "duration": 59
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "507016",
     "name": "李莹莹",
     "org_name": "郑州智子投资管理有限公司",
@@ -28879,36 +28917,6 @@
         "time": "2023-12-13"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "611456",
-    "name": "杨萱",
-    "org_name": "GNJAPITAL",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
-    "position": "-",
-    "department": "-",
-    "last_interaction_time": "2024-08-08 17:01:06",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华虹公司",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-07",
-        "meet_title": "华虹半导体（01347.HK，688347.SH）2024年第二季度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-08",
-        "meet_title": "华虹半导体（01347.HK，688347.SH）2024年第二季度业绩说明会",
-        "duration": 59
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -34196,61 +34204,6 @@
     "special_companies": ""
   },
   {
-    "uid": "264806",
-    "name": "谢东晖",
-    "org_name": "深圳市新思哲投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "策略研究总监",
-    "department": "",
-    "last_interaction_time": "2023-11-09 17:06:48",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华虹公司",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-11-09",
-        "meet_title": "华虹半导体（01347.HK）2023年第三季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-11-09",
-        "meet_title": "华虹半导体（01347.HK）2023年第三季度业绩电话会",
-        "duration": 17
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "佳鑫国际资源",
-        "time": "2026-03-26"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2024-03-22"
-      },
-      {
-        "company": "诺辉健康",
-        "time": "2023-05-05"
-      },
-      {
-        "company": "奈雪的茶",
-        "time": "2023-03-31"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-03-28"
-      }
-    ],
-    "special_companies": "万物云,建发国际集团,新城悦服务,诺辉健康"
-  },
-  {
     "uid": "426135",
     "name": "Roger Huai",
     "org_name": "Carlton Investments Limited",
@@ -34370,6 +34323,61 @@
       }
     ],
     "special_companies": "万物云,上海实业控股,东软教育,中广核新能源,华润医药,新希望服务,百融智能,联邦制药,英恒科技,金科服务,金茂服务,金风科技"
+  },
+  {
+    "uid": "264806",
+    "name": "谢东晖",
+    "org_name": "深圳市新思哲投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "策略研究总监",
+    "department": "",
+    "last_interaction_time": "2023-11-09 17:06:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华虹公司",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-11-09",
+        "meet_title": "华虹半导体（01347.HK）2023年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-11-09",
+        "meet_title": "华虹半导体（01347.HK）2023年第三季度业绩电话会",
+        "duration": 17
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "佳鑫国际资源",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "诺辉健康",
+        "time": "2023-05-05"
+      },
+      {
+        "company": "奈雪的茶",
+        "time": "2023-03-31"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-28"
+      }
+    ],
+    "special_companies": "万物云,建发国际集团,新城悦服务,诺辉健康"
   },
   {
     "uid": "282319",

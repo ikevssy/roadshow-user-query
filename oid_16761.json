@@ -1,12 +1,107 @@
 [
   {
+    "uid": "634595",
+    "name": "汪勇",
+    "org_name": "上海天下粮仓投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2026-04-10 08:23:46",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "小米集团-W",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-07",
+        "meet_title": "小米集团（01810.HK）2025年全年业绩发布投资者电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-07",
+        "meet_title": "小米集团（01810.HK）2025年全年业绩发布投资者电话会议",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "吉利汽车",
+        "time": "2026-04-10"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2026-04-10"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "国元国际",
+        "time": "2025-12-14"
+      },
+      {
+        "company": "猫眼娱乐",
+        "time": "2025-10-09"
+      },
+      {
+        "company": "蒙牛乳业",
+        "time": "2025-09-17"
+      },
+      {
+        "company": "国电南瑞",
+        "time": "2025-09-14"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2025-09-13"
+      },
+      {
+        "company": "商汤-W",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2025-04-22"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2025-04-09"
+      },
+      {
+        "company": "新城发展",
+        "time": "2025-04-09"
+      },
+      {
+        "company": "贝泰妮",
+        "time": "2025-04-09"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2025-04-09"
+      },
+      {
+        "company": "珀莱雅",
+        "time": "2025-04-09"
+      }
+    ],
+    "special_companies": "中国民航信息网络"
+  },
+  {
     "uid": "431356",
     "name": "公司",
-    "org_name": "BOCI Research Limited",
-    "org_type": null,
+    "org_name": "中银国际研究有限公司",
+    "org_type": "券商研究所",
     "cert_type": "卖方分析师",
-    "position": "Director",
-    "department": "",
+    "position": "董事",
+    "department": "销售交易研究部",
     "last_interaction_time": "2026-04-09 17:21:46",
     "last_interaction_behavior": "订阅",
     "interaction_company": "小米集团-W",
@@ -98,7 +193,13 @@
       }
     ],
     "attend_count": 1,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-09",
+        "meet_title": "小米集团（01810.HK）2025年全年业绩发布投资者电话会议",
+        "duration": 61
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
@@ -509,6 +610,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "新希望服务",
+        "time": "2026-04-10"
+      },
+      {
+        "company": "百融智能",
+        "time": "2026-04-10"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-09"
       },
@@ -871,93 +980,6 @@
       }
     ],
     "special_companies": "万物云,中国通信服务,保利物业,信義玻璃,协合新能源,宝龙商业,新城发展,新城悦服务,星盛商业,比亚迪,比亚迪电子,滨江服务,碧桂园,碧桂园服务,绿城中国,联邦制药,融创服务,雅生活服务"
-  },
-  {
-    "uid": "634595",
-    "name": "汪勇",
-    "org_name": "上海天下粮仓投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "总经理",
-    "department": "",
-    "last_interaction_time": "2026-04-07 09:47:53",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "小米集团-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-04-07",
-        "meet_title": "小米集团（01810.HK）2025年全年业绩发布投资者电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-04-07",
-        "meet_title": "小米集团（01810.HK）2025年全年业绩发布投资者电话会议",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "金风科技",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "国元国际",
-        "time": "2025-12-14"
-      },
-      {
-        "company": "猫眼娱乐",
-        "time": "2025-10-09"
-      },
-      {
-        "company": "蒙牛乳业",
-        "time": "2025-09-17"
-      },
-      {
-        "company": "国电南瑞",
-        "time": "2025-09-14"
-      },
-      {
-        "company": "中国船舶租赁",
-        "time": "2025-09-13"
-      },
-      {
-        "company": "商汤-W",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "中国民航信息网络",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "中国同辐",
-        "time": "2025-04-22"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2025-04-09"
-      },
-      {
-        "company": "新城发展",
-        "time": "2025-04-09"
-      },
-      {
-        "company": "贝泰妮",
-        "time": "2025-04-09"
-      },
-      {
-        "company": "比亚迪",
-        "time": "2025-04-09"
-      },
-      {
-        "company": "珀莱雅",
-        "time": "2025-04-09"
-      }
-    ],
-    "special_companies": "中国民航信息网络"
   },
   {
     "uid": "606480",
@@ -11279,6 +11301,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "思源电气",
+        "time": "2026-04-10"
+      },
+      {
         "company": "中国神华",
         "time": "2026-04-02"
       },
@@ -15393,65 +15419,6 @@
     "special_companies": ""
   },
   {
-    "uid": "267781",
-    "name": "申晓东",
-    "org_name": "上海东涵通迅科技有限公司",
-    "org_type": "财经媒体",
-    "cert_type": "个人",
-    "position": "董事",
-    "department": "",
-    "last_interaction_time": "2026-03-24 19:36:30",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "小米集团-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-24",
-        "meet_title": "小米集团（01810.HK）2025年全年业绩发布投资者电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-24",
-        "meet_title": "小米集团（01810.HK）2025年全年业绩发布投资者电话会议",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "永升服务",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "申万宏源",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "招商银行",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "国泰海通",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "国泰君安国际",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "心玮医疗",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "上海东方财富证券投资咨询",
-        "time": "2024-05-28"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "645270",
     "name": "賈昭陽",
     "org_name": "东信投资",
@@ -15526,6 +15493,65 @@
       {
         "company": "联邦制药",
         "time": "2026-03-16"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "267781",
+    "name": "申晓东",
+    "org_name": "上海东涵通迅科技有限公司",
+    "org_type": "财经媒体",
+    "cert_type": "个人",
+    "position": "董事",
+    "department": "",
+    "last_interaction_time": "2026-03-24 19:36:30",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "小米集团-W",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "小米集团（01810.HK）2025年全年业绩发布投资者电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "小米集团（01810.HK）2025年全年业绩发布投资者电话会议",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "永升服务",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "申万宏源",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "招商银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "国泰海通",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "国泰君安国际",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "上海东方财富证券投资咨询",
+        "time": "2024-05-28"
       }
     ],
     "special_companies": ""
@@ -20320,93 +20346,6 @@
     "special_companies": "中国光大环境,信义光能,信義玻璃,协合新能源,大唐新能源,小鹏汽车-W,康哲药业,滨江服务,腾讯控股,药明生物,锦欣生殖,顺丰同城"
   },
   {
-    "uid": "350757",
-    "name": "黎雯玲",
-    "org_name": "Bloomberg L.P.",
-    "org_type": "财经媒体",
-    "cert_type": "卖方分析师",
-    "position": "Equity Analyst",
-    "department": "",
-    "last_interaction_time": "2026-03-24 19:32:09",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "小米集团-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-18",
-        "meet_title": "小米集团（01810.HK）2025年全年业绩发布投资者电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-24",
-        "meet_title": "小米集团（01810.HK）2025年全年业绩发布投资者电话会议",
-        "duration": 17
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "达势股份",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "鸣鸣很忙集团",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "东鹏饮料",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "华润饮料",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "海底捞",
-        "time": "2026-03-22"
-      },
-      {
-        "company": "五谷磨房",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "三只松鼠",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "开市客",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "中国心连心化肥",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "牧原股份",
-        "time": "2025-11-16"
-      }
-    ],
-    "special_companies": "阿里巴巴-W"
-  },
-  {
     "uid": "333797",
     "name": "Priscilla Chan",
     "org_name": "CLOUGH CAPITAL HONG KONG LTD.",
@@ -20648,6 +20587,93 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "350757",
+    "name": "黎雯玲",
+    "org_name": "Bloomberg L.P.",
+    "org_type": "财经媒体",
+    "cert_type": "卖方分析师",
+    "position": "Equity Analyst",
+    "department": "",
+    "last_interaction_time": "2026-03-24 19:32:09",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "小米集团-W",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-18",
+        "meet_title": "小米集团（01810.HK）2025年全年业绩发布投资者电话会议"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "小米集团（01810.HK）2025年全年业绩发布投资者电话会议",
+        "duration": 17
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "达势股份",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "鸣鸣很忙集团",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "东鹏饮料",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "华润饮料",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "海底捞",
+        "time": "2026-03-22"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "三只松鼠",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "开市客",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "中国心连心化肥",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "牧原股份",
+        "time": "2025-11-16"
+      }
+    ],
+    "special_companies": "阿里巴巴-W"
   },
   {
     "uid": "1722",
@@ -60774,6 +60800,30 @@
     "special_companies": ""
   },
   {
+    "uid": "632831",
+    "name": "王师南",
+    "org_name": "大连市西岗区引导基金管理有限责任公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "个人",
+    "position": "风控总监",
+    "department": "",
+    "last_interaction_time": "2025-03-18 20:55:18",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "小米集团-W",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-18",
+        "meet_title": "小米集团-W（01810.HK）2024年全年业绩发布投资者电话会议"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "334626",
     "name": "王坚",
     "org_name": "逐光私募基金管理(海南)有限公司",
@@ -60819,30 +60869,6 @@
       }
     ],
     "special_companies": "IGG INC,绿城管理控股"
-  },
-  {
-    "uid": "632831",
-    "name": "王师南",
-    "org_name": "大连市西岗区引导基金管理有限责任公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
-    "position": "风控总监",
-    "department": "",
-    "last_interaction_time": "2025-03-18 20:55:18",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "小米集团-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-18",
-        "meet_title": "小米集团-W（01810.HK）2024年全年业绩发布投资者电话会议"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "426555",
@@ -63149,6 +63175,91 @@
     "special_companies": "华安医药,小鹏汽车-W"
   },
   {
+    "uid": "500604",
+    "name": "谢显明",
+    "org_name": "中国国际金融股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "执行总经理",
+    "department": "投资银行部",
+    "last_interaction_time": "2025-03-18 20:30:45",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "小米集团-W",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2025-03-18",
+        "meet_title": "小米集团-W（01810.HK）2024年全年业绩发布投资者电话会议"
+      },
+      {
+        "time": "2024-08-05",
+        "meet_title": "小米集团（01810.HK）2024年第二季度业绩电话会"
+      },
+      {
+        "time": "2023-08-29",
+        "meet_title": "小米集团（01810.HK）2023年中期业绩发布投资者电话会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-03-18",
+        "meet_title": "小米集团-W（01810.HK）2024年全年业绩发布投资者电话会议",
+        "duration": 41
+      },
+      {
+        "time": "2024-08-21",
+        "meet_title": "小米集团（01810.HK）2024年第二季度业绩电话会",
+        "duration": 30
+      },
+      {
+        "time": "2023-08-29",
+        "meet_title": "小米集团（01810.HK）2023年中期业绩发布投资者电话会",
+        "duration": 10
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "恒安国际",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "中国动向",
+        "time": "2025-06-23"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "蔚来",
+        "time": "2023-08-28"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-08-28"
+      }
+    ],
+    "special_companies": "万物云,中国有色矿业,呷哺呷哺"
+  },
+  {
     "uid": "427752",
     "name": "林雷",
     "org_name": "致融征信服务(上海)股份有限公司",
@@ -63279,89 +63390,60 @@
     "special_companies": "中国电力,中粮家佳康,绿城中国,路演中,金风科技"
   },
   {
-    "uid": "500604",
-    "name": "谢显明",
-    "org_name": "中国国际金融股份有限公司",
-    "org_type": "证券公司",
+    "uid": "344416",
+    "name": "许耀文",
+    "org_name": "北京诺昌投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
     "cert_type": "机构投资者",
-    "position": "执行总经理",
-    "department": "投资银行部",
-    "last_interaction_time": "2025-03-18 20:30:45",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2025-03-18 20:30:44",
     "last_interaction_behavior": "参会",
     "interaction_company": "小米集团-W",
-    "apply_count": 3,
+    "apply_count": 1,
     "apply_records": [
       {
-        "time": "2025-03-18",
+        "time": "2025-03-17",
         "meet_title": "小米集团-W（01810.HK）2024年全年业绩发布投资者电话会议"
-      },
-      {
-        "time": "2024-08-05",
-        "meet_title": "小米集团（01810.HK）2024年第二季度业绩电话会"
-      },
-      {
-        "time": "2023-08-29",
-        "meet_title": "小米集团（01810.HK）2023年中期业绩发布投资者电话会"
       }
     ],
-    "attend_count": 3,
+    "attend_count": 1,
     "attend_records": [
       {
         "time": "2025-03-18",
         "meet_title": "小米集团-W（01810.HK）2024年全年业绩发布投资者电话会议",
-        "duration": 41
+        "duration": 0
       },
       {
-        "time": "2024-08-21",
-        "meet_title": "小米集团（01810.HK）2024年第二季度业绩电话会",
-        "duration": 30
-      },
-      {
-        "time": "2023-08-29",
-        "meet_title": "小米集团（01810.HK）2023年中期业绩发布投资者电话会",
-        "duration": 10
+        "time": "2025-03-18",
+        "meet_title": "小米集团-W（01810.HK）2024年全年业绩发布投资者电话会议",
+        "duration": 63
       }
     ],
-    "is_first_attend": true,
+    "is_first_attend": false,
     "subscribed_companies": [
       {
-        "company": "腾讯控股",
-        "time": "2026-03-13"
+        "company": "比亚迪",
+        "time": "2026-03-31"
       },
       {
-        "company": "恒安国际",
-        "time": "2026-03-13"
+        "company": "中芯国际",
+        "time": "2025-11-13"
       },
       {
-        "company": "中国动向",
-        "time": "2025-06-23"
+        "company": "金风科技",
+        "time": "2025-08-25"
       },
       {
-        "company": "中国有色矿业",
-        "time": "2025-03-27"
+        "company": "华虹公司",
+        "time": "2025-08-06"
       },
       {
-        "company": "万物云",
-        "time": "2025-03-26"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2025-03-18"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2024-08-23"
-      },
-      {
-        "company": "蔚来",
-        "time": "2023-08-28"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-08-28"
+        "company": "名创优品",
+        "time": "2025-03-21"
       }
     ],
-    "special_companies": "万物云,中国有色矿业,呷哺呷哺"
+    "special_companies": ""
   },
   {
     "uid": "283563",
@@ -63421,62 +63503,6 @@
       }
     ],
     "special_companies": "力劲科技,零跑汽车"
-  },
-  {
-    "uid": "344416",
-    "name": "许耀文",
-    "org_name": "北京诺昌投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "总经理",
-    "department": "",
-    "last_interaction_time": "2025-03-18 20:30:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "小米集团-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-17",
-        "meet_title": "小米集团-W（01810.HK）2024年全年业绩发布投资者电话会议"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-18",
-        "meet_title": "小米集团-W（01810.HK）2024年全年业绩发布投资者电话会议",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-18",
-        "meet_title": "小米集团-W（01810.HK）2024年全年业绩发布投资者电话会议",
-        "duration": 63
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "比亚迪",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2025-11-13"
-      },
-      {
-        "company": "金风科技",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "华虹公司",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "名创优品",
-        "time": "2025-03-21"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "507260",
@@ -85236,6 +85262,45 @@
     "special_companies": "冠盛股份,小鹏汽车-W"
   },
   {
+    "uid": "898",
+    "name": "屠靜谨-環懿投资",
+    "org_name": "上海环懿投资有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2024-03-19 19:50:47",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "小米集团-W",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-19",
+        "meet_title": "小米集团（01810.HK）2023年全年业绩发布投资者电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-19",
+        "meet_title": "小米集团（01810.HK）2023年全年业绩发布投资者电话会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "头豹研究院",
+        "time": "2024-04-18"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2024-03-19"
+      }
+    ],
+    "special_companies": "小米集团-W"
+  },
+  {
     "uid": "336891",
     "name": "许强",
     "org_name": "武汉灵动私募基金管理有限公司",
@@ -85277,45 +85342,6 @@
       }
     ],
     "special_companies": "国元国际,国证国际证券(香港)研究所"
-  },
-  {
-    "uid": "898",
-    "name": "屠靜谨-環懿投资",
-    "org_name": "上海环懿投资有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2024-03-19 19:50:47",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "小米集团-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-19",
-        "meet_title": "小米集团（01810.HK）2023年全年业绩发布投资者电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-19",
-        "meet_title": "小米集团（01810.HK）2023年全年业绩发布投资者电话会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "头豹研究院",
-        "time": "2024-04-18"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2024-03-19"
-      }
-    ],
-    "special_companies": "小米集团-W"
   },
   {
     "uid": "581686",
@@ -93866,81 +93892,6 @@
     "special_companies": ""
   },
   {
-    "uid": "336797",
-    "name": "Charles Wang",
-    "org_name": "BRIGHTVALLEY CAPITAL",
-    "org_type": "境外资产管理公司",
-    "cert_type": "个人",
-    "position": "Portfolio Manager",
-    "department": "",
-    "last_interaction_time": "2023-08-29 19:30:21",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "小米集团-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-29",
-        "meet_title": "小米集团（01810.HK）2023年中期业绩发布投资者电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-29",
-        "meet_title": "小米集团（01810.HK）2023年中期业绩发布投资者电话会",
-        "duration": 20
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "腾讯控股",
-        "time": "2025-11-13"
-      },
-      {
-        "company": "特海国际",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "名创优品",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "药师帮",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "中国船舶租赁",
-        "time": "2024-03-30"
-      },
-      {
-        "company": "宏信建发",
-        "time": "2024-03-15"
-      },
-      {
-        "company": "JS环球生活",
-        "time": "2023-08-18"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2023-03-20"
-      }
-    ],
-    "special_companies": "中国船舶租赁,宏信建发,比亚迪,滨江服务,绿城管理控股"
-  },
-  {
     "uid": "341289",
     "name": "路白正阳",
     "org_name": "青岛中投盈富资产管理有限公司",
@@ -94161,6 +94112,81 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": "金风科技"
+  },
+  {
+    "uid": "336797",
+    "name": "Charles Wang",
+    "org_name": "BRIGHTVALLEY CAPITAL",
+    "org_type": "境外资产管理公司",
+    "cert_type": "个人",
+    "position": "Portfolio Manager",
+    "department": "",
+    "last_interaction_time": "2023-08-29 19:30:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "小米集团-W",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-29",
+        "meet_title": "小米集团（01810.HK）2023年中期业绩发布投资者电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-29",
+        "meet_title": "小米集团（01810.HK）2023年中期业绩发布投资者电话会",
+        "duration": 20
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "腾讯控股",
+        "time": "2025-11-13"
+      },
+      {
+        "company": "特海国际",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "药师帮",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2024-03-30"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "JS环球生活",
+        "time": "2023-08-18"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-03-20"
+      }
+    ],
+    "special_companies": "中国船舶租赁,宏信建发,比亚迪,滨江服务,绿城管理控股"
   },
   {
     "uid": "583512",
