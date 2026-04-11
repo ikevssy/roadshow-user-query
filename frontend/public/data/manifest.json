@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-04-11 01:35:02",
+  "update_time": "2026-04-11 20:36:22",
   "companies_count": 52619,
   "data_start_time": "2023-01-01",
   "synced_companies": 2154,
@@ -34,7 +34,7 @@
       "oid": 3018,
       "cn_short_name": "腾讯控股",
       "filename": "oid_3018.json",
-      "user_count": 1441,
+      "user_count": 1442,
       "release_batch": 1
     },
     {
@@ -62,7 +62,7 @@
       "oid": 18365,
       "cn_short_name": "工业富联",
       "filename": "oid_18365.json",
-      "user_count": 1217,
+      "user_count": 1221,
       "release_batch": 2
     },
     {
@@ -104,7 +104,7 @@
       "oid": 1144,
       "cn_short_name": "比亚迪",
       "filename": "oid_1144.json",
-      "user_count": 1048,
+      "user_count": 1050,
       "release_batch": 1
     },
     {
@@ -153,7 +153,7 @@
       "oid": 48403,
       "cn_short_name": "阜博集团",
       "filename": "oid_48403.json",
-      "user_count": 857,
+      "user_count": 858,
       "release_batch": 3
     },
     {
@@ -573,7 +573,7 @@
       "oid": 48073,
       "cn_short_name": "中国船舶租赁",
       "filename": "oid_48073.json",
-      "user_count": 434,
+      "user_count": 435,
       "release_batch": 3
     },
     {
@@ -1081,18 +1081,18 @@
       "release_batch": 1
     },
     {
-      "oid": 52155,
-      "cn_short_name": "思路迪医药股份",
-      "filename": "oid_52155.json",
-      "user_count": 221,
-      "release_batch": 3
-    },
-    {
       "oid": 19442,
       "cn_short_name": "中国通号",
       "filename": "oid_19442.json",
       "user_count": 221,
       "release_batch": 2
+    },
+    {
+      "oid": 52155,
+      "cn_short_name": "思路迪医药股份",
+      "filename": "oid_52155.json",
+      "user_count": 221,
+      "release_batch": 3
     },
     {
       "oid": 16689,
@@ -1210,7 +1210,7 @@
       "oid": 17750,
       "cn_short_name": "江南布衣",
       "filename": "oid_17750.json",
-      "user_count": 200,
+      "user_count": 201,
       "release_batch": 2
     },
     {
@@ -1347,18 +1347,18 @@
       "release_batch": 1
     },
     {
-      "oid": 47395,
-      "cn_short_name": "维亚生物",
-      "filename": "oid_47395.json",
-      "user_count": 174,
-      "release_batch": 3
-    },
-    {
       "oid": 3480,
       "cn_short_name": "农业银行",
       "filename": "oid_3480.json",
       "user_count": 174,
       "release_batch": 1
+    },
+    {
+      "oid": 47395,
+      "cn_short_name": "维亚生物",
+      "filename": "oid_47395.json",
+      "user_count": 174,
+      "release_batch": 3
     },
     {
       "oid": 11050,
@@ -2761,13 +2761,6 @@
       "release_batch": 3
     },
     {
-      "oid": 55501,
-      "cn_short_name": "华检医疗",
-      "filename": "oid_55501.json",
-      "user_count": 61,
-      "release_batch": 3
-    },
-    {
       "oid": 20,
       "cn_short_name": "安踏体育",
       "filename": "oid_20.json",
@@ -2780,6 +2773,13 @@
       "filename": "oid_1674.json",
       "user_count": 61,
       "release_batch": 1
+    },
+    {
+      "oid": 55501,
+      "cn_short_name": "华检医疗",
+      "filename": "oid_55501.json",
+      "user_count": 61,
+      "release_batch": 3
     },
     {
       "oid": 53001,
@@ -2929,6 +2929,20 @@
       "release_batch": 1
     },
     {
+      "oid": 51693,
+      "cn_short_name": "歌礼制药",
+      "filename": "oid_51693.json",
+      "user_count": 57,
+      "release_batch": 3
+    },
+    {
+      "oid": 54227,
+      "cn_short_name": "宜明昂科",
+      "filename": "oid_54227.json",
+      "user_count": 57,
+      "release_batch": 3
+    },
+    {
       "oid": 48516,
       "cn_short_name": "IBM",
       "filename": "oid_48516.json",
@@ -2943,23 +2957,9 @@
       "release_batch": 1
     },
     {
-      "oid": 51693,
-      "cn_short_name": "歌礼制药",
-      "filename": "oid_51693.json",
-      "user_count": 57,
-      "release_batch": 3
-    },
-    {
       "oid": 51746,
       "cn_short_name": "亿航智能",
       "filename": "oid_51746.json",
-      "user_count": 57,
-      "release_batch": 3
-    },
-    {
-      "oid": 54227,
-      "cn_short_name": "宜明昂科",
-      "filename": "oid_54227.json",
       "user_count": 57,
       "release_batch": 3
     },
@@ -3181,6 +3181,13 @@
       "release_batch": 2
     },
     {
+      "oid": 2981,
+      "cn_short_name": "周大福创建",
+      "filename": "oid_2981.json",
+      "user_count": 51,
+      "release_batch": 1
+    },
+    {
       "oid": 3135,
       "cn_short_name": "中国水务",
       "filename": "oid_3135.json",
@@ -3209,18 +3216,18 @@
       "release_batch": 2
     },
     {
-      "oid": 2981,
-      "cn_short_name": "周大福创建",
-      "filename": "oid_2981.json",
-      "user_count": 51,
-      "release_batch": 1
-    },
-    {
       "oid": 47116,
       "cn_short_name": "奥多比",
       "filename": "oid_47116.json",
       "user_count": 51,
       "release_batch": 2
+    },
+    {
+      "oid": 55859,
+      "cn_short_name": "百望股份",
+      "filename": "oid_55859.json",
+      "user_count": 51,
+      "release_batch": 3
     },
     {
       "oid": 52507,
@@ -3263,13 +3270,6 @@
       "filename": "oid_3638.json",
       "user_count": 50,
       "release_batch": 1
-    },
-    {
-      "oid": 55859,
-      "cn_short_name": "百望股份",
-      "filename": "oid_55859.json",
-      "user_count": 50,
-      "release_batch": 3
     },
     {
       "oid": 50125,
