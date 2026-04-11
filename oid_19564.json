@@ -18,7 +18,13 @@
       }
     ],
     "attend_count": 1,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-10",
+        "meet_title": "永升服务（01995.HK）2025年度业绩发布会",
+        "duration": 30
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
@@ -12508,6 +12514,99 @@
     "special_companies": ""
   },
   {
+    "uid": "576128",
+    "name": "陈潇",
+    "org_name": "证券日报",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "记者",
+    "department": "重大新闻与行业公司部",
+    "last_interaction_time": "2026-03-31 09:30:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "永升服务",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "永升服务（01995.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-20",
+        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-24",
+        "meet_title": "永升服务（01995.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "永升服务（01995.HK）2025年度业绩发布会",
+        "duration": 92
+      },
+      {
+        "time": "2025-08-22",
+        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会",
+        "duration": 67
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "永升服务（01995.HK）2024年度业绩发布会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2024-03-25"
+      },
+      {
+        "company": "中南建设",
+        "time": "2023-08-31"
+      },
+      {
+        "company": "美的置业",
+        "time": "2023-08-28"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "华润医药",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "金风科技",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2023-03-26"
+      }
+    ],
+    "special_companies": "万物云,中南建设,华润医药,卓越商企服务,碧桂园服务,绿城中国,绿城服务,美的置业,金风科技"
+  },
+  {
     "uid": "17534",
     "name": "杨梅",
     "org_name": "上海荣巽资产管理中心（有限合伙）",
@@ -12600,99 +12699,6 @@
       }
     ],
     "special_companies": "碧桂园服务,绿城服务"
-  },
-  {
-    "uid": "576128",
-    "name": "陈潇",
-    "org_name": "证券日报",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "记者",
-    "department": "重大新闻与行业公司部",
-    "last_interaction_time": "2026-03-31 09:30:48",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "永升服务",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-23",
-        "meet_title": "永升服务（01995.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-20",
-        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-24",
-        "meet_title": "永升服务（01995.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "永升服务（01995.HK）2025年度业绩发布会",
-        "duration": 92
-      },
-      {
-        "time": "2025-08-22",
-        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会",
-        "duration": 67
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "永升服务（01995.HK）2024年度业绩发布会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-27"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2024-03-25"
-      },
-      {
-        "company": "中南建设",
-        "time": "2023-08-31"
-      },
-      {
-        "company": "美的置业",
-        "time": "2023-08-28"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-08-22"
-      },
-      {
-        "company": "华润医药",
-        "time": "2023-03-30"
-      },
-      {
-        "company": "金风科技",
-        "time": "2023-03-30"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2023-03-26"
-      }
-    ],
-    "special_companies": "万物云,中南建设,华润医药,卓越商企服务,碧桂园服务,绿城中国,绿城服务,美的置业,金风科技"
   },
   {
     "uid": "333811",
@@ -13165,86 +13171,6 @@
     "special_companies": ""
   },
   {
-    "uid": "333396",
-    "name": "王婷婷",
-    "org_name": "凤凰网",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "风财讯全国主编",
-    "department": "内容中心",
-    "last_interaction_time": "2026-03-31 09:30:43",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "永升服务",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-23",
-        "meet_title": "永升服务（01995.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-11",
-        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-17",
-        "meet_title": "永升服务（01995.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-28",
-        "meet_title": "永升服务（01955.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "永升服务（01995.HK）2025年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2026-03-31",
-        "meet_title": "永升服务（01995.HK）2025年度业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2026-03-31",
-        "meet_title": "永升服务（01995.HK）2025年度业绩发布会",
-        "duration": 8
-      },
-      {
-        "time": "2025-08-22",
-        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-22",
-        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会",
-        "duration": 5
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "永升服务（01955.HK）2024年中期业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中国建筑",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "永升服务",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "新城悦服务",
-        "time": "2023-03-20"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "335501",
     "name": "房慧",
     "org_name": "Leju Holdings Limited",
@@ -13433,6 +13359,86 @@
       }
     ],
     "special_companies": "万物云,复星国际,新城控股,新鸿基公司,滨江服务,碧桂园服务,绿城服务,绿城管理控股,金茂服务"
+  },
+  {
+    "uid": "333396",
+    "name": "王婷婷",
+    "org_name": "凤凰网",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "风财讯全国主编",
+    "department": "内容中心",
+    "last_interaction_time": "2026-03-31 09:30:43",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "永升服务",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "永升服务（01995.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-11",
+        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-17",
+        "meet_title": "永升服务（01995.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-28",
+        "meet_title": "永升服务（01955.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "永升服务（01995.HK）2025年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2026-03-31",
+        "meet_title": "永升服务（01995.HK）2025年度业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2026-03-31",
+        "meet_title": "永升服务（01995.HK）2025年度业绩发布会",
+        "duration": 8
+      },
+      {
+        "time": "2025-08-22",
+        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-22",
+        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会",
+        "duration": 5
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "永升服务（01955.HK）2024年中期业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "永升服务",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "新城悦服务",
+        "time": "2023-03-20"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "493200",
@@ -30292,6 +30298,383 @@
     "special_companies": "万物云,新希望服务,永升服务,绿城服务,绿城管理控股,金科服务,金茂服务,雅生活服务"
   },
   {
+    "uid": "251671",
+    "name": "刘清海",
+    "org_name": "东北证券股份有限公司上海证券自营分公司",
+    "org_type": "券商自营",
+    "cert_type": "卖方分析师",
+    "position": "房地产与交运首席分析师",
+    "department": "研究所",
+    "last_interaction_time": "2025-08-22 09:30:06",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "永升服务",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-08-18",
+        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-24",
+        "meet_title": "永升服务（01995.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-22",
+        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-22",
+        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "贝壳",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "大悦城地产",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "广联达",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "新鸿基地产",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "金融街",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "金融街物业",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "中国金茂",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "浦东金桥",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "张江高科",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "上海建工",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "明源云",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "恒隆地产",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "首程控股",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "越秀服务",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "越秀地产",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "北京城建",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "建发物业",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "建发股份",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "融创中国",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "美的置业",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "中海物业",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "龙湖集团",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "华润置地",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "中国海外发展",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "新城悦服务",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "新城控股",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "滨江集团",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "金地集团",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "中国交通建设集团有限公司",
+        "time": "2024-05-14"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "星盛商业",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "保利发展",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "碧桂园",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "中原建业",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-03-20"
+      }
+    ],
+    "special_companies": "中原建业,中国交通建设集团有限公司,中国建筑,中国海外宏洋集团,建发国际集团,建发物业,招商蛇口,新鸿基公司,滨江服务,碧桂园,碧桂园服务,绿城中国,绿城服务,绿城管理控股,越秀地产"
+  },
+  {
+    "uid": "494847",
+    "name": "戚康旭",
+    "org_name": "华泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "研究员",
+    "department": "研究所",
+    "last_interaction_time": "2025-08-22 09:30:06",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "永升服务",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2025-08-21",
+        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-18",
+        "meet_title": "永升服务（01995.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "永升服务（01955.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-08-22",
+        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会",
+        "duration": 67
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "永升服务（01995.HK）2024年度业绩发布会",
+        "duration": 71
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "永升服务（01955.HK）2024年中期业绩发布会",
+        "duration": 63
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "万科A",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "美的置业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中国交建",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "招商局商业房托",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-08-25"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-08-22"
+      }
+    ],
+    "special_companies": "万物云,绿景中国地产,融创服务"
+  },
+  {
     "uid": "608704",
     "name": "張思達",
     "org_name": "国元咨询服务（深圳）有限公司",
@@ -30843,383 +31226,6 @@
       }
     ],
     "special_companies": "深圳控股"
-  },
-  {
-    "uid": "251671",
-    "name": "刘清海",
-    "org_name": "东北证券股份有限公司上海证券自营分公司",
-    "org_type": "券商自营",
-    "cert_type": "卖方分析师",
-    "position": "房地产与交运首席分析师",
-    "department": "研究所",
-    "last_interaction_time": "2025-08-22 09:30:06",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "永升服务",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-08-18",
-        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-24",
-        "meet_title": "永升服务（01995.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-22",
-        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-22",
-        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "贝壳",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "大悦城地产",
-        "time": "2025-03-26"
-      },
-      {
-        "company": "宏信建发",
-        "time": "2025-03-24"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-03-24"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2025-03-24"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2025-03-24"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-03-24"
-      },
-      {
-        "company": "广联达",
-        "time": "2025-03-24"
-      },
-      {
-        "company": "新鸿基地产",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "金融街",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "金融街物业",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "中国金茂",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "浦东金桥",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "张江高科",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "上海建工",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "中国建筑",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "明源云",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "恒隆地产",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "首程控股",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "越秀服务",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "越秀地产",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "北京城建",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "建发物业",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "建发股份",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "融创中国",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "美的置业",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "中海物业",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "龙湖集团",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "华润置地",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "中国海外发展",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "新城悦服务",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "新城控股",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "滨江集团",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "金地集团",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "保利物业",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "中国交通建设集团有限公司",
-        "time": "2024-05-14"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2024-03-15"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2024-03-15"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2024-03-15"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2024-03-15"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-03-15"
-      },
-      {
-        "company": "新鸿基公司",
-        "time": "2024-03-15"
-      },
-      {
-        "company": "星盛商业",
-        "time": "2024-03-15"
-      },
-      {
-        "company": "招商蛇口",
-        "time": "2024-03-15"
-      },
-      {
-        "company": "保利发展",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "碧桂园",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "中原建业",
-        "time": "2023-03-21"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2023-03-20"
-      }
-    ],
-    "special_companies": "中原建业,中国交通建设集团有限公司,中国建筑,中国海外宏洋集团,建发国际集团,建发物业,招商蛇口,新鸿基公司,滨江服务,碧桂园,碧桂园服务,绿城中国,绿城服务,绿城管理控股,越秀地产"
-  },
-  {
-    "uid": "494847",
-    "name": "戚康旭",
-    "org_name": "华泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "研究员",
-    "department": "研究所",
-    "last_interaction_time": "2025-08-22 09:30:06",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "永升服务",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2025-08-21",
-        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-18",
-        "meet_title": "永升服务（01995.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "永升服务（01955.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-08-22",
-        "meet_title": "永升服务（01995.HK）2025年中期业绩发布会",
-        "duration": 67
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "永升服务（01995.HK）2024年度业绩发布会",
-        "duration": 71
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "永升服务（01955.HK）2024年中期业绩发布会",
-        "duration": 63
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "万科A",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "美的置业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中国交建",
-        "time": "2025-03-18"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2025-03-18"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2025-03-18"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-03-18"
-      },
-      {
-        "company": "招商局商业房托",
-        "time": "2025-03-18"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-03-18"
-      },
-      {
-        "company": "招商蛇口",
-        "time": "2025-03-18"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-08-25"
-      },
-      {
-        "company": "融创服务",
-        "time": "2023-08-22"
-      }
-    ],
-    "special_companies": "万物云,绿景中国地产,融创服务"
   },
   {
     "uid": "493556",
@@ -42112,36 +42118,6 @@
     "special_companies": "中国建筑,中国燃气,中国船舶租赁,中国通信服务,力劲科技,国元国际,招商银行,碧桂园服务,绿城管理控股"
   },
   {
-    "uid": "607320",
-    "name": "余燕平",
-    "org_name": "东华大学",
-    "org_type": "未分类",
-    "cert_type": "个人",
-    "position": "院长",
-    "department": "",
-    "last_interaction_time": "2025-03-31 09:29:45",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "永升服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-31",
-        "meet_title": "永升服务（01995.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-31",
-        "meet_title": "永升服务（01995.HK）2024年度业绩发布会",
-        "duration": 71
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "632534",
     "name": "王彧森",
     "org_name": "中信证券股份有限公司",
@@ -42230,6 +42206,36 @@
         "time": "2025-08-22"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "607320",
+    "name": "余燕平",
+    "org_name": "东华大学",
+    "org_type": "未分类",
+    "cert_type": "个人",
+    "position": "院长",
+    "department": "",
+    "last_interaction_time": "2025-03-31 09:29:45",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "永升服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-31",
+        "meet_title": "永升服务（01995.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-31",
+        "meet_title": "永升服务（01995.HK）2024年度业绩发布会",
+        "duration": 71
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -47666,6 +47672,36 @@
     "special_companies": ""
   },
   {
+    "uid": "13968",
+    "name": "曹凤杰",
+    "org_name": "上海市鸿杰精密机械有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2024-08-30 09:31:34",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "永升服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-30",
+        "meet_title": "永升服务（01955.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-30",
+        "meet_title": "永升服务（01955.HK）2024年中期业绩发布会",
+        "duration": 63
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "万物云,华润医疗"
+  },
+  {
     "uid": "295663",
     "name": "吴树熙",
     "org_name": "正谊资产管理有限公司",
@@ -47699,36 +47735,6 @@
       }
     ],
     "special_companies": "卓越教育集团"
-  },
-  {
-    "uid": "13968",
-    "name": "曹凤杰",
-    "org_name": "上海市鸿杰精密机械有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "总经理",
-    "department": "",
-    "last_interaction_time": "2024-08-30 09:31:34",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "永升服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-30",
-        "meet_title": "永升服务（01955.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-30",
-        "meet_title": "永升服务（01955.HK）2024年中期业绩发布会",
-        "duration": 63
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "万物云,华润医疗"
   },
   {
     "uid": "338746",
