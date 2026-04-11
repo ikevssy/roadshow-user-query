@@ -6568,36 +6568,6 @@
     "special_companies": ""
   },
   {
-    "uid": "645098",
-    "name": "赵静",
-    "org_name": "远东宏信有限公司",
-    "org_type": "财务顾问机构",
-    "cert_type": "个人",
-    "position": "资金管理VP",
-    "department": "财务中心资金管理 VP",
-    "last_interaction_time": "2026-03-11 15:02:47",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "远东宏信",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-11",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-11",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
-        "duration": 60
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "645091",
     "name": "楊梓琳",
     "org_name": "德弘資本集團",
@@ -6637,47 +6607,29 @@
     "special_companies": ""
   },
   {
-    "uid": "606535",
-    "name": "楊梓琳",
-    "org_name": "德弘資本集團",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投資經理",
-    "department": "",
-    "last_interaction_time": "2026-03-11 15:02:46",
+    "uid": "645098",
+    "name": "赵静",
+    "org_name": "远东宏信有限公司",
+    "org_type": "财务顾问机构",
+    "cert_type": "个人",
+    "position": "资金管理VP",
+    "department": "财务中心资金管理 VP",
+    "last_interaction_time": "2026-03-11 15:02:47",
     "last_interaction_behavior": "参会",
     "interaction_company": "远东宏信",
-    "apply_count": 3,
+    "apply_count": 1,
     "apply_records": [
       {
         "time": "2026-03-11",
         "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-07-30",
-        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2024-08-08",
-        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会"
       }
     ],
-    "attend_count": 3,
+    "attend_count": 1,
     "attend_records": [
       {
         "time": "2026-03-11",
         "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-01",
-        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
-        "duration": 56
-      },
-      {
-        "time": "2024-08-09",
-        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会",
-        "duration": 32
+        "duration": 60
       }
     ],
     "is_first_attend": true,
@@ -6770,6 +6722,54 @@
         "time": "2025-04-22"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "606535",
+    "name": "楊梓琳",
+    "org_name": "德弘資本集團",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投資經理",
+    "department": "",
+    "last_interaction_time": "2026-03-11 15:02:46",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "远东宏信",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-11",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-07-30",
+        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2024-08-08",
+        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-03-11",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-01",
+        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
+        "duration": 56
+      },
+      {
+        "time": "2024-08-09",
+        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会",
+        "duration": 32
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -8729,6 +8729,165 @@
     "special_companies": "远东宏信"
   },
   {
+    "uid": "581383",
+    "name": "王会晋",
+    "org_name": "大华继显私人有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "Director",
+    "department": "",
+    "last_interaction_time": "2026-03-11 15:00:11",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "远东宏信",
+    "apply_count": 5,
+    "apply_records": [
+      {
+        "time": "2026-03-11",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-03-18",
+        "meet_title": "远东宏信（3360.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-04",
+        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-13",
+        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-06",
+        "meet_title": "远东宏信（3360.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 5,
+    "attend_records": [
+      {
+        "time": "2026-03-11",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
+        "duration": 63
+      },
+      {
+        "time": "2024-08-09",
+        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2024-08-09",
+        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会",
+        "duration": 61
+      },
+      {
+        "time": "2024-03-13",
+        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
+        "duration": 42
+      },
+      {
+        "time": "2023-08-09",
+        "meet_title": "远东宏信（3360.HK）2023年中期业绩发布会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "吉利汽车",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "中集集团",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2025-03-21"
+      },
+      {
+        "company": "金风科技",
+        "time": "2024-10-28"
+      },
+      {
+        "company": "贝康医疗",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2024-08-22"
+      },
+      {
+        "company": "中石化冠德",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "美的置业",
+        "time": "2024-08-19"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-08-19"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2024-08-16"
+      },
+      {
+        "company": "中国动向",
+        "time": "2024-06-26"
+      },
+      {
+        "company": "百融智能",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-08-19"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2023-08-16"
+      },
+      {
+        "company": "药师帮",
+        "time": "2023-08-16"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2023-08-09"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2023-08-01"
+      },
+      {
+        "company": "信義玻璃",
+        "time": "2023-08-01"
+      },
+      {
+        "company": "中国天瑞水泥",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "JS环球生活",
+        "time": "2023-07-31"
+      }
+    ],
+    "special_companies": "万物云,中国动向,中石化冠德,中集集团,信義玻璃,协合新能源,小米集团-W,康哲药业,百果园集团,百融智能,美的置业,联邦制药,药师帮,贝康医疗,金风科技,雅生活服务"
+  },
+  {
     "uid": "437426",
     "name": "张贺",
     "org_name": "华澳国际信托有限公司",
@@ -8987,165 +9146,6 @@
       }
     ],
     "special_companies": "万物云,中信证券,中南建设,宏信建发,招商银行,易居企业控股,浙商银行,碧桂园,远东宏信——资金部"
-  },
-  {
-    "uid": "581383",
-    "name": "王会晋",
-    "org_name": "大华继显私人有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "Director",
-    "department": "",
-    "last_interaction_time": "2026-03-11 15:00:11",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "远东宏信",
-    "apply_count": 5,
-    "apply_records": [
-      {
-        "time": "2026-03-11",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-03-18",
-        "meet_title": "远东宏信（3360.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-04",
-        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-13",
-        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-06",
-        "meet_title": "远东宏信（3360.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 5,
-    "attend_records": [
-      {
-        "time": "2026-03-11",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
-        "duration": 63
-      },
-      {
-        "time": "2024-08-09",
-        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2024-08-09",
-        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会",
-        "duration": 61
-      },
-      {
-        "time": "2024-03-13",
-        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
-        "duration": 42
-      },
-      {
-        "time": "2023-08-09",
-        "meet_title": "远东宏信（3360.HK）2023年中期业绩发布会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "吉利汽车",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "万国数据服务",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "中集集团",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "卓越教育集团",
-        "time": "2025-03-21"
-      },
-      {
-        "company": "金风科技",
-        "time": "2024-10-28"
-      },
-      {
-        "company": "贝康医疗",
-        "time": "2024-08-30"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2024-08-22"
-      },
-      {
-        "company": "中石化冠德",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "美的置业",
-        "time": "2024-08-19"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-08-19"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2024-08-16"
-      },
-      {
-        "company": "中国动向",
-        "time": "2024-06-26"
-      },
-      {
-        "company": "百融智能",
-        "time": "2024-03-26"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-08-19"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2023-08-16"
-      },
-      {
-        "company": "药师帮",
-        "time": "2023-08-16"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2023-08-09"
-      },
-      {
-        "company": "协合新能源",
-        "time": "2023-08-01"
-      },
-      {
-        "company": "信義玻璃",
-        "time": "2023-08-01"
-      },
-      {
-        "company": "中国天瑞水泥",
-        "time": "2023-07-31"
-      },
-      {
-        "company": "JS环球生活",
-        "time": "2023-07-31"
-      }
-    ],
-    "special_companies": "万物云,中国动向,中石化冠德,中集集团,信義玻璃,协合新能源,小米集团-W,康哲药业,百果园集团,百融智能,美的置业,联邦制药,药师帮,贝康医疗,金风科技,雅生活服务"
   },
   {
     "uid": "502205",
@@ -10108,6 +10108,36 @@
     "special_companies": "宏信建发,远东宏信,远东宏信——资金部"
   },
   {
+    "uid": "645063",
+    "name": "Kingston Ngo",
+    "org_name": "Hang Seng Bank Limited",
+    "org_type": "境外银行",
+    "cert_type": "机构投资者",
+    "position": "Analyst",
+    "department": "",
+    "last_interaction_time": "2026-03-11 14:59:30",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "远东宏信",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-09",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-11",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
+        "duration": 64
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "581584",
     "name": "胡婷婷",
     "org_name": "宏信建设发展有限公司",
@@ -10163,66 +10193,6 @@
       }
     ],
     "special_companies": "宏信建发,远东宏信"
-  },
-  {
-    "uid": "645063",
-    "name": "Kingston Ngo",
-    "org_name": "Hang Seng Bank Limited",
-    "org_type": "境外银行",
-    "cert_type": "机构投资者",
-    "position": "Analyst",
-    "department": "",
-    "last_interaction_time": "2026-03-11 14:59:30",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "远东宏信",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-09",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-11",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
-        "duration": 64
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "644982",
-    "name": "陆秋瑜",
-    "org_name": "汇丰银行（中国）有限公司",
-    "org_type": "银行",
-    "cert_type": "个人",
-    "position": "客户经理",
-    "department": "金融机构业务部",
-    "last_interaction_time": "2026-03-11 14:59:29",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "远东宏信",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-04",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-11",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
-        "duration": 64
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "425413",
@@ -10306,6 +10276,36 @@
     "apply_records": [
       {
         "time": "2026-03-06",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-11",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
+        "duration": 64
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "644982",
+    "name": "陆秋瑜",
+    "org_name": "汇丰银行（中国）有限公司",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "客户经理",
+    "department": "金融机构业务部",
+    "last_interaction_time": "2026-03-11 14:59:29",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "远东宏信",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-04",
         "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
       }
     ],
@@ -10442,6 +10442,54 @@
     "special_companies": ""
   },
   {
+    "uid": "435644",
+    "name": "范衍",
+    "org_name": "宏利投资（上海）有限公司",
+    "org_type": "其他机构投资者",
+    "cert_type": "机构投资者",
+    "position": "信用分析师",
+    "department": "评级及研究支持",
+    "last_interaction_time": "2026-03-11 14:59:27",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "远东宏信",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-02-26",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-07-31",
+        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-11",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
+        "duration": 65
+      },
+      {
+        "time": "2025-08-01",
+        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "宏信建发",
+        "time": "2026-03-03"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2025-07-31"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "333360",
     "name": "庄閔伊",
     "org_name": "汇丰环球投资管理(香港)有限公司",
@@ -10503,54 +10551,6 @@
     "special_companies": "远东宏信"
   },
   {
-    "uid": "435644",
-    "name": "范衍",
-    "org_name": "宏利投资（上海）有限公司",
-    "org_type": "其他机构投资者",
-    "cert_type": "机构投资者",
-    "position": "信用分析师",
-    "department": "评级及研究支持",
-    "last_interaction_time": "2026-03-11 14:59:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "远东宏信",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-02-26",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-07-31",
-        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-11",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
-        "duration": 65
-      },
-      {
-        "time": "2025-08-01",
-        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "宏信建发",
-        "time": "2026-03-03"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2025-07-31"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "504227",
     "name": "开妍",
     "org_name": "兴业证券经济与金融研究院",
@@ -10598,161 +10598,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "636237",
-    "name": "张倬浩",
-    "org_name": "西部证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "非银金融经理",
-    "department": "研究发展中心",
-    "last_interaction_time": "2026-03-11 14:59:26",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "远东宏信",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-02-26",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-01",
-        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-11",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
-        "duration": 65
-      },
-      {
-        "time": "2025-08-03",
-        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
-        "duration": 61
-      },
-      {
-        "time": "2025-08-01",
-        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-01",
-        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
-        "duration": 25
-      },
-      {
-        "time": "2025-08-01",
-        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
-        "duration": 11
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中银航空租赁",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "正泰电器",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "天风证券研究所",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2025-08-01"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "504794",
-    "name": "林永健",
-    "org_name": "中信证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "高级经理/非银金融研究员",
-    "department": "研究部",
-    "last_interaction_time": "2026-03-11 14:59:26",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "远东宏信",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-06",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-07-16",
-        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-07",
-        "meet_title": "远东宏信（3360.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-03-13",
-        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2026-03-11",
-        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
-        "duration": 64
-      },
-      {
-        "time": "2025-08-01",
-        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
-        "duration": 60
-      },
-      {
-        "time": "2025-03-07",
-        "meet_title": "远东宏信（3360.HK）2024年度业绩发布会",
-        "duration": 58
-      },
-      {
-        "time": "2024-03-13",
-        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2024-03-13",
-        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
-        "duration": 73
-      },
-      {
-        "time": "2024-03-13",
-        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "远东宏信",
-        "time": "2025-03-07"
-      },
-      {
-        "company": "宏信建发",
-        "time": "2023-08-08"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2023-08-08"
-      }
-    ],
-    "special_companies": "宏信建发"
   },
   {
     "uid": "607006",
@@ -10893,6 +10738,161 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "504794",
+    "name": "林永健",
+    "org_name": "中信证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "高级经理/非银金融研究员",
+    "department": "研究部",
+    "last_interaction_time": "2026-03-11 14:59:26",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "远东宏信",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-06",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-07-16",
+        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-07",
+        "meet_title": "远东宏信（3360.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-03-13",
+        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2026-03-11",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
+        "duration": 64
+      },
+      {
+        "time": "2025-08-01",
+        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
+        "duration": 60
+      },
+      {
+        "time": "2025-03-07",
+        "meet_title": "远东宏信（3360.HK）2024年度业绩发布会",
+        "duration": 58
+      },
+      {
+        "time": "2024-03-13",
+        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2024-03-13",
+        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
+        "duration": 73
+      },
+      {
+        "time": "2024-03-13",
+        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "远东宏信",
+        "time": "2025-03-07"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2023-08-08"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2023-08-08"
+      }
+    ],
+    "special_companies": "宏信建发"
+  },
+  {
+    "uid": "636237",
+    "name": "张倬浩",
+    "org_name": "西部证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "非银金融经理",
+    "department": "研究发展中心",
+    "last_interaction_time": "2026-03-11 14:59:26",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "远东宏信",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-02-26",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-01",
+        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-11",
+        "meet_title": "远东宏信（3360.HK）2025年度业绩发布会",
+        "duration": 65
+      },
+      {
+        "time": "2025-08-03",
+        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
+        "duration": 61
+      },
+      {
+        "time": "2025-08-01",
+        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-01",
+        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
+        "duration": 25
+      },
+      {
+        "time": "2025-08-01",
+        "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
+        "duration": 11
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中银航空租赁",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "正泰电器",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "天风证券研究所",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2025-08-01"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -18825,65 +18825,80 @@
     "special_companies": ""
   },
   {
-    "uid": "572863",
-    "name": "李梓豪",
-    "org_name": "中信建投证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "研究员",
-    "department": "研究发展部",
+    "uid": "347948",
+    "name": "Sam Jones",
+    "org_name": "APPLE Group",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "Side-Analyst",
+    "department": "Self",
     "last_interaction_time": "2025-08-01 15:00:06",
     "last_interaction_behavior": "参会",
     "interaction_company": "远东宏信",
     "apply_count": 2,
     "apply_records": [
       {
-        "time": "2025-07-16",
+        "time": "2025-07-17",
         "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会"
       },
       {
-        "time": "2023-03-05",
-        "meet_title": "远东宏信（3360.HK）2022年度业绩发布会"
+        "time": "2025-02-21",
+        "meet_title": "远东宏信（3360.HK）2024年度业绩发布会"
       }
     ],
-    "attend_count": 2,
+    "attend_count": 1,
     "attend_records": [
       {
         "time": "2025-08-01",
         "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
         "duration": 62
-      },
-      {
-        "time": "2023-03-15",
-        "meet_title": "远东宏信（3360.HK）2022年度业绩发布会",
-        "duration": 63
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "宏信建发",
-        "time": "2025-07-16"
+        "company": "申万宏源",
+        "time": "2026-03-30"
       },
       {
-        "company": "乐信",
-        "time": "2025-07-16"
+        "company": "阅文集团",
+        "time": "2026-03-17"
       },
       {
-        "company": "国银金租",
-        "time": "2025-07-16"
+        "company": "中国中冶",
+        "time": "2025-12-19"
       },
       {
-        "company": "信也科技",
-        "time": "2025-07-16"
+        "company": "万国数据服务",
+        "time": "2025-11-19"
       },
       {
-        "company": "奇富科技",
-        "time": "2025-07-16"
+        "company": "乐鑫科技",
+        "time": "2025-09-01"
       },
       {
-        "company": "远东宏信",
-        "time": "2025-07-16"
+        "company": "中国太保",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "瑞声科技",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2025-04-18"
       }
     ],
     "special_companies": ""
@@ -18990,80 +19005,65 @@
     "special_companies": ""
   },
   {
-    "uid": "347948",
-    "name": "Sam Jones",
-    "org_name": "APPLE Group",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "Side-Analyst",
-    "department": "Self",
+    "uid": "572863",
+    "name": "李梓豪",
+    "org_name": "中信建投证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "研究员",
+    "department": "研究发展部",
     "last_interaction_time": "2025-08-01 15:00:06",
     "last_interaction_behavior": "参会",
     "interaction_company": "远东宏信",
     "apply_count": 2,
     "apply_records": [
       {
-        "time": "2025-07-17",
+        "time": "2025-07-16",
         "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会"
       },
       {
-        "time": "2025-02-21",
-        "meet_title": "远东宏信（3360.HK）2024年度业绩发布会"
+        "time": "2023-03-05",
+        "meet_title": "远东宏信（3360.HK）2022年度业绩发布会"
       }
     ],
-    "attend_count": 1,
+    "attend_count": 2,
     "attend_records": [
       {
         "time": "2025-08-01",
         "meet_title": "远东宏信（3360.HK）2025年中期业绩发布会",
         "duration": 62
+      },
+      {
+        "time": "2023-03-15",
+        "meet_title": "远东宏信（3360.HK）2022年度业绩发布会",
+        "duration": 63
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "申万宏源",
-        "time": "2026-03-30"
+        "company": "宏信建发",
+        "time": "2025-07-16"
       },
       {
-        "company": "阅文集团",
-        "time": "2026-03-17"
+        "company": "乐信",
+        "time": "2025-07-16"
       },
       {
-        "company": "中国中冶",
-        "time": "2025-12-19"
+        "company": "国银金租",
+        "time": "2025-07-16"
       },
       {
-        "company": "万国数据服务",
-        "time": "2025-11-19"
+        "company": "信也科技",
+        "time": "2025-07-16"
       },
       {
-        "company": "乐鑫科技",
-        "time": "2025-09-01"
+        "company": "奇富科技",
+        "time": "2025-07-16"
       },
       {
-        "company": "中国太保",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "瑞声科技",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "中国建筑",
-        "time": "2025-04-18"
+        "company": "远东宏信",
+        "time": "2025-07-16"
       }
     ],
     "special_companies": ""
@@ -23485,6 +23485,18 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "比亚迪",
+        "time": "2026-04-11"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-11"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-04-11"
+      },
+      {
         "company": "泡泡玛特",
         "time": "2025-08-15"
       },
@@ -25890,6 +25902,41 @@
     "special_companies": "中信证券"
   },
   {
+    "uid": "632427",
+    "name": "趙力",
+    "org_name": "日兴证券（香港）有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "常務董事",
+    "department": "債務資本市場",
+    "last_interaction_time": "2025-03-07 15:00:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "远东宏信",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-06",
+        "meet_title": "远东宏信（3360.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-07",
+        "meet_title": "远东宏信（3360.HK）2024年度业绩发布会",
+        "duration": 3
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "远东宏信",
+        "time": "2025-03-06"
+      }
+    ],
+    "special_companies": "远东宏信"
+  },
+  {
     "uid": "495113",
     "name": "韦霁雯",
     "org_name": "平安证券股份有限公司",
@@ -25954,41 +26001,6 @@
       }
     ],
     "special_companies": "光大证券"
-  },
-  {
-    "uid": "632427",
-    "name": "趙力",
-    "org_name": "日兴证券（香港）有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "常務董事",
-    "department": "債務資本市場",
-    "last_interaction_time": "2025-03-07 15:00:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "远东宏信",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-06",
-        "meet_title": "远东宏信（3360.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-07",
-        "meet_title": "远东宏信（3360.HK）2024年度业绩发布会",
-        "duration": 3
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "远东宏信",
-        "time": "2025-03-06"
-      }
-    ],
-    "special_companies": "远东宏信"
   },
   {
     "uid": "436947",
@@ -36603,6 +36615,60 @@
     "special_companies": "远东宏信"
   },
   {
+    "uid": "585153",
+    "name": "Cynthia Tang",
+    "org_name": "瑞士信贷(香港)有限公司",
+    "org_type": "投资银行",
+    "cert_type": "机构投资者",
+    "position": "Analyst",
+    "department": "Securities Research,",
+    "last_interaction_time": "2024-08-09 15:00:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "远东宏信",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-07-09",
+        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-02-27",
+        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-08-09",
+        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会",
+        "duration": 59
+      },
+      {
+        "time": "2024-08-09",
+        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2024-03-13",
+        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2024-03-13",
+        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2024-03-13",
+        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
+        "duration": 71
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "611656",
     "name": "沈子曦",
     "org_name": "海通证券股份有限公司",
@@ -36682,60 +36748,6 @@
       }
     ],
     "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "585153",
-    "name": "Cynthia Tang",
-    "org_name": "瑞士信贷(香港)有限公司",
-    "org_type": "投资银行",
-    "cert_type": "机构投资者",
-    "position": "Analyst",
-    "department": "Securities Research,",
-    "last_interaction_time": "2024-08-09 15:00:19",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "远东宏信",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-07-09",
-        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-02-27",
-        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-08-09",
-        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会",
-        "duration": 59
-      },
-      {
-        "time": "2024-08-09",
-        "meet_title": "远东宏信（3360.HK）2024年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2024-03-13",
-        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2024-03-13",
-        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2024-03-13",
-        "meet_title": "远东宏信（3360.HK）2023年度业绩发布会",
-        "duration": 71
-      }
-    ],
-    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },

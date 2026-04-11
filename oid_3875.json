@@ -2351,61 +2351,6 @@
     "special_companies": ""
   },
   {
-    "uid": "343527",
-    "name": "章晶",
-    "org_name": "辉立投资咨询（上海）有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "经理",
-    "department": "研究部",
-    "last_interaction_time": "2024-06-28 11:37:21",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集安瑞科",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-06-26",
-        "meet_title": "中集安瑞科（03899.HK）线上交流会｜安信国际 x 路演中"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-06-28",
-        "meet_title": "中集安瑞科（03899.HK）线上交流会｜安信国际 x 路演中",
-        "duration": 37
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "工业富联",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "奇瑞汽车",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "艾美疫苗",
-        "time": "2025-01-21"
-      },
-      {
-        "company": "国证国际证券(香港)研究所",
-        "time": "2024-06-28"
-      },
-      {
-        "company": "吉利汽车",
-        "time": "2024-03-20"
-      },
-      {
-        "company": "力劲科技",
-        "time": "2023-06-29"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "573715",
     "name": "孙岩",
     "org_name": "深圳泽源私募证券基金管理有限公司",
@@ -2727,6 +2672,61 @@
       }
     ],
     "special_companies": "TCL电子,万物新生（爱回收）,东曜药业,中国中药,中国动向,中国建筑,中国心连心化肥,中集安瑞科,云康集团,亚信科技,亿胜生物科技,力劲科技,卓越IR,周黑鸭,国元国际,国证国际证券(香港)研究所,成都先导,新世界发展,波司登,湾区发展,珀莱雅,百果园集团,祖龙娱乐,神州控股,罕王黄金,腾盛博药,艾美疫苗,荃信生物,药师帮,诺辉健康,路演中,远东发展,远东宏信,阜博集团"
+  },
+  {
+    "uid": "343527",
+    "name": "章晶",
+    "org_name": "辉立投资咨询（上海）有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "经理",
+    "department": "研究部",
+    "last_interaction_time": "2024-06-28 11:37:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集安瑞科",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-06-26",
+        "meet_title": "中集安瑞科（03899.HK）线上交流会｜安信国际 x 路演中"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-06-28",
+        "meet_title": "中集安瑞科（03899.HK）线上交流会｜安信国际 x 路演中",
+        "duration": 37
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "奇瑞汽车",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2025-01-21"
+      },
+      {
+        "company": "国证国际证券(香港)研究所",
+        "time": "2024-06-28"
+      },
+      {
+        "company": "吉利汽车",
+        "time": "2024-03-20"
+      },
+      {
+        "company": "力劲科技",
+        "time": "2023-06-29"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "440284",

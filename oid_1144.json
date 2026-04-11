@@ -1,5 +1,175 @@
 [
   {
+    "uid": "632531",
+    "name": "Zhibin Zhu",
+    "org_name": "九安香港有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Investment Associate",
+    "department": "",
+    "last_interaction_time": "2026-04-11 16:47:47",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-04-11"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-11"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-04-11"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "燕东微",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "工业富联",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "Applovin",
+        "time": "2025-03-17"
+      },
+      {
+        "company": "唯品会",
+        "time": "2025-03-17"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2025-03-17"
+      },
+      {
+        "company": "冠盛股份",
+        "time": "2025-03-17"
+      },
+      {
+        "company": "中烟香港",
+        "time": "2025-03-17"
+      },
+      {
+        "company": "迈富时",
+        "time": "2025-03-17"
+      },
+      {
+        "company": "交个朋友控股",
+        "time": "2025-03-17"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2025-03-17"
+      },
+      {
+        "company": "朝聚眼科",
+        "time": "2025-03-17"
+      },
+      {
+        "company": "太古股份公司A",
+        "time": "2025-03-11"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-03-11"
+      }
+    ],
+    "special_companies": "中烟香港,交个朋友控股,冠盛股份,新希望服务,远东宏信"
+  },
+  {
+    "uid": "270799",
+    "name": "杜锷",
+    "org_name": "广东汇创投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "高级分析师",
+    "department": "",
+    "last_interaction_time": "2026-04-11 08:46:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-04-09",
+        "meet_title": "比亚迪（002594.SZ）2025年年度报告网上说明会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-10-13"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2025-09-19"
+      },
+      {
+        "company": "招商基金",
+        "time": "2023-03-19"
+      }
+    ],
+    "special_companies": "比亚迪,越秀地产"
+  },
+  {
+    "uid": "647361",
+    "name": "田静",
+    "org_name": "и ч.",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "+-. Freelance Consultant",
+    "department": "Jing Tian",
+    "last_interaction_time": "2026-04-11 03:59:09",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "比亚迪",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "江南布衣",
+        "time": "2026-04-11"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2026-04-11"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2026-04-11"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-11"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "636538",
     "name": "田皓森",
     "org_name": "华泰金融控股（香港）有限公司",
@@ -699,48 +869,6 @@
       }
     ],
     "special_companies": "万物云,上海医药,世茂服务,东方财富直播厅,中广核技,中烟香港,中粮包装,九典制药,交个朋友控股,亿胜生物科技,兖煤澳大利亚,华安医药,华森制药,华润医疗,华润医药,卓越商企服务,国证国际证券(香港)研究所,宏信建发,宝龙商业,广誉远,招商局商业房托,招商蛇口,敏华控股,新希望服务,新鸿基公司,星盛商业,永升服务,江南布衣,海南矿业,深高速,百果园集团,绿城服务,美的集团,老百姓,药师帮,越秀服务,金科服务,雅生活服务,顺丰同城"
-  },
-  {
-    "uid": "270799",
-    "name": "杜锷",
-    "org_name": "广东汇创投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "高级分析师",
-    "department": "",
-    "last_interaction_time": "2026-04-09 07:40:51",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-04-09",
-        "meet_title": "比亚迪（002594.SZ）2025年年度报告网上说明会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国民航信息网络",
-        "time": "2026-04-08"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2025-10-13"
-      },
-      {
-        "company": "中国通信服务",
-        "time": "2025-09-19"
-      },
-      {
-        "company": "招商基金",
-        "time": "2023-03-19"
-      }
-    ],
-    "special_companies": "比亚迪,越秀地产"
   },
   {
     "uid": "639492",
@@ -15884,6 +16012,81 @@
     "special_companies": ""
   },
   {
+    "uid": "347948",
+    "name": "Sam Jones",
+    "org_name": "APPLE Group",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "Side-Analyst",
+    "department": "Self",
+    "last_interaction_time": "2026-04-01 14:51:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "比亚迪（002594.SZ）2025年年度报告网上说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "比亚迪（002594.SZ）2025年年度报告网上说明会",
+        "duration": 51
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "申万宏源",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "阅文集团",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2025-12-19"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2025-11-19"
+      },
+      {
+        "company": "乐鑫科技",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "瑞声科技",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2025-04-18"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "591688",
     "name": "赖文晖",
     "org_name": "广州越秀资本控股集团股份有限公司",
@@ -16177,81 +16380,6 @@
       }
     ],
     "special_companies": "国银金租"
-  },
-  {
-    "uid": "347948",
-    "name": "Sam Jones",
-    "org_name": "APPLE Group",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "Side-Analyst",
-    "department": "Self",
-    "last_interaction_time": "2026-04-01 14:51:03",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-04-01",
-        "meet_title": "比亚迪（002594.SZ）2025年年度报告网上说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-04-01",
-        "meet_title": "比亚迪（002594.SZ）2025年年度报告网上说明会",
-        "duration": 51
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "申万宏源",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "阅文集团",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "中国中冶",
-        "time": "2025-12-19"
-      },
-      {
-        "company": "万国数据服务",
-        "time": "2025-11-19"
-      },
-      {
-        "company": "乐鑫科技",
-        "time": "2025-09-01"
-      },
-      {
-        "company": "中国太保",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "瑞声科技",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "中国建筑",
-        "time": "2025-04-18"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "633707",
@@ -55916,6 +56044,36 @@
     "special_companies": "复星国际,建业地产"
   },
   {
+    "uid": "576403",
+    "name": "王成慧",
+    "org_name": "财通证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "电新研究员",
+    "department": "研究所",
+    "last_interaction_time": "2023-04-13 14:58:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-10",
+        "meet_title": "比亚迪（002594.SZ）2022年年度报告网上说明会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
+        "duration": 72
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "505265",
     "name": "文奕婕",
     "org_name": "东兴证券股份有限公司",
@@ -55951,36 +56109,6 @@
       }
     ],
     "special_companies": "JS环球生活,比亚迪"
-  },
-  {
-    "uid": "576403",
-    "name": "王成慧",
-    "org_name": "财通证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "电新研究员",
-    "department": "研究所",
-    "last_interaction_time": "2023-04-13 14:58:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-10",
-        "meet_title": "比亚迪（002594.SZ）2022年年度报告网上说明会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
-        "duration": 72
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "430506",
@@ -56391,35 +56519,6 @@
     "special_companies": ""
   },
   {
-    "uid": "578845",
-    "name": "张冰",
-    "org_name": "北京新京报传媒有限责任公司",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "记者",
-    "department": "汽车新闻部",
-    "last_interaction_time": "2023-04-13 14:55:49",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-11",
-        "meet_title": "比亚迪（002594.SZ）2022年年度报告网上说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "比亚迪",
-        "time": "2023-04-12"
-      }
-    ],
-    "special_companies": "比亚迪"
-  },
-  {
     "uid": "438605",
     "name": "刘捷",
     "org_name": "北京怀让资产管理有限公司",
@@ -56462,6 +56561,35 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "578845",
+    "name": "张冰",
+    "org_name": "北京新京报传媒有限责任公司",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "记者",
+    "department": "汽车新闻部",
+    "last_interaction_time": "2023-04-13 14:55:49",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-11",
+        "meet_title": "比亚迪（002594.SZ）2022年年度报告网上说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2023-04-12"
+      }
+    ],
+    "special_companies": "比亚迪"
   },
   {
     "uid": "273584",
@@ -62195,31 +62323,6 @@
     "special_companies": ""
   },
   {
-    "uid": "343674",
-    "name": "黄细里",
-    "org_name": "东吴证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "汽车行业首席分析师",
-    "department": "",
-    "last_interaction_time": "2023-03-29 09:32:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
-        "duration": 77
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "576858",
     "name": "杨哲",
     "org_name": "君和资本",
@@ -62241,6 +62344,31 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "343674",
+    "name": "黄细里",
+    "org_name": "东吴证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "汽车行业首席分析师",
+    "department": "",
+    "last_interaction_time": "2023-03-29 09:32:27",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
+        "duration": 77
+      }
+    ],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -63952,31 +64080,6 @@
     "special_companies": "比亚迪"
   },
   {
-    "uid": "338328",
-    "name": "薛潇",
-    "org_name": "中庚基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "高级研究员",
-    "department": "",
-    "last_interaction_time": "2023-03-29 08:49:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
-        "duration": 24
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "334303",
     "name": "田娟",
     "org_name": "融通基金管理有限公司",
@@ -63995,6 +64098,31 @@
         "time": "2023-03-29",
         "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
         "duration": 10
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "338328",
+    "name": "薛潇",
+    "org_name": "中庚基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "高级研究员",
+    "department": "",
+    "last_interaction_time": "2023-03-29 08:49:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
+        "duration": 24
       }
     ],
     "is_first_attend": true,
@@ -64621,6 +64749,31 @@
     "special_companies": ""
   },
   {
+    "uid": "337342",
+    "name": "尹欣驰",
+    "org_name": "中信证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "汽车及汽车零部件首席分析师",
+    "department": "研究部",
+    "last_interaction_time": "2023-03-29 08:42:34",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
+        "duration": 80
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "504987",
     "name": "董文翰",
     "org_name": "华夏基金管理有限公司",
@@ -64653,31 +64806,6 @@
       }
     ],
     "special_companies": "比亚迪"
-  },
-  {
-    "uid": "337342",
-    "name": "尹欣驰",
-    "org_name": "中信证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "汽车及汽车零部件首席分析师",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-29 08:42:34",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
-        "duration": 80
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "505293",
@@ -66305,30 +66433,6 @@
     "special_companies": ""
   },
   {
-    "uid": "263023",
-    "name": "刘千琳",
-    "org_name": "华泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "缺少分类",
-    "position": "研究员",
-    "department": "研究所",
-    "last_interaction_time": "2023-03-29 08:33:23",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "比亚迪",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "比亚迪",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": "比亚迪"
-  },
-  {
     "uid": "576406",
     "name": "顾雨梦",
     "org_name": "龙赢富泽资产管理（北京）有限公司",
@@ -66350,6 +66454,30 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": "比亚迪"
+  },
+  {
+    "uid": "263023",
+    "name": "刘千琳",
+    "org_name": "华泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "缺少分类",
+    "position": "研究员",
+    "department": "研究所",
+    "last_interaction_time": "2023-03-29 08:33:23",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "比亚迪",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
     "subscribed_companies": [
       {
         "company": "比亚迪",
@@ -67169,6 +67297,36 @@
     "special_companies": ""
   },
   {
+    "uid": "576647",
+    "name": "谢亚辉",
+    "org_name": "方正证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "实习助理",
+    "department": "汽车组",
+    "last_interaction_time": "2023-03-29 08:31:39",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "比亚迪",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
+        "duration": 5
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": "比亚迪"
+  },
+  {
     "uid": "576807",
     "name": "周梁",
     "org_name": "物产中大集团投资有限公司",
@@ -67389,36 +67547,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "576647",
-    "name": "谢亚辉",
-    "org_name": "方正证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "实习助理",
-    "department": "汽车组",
-    "last_interaction_time": "2023-03-29 08:31:39",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "比亚迪",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
-        "duration": 5
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "比亚迪",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": "比亚迪"
   },
   {
     "uid": "347105",
@@ -68203,31 +68331,6 @@
     "special_companies": ""
   },
   {
-    "uid": "503494",
-    "name": "宋杨湾",
-    "org_name": "上海恒复投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-03-29 08:29:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
-        "duration": 109
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "336865",
     "name": "陈旭东",
     "org_name": "华泰证券股份有限公司研究所",
@@ -68251,6 +68354,31 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": "比亚迪,比亚迪电子"
+  },
+  {
+    "uid": "503494",
+    "name": "宋杨湾",
+    "org_name": "上海恒复投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-03-29 08:29:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
+        "duration": 109
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "438523",
@@ -68332,31 +68460,6 @@
     "special_companies": ""
   },
   {
-    "uid": "438638",
-    "name": "安志鹏",
-    "org_name": "富国基金",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "高级研究员",
-    "department": "海外权益投资部",
-    "last_interaction_time": "2023-03-29 08:28:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
-        "duration": 87
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "335004",
     "name": "徐惠琳",
     "org_name": "碧云银霞投资管理咨询（上海）有限公司",
@@ -68378,6 +68481,31 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "438638",
+    "name": "安志鹏",
+    "org_name": "富国基金",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "高级研究员",
+    "department": "海外权益投资部",
+    "last_interaction_time": "2023-03-29 08:28:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
+        "duration": 87
+      }
+    ],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -68791,11 +68919,11 @@
         "time": "2023-03-28"
       },
       {
-        "company": "百融智能",
+        "company": "深高速",
         "time": "2023-03-28"
       },
       {
-        "company": "深高速",
+        "company": "百融智能",
         "time": "2023-03-28"
       }
     ],
@@ -68967,31 +69095,6 @@
     "special_companies": ""
   },
   {
-    "uid": "343459",
-    "name": "窦文静",
-    "org_name": "招银国际证券有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "分析师",
-    "department": "",
-    "last_interaction_time": "2023-03-29 08:26:29",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
-        "duration": 87
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "497228",
     "name": "方佳佳",
     "org_name": "星展银行(中国)有限公司",
@@ -69015,6 +69118,31 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": "比亚迪"
+  },
+  {
+    "uid": "343459",
+    "name": "窦文静",
+    "org_name": "招银国际证券有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2023-03-29 08:26:29",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
+        "duration": 87
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "343530",
@@ -69092,36 +69220,6 @@
     "special_companies": ""
   },
   {
-    "uid": "38721",
-    "name": "程瀟涵",
-    "org_name": "匠人资本（香港）",
-    "org_type": null,
-    "cert_type": "机构投资者",
-    "position": "分析師",
-    "department": "",
-    "last_interaction_time": "2023-03-29 08:26:07",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
-        "duration": 107
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "百融智能",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "574073",
     "name": "张觉尹",
     "org_name": "海通证券股份有限公司",
@@ -69170,6 +69268,36 @@
       }
     ],
     "special_companies": "比亚迪"
+  },
+  {
+    "uid": "38721",
+    "name": "程瀟涵",
+    "org_name": "匠人资本（香港）",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "分析師",
+    "department": "",
+    "last_interaction_time": "2023-03-29 08:26:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "比亚迪股份（002594.SZ，1211.HK）2022年全年业绩公布投资者推介会",
+        "duration": 107
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "百融智能",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "430354",

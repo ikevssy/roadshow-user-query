@@ -3415,49 +3415,6 @@
     "special_companies": ""
   },
   {
-    "uid": "633618",
-    "name": "郑浩南",
-    "org_name": "中集天达控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "战略投资经理",
-    "department": "管理发展部",
-    "last_interaction_time": "2026-03-27 15:38:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集集团",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会"
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2024年全年业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会",
-        "duration": 18
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中集集团",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "希迪智驾",
-        "time": "2026-03-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "254530",
     "name": "张军",
     "org_name": "慈溪风力发电有限公司",
@@ -3509,6 +3466,49 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": "中集集团"
+  },
+  {
+    "uid": "633618",
+    "name": "郑浩南",
+    "org_name": "中集天达控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "战略投资经理",
+    "department": "管理发展部",
+    "last_interaction_time": "2026-03-27 15:38:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集集团",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会"
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2024年全年业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会",
+        "duration": 18
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中集集团",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-27"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "551018",
@@ -17396,36 +17396,6 @@
     "special_companies": ""
   },
   {
-    "uid": "573827",
-    "name": "王安亚",
-    "org_name": "東騰創新投資股份有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "个人",
-    "position": "總經理",
-    "department": "",
-    "last_interaction_time": "2025-08-28 15:29:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "中集集团2025年中期业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "中集集团2025年中期业绩说明会",
-        "duration": 78
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "430285",
     "name": "吴洋",
     "org_name": "招商证券股份有限公司",
@@ -17472,6 +17442,36 @@
         "time": "2025-08-28"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "573827",
+    "name": "王安亚",
+    "org_name": "東騰創新投資股份有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "个人",
+    "position": "總經理",
+    "department": "",
+    "last_interaction_time": "2025-08-28 15:29:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "中集集团2025年中期业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "中集集团2025年中期业绩说明会",
+        "duration": 78
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -29930,6 +29930,39 @@
     "special_companies": "万物云,中国人寿,中国电信,新鸿基公司,明源云"
   },
   {
+    "uid": "263545",
+    "name": "张贝贝",
+    "org_name": "星展银行（中国）有限公司",
+    "org_type": "银行",
+    "cert_type": "卖方分析师",
+    "position": "助理副总裁|分析师",
+    "department": "研究部",
+    "last_interaction_time": "2024-03-28 15:50:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-25",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "京东物流",
+        "time": "2023-05-11"
+      },
+      {
+        "company": "顺丰同城",
+        "time": "2023-02-15"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "434635",
     "name": "程艺新",
     "org_name": "深圳市路演中网络科技有限公司",
@@ -29977,39 +30010,6 @@
       }
     ],
     "special_companies": "天齐锂业"
-  },
-  {
-    "uid": "263545",
-    "name": "张贝贝",
-    "org_name": "星展银行（中国）有限公司",
-    "org_type": "银行",
-    "cert_type": "卖方分析师",
-    "position": "助理副总裁|分析师",
-    "department": "研究部",
-    "last_interaction_time": "2024-03-28 15:50:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-25",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "京东物流",
-        "time": "2023-05-11"
-      },
-      {
-        "company": "顺丰同城",
-        "time": "2023-02-15"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "576916",

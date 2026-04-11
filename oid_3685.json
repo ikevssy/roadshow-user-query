@@ -9014,6 +9014,74 @@
     "special_companies": ""
   },
   {
+    "uid": "264343",
+    "name": "李可伦",
+    "org_name": "富国基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "行业研究员",
+    "department": "权益研究部",
+    "last_interaction_time": "2026-03-30 16:02:02",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
+      },
+      {
+        "time": "2025-08-19",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
+        "duration": 21
+      },
+      {
+        "time": "2025-10-28",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 23
+      },
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会",
+        "duration": 32
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2026-03-30"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "506440",
     "name": "邓怡亮",
     "org_name": "光大证券股份有限公司",
@@ -9117,74 +9185,6 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": "金风科技"
-  },
-  {
-    "uid": "264343",
-    "name": "李可伦",
-    "org_name": "富国基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "行业研究员",
-    "department": "权益研究部",
-    "last_interaction_time": "2026-03-30 16:02:02",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
-      },
-      {
-        "time": "2025-08-19",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
-        "duration": 21
-      },
-      {
-        "time": "2025-10-28",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 23
-      },
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会",
-        "duration": 32
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "金风科技",
-        "time": "2026-03-30"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "571661",
@@ -9376,41 +9376,6 @@
     "special_companies": ""
   },
   {
-    "uid": "343584",
-    "name": "李正强",
-    "org_name": "沣京资本管理（北京）有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-30 16:01:58",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
-        "duration": 7
-      },
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "496763",
     "name": "杨志芳",
     "org_name": "兴业证券经济与金融研究院",
@@ -9510,6 +9475,41 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": "金风科技"
+  },
+  {
+    "uid": "343584",
+    "name": "李正强",
+    "org_name": "沣京资本管理（北京）有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2026-03-30 16:01:58",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
+        "duration": 7
+      },
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "448808",
@@ -9845,6 +9845,41 @@
     "special_companies": "中广核新能源,长江电力"
   },
   {
+    "uid": "334290",
+    "name": "张浩",
+    "org_name": "大家资产管理有限责任公司",
+    "org_type": "其他私募投资基金管理人(未备案)",
+    "cert_type": "机构投资者",
+    "position": "投资经理助理",
+    "department": "权益投资部",
+    "last_interaction_time": "2026-03-30 16:01:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
+        "duration": 65
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中通快递-W",
+        "time": "2024-03-20"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "613697",
     "name": "Claire Wang",
     "org_name": "大华继显(香港)有限公司",
@@ -9904,41 +9939,6 @@
       }
     ],
     "special_companies": "金风科技"
-  },
-  {
-    "uid": "334290",
-    "name": "张浩",
-    "org_name": "大家资产管理有限责任公司",
-    "org_type": "其他私募投资基金管理人(未备案)",
-    "cert_type": "机构投资者",
-    "position": "投资经理助理",
-    "department": "权益投资部",
-    "last_interaction_time": "2026-03-30 16:01:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
-        "duration": 65
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中通快递-W",
-        "time": "2024-03-20"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "433637",
@@ -11540,96 +11540,6 @@
     "special_companies": "金风科技"
   },
   {
-    "uid": "562546",
-    "name": "邓宇轩",
-    "org_name": "西部证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "研究员",
-    "department": "电力设备与新能源行业",
-    "last_interaction_time": "2026-03-30 16:00:43",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 6,
-    "apply_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-10-23",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
-      },
-      {
-        "time": "2025-04-22",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年一季度业绩发布会"
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-10-22",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会"
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 8,
-    "attend_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
-        "duration": 67
-      },
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 43
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会",
-        "duration": 5
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年度业绩发布会",
-        "duration": 37
-      },
-      {
-        "time": "2024-10-28",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会",
-        "duration": 57
-      },
-      {
-        "time": "2024-08-26",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会",
-        "duration": 80
-      },
-      {
-        "time": "2024-04-29",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年一季度业绩发布会",
-        "duration": 53
-      },
-      {
-        "time": "2024-03-29",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年度业绩发布会",
-        "duration": 78
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "金风科技",
-        "time": "2025-08-19"
-      }
-    ],
-    "special_companies": "金风科技"
-  },
-  {
     "uid": "334907",
     "name": "周健鋒",
     "org_name": "中泰金融国际有限公司研究所",
@@ -11771,6 +11681,96 @@
       }
     ],
     "special_companies": "中广核新能源,信义光能,协合新能源,宏信建发"
+  },
+  {
+    "uid": "562546",
+    "name": "邓宇轩",
+    "org_name": "西部证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "研究员",
+    "department": "电力设备与新能源行业",
+    "last_interaction_time": "2026-03-30 16:00:43",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 6,
+    "apply_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-10-23",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
+      },
+      {
+        "time": "2025-04-22",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年一季度业绩发布会"
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-10-22",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会"
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 8,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
+        "duration": 67
+      },
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 43
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会",
+        "duration": 5
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年度业绩发布会",
+        "duration": 37
+      },
+      {
+        "time": "2024-10-28",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会",
+        "duration": 57
+      },
+      {
+        "time": "2024-08-26",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会",
+        "duration": 80
+      },
+      {
+        "time": "2024-04-29",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年一季度业绩发布会",
+        "duration": 53
+      },
+      {
+        "time": "2024-03-29",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年度业绩发布会",
+        "duration": 78
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2025-08-19"
+      }
+    ],
+    "special_companies": "金风科技"
   },
   {
     "uid": "611186",
@@ -11962,40 +11962,6 @@
     "special_companies": ""
   },
   {
-    "uid": "337351",
-    "name": "冯键嵘",
-    "org_name": "招银国际环球市场有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "执行董事",
-    "department": "研究部",
-    "last_interaction_time": "2026-03-30 16:00:39",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "607742",
     "name": "俞悦",
     "org_name": "信达证券股份有限公司",
@@ -12083,6 +12049,40 @@
     "special_companies": ""
   },
   {
+    "uid": "337351",
+    "name": "冯键嵘",
+    "org_name": "招银国际环球市场有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "执行董事",
+    "department": "研究部",
+    "last_interaction_time": "2026-03-30 16:00:39",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "645976",
     "name": "林红",
     "org_name": "中新融创资本管理有限公司",
@@ -12116,73 +12116,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "280708",
-    "name": "王蒙",
-    "org_name": "上海明河投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-30 16:00:38",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-29",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
-      },
-      {
-        "time": "2025-04-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年一季度业绩发布会"
-      },
-      {
-        "time": "2024-08-25",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
-        "duration": 68
-      },
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 68
-      },
-      {
-        "time": "2024-10-28",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会",
-        "duration": 58
-      },
-      {
-        "time": "2024-08-26",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会",
-        "duration": 64
-      },
-      {
-        "time": "2024-08-26",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "金风科技",
-        "time": "2024-10-25"
-      }
-    ],
-    "special_companies": "金风科技"
   },
   {
     "uid": "436901",
@@ -12278,6 +12211,73 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [],
+    "special_companies": "金风科技"
+  },
+  {
+    "uid": "280708",
+    "name": "王蒙",
+    "org_name": "上海明河投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2026-03-30 16:00:38",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-29",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
+      },
+      {
+        "time": "2025-04-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年一季度业绩发布会"
+      },
+      {
+        "time": "2024-08-25",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
+        "duration": 68
+      },
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 68
+      },
+      {
+        "time": "2024-10-28",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会",
+        "duration": 58
+      },
+      {
+        "time": "2024-08-26",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会",
+        "duration": 64
+      },
+      {
+        "time": "2024-08-26",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2024-10-25"
+      }
+    ],
     "special_companies": "金风科技"
   },
   {
@@ -12399,6 +12399,41 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "502436",
+    "name": "钟欣材",
+    "org_name": "太平洋证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "新能源研究员",
+    "department": "研究院",
+    "last_interaction_time": "2026-03-30 16:00:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2026-03-30"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -12545,41 +12580,6 @@
       }
     ],
     "special_companies": "金风科技"
-  },
-  {
-    "uid": "502436",
-    "name": "钟欣材",
-    "org_name": "太平洋证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "新能源研究员",
-    "department": "研究院",
-    "last_interaction_time": "2026-03-30 16:00:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "金风科技",
-        "time": "2026-03-30"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "496494",
@@ -12809,83 +12809,6 @@
     "special_companies": "中广核新能源,信义光能,金风科技,长江电力"
   },
   {
-    "uid": "496078",
-    "name": "郝烁",
-    "org_name": "法国巴黎银行（亚太）有限公司",
-    "org_type": "境外银行",
-    "cert_type": "机构投资者",
-    "position": "信贷分析师",
-    "department": "信贷管理部",
-    "last_interaction_time": "2026-03-30 16:00:31",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-04-22",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年一季度业绩发布会"
-      },
-      {
-        "time": "2025-03-28",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 6,
-    "attend_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
-        "duration": 66
-      },
-      {
-        "time": "2025-04-28",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年一季度业绩发布会",
-        "duration": 62
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年度业绩发布会",
-        "duration": 1
-      },
-      {
-        "time": "2024-08-26",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会",
-        "duration": 33
-      },
-      {
-        "time": "2024-03-29",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2024-03-29",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年度业绩发布会",
-        "duration": 67
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会",
-        "duration": 63
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "金风科技",
-        "time": "2023-08-22"
-      }
-    ],
-    "special_companies": "金风科技"
-  },
-  {
     "uid": "633474",
     "name": "胡智元",
     "org_name": "东亚前海证券有限责任公司",
@@ -12968,6 +12891,83 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "496078",
+    "name": "郝烁",
+    "org_name": "法国巴黎银行（亚太）有限公司",
+    "org_type": "境外银行",
+    "cert_type": "机构投资者",
+    "position": "信贷分析师",
+    "department": "信贷管理部",
+    "last_interaction_time": "2026-03-30 16:00:31",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-04-22",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年一季度业绩发布会"
+      },
+      {
+        "time": "2025-03-28",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 6,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
+        "duration": 66
+      },
+      {
+        "time": "2025-04-28",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年一季度业绩发布会",
+        "duration": 62
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年度业绩发布会",
+        "duration": 1
+      },
+      {
+        "time": "2024-08-26",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会",
+        "duration": 33
+      },
+      {
+        "time": "2024-03-29",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2024-03-29",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年度业绩发布会",
+        "duration": 67
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会",
+        "duration": 63
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2023-08-22"
+      }
+    ],
+    "special_companies": "金风科技"
   },
   {
     "uid": "506433",
@@ -13209,59 +13209,6 @@
     "special_companies": ""
   },
   {
-    "uid": "637610",
-    "name": "纪博仁",
-    "org_name": "金风科技股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "合并报表主管",
-    "department": "财务管理部",
-    "last_interaction_time": "2026-03-30 16:00:28",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-24",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
-        "duration": 68
-      },
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 17
-      },
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 67
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会",
-        "duration": 23
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "503466",
     "name": "郭琳",
     "org_name": "中泰证券股份有限公司",
@@ -13355,6 +13302,59 @@
         "time": "2023-10-26"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "637610",
+    "name": "纪博仁",
+    "org_name": "金风科技股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "合并报表主管",
+    "department": "财务管理部",
+    "last_interaction_time": "2026-03-30 16:00:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年度业绩发布会",
+        "duration": 68
+      },
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 17
+      },
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 67
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会",
+        "duration": 23
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -25414,30 +25414,6 @@
     "special_companies": ""
   },
   {
-    "uid": "639078",
-    "name": "黄羽婷",
-    "org_name": "TX Capital (HK), LTD",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "分析员",
-    "department": "",
-    "last_interaction_time": "2025-10-27 16:14:29",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "338975",
     "name": "黎来论",
     "org_name": "财通证券资产管理有限公司",
@@ -25464,6 +25440,30 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "639078",
+    "name": "黄羽婷",
+    "org_name": "TX Capital (HK), LTD",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "分析员",
+    "department": "",
+    "last_interaction_time": "2025-10-27 16:14:29",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -27432,6 +27432,36 @@
     "special_companies": ""
   },
   {
+    "uid": "277223",
+    "name": "章腾飞",
+    "org_name": "深圳市同威投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2025-10-27 16:03:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "338092",
     "name": "陆翎",
     "org_name": "西泽投资管理有限公司",
@@ -27554,36 +27584,6 @@
       }
     ],
     "special_companies": "小鹏汽车-W,工业富联,波司登,腾讯控股,药明生物"
-  },
-  {
-    "uid": "277223",
-    "name": "章腾飞",
-    "org_name": "深圳市同威投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2025-10-27 16:03:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "502833",
@@ -27836,6 +27836,41 @@
     "special_companies": ""
   },
   {
+    "uid": "559130",
+    "name": "朱攀",
+    "org_name": "爱建证券有限责任公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "新能源首席分析师",
+    "department": "证券研究所",
+    "last_interaction_time": "2025-10-27 16:02:25",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2025-10-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "503490",
     "name": "孟帅",
     "org_name": "Oscar and Partners Capital, LTD",
@@ -27878,41 +27913,6 @@
       }
     ],
     "special_companies": "比亚迪"
-  },
-  {
-    "uid": "559130",
-    "name": "朱攀",
-    "org_name": "爱建证券有限责任公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "新能源首席分析师",
-    "department": "证券研究所",
-    "last_interaction_time": "2025-10-27 16:02:25",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "金风科技",
-        "time": "2025-10-27"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "502376",
@@ -28556,41 +28556,6 @@
     "special_companies": ""
   },
   {
-    "uid": "637083",
-    "name": "邵梓洋",
-    "org_name": "华泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "电力设备与新能源研究员",
-    "department": "研究所",
-    "last_interaction_time": "2025-10-27 16:01:15",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 24
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "正力新能",
-        "time": "2025-08-20"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "436647",
     "name": "江维",
     "org_name": "长城财富保险资产管理股份有限公司",
@@ -28626,6 +28591,41 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "637083",
+    "name": "邵梓洋",
+    "org_name": "华泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "电力设备与新能源研究员",
+    "department": "研究所",
+    "last_interaction_time": "2025-10-27 16:01:15",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 24
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "正力新能",
+        "time": "2025-08-20"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -28706,36 +28706,6 @@
     "special_companies": ""
   },
   {
-    "uid": "639054",
-    "name": "张飞",
-    "org_name": "第一创业证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2025-10-27 16:00:48",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "436638",
     "name": "王一如",
     "org_name": "民生证券股份有限公司",
@@ -28808,6 +28778,36 @@
       }
     ],
     "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "639054",
+    "name": "张飞",
+    "org_name": "第一创业证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2025-10-27 16:00:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -29195,6 +29195,36 @@
     "special_companies": "欧陆通"
   },
   {
+    "uid": "499902",
+    "name": "徐小岚",
+    "org_name": "联博汇智（上海）投资管理有限公司",
+    "org_type": "其他私募投资基金管理人(未备案)",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2025-10-27 16:00:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 53
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "10872",
     "name": "洪一",
     "org_name": "东兴证券股份有限公司",
@@ -29263,65 +29293,6 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "499902",
-    "name": "徐小岚",
-    "org_name": "联博汇智（上海）投资管理有限公司",
-    "org_type": "其他私募投资基金管理人(未备案)",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2025-10-27 16:00:21",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 53
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "430528",
-    "name": "傅奕翔",
-    "org_name": "东方红资产管理有限公司",
-    "org_type": "券商资管",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "公募权益投资部",
-    "last_interaction_time": "2025-10-27 16:00:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "金风科技",
-        "time": "2025-10-27"
-      }
-    ],
     "special_companies": ""
   },
   {
@@ -29394,6 +29365,35 @@
     "special_companies": ""
   },
   {
+    "uid": "430528",
+    "name": "傅奕翔",
+    "org_name": "东方红资产管理有限公司",
+    "org_type": "券商资管",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "公募权益投资部",
+    "last_interaction_time": "2025-10-27 16:00:20",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2025-10-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "20236",
     "name": "金佳音",
     "org_name": "东吴基金管理有限公司",
@@ -29421,6 +29421,58 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "589829",
+    "name": "曲昊源",
+    "org_name": "中国国际金融股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "副总经理",
+    "department": "研究部",
+    "last_interaction_time": "2025-10-27 16:00:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2025-10-24",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
+      },
+      {
+        "time": "2025-08-20",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-04-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年一季度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 69
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "正力新能",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "金风科技",
+        "time": "2025-08-20"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -29465,6 +29517,40 @@
         "time": "2025-10-27"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "436982",
+    "name": "柏杨",
+    "org_name": "淡水泉(北京)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "投资部",
+    "last_interaction_time": "2025-10-27 16:00:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
+        "duration": 69
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -29613,92 +29699,6 @@
       }
     ],
     "special_companies": "金风科技"
-  },
-  {
-    "uid": "436982",
-    "name": "柏杨",
-    "org_name": "淡水泉(北京)投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "投资部",
-    "last_interaction_time": "2025-10-27 16:00:19",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 69
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "589829",
-    "name": "曲昊源",
-    "org_name": "中国国际金融股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "副总经理",
-    "department": "研究部",
-    "last_interaction_time": "2025-10-27 16:00:19",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2025-10-24",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会"
-      },
-      {
-        "time": "2025-08-20",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-04-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年一季度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年三季度业绩发布会",
-        "duration": 69
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "正力新能",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "金风科技",
-        "time": "2025-08-20"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "639068",
@@ -36102,36 +36102,6 @@
     "special_companies": ""
   },
   {
-    "uid": "610488",
-    "name": "张俊龙",
-    "org_name": "耕霁(上海)投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
-    "position": "助理",
-    "department": "市场部",
-    "last_interaction_time": "2025-08-25 16:00:14",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-15",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会",
-        "duration": 69
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "438523",
     "name": "张笑石",
     "org_name": "鲍尔赛嘉（上海）投资管理有限公司",
@@ -36164,6 +36134,36 @@
         "time": "2025-08-25"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "610488",
+    "name": "张俊龙",
+    "org_name": "耕霁(上海)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "助理",
+    "department": "市场部",
+    "last_interaction_time": "2025-08-25 16:00:14",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-15",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2025年中期业绩发布会",
+        "duration": 69
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -51314,6 +51314,36 @@
     "special_companies": ""
   },
   {
+    "uid": "426306",
+    "name": "Willow Zhang",
+    "org_name": "RAYS Capital Partners Limited",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Senior Analyst",
+    "department": "",
+    "last_interaction_time": "2024-10-28 16:01:14",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-10-28",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-10-28",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会",
+        "duration": 53
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "612308",
     "name": "孙辉辉",
     "org_name": "前海人寿保险股份有限公司",
@@ -51356,36 +51386,6 @@
         "time": "2024-08-26"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "426306",
-    "name": "Willow Zhang",
-    "org_name": "RAYS Capital Partners Limited",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Senior Analyst",
-    "department": "",
-    "last_interaction_time": "2024-10-28 16:01:14",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-10-28",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-10-28",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会",
-        "duration": 53
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -52661,36 +52661,6 @@
     "special_companies": ""
   },
   {
-    "uid": "613749",
-    "name": "李天益",
-    "org_name": "和基投资基金管理(苏州)有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "",
-    "last_interaction_time": "2024-10-28 16:00:08",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-10-28",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-10-28",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "582390",
     "name": "吴克文",
     "org_name": "上海泾溪投资管理合伙企业(有限合伙)",
@@ -52722,6 +52692,36 @@
       {
         "time": "2024-08-26",
         "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "613749",
+    "name": "李天益",
+    "org_name": "和基投资基金管理(苏州)有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2024-10-28 16:00:08",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-10-28",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-10-28",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年三季度业绩发布会",
         "duration": 57
       }
     ],
@@ -57152,49 +57152,6 @@
     "special_companies": "海通证券研究所"
   },
   {
-    "uid": "507029",
-    "name": "宇文甸",
-    "org_name": "国金证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "新能源与电力设备组研究员",
-    "department": "新能源与汽车研究部",
-    "last_interaction_time": "2024-08-26 09:09:04",
-    "last_interaction_behavior": "特关",
-    "interaction_company": "金风科技",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-08-26",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-26",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会",
-        "duration": 74
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "金风科技",
-        "time": "2024-08-26"
-      },
-      {
-        "company": "大唐新能源",
-        "time": "2024-07-12"
-      }
-    ],
-    "special_companies": "金风科技"
-  },
-  {
     "uid": "333046",
     "name": "盧逸安",
     "org_name": "金翼资本管理有限公司",
@@ -57240,6 +57197,49 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "507029",
+    "name": "宇文甸",
+    "org_name": "国金证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "新能源与电力设备组研究员",
+    "department": "新能源与汽车研究部",
+    "last_interaction_time": "2024-08-26 09:09:04",
+    "last_interaction_behavior": "特关",
+    "interaction_company": "金风科技",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-08-26",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-26",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会",
+        "duration": 74
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "大唐新能源",
+        "time": "2024-07-12"
+      }
+    ],
+    "special_companies": "金风科技"
   },
   {
     "uid": "436651",
@@ -57626,36 +57626,6 @@
     "special_companies": ""
   },
   {
-    "uid": "499818",
-    "name": "苏泰鹏",
-    "org_name": "新思路投资有限公司",
-    "org_type": "境外投资公司",
-    "cert_type": "个人",
-    "position": "研究分析员",
-    "department": "",
-    "last_interaction_time": "2024-08-26 09:03:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-26",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-26",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "612278",
     "name": "James Li",
     "org_name": "中韩人寿保险有限公司",
@@ -57687,6 +57657,36 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "499818",
+    "name": "苏泰鹏",
+    "org_name": "新思路投资有限公司",
+    "org_type": "境外投资公司",
+    "cert_type": "个人",
+    "position": "研究分析员",
+    "department": "",
+    "last_interaction_time": "2024-08-26 09:03:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-26",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-26",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2024年中期业绩发布会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -65955,6 +65955,36 @@
     "special_companies": ""
   },
   {
+    "uid": "584785",
+    "name": "潘孟",
+    "org_name": "云南能投资本投资有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "高级投资经理",
+    "department": "北京业务部",
+    "last_interaction_time": "2023-10-27 16:00:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年三季度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年三季度业绩发布会",
+        "duration": 51
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "430417",
     "name": "Hailey Xu",
     "org_name": "考斯韦（上海）信息咨询有限公司",
@@ -65987,36 +66017,6 @@
         "time": "2023-10-27"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "584785",
-    "name": "潘孟",
-    "org_name": "云南能投资本投资有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "高级投资经理",
-    "department": "北京业务部",
-    "last_interaction_time": "2023-10-27 16:00:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年三季度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年三季度业绩发布会",
-        "duration": 51
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -66073,36 +66073,6 @@
     "special_companies": "金风科技"
   },
   {
-    "uid": "584775",
-    "name": "GEORGE CHEN",
-    "org_name": "WHITEOAK CAPITAL PARTIIERS PTE.ITD.",
-    "org_type": "一般企业",
-    "cert_type": "机构投资者",
-    "position": "Associate, Investment",
-    "department": "Investment",
-    "last_interaction_time": "2023-10-27 16:00:15",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年三季度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-10-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年三季度业绩发布会",
-        "duration": 41
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "436696",
     "name": "张夕瑶",
     "org_name": "西部证券股份有限公司",
@@ -66129,6 +66099,36 @@
       }
     ],
     "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "584775",
+    "name": "GEORGE CHEN",
+    "org_name": "WHITEOAK CAPITAL PARTIIERS PTE.ITD.",
+    "org_type": "一般企业",
+    "cert_type": "机构投资者",
+    "position": "Associate, Investment",
+    "department": "Investment",
+    "last_interaction_time": "2023-10-27 16:00:15",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年三季度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-10-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年三季度业绩发布会",
+        "duration": 41
+      }
+    ],
+    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -71098,45 +71098,6 @@
     "special_companies": ""
   },
   {
-    "uid": "582065",
-    "name": "黄疏桐",
-    "org_name": "上海朴道瑞富投资管理中心（有限合伙）",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "高级研究员",
-    "department": "",
-    "last_interaction_time": "2023-08-22 16:01:43",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-17",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会",
-        "duration": 25
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "金风科技",
-        "time": "2023-08-18"
-      },
-      {
-        "company": "中国天瑞水泥",
-        "time": "2023-08-18"
-      }
-    ],
-    "special_companies": "金风科技"
-  },
-  {
     "uid": "504511",
     "name": "蒋雨岑",
     "org_name": "中国国际金融股份有限公司",
@@ -71175,6 +71136,45 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "582065",
+    "name": "黄疏桐",
+    "org_name": "上海朴道瑞富投资管理中心（有限合伙）",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "高级研究员",
+    "department": "",
+    "last_interaction_time": "2023-08-22 16:01:43",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-17",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会",
+        "duration": 25
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2023-08-18"
+      },
+      {
+        "company": "中国天瑞水泥",
+        "time": "2023-08-18"
+      }
+    ],
+    "special_companies": "金风科技"
   },
   {
     "uid": "571733",
@@ -71413,6 +71413,36 @@
     "special_companies": "华润医药,腾讯控股"
   },
   {
+    "uid": "429595",
+    "name": "宋雅慧",
+    "org_name": "红杉资本中国基金",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "副总裁",
+    "department": "",
+    "last_interaction_time": "2023-08-22 16:01:37",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-17",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "579202",
     "name": "李永凯",
     "org_name": "山东省投资有限公司",
@@ -71454,36 +71484,6 @@
         "time": "2023-04-21"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "429595",
-    "name": "宋雅慧",
-    "org_name": "红杉资本中国基金",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "副总裁",
-    "department": "",
-    "last_interaction_time": "2023-08-22 16:01:37",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-17",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -71686,6 +71686,36 @@
     "special_companies": ""
   },
   {
+    "uid": "436673",
+    "name": "李灵雪",
+    "org_name": "国联证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "电力设备与新能源研究员",
+    "department": "研究所",
+    "last_interaction_time": "2023-08-22 16:01:34",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-17",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会",
+        "duration": 4
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "577235",
     "name": "陈瑶",
     "org_name": "新疆金风科技股份有限公司",
@@ -71737,36 +71767,6 @@
       }
     ],
     "special_companies": "金风科技"
-  },
-  {
-    "uid": "436673",
-    "name": "李灵雪",
-    "org_name": "国联证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "电力设备与新能源研究员",
-    "department": "研究所",
-    "last_interaction_time": "2023-08-22 16:01:34",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-17",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年中期业绩发布会",
-        "duration": 4
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "582208",
@@ -76549,40 +76549,6 @@
     "special_companies": ""
   },
   {
-    "uid": "576270",
-    "name": "张艳艳",
-    "org_name": "深圳固禾私募证券基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "高级研究员",
-    "department": "",
-    "last_interaction_time": "2023-04-27 15:59:59",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金风科技",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年一季度业绩发布会"
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-27",
-        "meet_title": "金风科技（002202.SZ，02208.HK）2023年一季度业绩发布会",
-        "duration": 53
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "430381",
     "name": "施嘉鸿",
     "org_name": "天风证券股份有限公司",
@@ -76623,6 +76589,40 @@
       }
     ],
     "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "576270",
+    "name": "张艳艳",
+    "org_name": "深圳固禾私募证券基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "高级研究员",
+    "department": "",
+    "last_interaction_time": "2023-04-27 15:59:59",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金风科技",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年一季度业绩发布会"
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-27",
+        "meet_title": "金风科技（002202.SZ，02208.HK）2023年一季度业绩发布会",
+        "duration": 53
+      }
+    ],
+    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },

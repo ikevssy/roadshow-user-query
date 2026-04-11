@@ -27254,41 +27254,6 @@
     "special_companies": "思路迪医药股份,碧桂园,路演中"
   },
   {
-    "uid": "278800",
-    "name": "宋宇飞",
-    "org_name": "中国再保险(集团)股份有限公司",
-    "org_type": "保险公司",
-    "cert_type": "上市公司",
-    "position": "高级副经理",
-    "department": "董事会办公室/投资者关系处",
-    "last_interaction_time": "2025-03-20 11:48:13",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国平安",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-20",
-        "meet_title": "中国平安（601318.SH，02318.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-20",
-        "meet_title": "中国平安（601318.SH，02318.HK）2024年度业绩发布会",
-        "duration": 3
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国人保",
-        "time": "2025-08-28"
-      }
-    ],
-    "special_companies": "中国人寿,中国太保"
-  },
-  {
     "uid": "506772",
     "name": "郭舒洁",
     "org_name": "富国基金管理有限公司",
@@ -27322,6 +27287,41 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "278800",
+    "name": "宋宇飞",
+    "org_name": "中国再保险(集团)股份有限公司",
+    "org_type": "保险公司",
+    "cert_type": "上市公司",
+    "position": "高级副经理",
+    "department": "董事会办公室/投资者关系处",
+    "last_interaction_time": "2025-03-20 11:48:13",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国平安",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-20",
+        "meet_title": "中国平安（601318.SH，02318.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-20",
+        "meet_title": "中国平安（601318.SH，02318.HK）2024年度业绩发布会",
+        "duration": 3
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国人保",
+        "time": "2025-08-28"
+      }
+    ],
+    "special_companies": "中国人寿,中国太保"
   },
   {
     "uid": "339544",
