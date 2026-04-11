@@ -12954,36 +12954,6 @@
     "special_companies": ""
   },
   {
-    "uid": "633605",
-    "name": "段江瑶",
-    "org_name": "华创证券有限责任公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "助理研究员",
-    "department": "医药组",
-    "last_interaction_time": "2025-03-27 10:00:19",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "九源基因",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-26",
-        "meet_title": "九源基因（02566.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-27",
-        "meet_title": "九源基因（02566.HK）2024年度业绩发布会",
-        "duration": 28
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "633215",
     "name": "李潇潇",
     "org_name": "澎湃新闻网",
@@ -13019,20 +12989,20 @@
     "special_companies": ""
   },
   {
-    "uid": "632897",
-    "name": "孙宋暄",
-    "org_name": "兴业证券经济与金融研究院",
+    "uid": "633605",
+    "name": "段江瑶",
+    "org_name": "华创证券有限责任公司研究所",
     "org_type": "券商研究所",
     "cert_type": "卖方分析师",
-    "position": "医药分析师",
-    "department": "",
-    "last_interaction_time": "2025-03-27 10:00:18",
+    "position": "助理研究员",
+    "department": "医药组",
+    "last_interaction_time": "2025-03-27 10:00:19",
     "last_interaction_behavior": "参会",
     "interaction_company": "九源基因",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2025-03-19",
+        "time": "2025-03-26",
         "meet_title": "九源基因（02566.HK）2024年度业绩发布会"
       }
     ],
@@ -13041,7 +13011,7 @@
       {
         "time": "2025-03-27",
         "meet_title": "九源基因（02566.HK）2024年度业绩发布会",
-        "duration": 68
+        "duration": 28
       }
     ],
     "is_first_attend": true,
@@ -13082,6 +13052,36 @@
       }
     ],
     "special_companies": "九源基因"
+  },
+  {
+    "uid": "632897",
+    "name": "孙宋暄",
+    "org_name": "兴业证券经济与金融研究院",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "医药分析师",
+    "department": "",
+    "last_interaction_time": "2025-03-27 10:00:18",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "九源基因",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-19",
+        "meet_title": "九源基因（02566.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-27",
+        "meet_title": "九源基因（02566.HK）2024年度业绩发布会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "633666",

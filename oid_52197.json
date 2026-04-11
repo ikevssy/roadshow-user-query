@@ -11915,45 +11915,6 @@
     "special_companies": "万物云,上海实业控股,东软教育,中广核新能源,华润医药,新希望服务,百融智能,联邦制药,英恒科技,金科服务,金茂服务,金风科技"
   },
   {
-    "uid": "572273",
-    "name": "馮浩",
-    "org_name": "国元咨询服务（深圳）有限公司",
-    "org_type": "一般企业",
-    "cert_type": "卖方分析师",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2024-03-28 19:00:36",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "森松国际",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-20",
-        "meet_title": "森松国际（2155.HK）2023年度业绩发表会"
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "森松国际（2155.HK）2023年度业绩发表会",
-        "duration": 60
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会",
-        "duration": 65
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "中国交建"
-  },
-  {
     "uid": "580458",
     "name": "姚广",
     "org_name": "上海牛乎资产管理有限公司",
@@ -12000,6 +11961,45 @@
       }
     ],
     "special_companies": "湾区发展"
+  },
+  {
+    "uid": "572273",
+    "name": "馮浩",
+    "org_name": "国元咨询服务（深圳）有限公司",
+    "org_type": "一般企业",
+    "cert_type": "卖方分析师",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2024-03-28 19:00:36",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "森松国际",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-20",
+        "meet_title": "森松国际（2155.HK）2023年度业绩发表会"
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "森松国际（2155.HK）2023年度业绩发表会",
+        "duration": 60
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会",
+        "duration": 65
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "中国交建"
   },
   {
     "uid": "263466",
@@ -12140,39 +12140,48 @@
     "special_companies": ""
   },
   {
-    "uid": "283464",
-    "name": "屠芳平",
-    "org_name": "星泰投资管理有限公司",
-    "org_type": "境外资产管理公司",
+    "uid": "339695",
+    "name": "张永林",
+    "org_name": "新华汇富资产管理有限公司",
+    "org_type": "未分类",
     "cert_type": "机构投资者",
-    "position": "高级投资经理",
+    "position": "基金经理",
     "department": "",
     "last_interaction_time": "2024-03-28 19:00:31",
     "last_interaction_behavior": "参会",
     "interaction_company": "森松国际",
-    "apply_count": 1,
+    "apply_count": 2,
     "apply_records": [
       {
         "time": "2024-03-28",
         "meet_title": "森松国际（2155.HK）2023年度业绩发表会"
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会"
       }
     ],
-    "attend_count": 1,
+    "attend_count": 2,
     "attend_records": [
       {
         "time": "2024-03-28",
         "meet_title": "森松国际（2155.HK）2023年度业绩发表会",
         "duration": 59
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会",
+        "duration": 54
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "森松国际",
+        "company": "卓越教育集团",
         "time": "2024-03-28"
       }
     ],
-    "special_companies": "森松国际"
+    "special_companies": "卓越教育集团,天能动力"
   },
   {
     "uid": "578846",
@@ -12213,6 +12222,41 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "283464",
+    "name": "屠芳平",
+    "org_name": "星泰投资管理有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "高级投资经理",
+    "department": "",
+    "last_interaction_time": "2024-03-28 19:00:31",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "森松国际",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "森松国际（2155.HK）2023年度业绩发表会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "森松国际（2155.HK）2023年度业绩发表会",
+        "duration": 59
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "森松国际",
+        "time": "2024-03-28"
+      }
+    ],
+    "special_companies": "森松国际"
   },
   {
     "uid": "344761",
@@ -12260,50 +12304,6 @@
       }
     ],
     "special_companies": "中国心连心化肥,中国电信,建发国际集团,建发物业"
-  },
-  {
-    "uid": "339695",
-    "name": "张永林",
-    "org_name": "新华汇富资产管理有限公司",
-    "org_type": "未分类",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "",
-    "last_interaction_time": "2024-03-28 19:00:31",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "森松国际",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "森松国际（2155.HK）2023年度业绩发表会"
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "森松国际（2155.HK）2023年度业绩发表会",
-        "duration": 59
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "卓越教育集团",
-        "time": "2024-03-28"
-      }
-    ],
-    "special_companies": "卓越教育集团,天能动力"
   },
   {
     "uid": "581918",
@@ -12500,68 +12500,6 @@
     "special_companies": "归创通桥,微创脑科学,诺辉健康"
   },
   {
-    "uid": "581914",
-    "name": "王孜远",
-    "org_name": "深圳市麦星投资管理有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "",
-    "last_interaction_time": "2024-03-28 19:00:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "森松国际",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2024-03-20",
-        "meet_title": "森松国际（2155.HK）2023年度业绩发表会"
-      },
-      {
-        "time": "2023-10-10",
-        "meet_title": "森松国际（02155.HK）线上交流会｜\"2022上市公司路演大会•第三季\""
-      },
-      {
-        "time": "2023-08-21",
-        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "森松国际（2155.HK）2023年度业绩发表会",
-        "duration": 58
-      },
-      {
-        "time": "2023-10-10",
-        "meet_title": "森松国际（02155.HK）线上交流会｜\"2022上市公司路演大会•第三季\"",
-        "duration": 0
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会",
-        "duration": 0
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会",
-        "duration": 65
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "华润医药",
-        "time": "2024-08-29"
-      },
-      {
-        "company": "森松国际",
-        "time": "2023-08-21"
-      }
-    ],
-    "special_companies": "华润医药,森松国际"
-  },
-  {
     "uid": "428280",
     "name": "吕周延",
     "org_name": "奥昇投资管理有限公司",
@@ -12749,6 +12687,68 @@
       }
     ],
     "special_companies": "万物云,华润医疗,卓越商企服务,宝龙商业,森松国际,粉笔,药明生物,融创中国,金茂服务"
+  },
+  {
+    "uid": "581914",
+    "name": "王孜远",
+    "org_name": "深圳市麦星投资管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2024-03-28 19:00:27",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "森松国际",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2024-03-20",
+        "meet_title": "森松国际（2155.HK）2023年度业绩发表会"
+      },
+      {
+        "time": "2023-10-10",
+        "meet_title": "森松国际（02155.HK）线上交流会｜\"2022上市公司路演大会•第三季\""
+      },
+      {
+        "time": "2023-08-21",
+        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "森松国际（2155.HK）2023年度业绩发表会",
+        "duration": 58
+      },
+      {
+        "time": "2023-10-10",
+        "meet_title": "森松国际（02155.HK）线上交流会｜\"2022上市公司路演大会•第三季\"",
+        "duration": 0
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会",
+        "duration": 0
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会",
+        "duration": 65
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华润医药",
+        "time": "2024-08-29"
+      },
+      {
+        "company": "森松国际",
+        "time": "2023-08-21"
+      }
+    ],
+    "special_companies": "华润医药,森松国际"
   },
   {
     "uid": "584661",
@@ -22134,6 +22134,36 @@
     "special_companies": "森松国际"
   },
   {
+    "uid": "582390",
+    "name": "吴克文",
+    "org_name": "上海泾溪投资管理合伙企业(有限合伙)",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "研究部",
+    "last_interaction_time": "2023-08-22 19:00:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "森松国际",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会",
+        "duration": 60
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "492405",
     "name": "李柳晓",
     "org_name": "国信证券（香港）金融控股有限公司",
@@ -22216,36 +22246,6 @@
     ],
     "attend_count": 1,
     "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "582390",
-    "name": "吴克文",
-    "org_name": "上海泾溪投资管理合伙企业(有限合伙)",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "研究部",
-    "last_interaction_time": "2023-08-22 19:00:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "森松国际",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "森松国际（2155.HK）2023年中期业绩发表会",
-        "duration": 60
-      }
-    ],
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""

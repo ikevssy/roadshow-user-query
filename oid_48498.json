@@ -8321,6 +8321,40 @@
     "special_companies": "药明生物"
   },
   {
+    "uid": "333226",
+    "name": "孙鑫",
+    "org_name": "广州穗财投资管理有限公司",
+    "org_type": "其他私募投资基金管理人(未备案)",
+    "cert_type": "缺少分类",
+    "position": "研究助理",
+    "department": "",
+    "last_interaction_time": "2023-08-25 10:31:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中原建业",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "中原建业（9982.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-21",
+        "meet_title": "中原建业（9982.HK）2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-25",
+        "meet_title": "中原建业（9982.HK）2023年中期业绩发布会",
+        "duration": 95
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "279437",
     "name": "胡启源",
     "org_name": "韩国博域咨询服务有限公司深圳代表处",
@@ -8385,40 +8419,6 @@
     "special_companies": "小米集团-W,滨江服务"
   },
   {
-    "uid": "333226",
-    "name": "孙鑫",
-    "org_name": "广州穗财投资管理有限公司",
-    "org_type": "其他私募投资基金管理人(未备案)",
-    "cert_type": "缺少分类",
-    "position": "研究助理",
-    "department": "",
-    "last_interaction_time": "2023-08-25 10:31:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中原建业",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "中原建业（9982.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-21",
-        "meet_title": "中原建业（9982.HK）2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-25",
-        "meet_title": "中原建业（9982.HK）2023年中期业绩发布会",
-        "duration": 95
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "284767",
     "name": "陈剑锋",
     "org_name": "香港上海汇丰银行有限公司",
@@ -8456,54 +8456,6 @@
       }
     ],
     "special_companies": "新世界发展,绿城中国"
-  },
-  {
-    "uid": "284574",
-    "name": "钟锦松",
-    "org_name": "广州市龙智投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资总监",
-    "department": "",
-    "last_interaction_time": "2023-08-25 10:31:36",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中原建业",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-08-21",
-        "meet_title": "中原建业（9982.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-15",
-        "meet_title": "中原建业（9982.HK）2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-08-25",
-        "meet_title": "中原建业（9982.HK）2023年中期业绩发布会",
-        "duration": 96
-      },
-      {
-        "time": "2023-03-21",
-        "meet_title": "中原建业（9982.HK）2022年全年业绩发布会",
-        "duration": 81
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "复星国际",
-        "time": "2023-08-31"
-      },
-      {
-        "company": "建业地产",
-        "time": "2023-04-03"
-      }
-    ],
-    "special_companies": "复星国际,建业地产"
   },
   {
     "uid": "332904",
@@ -8702,6 +8654,54 @@
       }
     ],
     "special_companies": "万物云,中国交建,农夫山泉,合景悠活,宝龙商业,建发物业,招商银行,新希望服务,星盛商业,永升服务,碧桂园,绿城中国,绿城管理控股,融创服务,路演中,金茂服务,雅生活服务"
+  },
+  {
+    "uid": "284574",
+    "name": "钟锦松",
+    "org_name": "广州市龙智投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资总监",
+    "department": "",
+    "last_interaction_time": "2023-08-25 10:31:36",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中原建业",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-08-21",
+        "meet_title": "中原建业（9982.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-15",
+        "meet_title": "中原建业（9982.HK）2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-08-25",
+        "meet_title": "中原建业（9982.HK）2023年中期业绩发布会",
+        "duration": 96
+      },
+      {
+        "time": "2023-03-21",
+        "meet_title": "中原建业（9982.HK）2022年全年业绩发布会",
+        "duration": 81
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "复星国际",
+        "time": "2023-08-31"
+      },
+      {
+        "company": "建业地产",
+        "time": "2023-04-03"
+      }
+    ],
+    "special_companies": "复星国际,建业地产"
   },
   {
     "uid": "337330",
@@ -22687,36 +22687,6 @@
     "special_companies": ""
   },
   {
-    "uid": "433647",
-    "name": "郑晓君",
-    "org_name": "方圆天成资产管理（深圳）有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-03-21 10:36:45",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中原建业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-17",
-        "meet_title": "中原建业（9982.HK）2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-21",
-        "meet_title": "中原建业（9982.HK）2022年全年业绩发布会",
-        "duration": 81
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "280305",
     "name": "劉啟傑",
     "org_name": "民银资本控股有限公司",
@@ -22814,6 +22784,36 @@
       }
     ],
     "special_companies": "中国海外宏洋集团,新鸿基公司,美的置业"
+  },
+  {
+    "uid": "433647",
+    "name": "郑晓君",
+    "org_name": "方圆天成资产管理（深圳）有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-03-21 10:36:45",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中原建业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-17",
+        "meet_title": "中原建业（9982.HK）2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-21",
+        "meet_title": "中原建业（9982.HK）2022年全年业绩发布会",
+        "duration": 81
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "352430",
