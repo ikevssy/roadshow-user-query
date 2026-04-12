@@ -11532,6 +11532,44 @@
     "special_companies": "上海医药,中粮家佳康,华润电力,协合新能源,敏华控股,绿城管理控股"
   },
   {
+    "uid": "582345",
+    "name": "徐彪",
+    "org_name": "北京佳航会议服务有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "技术部",
+    "department": "",
+    "last_interaction_time": "2025-03-27 08:57:30",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中信证券",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-27",
+        "meet_title": "中信证券2024年度业绩发布会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "远东宏信",
+        "time": "2025-08-01"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-08-29"
+      }
+    ],
+    "special_companies": "中国建筑"
+  },
+  {
     "uid": "574117",
     "name": "李劲锋",
     "org_name": "天风证券股份有限公司研究所",
@@ -11729,44 +11767,6 @@
       }
     ],
     "special_companies": "中信证券,中国海外宏洋集团,九方智投控股,光大证券,国银金租,百融智能,碧桂园服务,融创中国"
-  },
-  {
-    "uid": "582345",
-    "name": "徐彪",
-    "org_name": "北京佳航会议服务有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "技术部",
-    "department": "",
-    "last_interaction_time": "2025-03-27 08:57:30",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中信证券",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-27",
-        "meet_title": "中信证券2024年度业绩发布会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "远东宏信",
-        "time": "2025-08-01"
-      },
-      {
-        "company": "中国建筑",
-        "time": "2023-08-30"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-08-29"
-      }
-    ],
-    "special_companies": "中国建筑"
   },
   {
     "uid": "436068",

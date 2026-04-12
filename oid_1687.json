@@ -36,6 +36,11 @@
     "attend_count": 5,
     "attend_records": [
       {
+        "time": "2026-04-11",
+        "meet_title": "招商银行（600036.SH，03968.HK）2024年度业绩交流会",
+        "duration": 0
+      },
+      {
         "time": "2026-03-31",
         "meet_title": "CMB 2025 Annual Results Announcement",
         "duration": 0
@@ -12896,6 +12901,14 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-12"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2026-04-12"
+      },
       {
         "company": "博腾股份",
         "time": "2026-04-02"
@@ -55593,13 +55606,13 @@
       },
       {
         "time": "2023-03-27",
-        "meet_title": "China Merchants Bank 2022 Annual Results Announcement",
-        "duration": 2
+        "meet_title": "招商银行（600036.SH，03968.HK）2022年度业绩发布会",
+        "duration": 10
       },
       {
         "time": "2023-03-27",
-        "meet_title": "招商银行（600036.SH，03968.HK）2022年度业绩发布会",
-        "duration": 10
+        "meet_title": "China Merchants Bank 2022 Annual Results Announcement",
+        "duration": 2
       }
     ],
     "is_first_attend": true,
