@@ -4984,45 +4984,6 @@
     "special_companies": ""
   },
   {
-    "uid": "581326",
-    "name": "孙亦欣",
-    "org_name": "华泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "证券行业分析师",
-    "department": "研究所",
-    "last_interaction_time": "2026-03-27 14:27:25",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "九方智投控股",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-16",
-        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-21",
-        "meet_title": "九方智投控股（09636.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会",
-        "duration": 74
-      },
-      {
-        "time": "2025-08-29",
-        "meet_title": "九方智投控股（09636.HK）2025年中期业绩发布会",
-        "duration": 37
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "504227",
     "name": "开妍",
     "org_name": "兴业证券经济与金融研究院",
@@ -5073,6 +5034,45 @@
         "time": "2025-08-01"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "581326",
+    "name": "孙亦欣",
+    "org_name": "华泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "证券行业分析师",
+    "department": "研究所",
+    "last_interaction_time": "2026-03-27 14:27:25",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "九方智投控股",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-16",
+        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-21",
+        "meet_title": "九方智投控股（09636.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会",
+        "duration": 74
+      },
+      {
+        "time": "2025-08-29",
+        "meet_title": "九方智投控股（09636.HK）2025年中期业绩发布会",
+        "duration": 37
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -8176,6 +8176,14 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-12"
+      },
+      {
+        "company": "迈瑞医疗",
+        "time": "2026-04-12"
+      },
       {
         "company": "英伟达",
         "time": "2026-01-14"

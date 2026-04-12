@@ -10675,6 +10675,25 @@
     "special_companies": "中国黄金国际"
   },
   {
+    "uid": "504957",
+    "name": "范嘉俊",
+    "org_name": "新余善思投资管理中心(有限合伙)",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-03-29 10:40:06",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪电子",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "270177",
     "name": "胡继中",
     "org_name": "上海盛宇股权投资基金管理有限公司",
@@ -10711,25 +10730,6 @@
       }
     ],
     "special_companies": "波司登"
-  },
-  {
-    "uid": "504957",
-    "name": "范嘉俊",
-    "org_name": "新余善思投资管理中心(有限合伙)",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-03-29 10:40:06",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪电子",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "347619",
@@ -11917,6 +11917,36 @@
     "special_companies": ""
   },
   {
+    "uid": "430310",
+    "name": "温晓宇",
+    "org_name": "第一上海金融集团有限公司",
+    "org_type": "实业投资",
+    "cert_type": "个人",
+    "position": "經理",
+    "department": "",
+    "last_interaction_time": "2023-03-29 10:32:59",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪电子",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "比亚迪电子（00285.HK）2022年度业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2023-03-29",
+        "meet_title": "比亚迪电子（00285.HK）2022年度业绩发布会",
+        "duration": 83
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "比亚迪电子"
+  },
+  {
     "uid": "438733",
     "name": "权鹤阳",
     "org_name": "华泰证券股份有限公司",
@@ -11940,36 +11970,6 @@
         "time": "2023-03-29",
         "meet_title": "比亚迪电子（00285.HK）2022年度业绩发布会",
         "duration": 83
-      },
-      {
-        "time": "2023-03-29",
-        "meet_title": "比亚迪电子（00285.HK）2022年度业绩发布会",
-        "duration": 83
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "比亚迪电子"
-  },
-  {
-    "uid": "430310",
-    "name": "温晓宇",
-    "org_name": "第一上海金融集团有限公司",
-    "org_type": "实业投资",
-    "cert_type": "个人",
-    "position": "經理",
-    "department": "",
-    "last_interaction_time": "2023-03-29 10:32:59",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪电子",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "比亚迪电子（00285.HK）2022年度业绩发布会",
-        "duration": 2
       },
       {
         "time": "2023-03-29",
@@ -12032,6 +12032,31 @@
     "special_companies": ""
   },
   {
+    "uid": "430827",
+    "name": "卞学清",
+    "org_name": "东吴证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "海外TMT行业研究员",
+    "department": "研究所",
+    "last_interaction_time": "2023-03-29 10:32:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪电子",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "比亚迪电子（00285.HK）2022年度业绩发布会",
+        "duration": 83
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "504433",
     "name": "程燕",
     "org_name": "比亚迪股份有限公司",
@@ -12066,14 +12091,14 @@
     "special_companies": "比亚迪"
   },
   {
-    "uid": "430827",
-    "name": "卞学清",
-    "org_name": "东吴证券股份有限公司",
+    "uid": "504475",
+    "name": "高远",
+    "org_name": "华创证券有限责任公司",
     "org_type": "证券公司",
     "cert_type": "卖方分析师",
-    "position": "海外TMT行业研究员",
+    "position": "电子组研究员",
     "department": "研究所",
-    "last_interaction_time": "2023-03-29 10:32:54",
+    "last_interaction_time": "2023-03-29 10:32:53",
     "last_interaction_behavior": "参会",
     "interaction_company": "比亚迪电子",
     "apply_count": 0,
@@ -12189,14 +12214,39 @@
     "special_companies": ""
   },
   {
-    "uid": "504475",
-    "name": "高远",
-    "org_name": "华创证券有限责任公司",
+    "uid": "497421",
+    "name": "邓迪飞",
+    "org_name": "上海东方财富证券投资咨询有限公司",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "电子行业研究员",
+    "department": "研究所",
+    "last_interaction_time": "2023-03-29 10:32:52",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "比亚迪电子",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "比亚迪电子（00285.HK）2022年度业绩发布会",
+        "duration": 82
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "494869",
+    "name": "曹佳桐",
+    "org_name": "中国国际金融股份有限公司",
     "org_type": "证券公司",
     "cert_type": "卖方分析师",
-    "position": "电子组研究员",
-    "department": "研究所",
-    "last_interaction_time": "2023-03-29 10:32:53",
+    "position": "分析员",
+    "department": "研究部",
+    "last_interaction_time": "2023-03-29 10:32:52",
     "last_interaction_behavior": "参会",
     "interaction_company": "比亚迪电子",
     "apply_count": 0,
@@ -12210,7 +12260,12 @@
       }
     ],
     "is_first_attend": false,
-    "subscribed_companies": [],
+    "subscribed_companies": [
+      {
+        "company": "金科服务",
+        "time": "2023-03-15"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -12268,61 +12323,6 @@
       }
     ],
     "special_companies": "英恒科技"
-  },
-  {
-    "uid": "497421",
-    "name": "邓迪飞",
-    "org_name": "上海东方财富证券投资咨询有限公司",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "电子行业研究员",
-    "department": "研究所",
-    "last_interaction_time": "2023-03-29 10:32:52",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪电子",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "比亚迪电子（00285.HK）2022年度业绩发布会",
-        "duration": 82
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "494869",
-    "name": "曹佳桐",
-    "org_name": "中国国际金融股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "分析员",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-29 10:32:52",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "比亚迪电子",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "比亚迪电子（00285.HK）2022年度业绩发布会",
-        "duration": 83
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "金科服务",
-        "time": "2023-03-15"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "497254",
