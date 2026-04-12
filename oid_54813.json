@@ -5480,60 +5480,6 @@
     "special_companies": "九源基因"
   },
   {
-    "uid": "633681",
-    "name": "闫宏宏",
-    "org_name": "杭州九源基因工程股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "大区经理",
-    "department": "内蒙古地区",
-    "last_interaction_time": "2025-08-19 15:01:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "九源基因",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "九源基因（02566.HK）2025年中期业绩会"
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "九源基因（02566.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "九源基因（02566.HK）2025年中期业绩会",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-19",
-        "meet_title": "九源基因（02566.HK）2025年中期业绩会",
-        "duration": 54
-      },
-      {
-        "time": "2025-08-19",
-        "meet_title": "九源基因（02566.HK）2024年度业绩发布会",
-        "duration": 1
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "九源基因（02566.HK）2024年度业绩发布会",
-        "duration": 34
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "九源基因",
-        "time": "2025-03-27"
-      }
-    ],
-    "special_companies": "九源基因"
-  },
-  {
     "uid": "636817",
     "name": "王骊",
     "org_name": "九派创业投资管理有限公司",
@@ -5715,6 +5661,60 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "633681",
+    "name": "闫宏宏",
+    "org_name": "杭州九源基因工程股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "大区经理",
+    "department": "内蒙古地区",
+    "last_interaction_time": "2025-08-19 15:01:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "九源基因",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "九源基因（02566.HK）2025年中期业绩会"
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "九源基因（02566.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "九源基因（02566.HK）2025年中期业绩会",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-19",
+        "meet_title": "九源基因（02566.HK）2025年中期业绩会",
+        "duration": 54
+      },
+      {
+        "time": "2025-08-19",
+        "meet_title": "九源基因（02566.HK）2024年度业绩发布会",
+        "duration": 1
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "九源基因（02566.HK）2024年度业绩发布会",
+        "duration": 34
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "九源基因",
+        "time": "2025-03-27"
+      }
+    ],
+    "special_companies": "九源基因"
   },
   {
     "uid": "582039",

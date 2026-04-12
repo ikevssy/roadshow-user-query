@@ -1,5 +1,313 @@
 [
   {
+    "uid": "591688",
+    "name": "赖文晖",
+    "org_name": "广州越秀资本控股集团股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "分析师",
+    "department": "战略管理部",
+    "last_interaction_time": "2026-04-13 00:52:14",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-04-13",
+        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会"
+      },
+      {
+        "time": "2026-04-09",
+        "meet_title": "中国船舶租赁（3877.HK）2025全年业绩发布会"
+      },
+      {
+        "time": "2025-09-08",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-09-18",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-09-17",
+        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
+        "duration": 50
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中煤能源",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "协鑫科技",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "申万宏源",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "国银金租",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2026-03-12"
+      },
+      {
+        "company": "理想汽车-w",
+        "time": "2026-03-07"
+      },
+      {
+        "company": "蔚来",
+        "time": "2026-03-07"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2026-02-26"
+      },
+      {
+        "company": "摩根士丹利",
+        "time": "2026-01-16"
+      },
+      {
+        "company": "花旗",
+        "time": "2026-01-16"
+      },
+      {
+        "company": "高盛",
+        "time": "2026-01-16"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-11-14"
+      },
+      {
+        "company": "百度",
+        "time": "2025-11-14"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "麦当劳",
+        "time": "2025-11-05"
+      },
+      {
+        "company": "百胜中国",
+        "time": "2025-11-03"
+      },
+      {
+        "company": "联合健康",
+        "time": "2025-10-24"
+      },
+      {
+        "company": "联合租赁",
+        "time": "2025-10-24"
+      },
+      {
+        "company": "可口可乐",
+        "time": "2025-10-21"
+      },
+      {
+        "company": "苹果",
+        "time": "2025-10-17"
+      },
+      {
+        "company": "微软",
+        "time": "2025-10-17"
+      },
+      {
+        "company": "特斯拉",
+        "time": "2025-10-17"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2025-09-18"
+      },
+      {
+        "company": "万利",
+        "time": "2025-09-11"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2025-09-08"
+      },
+      {
+        "company": "中信证券",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "杭州银行",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "华润医药",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "浙商银行",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "交通银行",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "金风科技",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "英伟达",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "九方智投控股",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "复星国际",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "国泰君安国际",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "友邦保险",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "工业富联",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "美的集团",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "恒瑞医药",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "中国人保",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "中信银行",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "汇丰控股",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "农业银行",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "中国平安",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "建设银行",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "中国银行",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "招商银行",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "工商银行",
+        "time": "2025-08-05"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2025-08-05"
+      },
+      {
+        "company": null,
+        "time": "2025-08-05"
+      },
+      {
+        "company": "一德期货有限公司",
+        "time": "2025-08-05"
+      }
+    ],
+    "special_companies": "国银金租"
+  },
+  {
     "uid": "497048",
     "name": "Qi Wen",
     "org_name": "Jefferies",
@@ -2589,310 +2897,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "591688",
-    "name": "赖文晖",
-    "org_name": "广州越秀资本控股集团股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "分析师",
-    "department": "战略管理部",
-    "last_interaction_time": "2026-04-09 17:00:18",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-04-09",
-        "meet_title": "中国船舶租赁（3877.HK）2025全年业绩发布会"
-      },
-      {
-        "time": "2025-09-08",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-09-18",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-09-17",
-        "meet_title": "中国船舶租赁（3877.HK）2025年中期业绩发布会",
-        "duration": 50
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中煤能源",
-        "time": "2026-04-01"
-      },
-      {
-        "company": "中国通信服务",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "协鑫科技",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "申万宏源",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "贝壳",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "国银金租",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "万国数据服务",
-        "time": "2026-03-12"
-      },
-      {
-        "company": "理想汽车-w",
-        "time": "2026-03-07"
-      },
-      {
-        "company": "蔚来",
-        "time": "2026-03-07"
-      },
-      {
-        "company": "宏信建发",
-        "time": "2026-02-26"
-      },
-      {
-        "company": "摩根士丹利",
-        "time": "2026-01-16"
-      },
-      {
-        "company": "花旗",
-        "time": "2026-01-16"
-      },
-      {
-        "company": "高盛",
-        "time": "2026-01-16"
-      },
-      {
-        "company": "金山软件",
-        "time": "2025-11-14"
-      },
-      {
-        "company": "百度",
-        "time": "2025-11-14"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "麦当劳",
-        "time": "2025-11-05"
-      },
-      {
-        "company": "百胜中国",
-        "time": "2025-11-03"
-      },
-      {
-        "company": "联合健康",
-        "time": "2025-10-24"
-      },
-      {
-        "company": "联合租赁",
-        "time": "2025-10-24"
-      },
-      {
-        "company": "可口可乐",
-        "time": "2025-10-21"
-      },
-      {
-        "company": "苹果",
-        "time": "2025-10-17"
-      },
-      {
-        "company": "微软",
-        "time": "2025-10-17"
-      },
-      {
-        "company": "特斯拉",
-        "time": "2025-10-17"
-      },
-      {
-        "company": "新世界发展",
-        "time": "2025-09-18"
-      },
-      {
-        "company": "万利",
-        "time": "2025-09-11"
-      },
-      {
-        "company": "中国船舶租赁",
-        "time": "2025-09-08"
-      },
-      {
-        "company": "中信证券",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "杭州银行",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "华润医药",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "浙商银行",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "中国太保",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "交通银行",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "佛朗斯股份",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "金风科技",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "英伟达",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "九方智投控股",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "复星国际",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "国泰君安国际",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "友邦保险",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "富途控股",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "工业富联",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "美的集团",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "恒瑞医药",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "比亚迪",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "中国人保",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "中广核新能源",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "中信银行",
-        "time": "2025-08-11"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-08-11"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "汇丰控股",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "农业银行",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "中国平安",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "建设银行",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "中国银行",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "招商银行",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "工商银行",
-        "time": "2025-08-05"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2025-08-05"
-      },
-      {
-        "company": null,
-        "time": "2025-08-05"
-      },
-      {
-        "company": "一德期货有限公司",
-        "time": "2025-08-05"
-      }
-    ],
-    "special_companies": "国银金租"
   },
   {
     "uid": "502549",
@@ -13798,69 +13802,6 @@
     "special_companies": ""
   },
   {
-    "uid": "336814",
-    "name": "欧阳建平",
-    "org_name": "西南证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "个人",
-    "position": "业务经理",
-    "department": "",
-    "last_interaction_time": "2025-03-28 14:29:53",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-28",
-        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
-        "duration": 43
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "贝壳",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "国银金租",
-        "time": "2025-04-27"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-03-26"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2025-03-25"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "581383",
     "name": "王会晋",
     "org_name": "大华继显私人有限公司",
@@ -13984,6 +13925,69 @@
       }
     ],
     "special_companies": "万物云,中国动向,中石化冠德,中集集团,信義玻璃,协合新能源,小米集团-W,康哲药业,百果园集团,百融智能,美的置业,联邦制药,药师帮,贝康医疗,金风科技,雅生活服务"
+  },
+  {
+    "uid": "336814",
+    "name": "欧阳建平",
+    "org_name": "西南证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "个人",
+    "position": "业务经理",
+    "department": "",
+    "last_interaction_time": "2025-03-28 14:29:53",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-28",
+        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
+        "duration": 43
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "国银金租",
+        "time": "2025-04-27"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2025-03-25"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "632889",
@@ -30988,45 +30992,6 @@
     "special_companies": "中国船舶租赁,保利物业,美的置业"
   },
   {
-    "uid": "503939",
-    "name": "郑爽",
-    "org_name": "惠誉（北京）信用评级有限公司上海分公司",
-    "org_type": "评级服务机构",
-    "cert_type": "个人",
-    "position": "高级分析师",
-    "department": "非银金融机构评级",
-    "last_interaction_time": "2024-03-27 16:01:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-25",
-        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会"
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
-        "duration": 85
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会",
-        "duration": 71
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "272826",
     "name": "丁璨",
     "org_name": "辰杉资管",
@@ -31068,6 +31033,45 @@
         "time": "2023-05-10"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "503939",
+    "name": "郑爽",
+    "org_name": "惠誉（北京）信用评级有限公司上海分公司",
+    "org_type": "评级服务机构",
+    "cert_type": "个人",
+    "position": "高级分析师",
+    "department": "非银金融机构评级",
+    "last_interaction_time": "2024-03-27 16:01:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-25",
+        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会"
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
+        "duration": 85
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会",
+        "duration": 71
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {

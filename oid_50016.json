@@ -5005,80 +5005,6 @@
     "special_companies": ""
   },
   {
-    "uid": "341089",
-    "name": "曾慧诗",
-    "org_name": "深圳市黑匣子速记有限公司",
-    "org_type": "一般企业",
-    "cert_type": "服务机构",
-    "position": "经理",
-    "department": "",
-    "last_interaction_time": "2026-03-10 14:58:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宏信建发",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-09",
-        "meet_title": "宏信建发（9930.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-03-06",
-        "meet_title": "宏信建发（9930.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 5,
-    "attend_records": [
-      {
-        "time": "2026-03-10",
-        "meet_title": "宏信建发（9930.HK）2025年度业绩发布会",
-        "duration": 65
-      },
-      {
-        "time": "2025-03-06",
-        "meet_title": "宏信建发（9930.HK）2024年度业绩发布会",
-        "duration": 60
-      },
-      {
-        "time": "2024-08-08",
-        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会",
-        "duration": 59
-      },
-      {
-        "time": "2023-08-08",
-        "meet_title": "宏信建发（9930.HK）2023年中期业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "银诺医药",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "宏信建发",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "金科服务",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "思路迪医药股份",
-        "time": "2024-03-12"
-      },
-      {
-        "company": "合景悠活",
-        "time": "2023-08-30"
-      },
-      {
-        "company": "建发物业",
-        "time": "2023-08-29"
-      }
-    ],
-    "special_companies": "中信证券,合景悠活,建发物业,远东宏信"
-  },
-  {
     "uid": "581602",
     "name": "贾华松",
     "org_name": "宏信建设发展有限公司",
@@ -5155,34 +5081,78 @@
     "special_companies": "宏信建发"
   },
   {
-    "uid": "645073",
-    "name": "支点",
-    "org_name": "徐州徐工股权投资有限公司",
-    "org_type": null,
-    "cert_type": "机构投资者",
-    "position": "部长助理",
-    "department": "投研四部",
-    "last_interaction_time": "2026-03-10 14:58:19",
+    "uid": "341089",
+    "name": "曾慧诗",
+    "org_name": "深圳市黑匣子速记有限公司",
+    "org_type": "一般企业",
+    "cert_type": "服务机构",
+    "position": "经理",
+    "department": "",
+    "last_interaction_time": "2026-03-10 14:58:20",
     "last_interaction_behavior": "参会",
     "interaction_company": "宏信建发",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-09",
+        "meet_title": "宏信建发（9930.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-03-06",
+        "meet_title": "宏信建发（9930.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 5,
     "attend_records": [
       {
         "time": "2026-03-10",
         "meet_title": "宏信建发（9930.HK）2025年度业绩发布会",
-        "duration": 64
+        "duration": 65
+      },
+      {
+        "time": "2025-03-06",
+        "meet_title": "宏信建发（9930.HK）2024年度业绩发布会",
+        "duration": 60
+      },
+      {
+        "time": "2024-08-08",
+        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会",
+        "duration": 59
+      },
+      {
+        "time": "2023-08-08",
+        "meet_title": "宏信建发（9930.HK）2023年中期业绩发布会",
+        "duration": 0
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "银诺医药",
+        "time": "2026-03-24"
+      },
+      {
         "company": "宏信建发",
         "time": "2026-03-10"
+      },
+      {
+        "company": "金科服务",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2024-03-12"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "建发物业",
+        "time": "2023-08-29"
       }
     ],
-    "special_companies": ""
+    "special_companies": "中信证券,合景悠活,建发物业,远东宏信"
   },
   {
     "uid": "644998",
@@ -5212,6 +5182,36 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "645073",
+    "name": "支点",
+    "org_name": "徐州徐工股权投资有限公司",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "部长助理",
+    "department": "投研四部",
+    "last_interaction_time": "2026-03-10 14:58:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宏信建发",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-10",
+        "meet_title": "宏信建发（9930.HK）2025年度业绩发布会",
+        "duration": 64
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "宏信建发",
+        "time": "2026-03-10"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -11894,6 +11894,36 @@
     "special_companies": "保利物业,宏信建发,碧桂园服务"
   },
   {
+    "uid": "583501",
+    "name": "杨越",
+    "org_name": "友谊时光股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "Assistant Investment Manager",
+    "department": "",
+    "last_interaction_time": "2025-07-31 15:04:52",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宏信建发",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-07-16",
+        "meet_title": "宏信建发（9930.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-07-31",
+        "meet_title": "宏信建发（9930.HK）2025年中期业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "632347",
     "name": "林美君",
     "org_name": "远东宏信有限公司",
@@ -11934,36 +11964,6 @@
         "time": "2025-07-31"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "583501",
-    "name": "杨越",
-    "org_name": "友谊时光股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "Assistant Investment Manager",
-    "department": "",
-    "last_interaction_time": "2025-07-31 15:04:52",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宏信建发",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-07-16",
-        "meet_title": "宏信建发（9930.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-07-31",
-        "meet_title": "宏信建发（9930.HK）2025年中期业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -13233,6 +13233,36 @@
     "special_companies": ""
   },
   {
+    "uid": "636185",
+    "name": "许光坦",
+    "org_name": "中信建投证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "高级经理",
+    "department": "研究发展部",
+    "last_interaction_time": "2025-07-31 14:59:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宏信建发",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-07-29",
+        "meet_title": "宏信建发（9930.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-07-31",
+        "meet_title": "宏信建发（9930.HK）2025年中期业绩发布会",
+        "duration": 45
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "606839",
     "name": "鲁俊",
     "org_name": "光大证券股份有限公司",
@@ -13283,36 +13313,6 @@
         "time": "2024-03-12",
         "meet_title": "宏信建发（9930.HK）2023年度业绩发布会",
         "duration": 56
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "636185",
-    "name": "许光坦",
-    "org_name": "中信建投证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "高级经理",
-    "department": "研究发展部",
-    "last_interaction_time": "2025-07-31 14:59:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宏信建发",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-07-29",
-        "meet_title": "宏信建发（9930.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-07-31",
-        "meet_title": "宏信建发（9930.HK）2025年中期业绩发布会",
-        "duration": 45
       }
     ],
     "is_first_attend": true,
@@ -17832,41 +17832,6 @@
     "special_companies": ""
   },
   {
-    "uid": "632411",
-    "name": "Elena Huang",
-    "org_name": "CMB International Capital Corporation Limited",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Analyst",
-    "department": "Research",
-    "last_interaction_time": "2025-03-06 14:59:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宏信建发",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-06",
-        "meet_title": "宏信建发（9930.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-06",
-        "meet_title": "宏信建发（9930.HK）2024年度业绩发布会",
-        "duration": 59
-      },
-      {
-        "time": "2025-03-06",
-        "meet_title": "宏信建发（9930.HK）2024年度业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "632333",
     "name": "郑秋晨",
     "org_name": "长江证券股份有限公司",
@@ -17958,6 +17923,41 @@
       }
     ],
     "special_companies": "中国中冶,中国建筑"
+  },
+  {
+    "uid": "632411",
+    "name": "Elena Huang",
+    "org_name": "CMB International Capital Corporation Limited",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Analyst",
+    "department": "Research",
+    "last_interaction_time": "2025-03-06 14:59:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宏信建发",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-06",
+        "meet_title": "宏信建发（9930.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-06",
+        "meet_title": "宏信建发（9930.HK）2024年度业绩发布会",
+        "duration": 59
+      },
+      {
+        "time": "2025-03-06",
+        "meet_title": "宏信建发（9930.HK）2024年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "632042",
@@ -24975,143 +24975,6 @@
     "special_companies": "宏信建发"
   },
   {
-    "uid": "581383",
-    "name": "王会晋",
-    "org_name": "大华继显私人有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "Director",
-    "department": "",
-    "last_interaction_time": "2024-08-08 15:00:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宏信建发",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-08-04",
-        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-13",
-        "meet_title": "宏信建发（9930.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-08-08",
-        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会",
-        "duration": 4
-      },
-      {
-        "time": "2024-08-08",
-        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会",
-        "duration": 58
-      },
-      {
-        "time": "2024-03-13",
-        "meet_title": "宏信建发（9930.HK）2023年度业绩发布会",
-        "duration": 51
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "吉利汽车",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "万国数据服务",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "中集集团",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "卓越教育集团",
-        "time": "2025-03-21"
-      },
-      {
-        "company": "金风科技",
-        "time": "2024-10-28"
-      },
-      {
-        "company": "贝康医疗",
-        "time": "2024-08-30"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2024-08-22"
-      },
-      {
-        "company": "中石化冠德",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "美的置业",
-        "time": "2024-08-19"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-08-19"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2024-08-16"
-      },
-      {
-        "company": "中国动向",
-        "time": "2024-06-26"
-      },
-      {
-        "company": "百融智能",
-        "time": "2024-03-26"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-08-19"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2023-08-16"
-      },
-      {
-        "company": "药师帮",
-        "time": "2023-08-16"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2023-08-09"
-      },
-      {
-        "company": "协合新能源",
-        "time": "2023-08-01"
-      },
-      {
-        "company": "信義玻璃",
-        "time": "2023-08-01"
-      },
-      {
-        "company": "中国天瑞水泥",
-        "time": "2023-07-31"
-      },
-      {
-        "company": "JS环球生活",
-        "time": "2023-07-31"
-      }
-    ],
-    "special_companies": "万物云,中国动向,中石化冠德,中集集团,信義玻璃,协合新能源,小米集团-W,康哲药业,百果园集团,百融智能,美的置业,联邦制药,药师帮,贝康医疗,金风科技,雅生活服务"
-  },
-  {
     "uid": "581505",
     "name": "Harry YU",
     "org_name": "星展亚洲融资有限公司",
@@ -25387,6 +25250,143 @@
     "special_companies": "宏信建发,康基医疗,新世界发展,远东宏信,金力永磁"
   },
   {
+    "uid": "581383",
+    "name": "王会晋",
+    "org_name": "大华继显私人有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "Director",
+    "department": "",
+    "last_interaction_time": "2024-08-08 15:00:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宏信建发",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-08-04",
+        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-13",
+        "meet_title": "宏信建发（9930.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-08-08",
+        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会",
+        "duration": 4
+      },
+      {
+        "time": "2024-08-08",
+        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会",
+        "duration": 58
+      },
+      {
+        "time": "2024-03-13",
+        "meet_title": "宏信建发（9930.HK）2023年度业绩发布会",
+        "duration": 51
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "吉利汽车",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "中集集团",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2025-03-21"
+      },
+      {
+        "company": "金风科技",
+        "time": "2024-10-28"
+      },
+      {
+        "company": "贝康医疗",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2024-08-22"
+      },
+      {
+        "company": "中石化冠德",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "美的置业",
+        "time": "2024-08-19"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-08-19"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2024-08-16"
+      },
+      {
+        "company": "中国动向",
+        "time": "2024-06-26"
+      },
+      {
+        "company": "百融智能",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-08-19"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2023-08-16"
+      },
+      {
+        "company": "药师帮",
+        "time": "2023-08-16"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2023-08-09"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2023-08-01"
+      },
+      {
+        "company": "信義玻璃",
+        "time": "2023-08-01"
+      },
+      {
+        "company": "中国天瑞水泥",
+        "time": "2023-07-31"
+      },
+      {
+        "company": "JS环球生活",
+        "time": "2023-07-31"
+      }
+    ],
+    "special_companies": "万物云,中国动向,中石化冠德,中集集团,信義玻璃,协合新能源,小米集团-W,康哲药业,百果园集团,百融智能,美的置业,联邦制药,药师帮,贝康医疗,金风科技,雅生活服务"
+  },
+  {
     "uid": "610446",
     "name": "张林晚",
     "org_name": "耕霁(上海)投资管理有限公司",
@@ -25468,41 +25468,6 @@
     "special_companies": "国证国际证券(香港)研究所,路演中"
   },
   {
-    "uid": "493583",
-    "name": "应丹青",
-    "org_name": "惠誉(北京)信用评级有限公司",
-    "org_type": "评级服务机构",
-    "cert_type": "个人",
-    "position": "高级分析师",
-    "department": "上海分公司非银金融机构评级",
-    "last_interaction_time": "2024-08-08 15:00:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宏信建发",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-06",
-        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-08",
-        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会",
-        "duration": 59
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "远东宏信",
-        "time": "2023-03-09"
-      }
-    ],
-    "special_companies": "远东宏信"
-  },
-  {
     "uid": "506772",
     "name": "郭舒洁",
     "org_name": "富国基金管理有限公司",
@@ -25536,6 +25501,41 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "493583",
+    "name": "应丹青",
+    "org_name": "惠誉(北京)信用评级有限公司",
+    "org_type": "评级服务机构",
+    "cert_type": "个人",
+    "position": "高级分析师",
+    "department": "上海分公司非银金融机构评级",
+    "last_interaction_time": "2024-08-08 15:00:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宏信建发",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-06",
+        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-08",
+        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会",
+        "duration": 59
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "远东宏信",
+        "time": "2023-03-09"
+      }
+    ],
+    "special_companies": "远东宏信"
   },
   {
     "uid": "582788",
@@ -34697,12 +34697,12 @@
     "special_companies": ""
   },
   {
-    "uid": "347534",
-    "name": "陈华",
-    "org_name": "First Manhattan Co.",
-    "org_type": "境外资产管理公司",
+    "uid": "337759",
+    "name": "赵乃凡",
+    "org_name": "上海勤辰私募基金管理合伙企业（有限合伙）",
+    "org_type": "私募证券投资基金管理人",
     "cert_type": "机构投资者",
-    "position": "分析师",
+    "position": "资深研究员",
     "department": "",
     "last_interaction_time": "2023-08-08 15:00:24",
     "last_interaction_behavior": "参会",
@@ -34710,7 +34710,7 @@
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-08-02",
+        "time": "2023-08-08",
         "meet_title": "宏信建发（9930.HK）2023年中期业绩发布会"
       }
     ],
@@ -34727,12 +34727,12 @@
     "special_companies": ""
   },
   {
-    "uid": "337759",
-    "name": "赵乃凡",
-    "org_name": "上海勤辰私募基金管理合伙企业（有限合伙）",
-    "org_type": "私募证券投资基金管理人",
+    "uid": "347534",
+    "name": "陈华",
+    "org_name": "First Manhattan Co.",
+    "org_type": "境外资产管理公司",
     "cert_type": "机构投资者",
-    "position": "资深研究员",
+    "position": "分析师",
     "department": "",
     "last_interaction_time": "2023-08-08 15:00:24",
     "last_interaction_behavior": "参会",
@@ -34740,7 +34740,7 @@
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-08-08",
+        "time": "2023-08-02",
         "meet_title": "宏信建发（9930.HK）2023年中期业绩发布会"
       }
     ],
@@ -34822,6 +34822,41 @@
     "special_companies": "远东宏信"
   },
   {
+    "uid": "494282",
+    "name": "孙嘉赓",
+    "org_name": "国海证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "非银金融首席分析师",
+    "department": "研究所",
+    "last_interaction_time": "2023-08-08 15:00:11",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宏信建发",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-07-26",
+        "meet_title": "宏信建发（9930.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-08",
+        "meet_title": "宏信建发（9930.HK）2023年中期业绩发布会",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "宏信建发",
+        "time": "2023-07-26"
+      }
+    ],
+    "special_companies": "宏信建发"
+  },
+  {
     "uid": "503406",
     "name": "伍泳雅",
     "org_name": "招银国际证券有限公司研究所",
@@ -34863,41 +34898,6 @@
       }
     ],
     "special_companies": "信義玻璃,宏信建发"
-  },
-  {
-    "uid": "494282",
-    "name": "孙嘉赓",
-    "org_name": "国海证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "非银金融首席分析师",
-    "department": "研究所",
-    "last_interaction_time": "2023-08-08 15:00:11",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宏信建发",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-07-26",
-        "meet_title": "宏信建发（9930.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-08",
-        "meet_title": "宏信建发（9930.HK）2023年中期业绩发布会",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "宏信建发",
-        "time": "2023-07-26"
-      }
-    ],
-    "special_companies": "宏信建发"
   },
   {
     "uid": "499050",

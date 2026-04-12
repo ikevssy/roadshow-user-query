@@ -8336,89 +8336,6 @@
     "special_companies": ""
   },
   {
-    "uid": "347948",
-    "name": "Sam Jones",
-    "org_name": "APPLE Group",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "Side-Analyst",
-    "department": "Self",
-    "last_interaction_time": "2026-03-27 08:58:56",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "百融智能",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "Bairong Inc.（6608.HK） 2025 Annual Results Presentation"
-      },
-      {
-        "time": "2025-03-15",
-        "meet_title": "百融云创（6608.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2025-03-15",
-        "meet_title": "Bairong（6608.HK） 2024 Annual Results Presentation"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-03-26",
-        "meet_title": "百融云创（6608.HK）2024年度业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "申万宏源",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "阅文集团",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "中国中冶",
-        "time": "2025-12-19"
-      },
-      {
-        "company": "万国数据服务",
-        "time": "2025-11-19"
-      },
-      {
-        "company": "乐鑫科技",
-        "time": "2025-09-01"
-      },
-      {
-        "company": "中国太保",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "瑞声科技",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "中国建筑",
-        "time": "2025-04-18"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "644745",
     "name": "王姗姗",
     "org_name": "深圳中纳博金私募证券基金管理有限公司",
@@ -8497,6 +8414,89 @@
       {
         "company": "百融智能",
         "time": "2026-02-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "347948",
+    "name": "Sam Jones",
+    "org_name": "APPLE Group",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "Side-Analyst",
+    "department": "Self",
+    "last_interaction_time": "2026-03-27 08:58:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "百融智能",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "Bairong Inc.（6608.HK） 2025 Annual Results Presentation"
+      },
+      {
+        "time": "2025-03-15",
+        "meet_title": "百融云创（6608.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2025-03-15",
+        "meet_title": "Bairong（6608.HK） 2024 Annual Results Presentation"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-03-26",
+        "meet_title": "百融云创（6608.HK）2024年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "申万宏源",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "阅文集团",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2025-12-19"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2025-11-19"
+      },
+      {
+        "company": "乐鑫科技",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "瑞声科技",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2025-04-18"
       }
     ],
     "special_companies": ""
@@ -23577,6 +23577,50 @@
     "special_companies": ""
   },
   {
+    "uid": "611739",
+    "name": "孟德远",
+    "org_name": "鼎晖投资",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "个人",
+    "position": "分析员",
+    "department": "私募股权投资",
+    "last_interaction_time": "2025-03-26 17:30:18",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "百融智能",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-03-20",
+        "meet_title": "百融云创（6608.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-13",
+        "meet_title": "百融云创（6608.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-03-26",
+        "meet_title": "百融云创（6608.HK）2024年度业绩发布会",
+        "duration": 83
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "百融云创（6608.HK）2024年中期业绩发布会",
+        "duration": 93
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "百融智能",
+        "time": "2025-03-20"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "501870",
     "name": "李亚达",
     "org_name": "中国国际金融股份有限公司",
@@ -23634,50 +23678,6 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "611739",
-    "name": "孟德远",
-    "org_name": "鼎晖投资",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
-    "position": "分析员",
-    "department": "私募股权投资",
-    "last_interaction_time": "2025-03-26 17:30:18",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "百融智能",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-03-20",
-        "meet_title": "百融云创（6608.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-13",
-        "meet_title": "百融云创（6608.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-03-26",
-        "meet_title": "百融云创（6608.HK）2024年度业绩发布会",
-        "duration": 83
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "百融云创（6608.HK）2024年中期业绩发布会",
-        "duration": 93
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "百融智能",
-        "time": "2025-03-20"
-      }
-    ],
     "special_companies": ""
   },
   {
@@ -34011,50 +34011,6 @@
     "special_companies": "万物云,保利物业,华熙生物,卓越商企服务,博腾股份,国证国际证券(香港)研究所,滨江服务,百融智能,碧桂园服务,绿城服务,药明生物,融创服务,金科服务,金茂服务,雅生活服务"
   },
   {
-    "uid": "583858",
-    "name": "宋佳蔚",
-    "org_name": "东方财富证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "互联网及大消费行业研究员",
-    "department": "研究所",
-    "last_interaction_time": "2024-03-26 09:07:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "百融智能",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-19",
-        "meet_title": "百融云创（6608.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-11-17",
-        "meet_title": "百融云创（6608.HK）2023年投资者交流会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-26",
-        "meet_title": "百融云创（6608.HK）2023年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "百融云创（6608.HK）2023年投资者交流会",
-        "duration": 47
-      },
-      {
-        "time": "2023-11-21",
-        "meet_title": "百融云创（6608.HK）2023年投资者交流会",
-        "duration": 43
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "JS环球生活,明源云"
-  },
-  {
     "uid": "348198",
     "name": "冯超奇",
     "org_name": "上海石溪投资管理有限公司",
@@ -34109,6 +34065,50 @@
       }
     ],
     "special_companies": "中国建筑,中集车辆,滨江服务,百融智能"
+  },
+  {
+    "uid": "583858",
+    "name": "宋佳蔚",
+    "org_name": "东方财富证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "互联网及大消费行业研究员",
+    "department": "研究所",
+    "last_interaction_time": "2024-03-26 09:07:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "百融智能",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-19",
+        "meet_title": "百融云创（6608.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-11-17",
+        "meet_title": "百融云创（6608.HK）2023年投资者交流会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-26",
+        "meet_title": "百融云创（6608.HK）2023年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "百融云创（6608.HK）2023年投资者交流会",
+        "duration": 47
+      },
+      {
+        "time": "2023-11-21",
+        "meet_title": "百融云创（6608.HK）2023年投资者交流会",
+        "duration": 43
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "JS环球生活,明源云"
   },
   {
     "uid": "607971",

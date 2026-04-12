@@ -8816,6 +8816,36 @@
     "special_companies": "捷利交易宝"
   },
   {
+    "uid": "504037",
+    "name": "黄佳佳",
+    "org_name": "兴业证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "做市经理",
+    "department": "金融衍生产品部",
+    "last_interaction_time": "2023-07-19 09:33:39",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "摩根士丹利",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-07-17",
+        "meet_title": "摩根士丹利（MS.US）2023年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-07-19",
+        "meet_title": "摩根士丹利（MS.US）2023年第二季度业绩电话会",
+        "duration": 56
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "579601",
     "name": "陈雪",
     "org_name": "上海牛乎资产管理有限公司",
@@ -8849,36 +8879,6 @@
       }
     ],
     "special_companies": "神州控股"
-  },
-  {
-    "uid": "504037",
-    "name": "黄佳佳",
-    "org_name": "兴业证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "做市经理",
-    "department": "金融衍生产品部",
-    "last_interaction_time": "2023-07-19 09:33:39",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "摩根士丹利",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-07-17",
-        "meet_title": "摩根士丹利（MS.US）2023年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-07-19",
-        "meet_title": "摩根士丹利（MS.US）2023年第二季度业绩电话会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "502853",
