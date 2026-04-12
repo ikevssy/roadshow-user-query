@@ -7896,54 +7896,6 @@
     "special_companies": ""
   },
   {
-    "uid": "582286",
-    "name": "范晨轩",
-    "org_name": "申万宏源证券有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "交运物流研究员",
-    "department": "研究所现代服务业研究部",
-    "last_interaction_time": "2025-08-18 11:00:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "湾区发展",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2025-08-11",
-        "meet_title": "湾区发展（00737.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2024-08-26",
-        "meet_title": "湾区发展（00737.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2023-08-21",
-        "meet_title": "湾区发展（00737.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-08-18",
-        "meet_title": "湾区发展（00737.HK）2025年中期业绩发布会",
-        "duration": 62
-      },
-      {
-        "time": "2024-08-26",
-        "meet_title": "湾区发展（00737.HK）2024年中期业绩发布会",
-        "duration": 62
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "湾区发展（00737.HK）2023年中期业绩发布会",
-        "duration": 42
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "636784",
     "name": "刘若琮",
     "org_name": "招商证券股份有限公司研究所",
@@ -7997,6 +7949,54 @@
         "time": "2025-08-18",
         "meet_title": "湾区发展（00737.HK）2025年中期业绩发布会",
         "duration": 38
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "582286",
+    "name": "范晨轩",
+    "org_name": "申万宏源证券有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "交运物流研究员",
+    "department": "研究所现代服务业研究部",
+    "last_interaction_time": "2025-08-18 11:00:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "湾区发展",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2025-08-11",
+        "meet_title": "湾区发展（00737.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2024-08-26",
+        "meet_title": "湾区发展（00737.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2023-08-21",
+        "meet_title": "湾区发展（00737.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-08-18",
+        "meet_title": "湾区发展（00737.HK）2025年中期业绩发布会",
+        "duration": 62
+      },
+      {
+        "time": "2024-08-26",
+        "meet_title": "湾区发展（00737.HK）2024年中期业绩发布会",
+        "duration": 62
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "湾区发展（00737.HK）2023年中期业绩发布会",
+        "duration": 42
       }
     ],
     "is_first_attend": true,

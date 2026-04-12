@@ -30565,84 +30565,6 @@
     "special_companies": "碧桂园"
   },
   {
-    "uid": "427421",
-    "name": "龚珺",
-    "org_name": "鹏华基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "债券研究员",
-    "department": "固定收益总部",
-    "last_interaction_time": "2024-03-29 09:30:56",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "万科A",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
-        "duration": 110
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "万科A",
-        "time": "2024-03-29"
-      },
-      {
-        "company": "美的置业",
-        "time": "2024-03-28"
-      }
-    ],
-    "special_companies": "绿城中国"
-  },
-  {
-    "uid": "33524",
-    "name": "刘岚",
-    "org_name": "嘉实基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "港股通投资策略组",
-    "last_interaction_time": "2024-03-29 09:30:56",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "万科A",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
-      },
-      {
-        "time": "2023-08-30",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
-        "duration": 1
-      },
-      {
-        "time": "2023-08-31",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会",
-        "duration": 105
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "344292",
     "name": "叶燕萍",
     "org_name": "Root Investments Limited",
@@ -30747,6 +30669,84 @@
     "special_companies": "万物云,中国人寿,中国电信,新鸿基公司,明源云"
   },
   {
+    "uid": "427421",
+    "name": "龚珺",
+    "org_name": "鹏华基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "债券研究员",
+    "department": "固定收益总部",
+    "last_interaction_time": "2024-03-29 09:30:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "万科A",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
+        "duration": 110
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "万科A",
+        "time": "2024-03-29"
+      },
+      {
+        "company": "美的置业",
+        "time": "2024-03-28"
+      }
+    ],
+    "special_companies": "绿城中国"
+  },
+  {
+    "uid": "33524",
+    "name": "刘岚",
+    "org_name": "嘉实基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "港股通投资策略组",
+    "last_interaction_time": "2024-03-29 09:30:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "万科A",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
+      },
+      {
+        "time": "2023-08-30",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
+        "duration": 1
+      },
+      {
+        "time": "2023-08-31",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会",
+        "duration": 105
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "608539",
     "name": "浦宇晴",
     "org_name": "南京盈怀私募基金管理有限公司",
@@ -30805,212 +30805,6 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "425678",
-    "name": "施卫",
-    "org_name": "国海证券资产管理分公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "总经理助理",
-    "department": "结构金融总部",
-    "last_interaction_time": "2024-03-29 09:30:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "万科A",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
-        "duration": 111
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "雅生活服务",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "网龙",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "拼多多",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "平安银行",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "波司登",
-        "time": "2025-06-27"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-03-31"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-03-24"
-      },
-      {
-        "company": "药明康德",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "安踏体育",
-        "time": "2024-03-26"
-      },
-      {
-        "company": "华润啤酒",
-        "time": "2024-03-26"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2023-03-23"
-      },
-      {
-        "company": "融创服务",
-        "time": "2023-03-20"
-      }
-    ],
-    "special_companies": "融创服务,金茂服务"
-  },
-  {
-    "uid": "335275",
-    "name": "陈颖",
-    "org_name": "华泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "房地产研究员",
-    "department": "研究所",
-    "last_interaction_time": "2024-03-29 09:30:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "万科A",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
-        "duration": 12
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "贝壳",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "龙湖集团",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-03-24"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-08-23"
-      },
-      {
-        "company": "建发物业",
-        "time": "2023-08-29"
-      },
-      {
-        "company": "中南建设",
-        "time": "2023-08-29"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-08-29"
-      },
-      {
-        "company": "美的置业",
-        "time": "2023-08-25"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2023-08-25"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2023-03-30"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2023-03-24"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2023-03-23"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2023-03-23"
-      },
-      {
-        "company": "合景泰富集团",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "碧桂园",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "星盛商业",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "融创服务",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "招商蛇口",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "绿景中国地产",
-        "time": "2023-03-07"
-      },
-      {
-        "company": "华润置地",
-        "time": "2023-03-07"
-      }
-    ],
-    "special_companies": "万物云,中国海外宏洋集团,合景悠活,合景泰富集团,宝龙商业,建业地产,建发国际集团,建发物业,招商蛇口,新希望服务,星盛商业,深圳控股,碧桂园,绿城中国,绿城管理控股,绿景中国地产,美的置业,融创服务"
   },
   {
     "uid": "505575",
@@ -31276,6 +31070,93 @@
     "special_companies": "中国金茂,招商局商业房托,美的置业,越秀地产,远东宏信"
   },
   {
+    "uid": "425678",
+    "name": "施卫",
+    "org_name": "国海证券资产管理分公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "总经理助理",
+    "department": "结构金融总部",
+    "last_interaction_time": "2024-03-29 09:30:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "万科A",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
+        "duration": 111
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "雅生活服务",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "网龙",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "平安银行",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "波司登",
+        "time": "2025-06-27"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-03-31"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "药明康德",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "安踏体育",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "华润啤酒",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-03-20"
+      }
+    ],
+    "special_companies": "融创服务,金茂服务"
+  },
+  {
     "uid": "272761",
     "name": "崔宁",
     "org_name": "南方基金管理股份有限公司",
@@ -31304,6 +31185,125 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "335275",
+    "name": "陈颖",
+    "org_name": "华泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "房地产研究员",
+    "department": "研究所",
+    "last_interaction_time": "2024-03-29 09:30:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "万科A",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
+        "duration": 12
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "贝壳",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "龙湖集团",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "建发物业",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "中南建设",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "美的置业",
+        "time": "2023-08-25"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2023-08-25"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "合景泰富集团",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "碧桂园",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "星盛商业",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "绿景中国地产",
+        "time": "2023-03-07"
+      },
+      {
+        "company": "华润置地",
+        "time": "2023-03-07"
+      }
+    ],
+    "special_companies": "万物云,中国海外宏洋集团,合景悠活,合景泰富集团,宝龙商业,建业地产,建发国际集团,建发物业,招商蛇口,新希望服务,星盛商业,深圳控股,碧桂园,绿城中国,绿城管理控股,绿景中国地产,美的置业,融创服务"
   },
   {
     "uid": "44235",
@@ -31436,6 +31436,126 @@
     "special_companies": ""
   },
   {
+    "uid": "270101",
+    "name": "董源",
+    "org_name": "上海开思股权投资基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "投资研究部",
+    "last_interaction_time": "2024-03-29 09:30:52",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "万科A",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
+        "duration": 0
+      },
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
+        "duration": 110
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "携程集团-S",
+        "time": "2026-03-11"
+      },
+      {
+        "company": "中国人保",
+        "time": "2026-03-11"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-03-11"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-11"
+      },
+      {
+        "company": "江南布衣",
+        "time": "2026-02-23"
+      },
+      {
+        "company": "牧原股份",
+        "time": "2025-10-22"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2025-10-22"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "吉利汽车",
+        "time": "2025-05-12"
+      },
+      {
+        "company": "敏华控股",
+        "time": "2025-05-07"
+      },
+      {
+        "company": "中国移动",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "金斯瑞生物科技",
+        "time": "2024-08-12"
+      },
+      {
+        "company": "中国海油",
+        "time": "2024-08-11"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "中海物业",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2024-03-24"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-03-21"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2024-03-21"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2024-03-21"
+      },
+      {
+        "company": "丽珠集团",
+        "time": "2023-04-02"
+      }
+    ],
+    "special_companies": "万物云,中国海外宏洋集团,中国船舶租赁,中海物业,丽珠集团,保利物业,滨江服务,绿城管理控股"
+  },
+  {
     "uid": "428282",
     "name": "梁凯",
     "org_name": "南京朴存投资管理有限公司",
@@ -31559,24 +31679,28 @@
     "special_companies": "中国黄金国际,星盛商业,百融智能"
   },
   {
-    "uid": "270101",
-    "name": "董源",
-    "org_name": "上海开思股权投资基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "投资研究部",
-    "last_interaction_time": "2024-03-29 09:30:52",
+    "uid": "581402",
+    "name": "郝英",
+    "org_name": "开源证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "地产建筑研究员",
+    "department": "研究所",
+    "last_interaction_time": "2024-03-29 09:30:51",
     "last_interaction_behavior": "参会",
     "interaction_company": "万科A",
-    "apply_count": 1,
+    "apply_count": 2,
     "apply_records": [
       {
-        "time": "2024-03-28",
+        "time": "2024-03-29",
         "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
+      },
+      {
+        "time": "2023-08-31",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会"
       }
     ],
-    "attend_count": 1,
+    "attend_count": 2,
     "attend_records": [
       {
         "time": "2024-03-29",
@@ -31584,99 +31708,19 @@
         "duration": 0
       },
       {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
-        "duration": 110
+        "time": "2023-08-31",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会",
+        "duration": 23
       }
     ],
-    "is_first_attend": false,
+    "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "携程集团-S",
-        "time": "2026-03-11"
-      },
-      {
-        "company": "中国人保",
-        "time": "2026-03-11"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2026-03-11"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2026-03-11"
-      },
-      {
-        "company": "江南布衣",
-        "time": "2026-02-23"
-      },
-      {
-        "company": "牧原股份",
-        "time": "2025-10-22"
-      },
-      {
-        "company": "比亚迪",
-        "time": "2025-10-22"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "吉利汽车",
-        "time": "2025-05-12"
-      },
-      {
-        "company": "敏华控股",
-        "time": "2025-05-07"
-      },
-      {
-        "company": "中国移动",
-        "time": "2025-03-20"
-      },
-      {
-        "company": "金斯瑞生物科技",
-        "time": "2024-08-12"
-      },
-      {
-        "company": "中国海油",
-        "time": "2024-08-11"
-      },
-      {
-        "company": "保利物业",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "中海物业",
-        "time": "2024-03-26"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2024-03-24"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-03-21"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2024-03-21"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2024-03-21"
-      },
-      {
-        "company": "丽珠集团",
-        "time": "2023-04-02"
+        "company": "新鸿基公司",
+        "time": "2023-08-01"
       }
     ],
-    "special_companies": "万物云,中国海外宏洋集团,中国船舶租赁,中海物业,丽珠集团,保利物业,滨江服务,绿城管理控股"
+    "special_companies": ""
   },
   {
     "uid": "495738",
@@ -31730,50 +31774,6 @@
       {
         "company": "零跑汽车",
         "time": "2025-08-18"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "581402",
-    "name": "郝英",
-    "org_name": "开源证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "地产建筑研究员",
-    "department": "研究所",
-    "last_interaction_time": "2024-03-29 09:30:51",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "万科A",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
-      },
-      {
-        "time": "2023-08-31",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-08-31",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会",
-        "duration": 23
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "新鸿基公司",
-        "time": "2023-08-01"
       }
     ],
     "special_companies": ""
@@ -46469,6 +46469,41 @@
     "special_companies": ""
   },
   {
+    "uid": "428564",
+    "name": "肖畅",
+    "org_name": "东吴证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "房地产行业分析师",
+    "department": "研究所",
+    "last_interaction_time": "2023-08-31 09:30:26",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "万科A",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-31",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-31",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会",
+        "duration": 110
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "金科服务",
+        "time": "2023-03-10"
+      }
+    ],
+    "special_companies": "新希望服务,碧桂园服务,越秀地产,金科服务,雅生活服务"
+  },
+  {
     "uid": "272282",
     "name": "王粤雷",
     "org_name": "国信证券股份有限公司",
@@ -46538,41 +46573,6 @@
       }
     ],
     "special_companies": "绿城中国"
-  },
-  {
-    "uid": "428564",
-    "name": "肖畅",
-    "org_name": "东吴证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "房地产行业分析师",
-    "department": "研究所",
-    "last_interaction_time": "2023-08-31 09:30:26",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "万科A",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-31",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-31",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会",
-        "duration": 110
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "金科服务",
-        "time": "2023-03-10"
-      }
-    ],
-    "special_companies": "新希望服务,碧桂园服务,越秀地产,金科服务,雅生活服务"
   },
   {
     "uid": "333443",

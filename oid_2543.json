@@ -18251,45 +18251,6 @@
     "special_companies": ""
   },
   {
-    "uid": "633749",
-    "name": "王炳旭",
-    "org_name": "中原信托有限公司",
-    "org_type": "信托公司",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "固有业务部",
-    "last_interaction_time": "2025-04-21 16:00:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国建筑",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-04-14",
-        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-04-21",
-        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会",
-        "duration": 37
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中集集团",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "中国太保",
-        "time": "2025-03-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "430206",
     "name": "王金琳",
     "org_name": "摩根士丹利亚洲有限公司",
@@ -18327,6 +18288,45 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": "中国交建"
+  },
+  {
+    "uid": "633749",
+    "name": "王炳旭",
+    "org_name": "中原信托有限公司",
+    "org_type": "信托公司",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "固有业务部",
+    "last_interaction_time": "2025-04-21 16:00:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国建筑",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-04-14",
+        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-04-21",
+        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会",
+        "duration": 37
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中集集团",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-03-27"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "251659",
@@ -22848,36 +22848,6 @@
     "special_companies": ""
   },
   {
-    "uid": "333447",
-    "name": "杨程成",
-    "org_name": "凤凰网房产",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "高级总监",
-    "department": "总编室",
-    "last_interaction_time": "2024-09-02 15:58:15",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国建筑",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-09-02",
-        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-09-02",
-        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会",
-        "duration": 71
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "506936",
     "name": "张依璟",
     "org_name": "北京汉和汉华资本管理有限公司",
@@ -22942,6 +22912,36 @@
       }
     ],
     "special_companies": "中国交建,中国建筑"
+  },
+  {
+    "uid": "333447",
+    "name": "杨程成",
+    "org_name": "凤凰网房产",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "高级总监",
+    "department": "总编室",
+    "last_interaction_time": "2024-09-02 15:58:15",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国建筑",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-09-02",
+        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-09-02",
+        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会",
+        "duration": 71
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "439101",
@@ -28415,6 +28415,61 @@
     "special_companies": ""
   },
   {
+    "uid": "506536",
+    "name": "李润泽",
+    "org_name": "青岛金光紫金创业投资管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资部经理",
+    "department": "",
+    "last_interaction_time": "2024-04-19 15:57:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国建筑",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-04-19",
+        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会"
+      },
+      {
+        "time": "2023-12-12",
+        "meet_title": "中国建筑（601668.SH）线上交流会｜\"2023上市公司路演大会•第五季\""
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-04-19",
+        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会",
+        "duration": 48
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国电力",
+        "time": "2024-07-05"
+      },
+      {
+        "company": "金力永磁",
+        "time": "2024-07-05"
+      },
+      {
+        "company": "ST易事特",
+        "time": "2024-07-05"
+      },
+      {
+        "company": "国元国际",
+        "time": "2023-11-13"
+      },
+      {
+        "company": "招商银行",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": "ST易事特,国元国际,金力永磁"
+  },
+  {
     "uid": "502628",
     "name": "宋震標",
     "org_name": "君临资本有限公司",
@@ -28568,61 +28623,6 @@
       }
     ],
     "special_companies": "中国人寿,光大证券"
-  },
-  {
-    "uid": "506536",
-    "name": "李润泽",
-    "org_name": "青岛金光紫金创业投资管理有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资部经理",
-    "department": "",
-    "last_interaction_time": "2024-04-19 15:57:19",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国建筑",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-04-19",
-        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会"
-      },
-      {
-        "time": "2023-12-12",
-        "meet_title": "中国建筑（601668.SH）线上交流会｜\"2023上市公司路演大会•第五季\""
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-04-19",
-        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会",
-        "duration": 48
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国电力",
-        "time": "2024-07-05"
-      },
-      {
-        "company": "金力永磁",
-        "time": "2024-07-05"
-      },
-      {
-        "company": "ST易事特",
-        "time": "2024-07-05"
-      },
-      {
-        "company": "国元国际",
-        "time": "2023-11-13"
-      },
-      {
-        "company": "招商银行",
-        "time": "2023-03-27"
-      }
-    ],
-    "special_companies": "ST易事特,国元国际,金力永磁"
   },
   {
     "uid": "606568",

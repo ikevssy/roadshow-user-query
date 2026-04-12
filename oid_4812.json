@@ -11116,6 +11116,36 @@
     "special_companies": "远东宏信"
   },
   {
+    "uid": "431705",
+    "name": "黄怡婷",
+    "org_name": "光大证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "非银行业分析师",
+    "department": "研究所",
+    "last_interaction_time": "2025-03-31 14:59:30",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "申万宏源",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-24",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-31",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会",
+        "duration": 8
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "496270",
     "name": "蔡錦煌",
     "org_name": "交银国际（亚洲）有限公司",
@@ -11345,36 +11375,6 @@
         "time": "2023-03-15"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "431705",
-    "name": "黄怡婷",
-    "org_name": "光大证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "非银行业分析师",
-    "department": "研究所",
-    "last_interaction_time": "2025-03-31 14:59:30",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "申万宏源",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-24",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-31",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会",
-        "duration": 8
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -14947,36 +14947,6 @@
     "special_companies": ""
   },
   {
-    "uid": "609014",
-    "name": "张雨嫣",
-    "org_name": "哲基杰讯（北京）咨询服务有限公司",
-    "org_type": "财经公关服务",
-    "cert_type": "媒体",
-    "position": "高级顾问",
-    "department": "PR",
-    "last_interaction_time": "2024-04-01 15:00:08",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "申万宏源",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-04-01",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会",
-        "duration": 77
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "578570",
     "name": "刘育华",
     "org_name": "申万宏源集团股份有限公司",
@@ -15005,6 +14975,36 @@
         "time": "2023-04-03",
         "meet_title": "申万宏源（000166.SZ，06806.HK）2022年度业绩说明会",
         "duration": 69
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "609014",
+    "name": "张雨嫣",
+    "org_name": "哲基杰讯（北京）咨询服务有限公司",
+    "org_type": "财经公关服务",
+    "cert_type": "媒体",
+    "position": "高级顾问",
+    "department": "PR",
+    "last_interaction_time": "2024-04-01 15:00:08",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "申万宏源",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-04-01",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会",
+        "duration": 77
       }
     ],
     "is_first_attend": true,
@@ -20357,36 +20357,6 @@
     "special_companies": ""
   },
   {
-    "uid": "578469",
-    "name": "徐佳",
-    "org_name": "兴业证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "实习生",
-    "department": "",
-    "last_interaction_time": "2023-04-03 16:01:08",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "申万宏源",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-03",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-03",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2022年度业绩说明会",
-        "duration": 79
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "270837",
     "name": "张婉丽",
     "org_name": "达博思传讯顾问有限公司",
@@ -20415,6 +20385,36 @@
         "time": "2023-04-03",
         "meet_title": "申万宏源（000166.SZ，06806.HK）2022年度业绩说明会",
         "duration": 87
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "578469",
+    "name": "徐佳",
+    "org_name": "兴业证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "实习生",
+    "department": "",
+    "last_interaction_time": "2023-04-03 16:01:08",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "申万宏源",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-03",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-03",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2022年度业绩说明会",
+        "duration": 79
       }
     ],
     "is_first_attend": true,
