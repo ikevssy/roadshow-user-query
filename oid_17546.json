@@ -7253,6 +7253,43 @@
     "special_companies": ""
   },
   {
+    "uid": "576949",
+    "name": "李璐",
+    "org_name": "Regents Capital, LTD",
+    "org_type": "境外资产管理公司",
+    "cert_type": "个人",
+    "position": "Assistant Analyst",
+    "department": "",
+    "last_interaction_time": "2023-08-24 10:00:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集车辆",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国船舶租赁",
+        "time": "2023-08-24"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "430880",
     "name": "王扬帆",
     "org_name": "深圳市哲灵投资管理有限公司",
@@ -7291,43 +7328,6 @@
       }
     ],
     "special_companies": "中集车辆"
-  },
-  {
-    "uid": "576949",
-    "name": "李璐",
-    "org_name": "Regents Capital, LTD",
-    "org_type": "境外资产管理公司",
-    "cert_type": "个人",
-    "position": "Assistant Analyst",
-    "department": "",
-    "last_interaction_time": "2023-08-24 10:00:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集车辆",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-23",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国船舶租赁",
-        "time": "2023-08-24"
-      },
-      {
-        "company": "新鸿基公司",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "比亚迪",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "576785",
@@ -7628,6 +7628,258 @@
     "special_companies": "中集车辆"
   },
   {
+    "uid": "1450",
+    "name": "盧超",
+    "org_name": "理成(开曼)资产管理有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2023-08-24 09:59:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集车辆",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-09",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-24",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会",
+        "duration": 63
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "九方智投控股",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "小马智行",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "香港中旅",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "稀美资源",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "百融智能",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "美团-W",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "恒安国际",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-09"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "理士国际",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "中国银行",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "招商银行",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "顺丰同城",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "美的置业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "百度",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "药师帮",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "中国电信",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "京东物流",
+        "time": "2025-08-06"
+      }
+    ],
+    "special_companies": "呷哺呷哺,国证国际证券(香港)研究所,沛嘉医疗,滨江服务"
+  },
+  {
     "uid": "345608",
     "name": "冯丽扬",
     "org_name": "北京康曼德资本管理有限公司",
@@ -7893,258 +8145,6 @@
       }
     ],
     "special_companies": "21世纪教育,万物云,万物新生（爱回收）,中集车辆,五谷磨房,华润医疗,华润医药,呷哺呷哺,复星国际,奈雪的茶,小米集团-W,思治企业咨询,星盛商业,有赞,波司登,湾区发展,百果园集团,英伟达,药明生物,赢家时尚,远东宏信,顺丰同城"
-  },
-  {
-    "uid": "1450",
-    "name": "盧超",
-    "org_name": "理成(开曼)资产管理有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "",
-    "last_interaction_time": "2023-08-24 09:59:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集车辆",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-09",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-24",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会",
-        "duration": 63
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "希迪智驾",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "九方智投控股",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "小马智行",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "香港中旅",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "稀美资源",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "中国民航信息网络",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "百融智能",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "五谷磨房",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "美团-W",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "恒安国际",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "阜博集团",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-11-09"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-08-29"
-      },
-      {
-        "company": "理士国际",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "中国银行",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "招商银行",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "顺丰同城",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "合景悠活",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "拼多多",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "美的置业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "卓越教育集团",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "百度",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "药师帮",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "名创优品",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "佛朗斯股份",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "中国电信",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "快手-W",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "金山软件",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "小鹏汽车-W",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-08-08"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "京东物流",
-        "time": "2025-08-06"
-      }
-    ],
-    "special_companies": "呷哺呷哺,国证国际证券(香港)研究所,沛嘉医疗,滨江服务"
   },
   {
     "uid": "440101",
@@ -21971,6 +21971,36 @@
     "special_companies": ""
   },
   {
+    "uid": "497805",
+    "name": "邓晨亮",
+    "org_name": "正心谷资本",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "资深研究员",
+    "department": "",
+    "last_interaction_time": "2023-03-28 09:31:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集车辆",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-22",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-28",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
+        "duration": 29
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "573296",
     "name": "Lilian Chen",
     "org_name": "瑞士银行有限公司",
@@ -22004,36 +22034,6 @@
       }
     ],
     "special_companies": "中集车辆"
-  },
-  {
-    "uid": "497805",
-    "name": "邓晨亮",
-    "org_name": "正心谷资本",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "资深研究员",
-    "department": "",
-    "last_interaction_time": "2023-03-28 09:31:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集车辆",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-22",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
-        "duration": 29
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "426778",
@@ -22177,36 +22177,6 @@
     "special_companies": "中集集团"
   },
   {
-    "uid": "343619",
-    "name": "张君平",
-    "org_name": "长盛基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-28 09:31:14",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集车辆",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-20",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
-        "duration": 19
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "337325",
     "name": "邢重阳",
     "org_name": "财通证券股份有限公司",
@@ -22233,6 +22203,36 @@
       }
     ],
     "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "343619",
+    "name": "张君平",
+    "org_name": "长盛基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2023-03-28 09:31:14",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集车辆",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-20",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-28",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
+        "duration": 19
+      }
+    ],
+    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },

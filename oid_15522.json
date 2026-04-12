@@ -6131,83 +6131,127 @@
     "special_companies": "中国民航信息网络,中国船舶租赁,保利物业,华润医疗,华润医药,启明医疗,建业地产,新城控股,晶门半导体,深高速,石化油服,碧桂园,联邦制药,药师帮"
   },
   {
-    "uid": "573552",
-    "name": "王宇红",
-    "org_name": "深圳市康哲药业有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "市场管理总监",
-    "department": "市场部",
+    "uid": "502916",
+    "name": "王郑洋",
+    "org_name": "中信证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "高级经理",
+    "department": "研究部",
     "last_interaction_time": "2026-03-17 10:00:32",
     "last_interaction_behavior": "参会",
     "interaction_company": "康哲药业",
-    "apply_count": 7,
+    "apply_count": 4,
     "apply_records": [
       {
-        "time": "2026-03-12",
+        "time": "2026-03-17",
         "meet_title": "康哲药业（867.HK, 8A8.SG）2025年度业绩电话会"
       },
       {
-        "time": "2025-08-14",
-        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年中期业绩电话会"
-      },
-      {
-        "time": "2025-03-12",
-        "meet_title": "康哲药业（867.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-06",
-        "meet_title": "康哲药业（0867.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-27",
+        "time": "2024-03-18",
         "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
       },
       {
-        "time": "2023-08-28",
+        "time": "2023-08-20",
         "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会"
       },
       {
-        "time": "2023-03-17",
+        "time": "2023-03-07",
         "meet_title": "康哲药业（0867.HK）2022年度业绩发布会"
       }
     ],
-    "attend_count": 5,
+    "attend_count": 4,
     "attend_records": [
       {
         "time": "2026-03-17",
         "meet_title": "康哲药业（867.HK, 8A8.SG）2025年度业绩电话会",
-        "duration": 81
-      },
-      {
-        "time": "2024-08-16",
-        "meet_title": "康哲药业（0867.HK）2024年中期业绩发布会",
-        "duration": 32
+        "duration": 93
       },
       {
         "time": "2024-03-28",
         "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
-        "duration": 96
+        "duration": 77
       },
       {
         "time": "2023-08-29",
         "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会",
-        "duration": 68
+        "duration": 81
       },
       {
         "time": "2023-03-17",
         "meet_title": "康哲药业（0867.HK）2022年度业绩发布会",
-        "duration": 52
+        "duration": 116
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "博腾股份",
+        "time": "2023-04-22"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2023-03-07"
+      }
+    ],
+    "special_companies": "中信证券,博腾股份,康哲药业"
+  },
+  {
+    "uid": "494073",
+    "name": "付丹凤",
+    "org_name": "康哲药业控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "Business Associate",
+    "department": "Strategic Investment Division",
+    "last_interaction_time": "2026-03-17 10:00:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康哲药业",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-16",
+        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年度业绩电话会"
+      },
+      {
+        "time": "2025-08-06",
+        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年中期业绩电话会"
+      },
+      {
+        "time": "2025-03-05",
+        "meet_title": "康哲药业（867.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-03-17",
+        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年度业绩电话会",
+        "duration": 92
+      },
+      {
+        "time": "2025-03-18",
+        "meet_title": "康哲药业（867.HK）2024年度业绩发布会",
+        "duration": 67
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
+        "duration": 101
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
         "company": "康哲药业",
-        "time": "2026-03-16"
+        "time": "2024-03-18"
       }
     ],
-    "special_companies": ""
+    "special_companies": "康哲药业"
   },
   {
     "uid": "336009",
@@ -6425,6 +6469,85 @@
     "special_companies": "中国人寿,中国金茂,国证国际证券(香港)研究所,建发国际集团,新希望服务,星盛商业,百融智能"
   },
   {
+    "uid": "573552",
+    "name": "王宇红",
+    "org_name": "深圳市康哲药业有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "市场管理总监",
+    "department": "市场部",
+    "last_interaction_time": "2026-03-17 10:00:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康哲药业",
+    "apply_count": 7,
+    "apply_records": [
+      {
+        "time": "2026-03-12",
+        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年度业绩电话会"
+      },
+      {
+        "time": "2025-08-14",
+        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年中期业绩电话会"
+      },
+      {
+        "time": "2025-03-12",
+        "meet_title": "康哲药业（867.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-06",
+        "meet_title": "康哲药业（0867.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-28",
+        "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-17",
+        "meet_title": "康哲药业（0867.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 5,
+    "attend_records": [
+      {
+        "time": "2026-03-17",
+        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年度业绩电话会",
+        "duration": 81
+      },
+      {
+        "time": "2024-08-16",
+        "meet_title": "康哲药业（0867.HK）2024年中期业绩发布会",
+        "duration": 32
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
+        "duration": 96
+      },
+      {
+        "time": "2023-08-29",
+        "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会",
+        "duration": 68
+      },
+      {
+        "time": "2023-03-17",
+        "meet_title": "康哲药业（0867.HK）2022年度业绩发布会",
+        "duration": 52
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "康哲药业",
+        "time": "2026-03-16"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "610439",
     "name": "张靖东",
     "org_name": "南京春谷私募基金管理有限公司",
@@ -6559,129 +6682,6 @@
       }
     ],
     "special_companies": "康哲药业,康基医疗,绿城管理控股"
-  },
-  {
-    "uid": "502916",
-    "name": "王郑洋",
-    "org_name": "中信证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "高级经理",
-    "department": "研究部",
-    "last_interaction_time": "2026-03-17 10:00:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康哲药业",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-17",
-        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年度业绩电话会"
-      },
-      {
-        "time": "2024-03-18",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-20",
-        "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-07",
-        "meet_title": "康哲药业（0867.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2026-03-17",
-        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年度业绩电话会",
-        "duration": 93
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
-        "duration": 77
-      },
-      {
-        "time": "2023-08-29",
-        "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会",
-        "duration": 81
-      },
-      {
-        "time": "2023-03-17",
-        "meet_title": "康哲药业（0867.HK）2022年度业绩发布会",
-        "duration": 116
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "博腾股份",
-        "time": "2023-04-22"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2023-03-07"
-      }
-    ],
-    "special_companies": "中信证券,博腾股份,康哲药业"
-  },
-  {
-    "uid": "494073",
-    "name": "付丹凤",
-    "org_name": "康哲药业控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "Business Associate",
-    "department": "Strategic Investment Division",
-    "last_interaction_time": "2026-03-17 10:00:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康哲药业",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-16",
-        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年度业绩电话会"
-      },
-      {
-        "time": "2025-08-06",
-        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年中期业绩电话会"
-      },
-      {
-        "time": "2025-03-05",
-        "meet_title": "康哲药业（867.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-03-17",
-        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年度业绩电话会",
-        "duration": 92
-      },
-      {
-        "time": "2025-03-18",
-        "meet_title": "康哲药业（867.HK）2024年度业绩发布会",
-        "duration": 67
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
-        "duration": 101
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "康哲药业",
-        "time": "2024-03-18"
-      }
-    ],
-    "special_companies": "康哲药业"
   },
   {
     "uid": "632307",
@@ -17446,36 +17446,6 @@
     "special_companies": "中国心连心化肥,康臣药业"
   },
   {
-    "uid": "277176",
-    "name": "王斐",
-    "org_name": "上海景林资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "",
-    "last_interaction_time": "2025-08-19 10:04:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康哲药业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年中期业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年中期业绩电话会",
-        "duration": 91
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "347841",
     "name": "林俊辉",
     "org_name": "广州沁昇投资管理有限公司",
@@ -17512,6 +17482,36 @@
         "time": "2023-03-24"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "277176",
+    "name": "王斐",
+    "org_name": "上海景林资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2025-08-19 10:04:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康哲药业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年中期业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "康哲药业（867.HK, 8A8.SG）2025年中期业绩电话会",
+        "duration": 91
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -29700,90 +29700,6 @@
     "special_companies": ""
   },
   {
-    "uid": "258062",
-    "name": "杨琳",
-    "org_name": "珠海德摩基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "高级投资经理",
-    "department": "",
-    "last_interaction_time": "2025-03-18 10:00:53",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康哲药业",
-    "apply_count": 5,
-    "apply_records": [
-      {
-        "time": "2025-03-17",
-        "meet_title": "康哲药业（867.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-06",
-        "meet_title": "康哲药业（0867.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-17",
-        "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-16",
-        "meet_title": "康哲药业（0867.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2025-03-18",
-        "meet_title": "康哲药业（867.HK）2024年度业绩发布会",
-        "duration": 91
-      },
-      {
-        "time": "2025-03-18",
-        "meet_title": "康哲药业（867.HK）2024年度业绩发布会",
-        "duration": 3
-      },
-      {
-        "time": "2024-08-16",
-        "meet_title": "康哲药业（0867.HK）2024年中期业绩发布会",
-        "duration": 93
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
-        "duration": 94
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2023-08-29",
-        "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "康基医疗",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2024-08-16"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2023-08-23"
-      }
-    ],
-    "special_companies": "华润医疗,康哲药业"
-  },
-  {
     "uid": "248927",
     "name": "吴远",
     "org_name": "杭州众钰投资管理有限公司",
@@ -30032,6 +29948,90 @@
       }
     ],
     "special_companies": "361度,九毛九,亿胜生物科技,伟仕佳杰,信义光能,信义能源,信義玻璃,力劲科技,呷哺呷哺,工业富联,敏华控股,波司登,绿城中国,药明生物,贝康医疗"
+  },
+  {
+    "uid": "258062",
+    "name": "杨琳",
+    "org_name": "珠海德摩基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "高级投资经理",
+    "department": "",
+    "last_interaction_time": "2025-03-18 10:00:53",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康哲药业",
+    "apply_count": 5,
+    "apply_records": [
+      {
+        "time": "2025-03-17",
+        "meet_title": "康哲药业（867.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-06",
+        "meet_title": "康哲药业（0867.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-17",
+        "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-16",
+        "meet_title": "康哲药业（0867.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2025-03-18",
+        "meet_title": "康哲药业（867.HK）2024年度业绩发布会",
+        "duration": 91
+      },
+      {
+        "time": "2025-03-18",
+        "meet_title": "康哲药业（867.HK）2024年度业绩发布会",
+        "duration": 3
+      },
+      {
+        "time": "2024-08-16",
+        "meet_title": "康哲药业（0867.HK）2024年中期业绩发布会",
+        "duration": 93
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
+        "duration": 94
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2023-08-29",
+        "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "康基医疗",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2024-08-16"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2023-08-23"
+      }
+    ],
+    "special_companies": "华润医疗,康哲药业"
   },
   {
     "uid": "10099",
@@ -43963,6 +43963,36 @@
     "special_companies": "华润医药"
   },
   {
+    "uid": "607683",
+    "name": "李奕玮",
+    "org_name": "华泰证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "医药生物研究员",
+    "department": "研究所",
+    "last_interaction_time": "2024-03-28 09:59:15",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康哲药业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-22",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
+        "duration": 77
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "425606",
     "name": "陆金明",
     "org_name": "湖南华川私募基金管理有限公司",
@@ -44036,36 +44066,6 @@
       }
     ],
     "special_companies": "联邦制药"
-  },
-  {
-    "uid": "607683",
-    "name": "李奕玮",
-    "org_name": "华泰证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "医药生物研究员",
-    "department": "研究所",
-    "last_interaction_time": "2024-03-28 09:59:15",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康哲药业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-22",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
-        "duration": 77
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "572790",
@@ -44305,6 +44305,96 @@
     "special_companies": "越秀地产"
   },
   {
+    "uid": "608363",
+    "name": "廖晓琴",
+    "org_name": "E药经理人",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "记者",
+    "department": "产业传播部",
+    "last_interaction_time": "2024-03-28 09:59:01",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康哲药业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
+        "duration": 77
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "582084",
+    "name": "任婉莹",
+    "org_name": "华安证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "医药行业分析师",
+    "department": "研究所",
+    "last_interaction_time": "2024-03-28 09:59:01",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康哲药业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-18",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
+        "duration": 82
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "436208",
+    "name": "刘天雄",
+    "org_name": "上海光大证券资产管理有限公司",
+    "org_type": "券商资管",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2024-03-28 09:59:01",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康哲药业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
+        "duration": 100
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "580388",
     "name": "舒殷",
     "org_name": "鸿运私募基金管理（海南）有限公司",
@@ -44356,36 +44446,6 @@
     "special_companies": "VESYNC,康基医疗,绿城管理控股"
   },
   {
-    "uid": "436208",
-    "name": "刘天雄",
-    "org_name": "上海光大证券资产管理有限公司",
-    "org_type": "券商资管",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2024-03-28 09:59:01",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康哲药业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
-        "duration": 100
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "608304",
     "name": "付子阳",
     "org_name": "国泰君安证券股份有限公司研究所",
@@ -44409,66 +44469,6 @@
         "time": "2024-03-28",
         "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
         "duration": 100
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "582084",
-    "name": "任婉莹",
-    "org_name": "华安证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "医药行业分析师",
-    "department": "研究所",
-    "last_interaction_time": "2024-03-28 09:59:01",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康哲药业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-18",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
-        "duration": 82
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "608363",
-    "name": "廖晓琴",
-    "org_name": "E药经理人",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "记者",
-    "department": "产业传播部",
-    "last_interaction_time": "2024-03-28 09:59:01",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康哲药业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "康哲药业（0867.HK）2023年度业绩发布会",
-        "duration": 77
       }
     ],
     "is_first_attend": true,
@@ -49691,36 +49691,6 @@
     "special_companies": ""
   },
   {
-    "uid": "579937",
-    "name": "赵欣",
-    "org_name": "广州金控期货有限公司",
-    "org_type": "期货公司",
-    "cert_type": "个人",
-    "position": "业务总监",
-    "department": "产业部",
-    "last_interaction_time": "2023-08-29 11:05:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康哲药业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-28",
-        "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-29",
-        "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会",
-        "duration": 71
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "582095",
     "name": "郑慧琦",
     "org_name": "康哲药业控股有限公司",
@@ -49744,6 +49714,36 @@
         "time": "2023-08-29",
         "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会",
         "duration": 62
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "579937",
+    "name": "赵欣",
+    "org_name": "广州金控期货有限公司",
+    "org_type": "期货公司",
+    "cert_type": "个人",
+    "position": "业务总监",
+    "department": "产业部",
+    "last_interaction_time": "2023-08-29 11:05:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康哲药业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-28",
+        "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-29",
+        "meet_title": "康哲药业（0867.HK）2023年中期业绩发布会",
+        "duration": 71
       }
     ],
     "is_first_attend": true,
@@ -56910,36 +56910,6 @@
     "special_companies": ""
   },
   {
-    "uid": "459305",
-    "name": "程子芮",
-    "org_name": "Schonfeld Strategic Advisors (Hong Kong) Limited",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "",
-    "last_interaction_time": "2023-03-17 10:15:36",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "康哲药业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-07",
-        "meet_title": "康哲药业（0867.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-17",
-        "meet_title": "康哲药业（0867.HK）2022年度业绩发布会",
-        "duration": 97
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "264040",
     "name": "邹军辉",
     "org_name": "景泰利丰资产管理有限公司",
@@ -56966,6 +56936,36 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "459305",
+    "name": "程子芮",
+    "org_name": "Schonfeld Strategic Advisors (Hong Kong) Limited",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2023-03-17 10:15:36",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "康哲药业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-07",
+        "meet_title": "康哲药业（0867.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-17",
+        "meet_title": "康哲药业（0867.HK）2022年度业绩发布会",
+        "duration": 97
+      }
+    ],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },

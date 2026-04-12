@@ -36015,45 +36015,6 @@
     "special_companies": ""
   },
   {
-    "uid": "332911",
-    "name": "于小雨",
-    "org_name": "上海亿翰商务咨询股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "服务机构",
-    "position": "研究总监",
-    "department": "",
-    "last_interaction_time": "2023-03-21 15:29:28",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "招商蛇口",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-20",
-        "meet_title": "招商蛇口（001979.SZ）2022年度业绩发布会暨投资者交流会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-21",
-        "meet_title": "招商蛇口（001979.SZ）2022年度业绩发布会暨投资者交流会",
-        "duration": 100
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "美的置业",
-        "time": "2023-03-27"
-      }
-    ],
-    "special_companies": "招商蛇口,绿城中国,美的置业"
-  },
-  {
     "uid": "494773",
     "name": "Kevin Kan",
     "org_name": "Mindhand Capital Limited",
@@ -36091,6 +36052,45 @@
       }
     ],
     "special_companies": "华润电力,越秀地产"
+  },
+  {
+    "uid": "332911",
+    "name": "于小雨",
+    "org_name": "上海亿翰商务咨询股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "服务机构",
+    "position": "研究总监",
+    "department": "",
+    "last_interaction_time": "2023-03-21 15:29:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "招商蛇口",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-20",
+        "meet_title": "招商蛇口（001979.SZ）2022年度业绩发布会暨投资者交流会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-21",
+        "meet_title": "招商蛇口（001979.SZ）2022年度业绩发布会暨投资者交流会",
+        "duration": 100
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "美的置业",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": "招商蛇口,绿城中国,美的置业"
   },
   {
     "uid": "47288",
