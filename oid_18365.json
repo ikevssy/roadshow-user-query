@@ -1,5 +1,605 @@
 [
   {
+    "uid": "497048",
+    "name": "Qi Wen",
+    "org_name": "Jefferies",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "vice president equity research healthcare",
+    "department": "",
+    "last_interaction_time": "2026-04-12 14:25:23",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-12",
+        "meet_title": "富士康工业互联网股份有限公司2025年年度业绩说明会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "百融智能,罕王黄金,联邦制药"
+  },
+  {
+    "uid": "647486",
+    "name": "罗旻娜",
+    "org_name": "中佳企业",
+    "org_type": null,
+    "cert_type": "服务机构",
+    "position": "扶持部总经理",
+    "department": "产业资金",
+    "last_interaction_time": "2026-04-12 10:53:06",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-12",
+        "meet_title": "富士康工业互联网股份有限公司2025年年度业绩说明会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "635043",
+    "name": "邓方俊",
+    "org_name": "高林(深圳)私募证券基金管理有限公司",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "合伙人",
+    "department": "",
+    "last_interaction_time": "2026-04-12 10:51:57",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-12",
+        "meet_title": "富士康工业互联网股份有限公司2025年年度业绩说明会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-12"
+      },
+      {
+        "company": "迈瑞医疗",
+        "time": "2026-04-12"
+      },
+      {
+        "company": "英伟达",
+        "time": "2026-01-14"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2026-01-14"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2026-01-14"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-01-14"
+      },
+      {
+        "company": "九方智投控股",
+        "time": "2026-01-12"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "276920",
+    "name": "边佳璐",
+    "org_name": "杭州军璐投资有限公司",
+    "org_type": "一般企业",
+    "cert_type": "机构投资者",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2026-04-12 08:26:50",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-12",
+        "meet_title": "富士康工业互联网股份有限公司2025年年度业绩说明会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "网龙",
+        "time": "2026-04-12"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-12"
+      },
+      {
+        "company": "美光科技",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "苹果",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "微软",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "超威半导体",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "谷歌",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "META",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "HashKey",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "果下科技",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "京东工业",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "博通",
+        "time": "2025-12-09"
+      },
+      {
+        "company": "华海清科",
+        "time": "2025-09-03"
+      },
+      {
+        "company": "雅培",
+        "time": "2025-07-21"
+      },
+      {
+        "company": "思科（中国）",
+        "time": "2025-07-21"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-07-21"
+      },
+      {
+        "company": "高通",
+        "time": "2023-11-02"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2023-08-16"
+      },
+      {
+        "company": "华能国际",
+        "time": "2023-08-10"
+      },
+      {
+        "company": "国联基金",
+        "time": "2023-08-10"
+      },
+      {
+        "company": "中信期货",
+        "time": "2023-07-20"
+      },
+      {
+        "company": "福特",
+        "time": "2023-07-18"
+      },
+      {
+        "company": "特斯拉",
+        "time": "2023-07-18"
+      },
+      {
+        "company": "强生",
+        "time": "2023-07-18"
+      },
+      {
+        "company": "台积电",
+        "time": "2023-07-18"
+      },
+      {
+        "company": "英伟达",
+        "time": "2023-05-29"
+      },
+      {
+        "company": "拓维信息",
+        "time": "2023-05-22"
+      }
+    ],
+    "special_companies": "博腾股份,比亚迪,珀莱雅"
+  },
+  {
+    "uid": "493584",
+    "name": "張興東",
+    "org_name": "东信投资",
+    "org_type": "未分类",
+    "cert_type": "机构投资者",
+    "position": "经理",
+    "department": "",
+    "last_interaction_time": "2026-04-12 02:26:48",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-12",
+        "meet_title": "富士康工业互联网股份有限公司2025年年度业绩说明会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-12"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2026-04-12"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-04-02"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-02"
+      },
+      {
+        "company": "鸿远电子",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "浙商银行",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "马钢股份",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "圣贝拉",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "农业银行",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "美团-W",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "亿胜生物科技",
+        "time": "2026-03-22"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "美的集团",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "友邦保险",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "恒安国际",
+        "time": "2026-03-15"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2025-07-29"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2025-04-23"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "中国海油",
+        "time": "2024-12-02"
+      },
+      {
+        "company": "标普信评",
+        "time": "2024-09-04"
+      },
+      {
+        "company": "名创优品",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "锦欣生殖",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "顺丰同城",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "中烟香港",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "海底捞",
+        "time": "2024-08-27"
+      },
+      {
+        "company": "宜明昂科",
+        "time": "2024-08-27"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2024-08-27"
+      },
+      {
+        "company": "丸美生物",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "中国平安",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "李宁",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2024-08-14"
+      },
+      {
+        "company": "中国旭阳集团",
+        "time": "2024-07-02"
+      },
+      {
+        "company": "伯克希尔-哈撒韦",
+        "time": "2024-05-05"
+      },
+      {
+        "company": "招商银行",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "信義玻璃",
+        "time": "2024-02-29"
+      },
+      {
+        "company": "百果园集团",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "波司登",
+        "time": "2023-06-29"
+      },
+      {
+        "company": "平安银行",
+        "time": "2023-03-09"
+      }
+    ],
+    "special_companies": "中国心连心化肥,中国电信,中烟香港,丸美生物,佛朗斯股份,信義玻璃,呷哺呷哺,宜明昂科,小米集团-W,康臣药业,快手-W,招商银行,波司登,湾区发展,百果园集团,腾讯控股,顺丰同城"
+  },
+  {
+    "uid": "268567",
+    "name": "王德玉",
+    "org_name": "泓富投資有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2026-04-11 23:15:42",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-11",
+        "meet_title": "富士康工业互联网股份有限公司2025年年度业绩说明会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-11"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "佳鑫国际资源",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "华润医药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中国银行",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "中集集团",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "中粮家佳康",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "中煤能源",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2025-07-22"
+      },
+      {
+        "company": "中国动向",
+        "time": "2025-06-23"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2025-04-08"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-03-30"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2025-03-30"
+      },
+      {
+        "company": "百威亚太",
+        "time": "2025-02-24"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2025-02-24"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2025-02-24"
+      },
+      {
+        "company": "中国心连心化肥",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "环球医疗",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "新城悦服务",
+        "time": "2024-03-28"
+      }
+    ],
+    "special_companies": "中国心连心化肥,协合新能源,卓越商企服务,星盛商业"
+  },
+  {
     "uid": "632531",
     "name": "Zhibin Zhu",
     "org_name": "九安香港有限公司",
@@ -10860,6 +11460,36 @@
     "special_companies": ""
   },
   {
+    "uid": "639381",
+    "name": "彭柳萌",
+    "org_name": "上海敦颐资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "合伙人/基金经理",
+    "department": "",
+    "last_interaction_time": "2025-11-13 14:05:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-11-06",
+        "meet_title": "富士康工业互联网股份有限公司2025年第三季度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-11-13",
+        "meet_title": "富士康工业互联网股份有限公司2025年第三季度业绩说明会",
+        "duration": 42
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "339620",
     "name": "王曉琼",
     "org_name": "花旗环球金融亚洲有限公司",
@@ -10913,36 +11543,6 @@
       }
     ],
     "special_companies": "晶门半导体"
-  },
-  {
-    "uid": "639381",
-    "name": "彭柳萌",
-    "org_name": "上海敦颐资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "合伙人/基金经理",
-    "department": "",
-    "last_interaction_time": "2025-11-13 14:05:07",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "工业富联",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-11-06",
-        "meet_title": "富士康工业互联网股份有限公司2025年第三季度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-11-13",
-        "meet_title": "富士康工业互联网股份有限公司2025年第三季度业绩说明会",
-        "duration": 42
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "639356",
@@ -13670,36 +14270,6 @@
     "special_companies": ""
   },
   {
-    "uid": "577141",
-    "name": "李书颖",
-    "org_name": "国信证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "电子行业分析师助理",
-    "department": "经济研究所",
-    "last_interaction_time": "2025-11-13 14:00:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "工业富联",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-11-10",
-        "meet_title": "富士康工业互联网股份有限公司2025年第三季度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-11-13",
-        "meet_title": "富士康工业互联网股份有限公司2025年第三季度业绩说明会",
-        "duration": 40
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "595514",
     "name": "许俊峰",
     "org_name": "天风证券股份有限公司研究所",
@@ -13736,6 +14306,36 @@
         "time": "2024-05-15"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "577141",
+    "name": "李书颖",
+    "org_name": "国信证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "电子行业分析师助理",
+    "department": "经济研究所",
+    "last_interaction_time": "2025-11-13 14:00:20",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-11-10",
+        "meet_title": "富士康工业互联网股份有限公司2025年第三季度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-11-13",
+        "meet_title": "富士康工业互联网股份有限公司2025年第三季度业绩说明会",
+        "duration": 40
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -16209,59 +16809,6 @@
     "special_companies": "工业富联"
   },
   {
-    "uid": "635196",
-    "name": "Allan Wang",
-    "org_name": "Daiwa-Cathay Capital Markets Co., Ltd.",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "Research Associate",
-    "department": "Research Department",
-    "last_interaction_time": "2025-11-13 13:54:38",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "工业富联",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2025-11-06",
-        "meet_title": "富士康工业互联网股份有限公司2025年第三季度业绩说明会"
-      },
-      {
-        "time": "2025-08-15",
-        "meet_title": "富士康工业互联网股份有限公司2025年中期业绩说明会"
-      },
-      {
-        "time": "2025-05-16",
-        "meet_title": "富士康工业互联网股份有限公司2024年年度暨2025年一季度业绩说明会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-11-13",
-        "meet_title": "富士康工业互联网股份有限公司2025年第三季度业绩说明会",
-        "duration": 52
-      },
-      {
-        "time": "2025-08-15",
-        "meet_title": "富士康工业互联网股份有限公司2025年中期业绩说明会",
-        "duration": 25
-      },
-      {
-        "time": "2025-05-16",
-        "meet_title": "富士康工业互联网股份有限公司2024年年度暨2025年一季度业绩说明会",
-        "duration": 0
-      },
-      {
-        "time": "2025-05-16",
-        "meet_title": "富士康工业互联网股份有限公司2024年年度暨2025年一季度业绩说明会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "495340",
     "name": "陈旭城",
     "org_name": "富士康工业互联网股份有限公司",
@@ -16316,6 +16863,59 @@
         "time": "2024-05-15",
         "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会",
         "duration": 54
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "635196",
+    "name": "Allan Wang",
+    "org_name": "Daiwa-Cathay Capital Markets Co., Ltd.",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "Research Associate",
+    "department": "Research Department",
+    "last_interaction_time": "2025-11-13 13:54:38",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "工业富联",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2025-11-06",
+        "meet_title": "富士康工业互联网股份有限公司2025年第三季度业绩说明会"
+      },
+      {
+        "time": "2025-08-15",
+        "meet_title": "富士康工业互联网股份有限公司2025年中期业绩说明会"
+      },
+      {
+        "time": "2025-05-16",
+        "meet_title": "富士康工业互联网股份有限公司2024年年度暨2025年一季度业绩说明会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-11-13",
+        "meet_title": "富士康工业互联网股份有限公司2025年第三季度业绩说明会",
+        "duration": 52
+      },
+      {
+        "time": "2025-08-15",
+        "meet_title": "富士康工业互联网股份有限公司2025年中期业绩说明会",
+        "duration": 25
+      },
+      {
+        "time": "2025-05-16",
+        "meet_title": "富士康工业互联网股份有限公司2024年年度暨2025年一季度业绩说明会",
+        "duration": 0
+      },
+      {
+        "time": "2025-05-16",
+        "meet_title": "富士康工业互联网股份有限公司2024年年度暨2025年一季度业绩说明会",
+        "duration": 57
       }
     ],
     "is_first_attend": true,
@@ -38664,41 +39264,6 @@
     "special_companies": ""
   },
   {
-    "uid": "610152",
-    "name": "吴京蓉",
-    "org_name": "富士康工业互联网股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "公共关系处",
-    "department": "Fii 董事会办公室公共关系处",
-    "last_interaction_time": "2025-05-16 14:52:39",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "工业富联",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-05-15",
-        "meet_title": "富士康工业互联网股份有限公司2024年年度暨2025年一季度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-05-16",
-        "meet_title": "富士康工业互联网股份有限公司2024年年度暨2025年一季度业绩说明会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "工业富联",
-        "time": "2025-05-16"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "610074",
     "name": "谌薇",
     "org_name": "招商证券股份有限公司研究所",
@@ -38754,6 +39319,41 @@
       }
     ],
     "special_companies": "工业富联,欧陆通"
+  },
+  {
+    "uid": "610152",
+    "name": "吴京蓉",
+    "org_name": "富士康工业互联网股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "公共关系处",
+    "department": "Fii 董事会办公室公共关系处",
+    "last_interaction_time": "2025-05-16 14:52:39",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-05-15",
+        "meet_title": "富士康工业互联网股份有限公司2024年年度暨2025年一季度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-05-16",
+        "meet_title": "富士康工业互联网股份有限公司2024年年度暨2025年一季度业绩说明会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2025-05-16"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "334505",
@@ -42538,36 +43138,6 @@
     "special_companies": "工业富联"
   },
   {
-    "uid": "589035",
-    "name": "徐正源",
-    "org_name": "中信证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "高级经理",
-    "department": "研究部",
-    "last_interaction_time": "2024-11-21 14:57:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "工业富联",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-11-19",
-        "meet_title": "富士康工业互联网股份有限公司2024年第三季度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-11-21",
-        "meet_title": "富士康工业互联网股份有限公司2024年第三季度业绩说明会",
-        "duration": 4
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "610303",
     "name": "Jamie Lee",
     "org_name": "富士康工业互联网股份有限公司",
@@ -42600,6 +43170,36 @@
         "time": "2024-05-15",
         "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会",
         "duration": 46
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "589035",
+    "name": "徐正源",
+    "org_name": "中信证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "高级经理",
+    "department": "研究部",
+    "last_interaction_time": "2024-11-21 14:57:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-11-19",
+        "meet_title": "富士康工业互联网股份有限公司2024年第三季度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-11-21",
+        "meet_title": "富士康工业互联网股份有限公司2024年第三季度业绩说明会",
+        "duration": 4
       }
     ],
     "is_first_attend": true,
@@ -45953,31 +46553,6 @@
     "special_companies": ""
   },
   {
-    "uid": "431427",
-    "name": "龙靖",
-    "org_name": "工业富联",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "无",
-    "department": "信息披露部",
-    "last_interaction_time": "2024-09-27 14:57:53",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "工业富联",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-09-27",
-        "meet_title": "富士康工业互联网股份有限公司2024年半年度业绩说明会",
-        "duration": 53
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "613389",
     "name": "李欣芳",
     "org_name": "富士康工业互联网股份有限公司",
@@ -46001,6 +46576,31 @@
         "time": "2024-09-27",
         "meet_title": "富士康工业互联网股份有限公司2024年半年度业绩说明会",
         "duration": 51
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "431427",
+    "name": "龙靖",
+    "org_name": "工业富联",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "无",
+    "department": "信息披露部",
+    "last_interaction_time": "2024-09-27 14:57:53",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "工业富联",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-09-27",
+        "meet_title": "富士康工业互联网股份有限公司2024年半年度业绩说明会",
+        "duration": 53
       }
     ],
     "is_first_attend": true,
@@ -49288,6 +49888,41 @@
     "special_companies": ""
   },
   {
+    "uid": "586605",
+    "name": "严冬",
+    "org_name": "蜂巢基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2024-05-15 10:10:01",
+    "last_interaction_behavior": "特关",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-05-15",
+        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-05-15",
+        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会",
+        "duration": 36
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2024-05-15"
+      }
+    ],
+    "special_companies": "工业富联"
+  },
+  {
     "uid": "607983",
     "name": "袁野",
     "org_name": "Simplicity Capital",
@@ -49345,41 +49980,6 @@
       }
     ],
     "special_companies": "森松国际,滨江服务"
-  },
-  {
-    "uid": "586605",
-    "name": "严冬",
-    "org_name": "蜂巢基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2024-05-15 10:10:01",
-    "last_interaction_behavior": "特关",
-    "interaction_company": "工业富联",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-05-15",
-        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-05-15",
-        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会",
-        "duration": 36
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "工业富联",
-        "time": "2024-05-15"
-      }
-    ],
-    "special_companies": "工业富联"
   },
   {
     "uid": "430739",
@@ -50679,36 +51279,6 @@
     "special_companies": ""
   },
   {
-    "uid": "495846",
-    "name": "张旭东",
-    "org_name": "上海混沌投资(集团)有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "",
-    "department": "权益投资部 Equityinvestment",
-    "last_interaction_time": "2024-05-15 10:00:52",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "工业富联",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-05-10",
-        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-05-15",
-        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会",
-        "duration": 28
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "610069",
     "name": "常晟",
     "org_name": "正心谷资本",
@@ -50732,6 +51302,36 @@
         "time": "2024-05-15",
         "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会",
         "duration": 45
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "495846",
+    "name": "张旭东",
+    "org_name": "上海混沌投资(集团)有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "",
+    "department": "权益投资部 Equityinvestment",
+    "last_interaction_time": "2024-05-15 10:00:52",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-05-10",
+        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-05-15",
+        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会",
+        "duration": 28
       }
     ],
     "is_first_attend": true,
@@ -50774,36 +51374,6 @@
     "special_companies": "工业富联"
   },
   {
-    "uid": "22650",
-    "name": "唐雷",
-    "org_name": "东方阿尔法基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "助理总经理",
-    "department": "",
-    "last_interaction_time": "2024-05-15 10:00:29",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "工业富联",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-05-15",
-        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-05-15",
-        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会",
-        "duration": 45
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "610062",
     "name": "杨硕",
     "org_name": "禾其投资",
@@ -50837,6 +51407,36 @@
       }
     ],
     "special_companies": "工业富联"
+  },
+  {
+    "uid": "22650",
+    "name": "唐雷",
+    "org_name": "东方阿尔法基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "助理总经理",
+    "department": "",
+    "last_interaction_time": "2024-05-15 10:00:29",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-05-15",
+        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-05-15",
+        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会",
+        "duration": 45
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "610294",
@@ -50917,36 +51517,6 @@
     "special_companies": "工业富联"
   },
   {
-    "uid": "5796",
-    "name": "高耀华",
-    "org_name": "中信证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "副总裁",
-    "department": "",
-    "last_interaction_time": "2024-05-15 10:00:13",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "工业富联",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-05-15",
-        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-05-15",
-        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会",
-        "duration": 45
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "425432",
     "name": "王逢节",
     "org_name": "浙商证券股份有限公司",
@@ -50970,6 +51540,36 @@
         "time": "2024-05-15",
         "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会",
         "duration": 46
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "5796",
+    "name": "高耀华",
+    "org_name": "中信证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "副总裁",
+    "department": "",
+    "last_interaction_time": "2024-05-15 10:00:13",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-05-15",
+        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-05-15",
+        "meet_title": "富士康工业互联网股份有限公司2023年年度暨2024年第一季度业绩说明会",
+        "duration": 45
       }
     ],
     "is_first_attend": true,
@@ -60629,6 +61229,36 @@
     "special_companies": ""
   },
   {
+    "uid": "573459",
+    "name": "何恒",
+    "org_name": "北海棣增投资咨询有限公司",
+    "org_type": "财务顾问机构",
+    "cert_type": "个人",
+    "position": "合伙人/研究总监",
+    "department": "",
+    "last_interaction_time": "2023-03-16 09:08:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-16",
+        "meet_title": "富士康工业互联网股份有限公司2022年度业绩投资者交流会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-16",
+        "meet_title": "富士康工业互联网股份有限公司2022年度业绩投资者交流会",
+        "duration": 71
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "13888",
     "name": "陈天诚",
     "org_name": "天风证券股份有限公司研究所",
@@ -60678,36 +61308,6 @@
         "time": "2023-03-04"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "573459",
-    "name": "何恒",
-    "org_name": "北海棣增投资咨询有限公司",
-    "org_type": "财务顾问机构",
-    "cert_type": "个人",
-    "position": "合伙人/研究总监",
-    "department": "",
-    "last_interaction_time": "2023-03-16 09:08:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "工业富联",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-16",
-        "meet_title": "富士康工业互联网股份有限公司2022年度业绩投资者交流会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-16",
-        "meet_title": "富士康工业互联网股份有限公司2022年度业绩投资者交流会",
-        "duration": 71
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -62226,36 +62826,6 @@
     "special_companies": ""
   },
   {
-    "uid": "334354",
-    "name": "方向",
-    "org_name": "九泰基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-03-16 09:00:18",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "工业富联",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-12",
-        "meet_title": "富士康工业互联网股份有限公司2022年度业绩投资者交流会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-16",
-        "meet_title": "富士康工业互联网股份有限公司2022年度业绩投资者交流会",
-        "duration": 18
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "493102",
     "name": "李韬",
     "org_name": "厦门航空投资有限公司",
@@ -62289,6 +62859,36 @@
       }
     ],
     "special_companies": "中国电信,中石化冠德"
+  },
+  {
+    "uid": "334354",
+    "name": "方向",
+    "org_name": "九泰基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-03-16 09:00:18",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "工业富联",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-12",
+        "meet_title": "富士康工业互联网股份有限公司2022年度业绩投资者交流会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-16",
+        "meet_title": "富士康工业互联网股份有限公司2022年度业绩投资者交流会",
+        "duration": 18
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "435325",
