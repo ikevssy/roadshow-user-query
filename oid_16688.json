@@ -1,5 +1,61 @@
 [
   {
+    "uid": "339884",
+    "name": "Clare Jim",
+    "org_name": "Thomson Reuters",
+    "org_type": "财经数据服务",
+    "cert_type": "媒体",
+    "position": "correspondent",
+    "department": "Reuters",
+    "last_interaction_time": "2026-04-13 16:14:13",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "万国数据服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "万国数据（09698.HK，GDS.US）2025年第四季度及全年业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "万国数据（09698.HK，GDS.US）2025年第四季度及全年业绩电话会",
+        "duration": 1
+      },
+      {
+        "time": "2026-03-19",
+        "meet_title": "万国数据（09698.HK，GDS.US）2025年第四季度及全年业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "建发国际集团",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "万物云",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2025-08-26"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "574117",
     "name": "李劲锋",
     "org_name": "天风证券股份有限公司研究所",
@@ -909,62 +965,6 @@
       }
     ],
     "special_companies": "中国人寿,交个朋友控股,国证国际证券(香港)研究所,百果园集团,腾讯控股"
-  },
-  {
-    "uid": "339884",
-    "name": "Clare Jim",
-    "org_name": "Thomson Reuters",
-    "org_type": "财经数据服务",
-    "cert_type": "媒体",
-    "position": "correspondent",
-    "department": "Reuters",
-    "last_interaction_time": "2026-03-26 10:46:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "万国数据服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "万国数据（09698.HK，GDS.US）2025年第四季度及全年业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "万国数据（09698.HK，GDS.US）2025年第四季度及全年业绩电话会",
-        "duration": 1
-      },
-      {
-        "time": "2026-03-19",
-        "meet_title": "万国数据（09698.HK，GDS.US）2025年第四季度及全年业绩电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "建发国际集团",
-        "time": "2026-03-26"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "万物云",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2025-08-26"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "277700",
@@ -8812,6 +8812,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
+      {
         "company": "希迪智驾",
         "time": "2026-03-30"
       },
@@ -9764,6 +9768,58 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "联合健康",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "雅培",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "雅诗兰黛",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "礼来",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "豫园股份",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "上美股份",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "毛戈平",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "珀莱雅",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "中国石油",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "强生",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "京东健康",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-13"
+      },
       {
         "company": "开市客",
         "time": "2026-03-20"
@@ -15157,6 +15213,26 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "美的集团",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "深高速",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2026-04-13"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-09"
@@ -21891,36 +21967,6 @@
     "special_companies": "中国太保,百融智能"
   },
   {
-    "uid": "505349",
-    "name": "郭舒洁",
-    "org_name": "富国基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究助理",
-    "department": "海外权益投资部",
-    "last_interaction_time": "2025-03-19 20:01:55",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "万国数据服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-19",
-        "meet_title": "万国数据（09698.HK，GDS.US）2024年第四季度及全年业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-19",
-        "meet_title": "万国数据（09698.HK，GDS.US）2024年第四季度及全年业绩电话会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "583431",
     "name": "李家俊",
     "org_name": "中信建投证券股份有限公司",
@@ -21954,6 +22000,36 @@
       }
     ],
     "special_companies": "复星国际"
+  },
+  {
+    "uid": "505349",
+    "name": "郭舒洁",
+    "org_name": "富国基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究助理",
+    "department": "海外权益投资部",
+    "last_interaction_time": "2025-03-19 20:01:55",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "万国数据服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-19",
+        "meet_title": "万国数据（09698.HK，GDS.US）2024年第四季度及全年业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-19",
+        "meet_title": "万国数据（09698.HK，GDS.US）2024年第四季度及全年业绩电话会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "273826",
@@ -28991,6 +29067,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-13"
+      },
+      {
         "company": "鸿远电子",
         "time": "2026-04-01"
       },
@@ -31755,6 +31835,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "宁德时代",
+        "time": "2026-04-13"
+      },
       {
         "company": "中国人寿",
         "time": "2026-03-24"

@@ -4167,6 +4167,58 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "联合健康",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "雅培",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "雅诗兰黛",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "礼来",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "豫园股份",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "上美股份",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "毛戈平",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "珀莱雅",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "中国石油",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "强生",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "京东健康",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-13"
+      },
+      {
         "company": "开市客",
         "time": "2026-03-20"
       },
@@ -6964,6 +7016,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
       {
         "company": "希迪智驾",
         "time": "2026-03-30"
@@ -19926,6 +19982,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-13"
+      },
       {
         "company": "鸿远电子",
         "time": "2026-04-01"
@@ -49758,36 +49818,6 @@
     "special_companies": ""
   },
   {
-    "uid": "33524",
-    "name": "刘岚",
-    "org_name": "嘉实基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "港股通投资策略组",
-    "last_interaction_time": "2023-08-16 20:00:28",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "京东集团-SW",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-16",
-        "meet_title": "京东（09618.HK，JD.US）2023年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-16",
-        "meet_title": "京东（09618.HK，JD.US）2023年第二季度业绩电话会",
-        "duration": 70
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "492405",
     "name": "李柳晓",
     "org_name": "国信证券（香港）金融控股有限公司",
@@ -49849,6 +49879,36 @@
       }
     ],
     "special_companies": "复星国际,百果园集团,药明生物"
+  },
+  {
+    "uid": "33524",
+    "name": "刘岚",
+    "org_name": "嘉实基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "港股通投资策略组",
+    "last_interaction_time": "2023-08-16 20:00:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "京东集团-SW",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-16",
+        "meet_title": "京东（09618.HK，JD.US）2023年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-16",
+        "meet_title": "京东（09618.HK，JD.US）2023年第二季度业绩电话会",
+        "duration": 70
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "333226",

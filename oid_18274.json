@@ -798,6 +798,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
+      {
         "company": "希迪智驾",
         "time": "2026-03-30"
       },
@@ -3081,6 +3085,36 @@
     "special_companies": "环球医疗,百融智能,远东宏信"
   },
   {
+    "uid": "441393",
+    "name": "赵相林",
+    "org_name": "深圳市路演中网络科技有限公司",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "运营",
+    "department": "",
+    "last_interaction_time": "2024-07-09 11:00:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "金力永磁",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-07-09",
+        "meet_title": "金力永磁（06680.HK/300748.SZ）投资者交流会｜安信国际 x 路演中"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-07-09",
+        "meet_title": "金力永磁（06680.HK/300748.SZ）投资者交流会｜安信国际 x 路演中",
+        "duration": 16
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "15376",
     "name": "唐天",
     "org_name": "博时基金管理有限公司",
@@ -3171,36 +3205,6 @@
       }
     ],
     "special_companies": "珀莱雅,药明生物,锦欣生殖"
-  },
-  {
-    "uid": "441393",
-    "name": "赵相林",
-    "org_name": "深圳市路演中网络科技有限公司",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "运营",
-    "department": "",
-    "last_interaction_time": "2024-07-09 11:00:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "金力永磁",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-07-09",
-        "meet_title": "金力永磁（06680.HK/300748.SZ）投资者交流会｜安信国际 x 路演中"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-07-09",
-        "meet_title": "金力永磁（06680.HK/300748.SZ）投资者交流会｜安信国际 x 路演中",
-        "duration": 16
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "581505",
