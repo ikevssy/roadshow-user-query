@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Layout, Card, Typography, Space, Button, Tag, message } from 'antd';
+import { Layout, Card, Typography, Space, Button, Tag, message, Progress } from 'antd';
 import { SearchOutlined, InfoCircleOutlined, DatabaseOutlined } from '@ant-design/icons';
 import { CompanySelector } from '../components/CompanySelector';
 import { TimeRangePicker } from '../components/TimeRangePicker';
@@ -24,6 +24,7 @@ export function UserQueryPage() {
   const [pageMode, setPageMode] = useState<PageMode>('search');
   const [detailUser, setDetailUser] = useState<UserInteraction | null>(null);
   const [detailOpen, setDetailOpen] = useState(false);
+  const [progress, setProgress] = useState<{ loaded: number; total: number } | null>(null);
   
   // 查询按钮点击
   const handleSearch = async () => {
@@ -32,7 +33,11 @@ export function UserQueryPage() {
       return;
     }
     
-    await loadUsers();
+    setProgress(null);
+    await loadUsers((loaded, total) => {
+      setProgress({ loaded, total });
+    });
+    setProgress(null);
     setPageMode('result');
   };
   
@@ -107,6 +112,16 @@ export function UserQueryPage() {
                 >
                   查询互动用户
                 </Button>
+                {loading && progress && (
+                  <div className={styles.progressWrap}>
+                    <Progress
+                      percent={Math.round((progress.loaded / progress.total) * 100)}
+                      size="small"
+                      status="active"
+                      format={() => `${progress.loaded} / ${progress.total}`}
+                    />
+                  </div>
+                )}
               </div>
             </div>
             

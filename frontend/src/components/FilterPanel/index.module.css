@@ -1,5 +1,5 @@
 .container {
-  padding: var(--space-md);
+  padding: var(--space-lg);
   background: var(--bg-secondary);
   border-radius: var(--radius-md);
   height: 100%;
