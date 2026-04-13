@@ -13257,6 +13257,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-13"
+      },
+      {
         "company": "鸿远电子",
         "time": "2026-04-01"
       },
@@ -15956,6 +15960,46 @@
     "special_companies": "新城发展,碧桂园,碧桂园服务"
   },
   {
+    "uid": "504907",
+    "name": "折立",
+    "org_name": "申港证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "个人",
+    "position": "董事总经理",
+    "department": "风险管理部",
+    "last_interaction_time": "2023-03-30 18:45:53",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 18
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 41
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "碧桂园"
+  },
+  {
     "uid": "280194",
     "name": "郑茜文",
     "org_name": "平安证券股份有限公司",
@@ -16021,46 +16065,6 @@
       }
     ],
     "special_companies": "中海物业,百果园集团,绿城中国"
-  },
-  {
-    "uid": "504907",
-    "name": "折立",
-    "org_name": "申港证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "个人",
-    "position": "董事总经理",
-    "department": "风险管理部",
-    "last_interaction_time": "2023-03-30 18:45:53",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 18
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 41
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "碧桂园"
   },
   {
     "uid": "577818",
@@ -16397,36 +16401,6 @@
     "special_companies": ""
   },
   {
-    "uid": "577936",
-    "name": "覃明清",
-    "org_name": "珠海华润银行股份有限公司",
-    "org_type": "银行",
-    "cert_type": "个人",
-    "position": "分行营业部对公客户经理",
-    "department": "",
-    "last_interaction_time": "2023-03-30 18:43:59",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 12
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "578134",
     "name": "周桦",
     "org_name": "碧桂园控股有限公司",
@@ -16450,6 +16424,36 @@
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
         "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "577936",
+    "name": "覃明清",
+    "org_name": "珠海华润银行股份有限公司",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "分行营业部对公客户经理",
+    "department": "",
+    "last_interaction_time": "2023-03-30 18:43:59",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 12
       }
     ],
     "is_first_attend": true,
@@ -23761,6 +23765,36 @@
     "special_companies": ""
   },
   {
+    "uid": "578080",
+    "name": "张良",
+    "org_name": "中银国际证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "资产管理部",
+    "last_interaction_time": "2023-03-30 17:47:52",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 56
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "274029",
     "name": "林波峰",
     "org_name": "深圳市鼎泰资本投资有限公司",
@@ -23948,36 +23982,6 @@
     "special_companies": "中集车辆,康臣药业,建业地产,永升服务,碧桂园服务,长江电力"
   },
   {
-    "uid": "578080",
-    "name": "张良",
-    "org_name": "中银国际证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "资产管理部",
-    "last_interaction_time": "2023-03-30 17:47:52",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "37720",
     "name": "葉聰",
     "org_name": "弘鼎资本有限公司",
@@ -24079,6 +24083,61 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "493589",
+    "name": "Yan Wen",
+    "org_name": "Barclays PLC",
+    "org_type": "投资银行",
+    "cert_type": "机构投资者",
+    "position": "Analyst",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:47:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation",
+        "duration": 1
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "周大福创建",
+        "time": "2025-02-25"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2023-11-03"
+      },
+      {
+        "company": "融创中国",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "美的置业",
+        "time": "2023-03-16"
+      }
+    ],
+    "special_companies": "中南建设,中国海外宏洋集团,中国金茂,周大福创建,新世界发展,新城发展,绿城中国,越秀地产"
   },
   {
     "uid": "270594",
@@ -24214,61 +24273,6 @@
       }
     ],
     "special_companies": "卓越教育集团,星盛商业,比亚迪电子,汇通达网络,越秀服务"
-  },
-  {
-    "uid": "493589",
-    "name": "Yan Wen",
-    "org_name": "Barclays PLC",
-    "org_type": "投资银行",
-    "cert_type": "机构投资者",
-    "position": "Analyst",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:47:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation",
-        "duration": 1
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "周大福创建",
-        "time": "2025-02-25"
-      },
-      {
-        "company": "新世界发展",
-        "time": "2023-11-03"
-      },
-      {
-        "company": "融创中国",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2023-03-21"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2023-03-21"
-      },
-      {
-        "company": "美的置业",
-        "time": "2023-03-16"
-      }
-    ],
-    "special_companies": "中南建设,中国海外宏洋集团,中国金茂,周大福创建,新世界发展,新城发展,绿城中国,越秀地产"
   },
   {
     "uid": "334180",
@@ -24641,31 +24645,6 @@
     "special_companies": ""
   },
   {
-    "uid": "270332",
-    "name": "孔磊",
-    "org_name": "景顺投资管理有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "高级信用分析师",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:46:52",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 58
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "577488",
     "name": "于礼伟",
     "org_name": "中信信托有限责任公司",
@@ -24692,6 +24671,31 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "270332",
+    "name": "孔磊",
+    "org_name": "景顺投资管理有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "高级信用分析师",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:46:52",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 58
+      }
+    ],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -24791,36 +24795,6 @@
     "special_companies": ""
   },
   {
-    "uid": "578011",
-    "name": "房伟鑫",
-    "org_name": "广发银行股份有限公司",
-    "org_type": "银行",
-    "cert_type": "机构投资者",
-    "position": "支行行长",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:46:21",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 43
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "455703",
     "name": "付骁林",
     "org_name": "中银国际证券股份有限公司",
@@ -24858,6 +24832,36 @@
       }
     ],
     "special_companies": "新城控股"
+  },
+  {
+    "uid": "578011",
+    "name": "房伟鑫",
+    "org_name": "广发银行股份有限公司",
+    "org_type": "银行",
+    "cert_type": "机构投资者",
+    "position": "支行行长",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:46:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 43
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "294905",
@@ -24927,6 +24931,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "宁德时代",
+        "time": "2026-04-13"
+      },
       {
         "company": "中国人寿",
         "time": "2026-03-24"
@@ -28259,6 +28267,35 @@
     "special_companies": ""
   },
   {
+    "uid": "577751",
+    "name": "张太银",
+    "org_name": "碧桂园控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "总经理",
+    "department": "亳州南片区",
+    "last_interaction_time": "2023-03-30 17:42:18",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园",
+        "time": "2023-03-30"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "34300",
     "name": "胡华如",
     "org_name": "中国银河证券股份有限公司",
@@ -28286,35 +28323,6 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "577751",
-    "name": "张太银",
-    "org_name": "碧桂园控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "总经理",
-    "department": "亳州南片区",
-    "last_interaction_time": "2023-03-30 17:42:18",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园",
-        "time": "2023-03-30"
-      }
-    ],
     "special_companies": ""
   },
   {
@@ -28626,36 +28634,6 @@
     "special_companies": ""
   },
   {
-    "uid": "442056",
-    "name": "吕琳",
-    "org_name": "广东欧昊集团有限公司",
-    "org_type": "财务顾问机构",
-    "cert_type": "个人",
-    "position": "南方组投资经理",
-    "department": "投资部",
-    "last_interaction_time": "2023-03-30 17:41:51",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 63
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "337854",
     "name": "田炯",
     "org_name": "中国长城资产(国际）控股有限公司",
@@ -28682,6 +28660,36 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "442056",
+    "name": "吕琳",
+    "org_name": "广东欧昊集团有限公司",
+    "org_type": "财务顾问机构",
+    "cert_type": "个人",
+    "position": "南方组投资经理",
+    "department": "投资部",
+    "last_interaction_time": "2023-03-30 17:41:51",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 63
+      }
+    ],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -28901,6 +28909,41 @@
     "special_companies": ""
   },
   {
+    "uid": "347549",
+    "name": "黄颖鸿",
+    "org_name": "法国巴黎银行",
+    "org_type": "境外银行",
+    "cert_type": "机构投资者",
+    "position": "主管",
+    "department": "亚洲区环球市场信贷策略及交易分析部",
+    "last_interaction_time": "2023-03-30 17:41:38",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 64
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "复星国际",
+        "time": "2025-08-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "428517",
     "name": "马世超",
     "org_name": "碧桂园控股有限公司",
@@ -28936,41 +28979,6 @@
       {
         "company": "保利发展",
         "time": "2023-03-30"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "347549",
-    "name": "黄颖鸿",
-    "org_name": "法国巴黎银行",
-    "org_type": "境外银行",
-    "cert_type": "机构投资者",
-    "position": "主管",
-    "department": "亚洲区环球市场信贷策略及交易分析部",
-    "last_interaction_time": "2023-03-30 17:41:38",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 64
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "复星国际",
-        "time": "2025-08-27"
       }
     ],
     "special_companies": ""
@@ -30128,36 +30136,6 @@
     "special_companies": ""
   },
   {
-    "uid": "282915",
-    "name": "董耀基",
-    "org_name": "农银国际证券有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "高級副总裁",
-    "department": "中国地产研究",
-    "last_interaction_time": "2023-03-30 17:40:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "577807",
     "name": "杨嘉钰",
     "org_name": "碧桂园控股有限公司",
@@ -30189,6 +30167,36 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "282915",
+    "name": "董耀基",
+    "org_name": "农银国际证券有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "高級副总裁",
+    "department": "中国地产研究",
+    "last_interaction_time": "2023-03-30 17:40:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 56
+      }
+    ],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -30431,46 +30439,6 @@
     "special_companies": "滨江服务"
   },
   {
-    "uid": "576735",
-    "name": "史馨怡",
-    "org_name": "摩根大通银行（中国）有限公司",
-    "org_type": "银行",
-    "cert_type": "机构投资者",
-    "position": "分析员",
-    "department": "上海分行全球信用风险管理部",
-    "last_interaction_time": "2023-03-30 17:40:10",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation",
-        "duration": 65
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园服务",
-        "time": "2023-05-24"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "492897",
     "name": "方鹏",
     "org_name": "国联民生证券",
@@ -30520,6 +30488,46 @@
       }
     ],
     "special_companies": "万物云,中国海外宏洋集团,保利物业,建发国际集团,碧桂园,绿城中国,绿城管理控股"
+  },
+  {
+    "uid": "576735",
+    "name": "史馨怡",
+    "org_name": "摩根大通银行（中国）有限公司",
+    "org_type": "银行",
+    "cert_type": "机构投资者",
+    "position": "分析员",
+    "department": "上海分行全球信用风险管理部",
+    "last_interaction_time": "2023-03-30 17:40:10",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-28",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation",
+        "duration": 65
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园服务",
+        "time": "2023-05-24"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "494203",
@@ -30682,41 +30690,6 @@
     "special_companies": "碧桂园服务,药明生物,雅生活服务"
   },
   {
-    "uid": "496333",
-    "name": "刘芳",
-    "org_name": "碧桂园控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "财务副总监",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:40:00",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 65
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园",
-        "time": "2023-03-30"
-      }
-    ],
-    "special_companies": "碧桂园"
-  },
-  {
     "uid": "334875",
     "name": "朱加豪",
     "org_name": "中國銀河證券香港有限公司",
@@ -30758,6 +30731,41 @@
       }
     ],
     "special_companies": "万物云,合景悠活,美的置业,金科服务"
+  },
+  {
+    "uid": "496333",
+    "name": "刘芳",
+    "org_name": "碧桂园控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "财务副总监",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:40:00",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 65
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园",
+        "time": "2023-03-30"
+      }
+    ],
+    "special_companies": "碧桂园"
   },
   {
     "uid": "496243",
@@ -31149,6 +31157,41 @@
     "special_companies": "21世纪教育,JS环球生活,VESYNC,东软教育,中信证券,中国石油,五谷磨房,优趣汇控股,信义光能,华熙生物,协合新能源,合景悠活,呷哺呷哺,新城悦服务,明源云,星盛商业,波司登,深圳控股,碧桂园,碧桂园服务,神威药业,美的置业,贝康医疗,贝泰妮,远东宏信,金科服务,金茂服务"
   },
   {
+    "uid": "429554",
+    "name": "陈卫新",
+    "org_name": "生命保险资产管理有限公司",
+    "org_type": "保险资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "信用分析师",
+    "department": "信用评估部",
+    "last_interaction_time": "2023-03-30 17:39:41",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园",
+        "time": "2023-03-30"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "504214",
     "name": "肖依依",
     "org_name": "国盛证券有限责任公司",
@@ -31202,41 +31245,6 @@
       }
     ],
     "special_companies": "万物云,保利物业,建发国际集团,招商蛇口,滨江服务,绿城服务,绿城管理控股"
-  },
-  {
-    "uid": "429554",
-    "name": "陈卫新",
-    "org_name": "生命保险资产管理有限公司",
-    "org_type": "保险资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "信用分析师",
-    "department": "信用评估部",
-    "last_interaction_time": "2023-03-30 17:39:41",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园",
-        "time": "2023-03-30"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "577483",
@@ -32115,6 +32123,44 @@
     "special_companies": ""
   },
   {
+    "uid": "493582",
+    "name": "Betty Chen",
+    "org_name": "摩根士丹利亚洲有限公司",
+    "org_type": "境外银行",
+    "cert_type": "机构投资者",
+    "position": "Research Associate",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:39:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "丘钛科技",
+        "time": "2024-08-12"
+      },
+      {
+        "company": "长飞光纤",
+        "time": "2023-08-19"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-06-25"
+      }
+    ],
+    "special_companies": "比亚迪电子"
+  },
+  {
     "uid": "577989",
     "name": "彭城",
     "org_name": "安石投资管理(新加坡)有限公司",
@@ -32164,44 +32210,6 @@
       }
     ],
     "special_companies": "建业地产,新城发展,碧桂园"
-  },
-  {
-    "uid": "493582",
-    "name": "Betty Chen",
-    "org_name": "摩根士丹利亚洲有限公司",
-    "org_type": "境外银行",
-    "cert_type": "机构投资者",
-    "position": "Research Associate",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:39:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "丘钛科技",
-        "time": "2024-08-12"
-      },
-      {
-        "company": "长飞光纤",
-        "time": "2023-08-19"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-06-25"
-      }
-    ],
-    "special_companies": "比亚迪电子"
   },
   {
     "uid": "336288",
@@ -32467,6 +32475,53 @@
     "special_companies": "中国海外宏洋集团,中国金茂,保利发展,宝龙商业,建发国际集团,招商蛇口,新城发展,星盛商业,深圳控股,碧桂园,绿城中国,绿城管理控股,融创中国"
   },
   {
+    "uid": "283121",
+    "name": "Albert Tam",
+    "org_name": "汇丰环球投资管理(香港)有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Global Research",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:39:10",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "招商银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "农业银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "建设银行",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-08-01"
+      }
+    ],
+    "special_companies": "绿城管理控股"
+  },
+  {
     "uid": "346730",
     "name": "邝琬琪",
     "org_name": "德意志银行",
@@ -32568,53 +32623,6 @@
       }
     ],
     "special_companies": "新城控股,比亚迪,珀莱雅,碧桂园,贝泰妮"
-  },
-  {
-    "uid": "283121",
-    "name": "Albert Tam",
-    "org_name": "汇丰环球投资管理(香港)有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Global Research",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:39:10",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "招商银行",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "农业银行",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "建设银行",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2023-08-01"
-      }
-    ],
-    "special_companies": "绿城管理控股"
   },
   {
     "uid": "347417",
@@ -33083,20 +33091,20 @@
     "special_companies": "碧桂园"
   },
   {
-    "uid": "496427",
-    "name": "朋晶",
-    "org_name": "广发证券股份有限公司",
-    "org_type": "证券公司",
+    "uid": "440771",
+    "name": "樊雨奇",
+    "org_name": "北京知未私募基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
     "cert_type": "机构投资者",
-    "position": "信用研究员",
-    "department": "固定收益投资部",
+    "position": "基金经理助理",
+    "department": "",
     "last_interaction_time": "2023-03-30 17:38:57",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-30",
+        "time": "2023-03-29",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
       }
     ],
@@ -33108,9 +33116,9 @@
         "duration": 66
       }
     ],
-    "is_first_attend": false,
+    "is_first_attend": true,
     "subscribed_companies": [],
-    "special_companies": ""
+    "special_companies": "保利置业集团"
   },
   {
     "uid": "348539",
@@ -33196,20 +33204,20 @@
     "special_companies": "中信证券,中国船舶租赁,信义储电,信義玻璃,协合新能源,呷哺呷哺,碧桂园,绿城中国,绿城服务,金风科技"
   },
   {
-    "uid": "440771",
-    "name": "樊雨奇",
-    "org_name": "北京知未私募基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
+    "uid": "496427",
+    "name": "朋晶",
+    "org_name": "广发证券股份有限公司",
+    "org_type": "证券公司",
     "cert_type": "机构投资者",
-    "position": "基金经理助理",
-    "department": "",
+    "position": "信用研究员",
+    "department": "固定收益投资部",
     "last_interaction_time": "2023-03-30 17:38:57",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-29",
+        "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
       }
     ],
@@ -33221,9 +33229,9 @@
         "duration": 66
       }
     ],
-    "is_first_attend": true,
+    "is_first_attend": false,
     "subscribed_companies": [],
-    "special_companies": "保利置业集团"
+    "special_companies": ""
   },
   {
     "uid": "434373",
@@ -33280,36 +33288,6 @@
     "special_companies": "碧桂园"
   },
   {
-    "uid": "577830",
-    "name": "李穎恩",
-    "org_name": "中国银行(香港)有限公司",
-    "org_type": "银行",
-    "cert_type": "机构投资者",
-    "position": "經理",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:38:50",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "14426",
     "name": "齐东",
     "org_name": "开源证券股份有限公司",
@@ -33354,14 +33332,14 @@
     "special_companies": ""
   },
   {
-    "uid": "437295",
-    "name": "黄东",
-    "org_name": "碧桂园控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "集团资金总监",
+    "uid": "577830",
+    "name": "李穎恩",
+    "org_name": "中国银行(香港)有限公司",
+    "org_type": "银行",
+    "cert_type": "机构投资者",
+    "position": "經理",
     "department": "",
-    "last_interaction_time": "2023-03-30 17:38:48",
+    "last_interaction_time": "2023-03-30 17:38:50",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
     "apply_count": 1,
@@ -33379,7 +33357,7 @@
         "duration": 66
       }
     ],
-    "is_first_attend": false,
+    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -33416,6 +33394,36 @@
       }
     ],
     "special_companies": "碧桂园服务,绿城中国"
+  },
+  {
+    "uid": "437295",
+    "name": "黄东",
+    "org_name": "碧桂园控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "集团资金总监",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:38:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "577878",
@@ -33679,41 +33687,6 @@
     "special_companies": "世茂服务,建业地产,易居企业控股,融创中国"
   },
   {
-    "uid": "505410",
-    "name": "洪晓钦",
-    "org_name": "碧桂园集团",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "高级资金经理",
-    "department": "中山城市公司",
-    "last_interaction_time": "2023-03-30 17:38:34",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 16
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 46
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "494440",
     "name": "王志成",
     "org_name": "平安信托有限责任公司",
@@ -33752,6 +33725,41 @@
       }
     ],
     "special_companies": "碧桂园"
+  },
+  {
+    "uid": "505410",
+    "name": "洪晓钦",
+    "org_name": "碧桂园集团",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "高级资金经理",
+    "department": "中山城市公司",
+    "last_interaction_time": "2023-03-30 17:38:34",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 16
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 46
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "41862",
@@ -33942,6 +33950,94 @@
     "special_companies": ""
   },
   {
+    "uid": "571887",
+    "name": "朱素雅",
+    "org_name": "华夏视听教育集团",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "投资者关系经理",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:38:28",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "碧桂园",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "577647",
+    "name": "杨春霞",
+    "org_name": "碧桂园控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "项目财务经理",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:38:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 26
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "337197",
+    "name": "曹晋",
+    "org_name": "上海合晟资产管理股份有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "总监",
+    "department": "固定收益投资部",
+    "last_interaction_time": "2023-03-30 17:38:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 64
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "碧桂园"
+  },
+  {
     "uid": "333184",
     "name": "刘诗洁",
     "org_name": "圆方资本管理有限公司",
@@ -33979,94 +34075,6 @@
         "time": "2025-08-20"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "571887",
-    "name": "朱素雅",
-    "org_name": "华夏视听教育集团",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "投资者关系经理",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:38:28",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "碧桂园",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "337197",
-    "name": "曹晋",
-    "org_name": "上海合晟资产管理股份有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "总监",
-    "department": "固定收益投资部",
-    "last_interaction_time": "2023-03-30 17:38:28",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 64
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "碧桂园"
-  },
-  {
-    "uid": "577647",
-    "name": "杨春霞",
-    "org_name": "碧桂园控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "项目财务经理",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:38:28",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 26
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -34259,6 +34267,31 @@
     "special_companies": "中金公司研究所,思路迪医药股份,药明生物"
   },
   {
+    "uid": "280296",
+    "name": "赵然",
+    "org_name": "中银基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "信用研究副主管",
+    "department": "固定收益投资部",
+    "last_interaction_time": "2023-03-30 17:38:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "334021",
     "name": "李宗儒",
     "org_name": "易方达基金管理有限公司",
@@ -34294,31 +34327,6 @@
     "special_companies": ""
   },
   {
-    "uid": "280296",
-    "name": "赵然",
-    "org_name": "中银基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "信用研究副主管",
-    "department": "固定收益投资部",
-    "last_interaction_time": "2023-03-30 17:38:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "347816",
     "name": "Casper Lee 李日进",
     "org_name": "奥陆资本有限公司",
@@ -34344,6 +34352,30 @@
         "duration": 67
       }
     ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "505490",
+    "name": "Jackson C K Mak",
+    "org_name": "汇丰控股有限公司",
+    "org_type": "境外银行",
+    "cert_type": "机构投资者",
+    "position": "Vice President",
+    "department": "Global Banking",
+    "last_interaction_time": "2023-03-30 17:38:21",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
@@ -34442,6 +34474,41 @@
     "special_companies": ""
   },
   {
+    "uid": "493157",
+    "name": "洪宁蔚",
+    "org_name": "中达证券投资有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "高级经理",
+    "department": "研究部",
+    "last_interaction_time": "2023-03-30 17:38:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "424908",
     "name": "李征",
     "org_name": "新华资产管理股份有限公司",
@@ -34484,65 +34551,6 @@
       }
     ],
     "special_companies": "建发国际集团,绿城中国"
-  },
-  {
-    "uid": "505490",
-    "name": "Jackson C K Mak",
-    "org_name": "汇丰控股有限公司",
-    "org_type": "境外银行",
-    "cert_type": "机构投资者",
-    "position": "Vice President",
-    "department": "Global Banking",
-    "last_interaction_time": "2023-03-30 17:38:21",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "493157",
-    "name": "洪宁蔚",
-    "org_name": "中达证券投资有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "高级经理",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-30 17:38:21",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "347321",
@@ -34706,6 +34714,31 @@
       }
     ],
     "special_companies": "万物云,中国海外宏洋集团,华润医疗,卓越商企服务,新城悦服务,新城控股,碧桂园服务,绿城中国,绿城服务,联邦制药,雅生活服务"
+  },
+  {
+    "uid": "294870",
+    "name": "傅瑶纯",
+    "org_name": "长信基金管理有限责任公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "国际业务部",
+    "last_interaction_time": "2023-03-30 17:38:20",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 29
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "334060",
@@ -35067,31 +35100,6 @@
     "special_companies": "英恒科技"
   },
   {
-    "uid": "294870",
-    "name": "傅瑶纯",
-    "org_name": "长信基金管理有限责任公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "国际业务部",
-    "last_interaction_time": "2023-03-30 17:38:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 29
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "507103",
     "name": "Ricky K.H. Leung",
     "org_name": "光大财富",
@@ -35370,49 +35378,6 @@
     "special_companies": ""
   },
   {
-    "uid": "497340",
-    "name": "黄雨晨",
-    "org_name": "碧桂园控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "投资拓展副总监",
-    "department": "集团结构调整和优化办公室",
-    "last_interaction_time": "2023-03-30 17:38:11",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
-      },
-      {
-        "time": "2023-03-28",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-28"
-      },
-      {
-        "company": "碧桂园",
-        "time": "2023-03-28"
-      }
-    ],
-    "special_companies": "碧桂园服务"
-  },
-  {
     "uid": "425192",
     "name": "Mako",
     "org_name": "SCRIPTS Asia Limited",
@@ -35455,6 +35420,49 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "497340",
+    "name": "黄雨晨",
+    "org_name": "碧桂园控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "投资拓展副总监",
+    "department": "集团结构调整和优化办公室",
+    "last_interaction_time": "2023-03-30 17:38:11",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
+      },
+      {
+        "time": "2023-03-28",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "碧桂园",
+        "time": "2023-03-28"
+      }
+    ],
+    "special_companies": "碧桂园服务"
   },
   {
     "uid": "272767",
@@ -35522,6 +35530,36 @@
     "special_companies": ""
   },
   {
+    "uid": "576173",
+    "name": "张婉莹",
+    "org_name": "百达世瑞（上海）私募基金管理有限公司",
+    "org_type": "其他私募投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "信用分析师",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:38:10",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-26",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "496285",
     "name": "成嘉源",
     "org_name": "上海斯诺波投资管理有限公司",
@@ -35563,61 +35601,6 @@
       }
     ],
     "special_companies": "药明生物"
-  },
-  {
-    "uid": "576173",
-    "name": "张婉莹",
-    "org_name": "百达世瑞（上海）私募基金管理有限公司",
-    "org_type": "其他私募投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "信用分析师",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:38:10",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-26",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "503972",
-    "name": "Lam Sau Mui",
-    "org_name": "中国银行(香港)有限公司",
-    "org_type": "银行",
-    "cert_type": "个人",
-    "position": "Senior Manager",
-    "department": "Corporate Business Division I",
-    "last_interaction_time": "2023-03-30 17:38:09",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "碧桂园服务"
   },
   {
     "uid": "434548",
@@ -35725,6 +35708,31 @@
       }
     ],
     "special_companies": "中原建业,众安集团,深圳控股,金茂服务"
+  },
+  {
+    "uid": "503972",
+    "name": "Lam Sau Mui",
+    "org_name": "中国银行(香港)有限公司",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "Senior Manager",
+    "department": "Corporate Business Division I",
+    "last_interaction_time": "2023-03-30 17:38:09",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "碧桂园服务"
   },
   {
     "uid": "274429",
@@ -35903,41 +35911,6 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "348598",
-    "name": "李欣燃",
-    "org_name": "长河投资管理有限公司",
-    "org_type": "其他机构投资者",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:38:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "美的置业",
-        "time": "2023-03-27"
-      }
-    ],
-    "special_companies": "美的置业"
   },
   {
     "uid": "496270",
@@ -36163,6 +36136,41 @@
     "special_companies": ""
   },
   {
+    "uid": "348598",
+    "name": "李欣燃",
+    "org_name": "长河投资管理有限公司",
+    "org_type": "其他机构投资者",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:38:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "美的置业",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": "美的置业"
+  },
+  {
     "uid": "334545",
     "name": "謝騏聰",
     "org_name": "交银国际证券有限公司",
@@ -36254,31 +36262,6 @@
     "special_companies": "明源云,绿城中国,美的置业"
   },
   {
-    "uid": "572975",
-    "name": "陈建萍",
-    "org_name": "弘源资本有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "个人",
-    "position": "副基金经理",
-    "department": "投资部",
-    "last_interaction_time": "2023-03-30 17:38:02",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "280292",
     "name": "汪玲",
     "org_name": "日兴资产管理亚洲有限公司",
@@ -36340,6 +36323,31 @@
       }
     ],
     "special_companies": "合景泰富集团,新城发展,新城控股,碧桂园,绿城中国"
+  },
+  {
+    "uid": "572975",
+    "name": "陈建萍",
+    "org_name": "弘源资本有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "个人",
+    "position": "副基金经理",
+    "department": "投资部",
+    "last_interaction_time": "2023-03-30 17:38:02",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "497410",
@@ -36582,36 +36590,6 @@
     "special_companies": "建业地产,碧桂园"
   },
   {
-    "uid": "276263",
-    "name": "胡坤超",
-    "org_name": "广东奶酪投资基金股份有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "CFA 投资经理",
-    "department": "投资部",
-    "last_interaction_time": "2023-03-30 17:37:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "333246",
     "name": "莊銘恆",
     "org_name": "Basis Asset Management Limited",
@@ -36645,6 +36623,36 @@
       }
     ],
     "special_companies": "新世界发展"
+  },
+  {
+    "uid": "276263",
+    "name": "胡坤超",
+    "org_name": "广东奶酪投资基金股份有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "CFA 投资经理",
+    "department": "投资部",
+    "last_interaction_time": "2023-03-30 17:37:57",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "349134",
@@ -36770,41 +36778,6 @@
     "special_companies": ""
   },
   {
-    "uid": "335677",
-    "name": "王江龙",
-    "org_name": "新华资产管理股份有限公司",
-    "org_type": "保险资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "信用分析师",
-    "department": "信用评估部",
-    "last_interaction_time": "2023-03-30 17:37:55",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "577478",
     "name": "夏磊",
     "org_name": "国海证券股份有限公司",
@@ -36851,6 +36824,41 @@
       }
     ],
     "special_companies": "碧桂园"
+  },
+  {
+    "uid": "335677",
+    "name": "王江龙",
+    "org_name": "新华资产管理股份有限公司",
+    "org_type": "保险资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "信用分析师",
+    "department": "信用评估部",
+    "last_interaction_time": "2023-03-30 17:37:55",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "334840",
@@ -37167,61 +37175,6 @@
     "special_companies": ""
   },
   {
-    "uid": "279497",
-    "name": "马欣",
-    "org_name": "上海盘京投资管理中心（有限合伙）",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究部分析师",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:50",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 53
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "496935",
-    "name": "鄧經書",
-    "org_name": "中国光大证券国际有限公司",
-    "org_type": "证券公司",
-    "cert_type": "个人",
-    "position": "經理",
-    "department": "產品開發及零售研究部",
-    "last_interaction_time": "2023-03-30 17:37:50",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 30
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "497089",
     "name": "钱嘉骥",
     "org_name": "BFAM Partners (Hong Kong), LTD",
@@ -37269,6 +37222,61 @@
     "special_companies": "万物云,建业地产,易居企业控股,雅生活服务"
   },
   {
+    "uid": "496935",
+    "name": "鄧經書",
+    "org_name": "中国光大证券国际有限公司",
+    "org_type": "证券公司",
+    "cert_type": "个人",
+    "position": "經理",
+    "department": "產品開發及零售研究部",
+    "last_interaction_time": "2023-03-30 17:37:50",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 30
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "279497",
+    "name": "马欣",
+    "org_name": "上海盘京投资管理中心（有限合伙）",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究部分析师",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:50",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 53
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "496318",
     "name": "赵文芳",
     "org_name": "碧桂园控股有限公司",
@@ -37301,45 +37309,6 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "340871",
-    "name": "師浩宸",
-    "org_name": "野村国际(香港)有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "副總裁",
-    "department": "環球市場部",
-    "last_interaction_time": "2023-03-30 17:37:48",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-24",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "美团-W",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2023-03-15"
-      }
-    ],
     "special_companies": ""
   },
   {
@@ -37515,6 +37484,45 @@
     "special_companies": ""
   },
   {
+    "uid": "340871",
+    "name": "師浩宸",
+    "org_name": "野村国际(香港)有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "副總裁",
+    "department": "環球市場部",
+    "last_interaction_time": "2023-03-30 17:37:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-24",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "美团-W",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2023-03-15"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "333747",
     "name": "汪涵",
     "org_name": "法国兴业银行",
@@ -37548,36 +37556,6 @@
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
         "duration": 66
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "275896",
-    "name": "孟翔",
-    "org_name": "深圳市华鼎时代资产管理有限公司",
-    "org_type": "私募基金管理人(已注销)",
-    "cert_type": "服务机构",
-    "position": "主管",
-    "department": "量化风控部",
-    "last_interaction_time": "2023-03-30 17:37:48",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
       }
     ],
     "is_first_attend": false,
@@ -37641,6 +37619,36 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "275896",
+    "name": "孟翔",
+    "org_name": "深圳市华鼎时代资产管理有限公司",
+    "org_type": "私募基金管理人(已注销)",
+    "cert_type": "服务机构",
+    "position": "主管",
+    "department": "量化风控部",
+    "last_interaction_time": "2023-03-30 17:37:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -37860,45 +37868,6 @@
     "special_companies": "复星国际,百果园集团"
   },
   {
-    "uid": "284814",
-    "name": "张蒙",
-    "org_name": "橡树岭(海南)私募基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "高级分析师",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:42",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": "碧桂园,碧桂园服务"
-  },
-  {
     "uid": "251712",
     "name": "黄什",
     "org_name": "泰康资产管理有限责任公司",
@@ -37917,6 +37886,31 @@
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
         "duration": 68
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "350613",
+    "name": "Jason Lam",
+    "org_name": "DBS Bank (Hong Kong) Limited",
+    "org_type": "境外银行",
+    "cert_type": "机构投资者",
+    "position": "Associate Research Director",
+    "department": "Group Research",
+    "last_interaction_time": "2023-03-30 17:37:42",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
       }
     ],
     "is_first_attend": false,
@@ -37954,29 +37948,43 @@
     "special_companies": ""
   },
   {
-    "uid": "350613",
-    "name": "Jason Lam",
-    "org_name": "DBS Bank (Hong Kong) Limited",
-    "org_type": "境外银行",
+    "uid": "284814",
+    "name": "张蒙",
+    "org_name": "橡树岭(海南)私募基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
     "cert_type": "机构投资者",
-    "position": "Associate Research Director",
-    "department": "Group Research",
+    "position": "高级分析师",
+    "department": "",
     "last_interaction_time": "2023-03-30 17:37:42",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
     "attend_count": 1,
     "attend_records": [
       {
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
+        "duration": 68
       }
     ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": "碧桂园,碧桂园服务"
   },
   {
     "uid": "268056",
@@ -38135,6 +38143,41 @@
     "special_companies": "招商蛇口,新希望服务,星盛商业,绿城中国,绿城服务"
   },
   {
+    "uid": "505470",
+    "name": "戴凯",
+    "org_name": "碧桂园控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "资金经理",
+    "department": "浙北区域",
+    "last_interaction_time": "2023-03-30 17:37:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 59
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "425772",
     "name": "苏炫昊",
     "org_name": "中信证券股份有限公司",
@@ -38210,41 +38253,6 @@
         "time": "2025-08-01"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "505470",
-    "name": "戴凯",
-    "org_name": "碧桂园控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "资金经理",
-    "department": "浙北区域",
-    "last_interaction_time": "2023-03-30 17:37:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 59
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -38373,6 +38381,36 @@
     "special_companies": ""
   },
   {
+    "uid": "333233",
+    "name": "王龙",
+    "org_name": "上海厚山投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究总监/基金经理",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:36",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 17
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-03-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "504047",
     "name": "柯达",
     "org_name": "新天域资产管理有限公司",
@@ -38436,14 +38474,14 @@
     "special_companies": "华润医疗,小米集团-W,拼多多,碧桂园服务,融创中国,融创服务"
   },
   {
-    "uid": "333233",
-    "name": "王龙",
-    "org_name": "上海厚山投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究总监/基金经理",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:36",
+    "uid": "278062",
+    "name": "潘云娇",
+    "org_name": "万联证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "地产产业链研究高级经理",
+    "department": "研究所",
+    "last_interaction_time": "2023-03-30 17:37:35",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
     "apply_count": 0,
@@ -38453,17 +38491,71 @@
       {
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 17
+        "duration": 67
       }
     ],
     "is_first_attend": false,
     "subscribed_companies": [
       {
-        "company": "中国民航信息网络",
-        "time": "2026-03-27"
+        "company": "保利物业",
+        "time": "2024-08-20"
+      },
+      {
+        "company": "伯克希尔-哈撒韦",
+        "time": "2024-05-04"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2023-05-09"
+      },
+      {
+        "company": "碧桂园",
+        "time": "2023-03-29"
       }
     ],
-    "special_companies": ""
+    "special_companies": "中国人寿,保利物业"
+  },
+  {
+    "uid": "577947",
+    "name": "陈嘉荣",
+    "org_name": "招商银行股份有限公司",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "客户总监",
+    "department": "不动产行业",
+    "last_interaction_time": "2023-03-30 17:37:35",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 63
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "美的置业",
+        "time": "2025-04-02"
+      },
+      {
+        "company": "美凯龙",
+        "time": "2023-08-31"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2023-08-31"
+      },
+      {
+        "company": "碧桂园",
+        "time": "2023-03-30"
+      }
+    ],
+    "special_companies": "碧桂园"
   },
   {
     "uid": "434600",
@@ -38568,88 +38660,39 @@
     "special_companies": ""
   },
   {
-    "uid": "278062",
-    "name": "潘云娇",
-    "org_name": "万联证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "地产产业链研究高级经理",
-    "department": "研究所",
-    "last_interaction_time": "2023-03-30 17:37:35",
+    "uid": "574000",
+    "name": "王佳宁",
+    "org_name": "银华基金管理股份有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "助理信用研究员",
+    "department": "投资管理三部",
+    "last_interaction_time": "2023-03-30 17:37:34",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
     "attend_count": 1,
     "attend_records": [
       {
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "保利物业",
-        "time": "2024-08-20"
+        "duration": 2
       },
-      {
-        "company": "伯克希尔-哈撒韦",
-        "time": "2024-05-04"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2023-05-09"
-      },
-      {
-        "company": "碧桂园",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": "中国人寿,保利物业"
-  },
-  {
-    "uid": "577947",
-    "name": "陈嘉荣",
-    "org_name": "招商银行股份有限公司",
-    "org_type": "银行",
-    "cert_type": "个人",
-    "position": "客户总监",
-    "department": "不动产行业",
-    "last_interaction_time": "2023-03-30 17:37:35",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
       {
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 63
+        "duration": 66
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "美的置业",
-        "time": "2025-04-02"
-      },
-      {
-        "company": "美凯龙",
-        "time": "2023-08-31"
-      },
-      {
-        "company": "新鸿基公司",
-        "time": "2023-08-31"
-      },
-      {
-        "company": "碧桂园",
-        "time": "2023-03-30"
-      }
-    ],
-    "special_companies": "碧桂园"
+    "subscribed_companies": [],
+    "special_companies": "绿城中国"
   },
   {
     "uid": "275964",
@@ -38734,221 +38777,6 @@
     "special_companies": "新城控股,美的置业,越秀地产"
   },
   {
-    "uid": "574000",
-    "name": "王佳宁",
-    "org_name": "银华基金管理股份有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "助理信用研究员",
-    "department": "投资管理三部",
-    "last_interaction_time": "2023-03-30 17:37:34",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 2
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "绿城中国"
-  },
-  {
-    "uid": "497382",
-    "name": "谢辉明",
-    "org_name": "碧桂园控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "高级人才管理经理",
-    "department": "人力资源管理中心",
-    "last_interaction_time": "2023-03-30 17:37:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "348416",
-    "name": "李世文",
-    "org_name": "富国资产管理(香港)有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Fixed Income Analyst",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "430969",
-    "name": "廖澤銘",
-    "org_name": "泰康资产管理（香港）有限公司",
-    "org_type": "境外投资公司",
-    "cert_type": "机构投资者",
-    "position": "Director",
-    "department": "固收",
-    "last_interaction_time": "2023-03-30 17:37:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "雅居乐集团",
-        "time": "2023-03-28"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "577950",
-    "name": "陈洁",
-    "org_name": "摩根大通资产管理（亚洲）有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "主管",
-    "department": "中国债务资本市场部",
-    "last_interaction_time": "2023-03-30 17:37:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "332858",
-    "name": "黄存晨",
-    "org_name": "中信里昂证券有限公司",
-    "org_type": "证券公司",
-    "cert_type": "缺少分类",
-    "position": "地产分析師",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-30 17:37:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "万物云",
-        "time": "2023-08-25"
-      }
-    ],
-    "special_companies": "万物云"
-  },
-  {
-    "uid": "494626",
-    "name": "杨倩倩",
-    "org_name": "平安信托有限责任公司",
-    "org_type": "信托公司",
-    "cert_type": "机构投资者",
-    "position": "团队总监",
-    "department": "融资事业部",
-    "last_interaction_time": "2023-03-30 17:37:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "276645",
     "name": "Daisy Wu",
     "org_name": "上海景林资产管理有限公司",
@@ -39018,6 +38846,96 @@
       }
     ],
     "special_companies": "中国交建,信義玻璃,绿城管理控股"
+  },
+  {
+    "uid": "348416",
+    "name": "李世文",
+    "org_name": "富国资产管理(香港)有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Fixed Income Analyst",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "430969",
+    "name": "廖澤銘",
+    "org_name": "泰康资产管理（香港）有限公司",
+    "org_type": "境外投资公司",
+    "cert_type": "机构投资者",
+    "position": "Director",
+    "department": "固收",
+    "last_interaction_time": "2023-03-30 17:37:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-28",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "雅居乐集团",
+        "time": "2023-03-28"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "497382",
+    "name": "谢辉明",
+    "org_name": "碧桂园控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "高级人才管理经理",
+    "department": "人力资源管理中心",
+    "last_interaction_time": "2023-03-30 17:37:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "348470",
@@ -39090,6 +39008,71 @@
       }
     ],
     "special_companies": "保利物业,腾讯控股"
+  },
+  {
+    "uid": "577451",
+    "name": "HUO Yiran, Irene",
+    "org_name": "中信里昂证券有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "Analyst",
+    "department": "Fixed Income Sales",
+    "last_interaction_time": "2023-03-30 17:37:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 28
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国天瑞水泥",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "494626",
+    "name": "杨倩倩",
+    "org_name": "平安信托有限责任公司",
+    "org_type": "信托公司",
+    "cert_type": "机构投资者",
+    "position": "团队总监",
+    "department": "融资事业部",
+    "last_interaction_time": "2023-03-30 17:37:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "273655",
@@ -39403,20 +39386,50 @@
     "special_companies": "万物云,世茂服务,中信证券,保利发展,保利物业,呷哺呷哺,小米集团-W,建发物业,招商蛇口,招商银行,新城发展,新城悦服务,新城控股,新希望服务,易居企业控股,比亚迪,永升服务,滨江服务,申万宏源,碧桂园,碧桂园服务,绿城中国,绿城服务,绿城管理控股,美的置业,融创中国,融创服务,越秀地产,金茂服务,雅生活服务,顺丰同城"
   },
   {
-    "uid": "577451",
-    "name": "HUO Yiran, Irene",
+    "uid": "332858",
+    "name": "黄存晨",
     "org_name": "中信里昂证券有限公司",
     "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "Analyst",
-    "department": "Fixed Income Sales",
+    "cert_type": "缺少分类",
+    "position": "地产分析師",
+    "department": "研究部",
+    "last_interaction_time": "2023-03-30 17:37:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "万物云",
+        "time": "2023-08-25"
+      }
+    ],
+    "special_companies": "万物云"
+  },
+  {
+    "uid": "577950",
+    "name": "陈洁",
+    "org_name": "摩根大通资产管理（亚洲）有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "主管",
+    "department": "中国债务资本市场部",
     "last_interaction_time": "2023-03-30 17:37:33",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-29",
+        "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
       }
     ],
@@ -39425,16 +39438,11 @@
       {
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 28
+        "duration": 68
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国天瑞水泥",
-        "time": "2023-03-29"
-      }
-    ],
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -39483,104 +39491,6 @@
       }
     ],
     "special_companies": "建业地产,新世界发展,新城控股"
-  },
-  {
-    "uid": "336704",
-    "name": "Karen Yiu",
-    "org_name": "Citicorp",
-    "org_type": "境外银行",
-    "cert_type": "机构投资者",
-    "position": "Vice President",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "融创服务",
-        "time": "2024-03-26"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-08-25"
-      },
-      {
-        "company": "中国电信",
-        "time": "2023-03-22"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "495071",
-    "name": "劉信芝",
-    "org_name": "野村证券投资信托股份有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "協理",
-    "department": "固定收益部",
-    "last_interaction_time": "2023-03-30 17:37:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "503821",
-    "name": "李思潭",
-    "org_name": "大成国际资产管理有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究員",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-30 17:37:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "332698",
@@ -39708,6 +39618,104 @@
       }
     ],
     "special_companies": "中国人寿,中国太保,波司登,联邦制药,药明生物,长城汽车,阜博集团"
+  },
+  {
+    "uid": "336704",
+    "name": "Karen Yiu",
+    "org_name": "Citicorp",
+    "org_type": "境外银行",
+    "cert_type": "机构投资者",
+    "position": "Vice President",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "融创服务",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-08-25"
+      },
+      {
+        "company": "中国电信",
+        "time": "2023-03-22"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "495071",
+    "name": "劉信芝",
+    "org_name": "野村证券投资信托股份有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "協理",
+    "department": "固定收益部",
+    "last_interaction_time": "2023-03-30 17:37:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "503821",
+    "name": "李思潭",
+    "org_name": "大成国际资产管理有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究員",
+    "department": "研究部",
+    "last_interaction_time": "2023-03-30 17:37:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "275980",
@@ -39910,36 +39918,6 @@
     "special_companies": "中国人寿,小米集团-W,绿城中国,美的置业,阿里巴巴-W"
   },
   {
-    "uid": "455350",
-    "name": "李燃",
-    "org_name": "申港证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "信用研究员",
-    "department": "固定收益投资部",
-    "last_interaction_time": "2023-03-30 17:37:30",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "497470",
     "name": "孙传奎",
     "org_name": "博越智慧建造香港有限公司",
@@ -39983,6 +39961,66 @@
     "special_companies": "碧桂园"
   },
   {
+    "uid": "455350",
+    "name": "李燃",
+    "org_name": "申港证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "信用研究员",
+    "department": "固定收益投资部",
+    "last_interaction_time": "2023-03-30 17:37:30",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "497114",
+    "name": "任鏡澤",
+    "org_name": "华夏基金（香港）有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究分析员",
+    "department": "固定收益",
+    "last_interaction_time": "2023-03-30 17:37:29",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "498618",
     "name": "何嘉伟",
     "org_name": "碧桂园控股有限公司",
@@ -40011,6 +40049,36 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": "碧桂园"
+  },
+  {
+    "uid": "496488",
+    "name": "戴曉",
+    "org_name": "威灵顿管理香港有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "固定收益信用分析師",
+    "department": "新興市場價券",
+    "last_interaction_time": "2023-03-30 17:37:29",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "333489",
@@ -40200,36 +40268,6 @@
     "special_companies": ""
   },
   {
-    "uid": "496488",
-    "name": "戴曉",
-    "org_name": "威灵顿管理香港有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "固定收益信用分析師",
-    "department": "新興市場價券",
-    "last_interaction_time": "2023-03-30 17:37:29",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "498599",
     "name": "Low Juyong, CFA",
     "org_name": "Allianz Global Investors",
@@ -40286,36 +40324,6 @@
     "special_companies": "碧桂园"
   },
   {
-    "uid": "497114",
-    "name": "任鏡澤",
-    "org_name": "华夏基金（香港）有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究分析员",
-    "department": "固定收益",
-    "last_interaction_time": "2023-03-30 17:37:29",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "497473",
     "name": "张鲁宁",
     "org_name": "碧桂园控股有限公司",
@@ -40351,6 +40359,70 @@
     "special_companies": ""
   },
   {
+    "uid": "436890",
+    "name": "刘卓谦",
+    "org_name": "S&P Global Ratings Hong Kong Limited",
+    "org_type": "评级服务机构",
+    "cert_type": "个人",
+    "position": "高级分析师",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      },
+      {
+        "time": "2023-03-28",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "576186",
+    "name": "Colin Tan 陳科伉",
+    "org_name": "Millennium Capita  Management (Singapore） Pte Ltd",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Research Analyst",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 56
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "434598",
     "name": "陈浩鑫",
     "org_name": "花旗环球金融亚洲公司",
@@ -40379,6 +40451,41 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": "世茂服务"
+  },
+  {
+    "uid": "347655",
+    "name": "张嘉文",
+    "org_name": "Brevan Howard Asset Management (Greece)",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "Investment Analyst",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "新世界发展",
+        "time": "2025-02-28"
+      }
+    ],
+    "special_companies": "碧桂园"
   },
   {
     "uid": "493247",
@@ -40512,78 +40619,14 @@
     "special_companies": "新城悦服务,新希望服务,绿城服务,绿城管理控股"
   },
   {
-    "uid": "436890",
-    "name": "刘卓谦",
-    "org_name": "S&P Global Ratings Hong Kong Limited",
-    "org_type": "评级服务机构",
-    "cert_type": "个人",
-    "position": "高级分析师",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:28",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      },
-      {
-        "time": "2023-03-28",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "576186",
-    "name": "Colin Tan 陳科伉",
-    "org_name": "Millennium Capita  Management (Singapore） Pte Ltd",
-    "org_type": "境外资产管理公司",
+    "uid": "436402",
+    "name": "江陈骄",
+    "org_name": "上海璞远资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
     "cert_type": "机构投资者",
-    "position": "Research Analyst",
+    "position": "信评研究员",
     "department": "",
-    "last_interaction_time": "2023-03-30 17:37:28",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "347655",
-    "name": "张嘉文",
-    "org_name": "Brevan Howard Asset Management (Greece)",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "Investment Analyst",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:28",
+    "last_interaction_time": "2023-03-30 17:37:27",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
     "apply_count": 1,
@@ -40598,17 +40641,195 @@
       {
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
+        "duration": 6
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 63
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "新世界发展",
-        "time": "2025-02-28"
+        "company": "融创服务",
+        "time": "2023-08-22"
       }
     ],
-    "special_companies": "碧桂园"
+    "special_companies": "复星国际,融创服务"
+  },
+  {
+    "uid": "577850",
+    "name": "彭婕",
+    "org_name": "碧桂园控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "成本总监",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:27",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "282951",
+    "name": "陆子昱",
+    "org_name": "高盛资产管理(新加坡)私人有限公司",
+    "org_type": "投资银行",
+    "cert_type": "机构投资者",
+    "position": "执行董事",
+    "department": "Emerging Markets-Fixed Income",
+    "last_interaction_time": "2023-03-30 17:37:27",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      },
+      {
+        "time": "2023-03-23",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "新世界发展",
+        "time": "2024-10-16"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2023-08-28"
+      }
+    ],
+    "special_companies": "新世界发展,绿城中国"
+  },
+  {
+    "uid": "574113",
+    "name": "杨宇",
+    "org_name": "国信证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "个人",
+    "position": "倍用研究岗实习生",
+    "department": "金融市场总部风险控制部",
+    "last_interaction_time": "2023-03-30 17:37:27",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "远东宏信——资金部",
+        "time": "2023-03-22"
+      }
+    ],
+    "special_companies": "远东宏信——资金部"
+  },
+  {
+    "uid": "340143",
+    "name": "Queenie Jin",
+    "org_name": "SCRIPTS Asia Limited",
+    "org_type": "其他研究机构",
+    "cert_type": "服务机构",
+    "position": "Corporate Partnership Manager",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:27",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "民生银行",
+        "time": "2025-10-31"
+      },
+      {
+        "company": "瑞声科技",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-18"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "492574",
@@ -40737,219 +40958,6 @@
     "special_companies": "绿城中国"
   },
   {
-    "uid": "577850",
-    "name": "彭婕",
-    "org_name": "碧桂园控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "成本总监",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "436402",
-    "name": "江陈骄",
-    "org_name": "上海璞远资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "信评研究员",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 6
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 63
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "融创服务",
-        "time": "2023-08-22"
-      }
-    ],
-    "special_companies": "复星国际,融创服务"
-  },
-  {
-    "uid": "340143",
-    "name": "Queenie Jin",
-    "org_name": "SCRIPTS Asia Limited",
-    "org_type": "其他研究机构",
-    "cert_type": "服务机构",
-    "position": "Corporate Partnership Manager",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "民生银行",
-        "time": "2025-10-31"
-      },
-      {
-        "company": "瑞声科技",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2025-08-18"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "282951",
-    "name": "陆子昱",
-    "org_name": "高盛资产管理(新加坡)私人有限公司",
-    "org_type": "投资银行",
-    "cert_type": "机构投资者",
-    "position": "执行董事",
-    "department": "Emerging Markets-Fixed Income",
-    "last_interaction_time": "2023-03-30 17:37:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      },
-      {
-        "time": "2023-03-23",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "新世界发展",
-        "time": "2024-10-16"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2023-08-28"
-      }
-    ],
-    "special_companies": "新世界发展,绿城中国"
-  },
-  {
-    "uid": "574113",
-    "name": "杨宇",
-    "org_name": "国信证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "个人",
-    "position": "倍用研究岗实习生",
-    "department": "金融市场总部风险控制部",
-    "last_interaction_time": "2023-03-30 17:37:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "远东宏信——资金部",
-        "time": "2023-03-22"
-      }
-    ],
-    "special_companies": "远东宏信——资金部"
-  },
-  {
     "uid": "431143",
     "name": "文宇翔",
     "org_name": "民银资本控股有限公司",
@@ -41059,110 +41067,6 @@
     "special_companies": "万物云,碧桂园服务,绿城服务"
   },
   {
-    "uid": "576617",
-    "name": "易元峰",
-    "org_name": "碧江资本控股（广州）有限公司",
-    "org_type": "金融控股集团",
-    "cert_type": "个人",
-    "position": "经理",
-    "department": "资产管理部",
-    "last_interaction_time": "2023-03-30 17:37:26",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园",
-        "time": "2023-03-30"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "271064",
-    "name": "陈佳华",
-    "org_name": "碧桂园服务控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "上市合规经理",
-    "department": "秘书办",
-    "last_interaction_time": "2023-03-30 17:37:26",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 3
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "434434",
-    "name": "苗琳",
-    "org_name": "中国国际金融股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "分析员",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-30 17:37:26",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-24",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 69
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "建发国际集团",
-        "time": "2023-08-29"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2023-03-26"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "492924",
     "name": "何信",
     "org_name": "富国基金管理有限公司",
@@ -41193,20 +41097,20 @@
     "special_companies": ""
   },
   {
-    "uid": "426269",
-    "name": "应铮",
-    "org_name": "德劭投资管理（上海）有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "",
+    "uid": "271064",
+    "name": "陈佳华",
+    "org_name": "碧桂园服务控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "上市合规经理",
+    "department": "秘书办",
     "last_interaction_time": "2023-03-30 17:37:26",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-24",
+        "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
       }
     ],
@@ -41215,59 +41119,11 @@
       {
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
+        "duration": 3
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2025-03-24"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "494065",
-    "name": "Davven Xu",
-    "org_name": "摩根士丹利公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Research",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:26",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2024-03-14"
-      },
-      {
-        "company": "新城发展",
-        "time": "2023-03-24"
-      },
-      {
-        "company": "新城控股",
-        "time": "2023-03-24"
-      }
-    ],
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -41325,6 +41181,158 @@
       {
         "company": "碧桂园",
         "time": "2023-03-22"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "426269",
+    "name": "应铮",
+    "org_name": "德劭投资管理（上海）有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:26",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-24",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2025-03-24"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "576617",
+    "name": "易元峰",
+    "org_name": "碧江资本控股（广州）有限公司",
+    "org_type": "金融控股集团",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "资产管理部",
+    "last_interaction_time": "2023-03-30 17:37:26",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园",
+        "time": "2023-03-30"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "494065",
+    "name": "Davven Xu",
+    "org_name": "摩根士丹利公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Research",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:26",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2024-03-14"
+      },
+      {
+        "company": "新城发展",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "新城控股",
+        "time": "2023-03-24"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "434434",
+    "name": "苗琳",
+    "org_name": "中国国际金融股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析员",
+    "department": "研究部",
+    "last_interaction_time": "2023-03-30 17:37:26",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-24",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 69
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "建发国际集团",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2023-03-26"
       }
     ],
     "special_companies": ""
@@ -41480,36 +41488,6 @@
     "special_companies": ""
   },
   {
-    "uid": "498086",
-    "name": "李国鑫",
-    "org_name": "碧桂园控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "区域资金总监",
-    "department": "世界500强企业",
-    "last_interaction_time": "2023-03-30 17:37:25",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 30
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "341308",
     "name": "刘洋",
     "org_name": "西南证券股份有限公司",
@@ -41566,6 +41544,36 @@
       }
     ],
     "special_companies": "中国海外宏洋集团,招商蛇口,碧桂园服务,美的置业"
+  },
+  {
+    "uid": "498086",
+    "name": "李国鑫",
+    "org_name": "碧桂园控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "区域资金总监",
+    "department": "世界500强企业",
+    "last_interaction_time": "2023-03-30 17:37:25",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 30
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "429900",
@@ -41787,41 +41795,6 @@
     "special_companies": "万物云,中海物业,保利物业,华润医疗,建发物业,新城悦服务,珀莱雅,碧桂园服务,贝泰妮,金茂服务,雅生活服务"
   },
   {
-    "uid": "490493",
-    "name": "汪国庆",
-    "org_name": "中信建投证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "个人",
-    "position": "经理",
-    "department": "债券承销部",
-    "last_interaction_time": "2023-03-30 17:37:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "333697",
     "name": "徐浩賢",
     "org_name": "摩根资产管理(亚太)有限公司",
@@ -41854,41 +41827,6 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "349337",
-    "name": "梁家鸿",
-    "org_name": "碧江资本控股(广州）有限公司",
-    "org_type": "金融控股集团",
-    "cert_type": "个人",
-    "position": "总经理",
-    "department": "企业金融事业部",
-    "last_interaction_time": "2023-03-30 17:37:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园服务",
-        "time": "2023-08-21"
-      }
-    ],
     "special_companies": ""
   },
   {
@@ -41955,6 +41893,106 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "349337",
+    "name": "梁家鸿",
+    "org_name": "碧江资本控股(广州）有限公司",
+    "org_type": "金融控股集团",
+    "cert_type": "个人",
+    "position": "总经理",
+    "department": "企业金融事业部",
+    "last_interaction_time": "2023-03-30 17:37:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园服务",
+        "time": "2023-08-21"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "490493",
+    "name": "汪国庆",
+    "org_name": "中信建投证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "债券承销部",
+    "last_interaction_time": "2023-03-30 17:37:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "333508",
+    "name": "成琪然",
+    "org_name": "中国国际金融股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析师",
+    "department": "研究部",
+    "last_interaction_time": "2023-03-30 17:37:23",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "美的置业",
+        "time": "2023-08-30"
+      }
+    ],
+    "special_companies": "美的置业"
   },
   {
     "uid": "427908",
@@ -42137,36 +42175,6 @@
     "special_companies": ""
   },
   {
-    "uid": "333508",
-    "name": "成琪然",
-    "org_name": "中国国际金融股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "分析师",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-30 17:37:23",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "美的置业",
-        "time": "2023-08-30"
-      }
-    ],
-    "special_companies": "美的置业"
-  },
-  {
     "uid": "440371",
     "name": "Venus Choi",
     "org_name": "J.P.Morgan Securities (aisa pacific)limited",
@@ -42255,6 +42263,78 @@
       }
     ],
     "special_companies": "宝龙商业,新城悦服务,绿城中国,绿城管理控股,金科服务"
+  },
+  {
+    "uid": "494628",
+    "name": "翟苏宁",
+    "org_name": "东方财富证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "地产行业高级分析师",
+    "department": "研究所",
+    "last_interaction_time": "2023-03-30 17:37:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "保利置业集团",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "网易",
+        "time": "2023-08-25"
+      },
+      {
+        "company": "华润置地",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "新城控股",
+        "time": "2023-03-24"
+      }
+    ],
+    "special_companies": "美的置业"
   },
   {
     "uid": "431558",
@@ -42406,78 +42486,6 @@
     "special_companies": "世茂集团,合景泰富集团,宝龙地产,新城发展,新城控股,正荣地产,碧桂园,绿城中国,越秀地产"
   },
   {
-    "uid": "494628",
-    "name": "翟苏宁",
-    "org_name": "东方财富证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "地产行业高级分析师",
-    "department": "研究所",
-    "last_interaction_time": "2023-03-30 17:37:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "保利置业集团",
-        "time": "2023-08-29"
-      },
-      {
-        "company": "网易",
-        "time": "2023-08-25"
-      },
-      {
-        "company": "华润置地",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2023-03-24"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2023-03-24"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-03-24"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-24"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-03-24"
-      },
-      {
-        "company": "新城控股",
-        "time": "2023-03-24"
-      }
-    ],
-    "special_companies": "美的置业"
-  },
-  {
     "uid": "267972",
     "name": "李薇",
     "org_name": "高盛(中国)证券有限责任公司",
@@ -42530,36 +42538,6 @@
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
         "duration": 67
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "495374",
-    "name": "張婷",
-    "org_name": "太平资产管理(香港)有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究員",
-    "department": "固定收益投资",
-    "last_interaction_time": "2023-03-30 17:37:21",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 69
       }
     ],
     "is_first_attend": false,
@@ -42676,6 +42654,66 @@
     "special_companies": "保利物业,宏信建发"
   },
   {
+    "uid": "495374",
+    "name": "張婷",
+    "org_name": "太平资产管理(香港)有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究員",
+    "department": "固定收益投资",
+    "last_interaction_time": "2023-03-30 17:37:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 69
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "577984",
+    "name": "李睿",
+    "org_name": "东方证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "高级研究员",
+    "department": "地产行业",
+    "last_interaction_time": "2023-03-30 17:37:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 65
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "270263",
     "name": "王惠菁",
     "org_name": "中国国际金融股份有限公司",
@@ -42711,34 +42749,38 @@
     "special_companies": "碧桂园"
   },
   {
-    "uid": "577984",
-    "name": "李睿",
-    "org_name": "东方证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "高级研究员",
-    "department": "地产行业",
-    "last_interaction_time": "2023-03-30 17:37:21",
+    "uid": "282780",
+    "name": "陈婷",
+    "org_name": "RRJ管理（香港）有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "董事总经理",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:20",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
+    "apply_count": 0,
+    "apply_records": [],
     "attend_count": 1,
     "attend_records": [
       {
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 65
+        "duration": 68
       }
     ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "万物云",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "明源云",
+        "time": "2023-03-17"
+      }
+    ],
+    "special_companies": "万物云,明源云"
   },
   {
     "uid": "577712",
@@ -42815,70 +42857,6 @@
     "special_companies": "碧桂园"
   },
   {
-    "uid": "282780",
-    "name": "陈婷",
-    "org_name": "RRJ管理（香港）有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "董事总经理",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "万物云",
-        "time": "2023-03-23"
-      },
-      {
-        "company": "明源云",
-        "time": "2023-03-17"
-      }
-    ],
-    "special_companies": "万物云,明源云"
-  },
-  {
-    "uid": "334686",
-    "name": "Wilson Yip",
-    "org_name": "汇丰环球投资管理(香港)有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Associate Director",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2025-08-25"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "285139",
     "name": "李灿林",
     "org_name": "广西桥河投资管理有限公司",
@@ -42914,6 +42892,36 @@
     "special_companies": ""
   },
   {
+    "uid": "334686",
+    "name": "Wilson Yip",
+    "org_name": "汇丰环球投资管理(香港)有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Associate Director",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:20",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2025-08-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "332659",
     "name": "刘晨",
     "org_name": "太平洋证券股份有限公司",
@@ -42940,6 +42948,36 @@
       }
     ],
     "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "578034",
+    "name": "金晓月",
+    "org_name": "山西证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "副总裁",
+    "department": "投资研究部",
+    "last_interaction_time": "2023-03-30 17:37:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -43010,13 +43048,113 @@
     "special_companies": "绿城中国"
   },
   {
-    "uid": "578034",
-    "name": "金晓月",
-    "org_name": "山西证券股份有限公司",
+    "uid": "273753",
+    "name": "徐超",
+    "org_name": "太平洋证券股份有限公司",
     "org_type": "证券公司",
     "cert_type": "卖方分析师",
-    "position": "副总裁",
-    "department": "投资研究部",
+    "position": "银行与房地产首席分析师",
+    "department": "研究院",
+    "last_interaction_time": "2023-03-30 17:37:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-23",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2023-04-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "264687",
+    "name": "张春娥",
+    "org_name": "广发证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "资深分析师",
+    "department": "房地产行业",
+    "last_interaction_time": "2023-03-30 17:37:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 19
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 49
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "华润医药",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "亚朵集团",
+        "time": "2023-08-18"
+      },
+      {
+        "company": "上海实业控股",
+        "time": "2023-03-30"
+      }
+    ],
+    "special_companies": "华润医药,招商蛇口"
+  },
+  {
+    "uid": "577180",
+    "name": "梁嘉劲",
+    "org_name": "碧桂园生活服务集团股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "大客户运营经理",
+    "department": "",
     "last_interaction_time": "2023-03-30 17:37:19",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
@@ -43032,12 +43170,21 @@
       {
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
+        "duration": 48
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
+    "subscribed_companies": [
+      {
+        "company": "碧桂园",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": "碧桂园,碧桂园服务"
   },
   {
     "uid": "492464",
@@ -43183,145 +43330,6 @@
     "special_companies": "万物云,中南建设,中国交通建设集团有限公司,信義玻璃,招商蛇口,星盛商业,绿城中国,绿城管理控股,美丽田园,远东宏信"
   },
   {
-    "uid": "273753",
-    "name": "徐超",
-    "org_name": "太平洋证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "银行与房地产首席分析师",
-    "department": "研究院",
-    "last_interaction_time": "2023-03-30 17:37:19",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-23",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2023-04-25"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "264687",
-    "name": "张春娥",
-    "org_name": "广发证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "资深分析师",
-    "department": "房地产行业",
-    "last_interaction_time": "2023-03-30 17:37:19",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 19
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 49
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "华润医药",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "招商蛇口",
-        "time": "2025-03-18"
-      },
-      {
-        "company": "亚朵集团",
-        "time": "2023-08-18"
-      },
-      {
-        "company": "上海实业控股",
-        "time": "2023-03-30"
-      }
-    ],
-    "special_companies": "华润医药,招商蛇口"
-  },
-  {
-    "uid": "577180",
-    "name": "梁嘉劲",
-    "org_name": "碧桂园生活服务集团股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "大客户运营经理",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:19",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 48
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园",
-        "time": "2023-03-30"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": "碧桂园,碧桂园服务"
-  },
-  {
     "uid": "264985",
     "name": "郭俊炜",
     "org_name": "方圆天成资产管理（深圳）有限公司",
@@ -43462,51 +43470,6 @@
     "special_companies": "万物云,碧桂园服务,药明生物"
   },
   {
-    "uid": "496268",
-    "name": "肖林涛",
-    "org_name": "碧桂园地产集团有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "融资经理",
-    "department": "重庆区域",
-    "last_interaction_time": "2023-03-30 17:37:18",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 2
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 56
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 7
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-30"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "573424",
     "name": "白学松",
     "org_name": "东吴证券股份有限公司",
@@ -43544,46 +43507,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "503281",
-    "name": "李舸",
-    "org_name": "华泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:18",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 7
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园",
-        "time": "2023-03-30"
-      }
-    ],
-    "special_companies": "碧桂园"
   },
   {
     "uid": "333111",
@@ -43631,6 +43554,91 @@
       }
     ],
     "special_companies": "远东发展"
+  },
+  {
+    "uid": "496268",
+    "name": "肖林涛",
+    "org_name": "碧桂园地产集团有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "融资经理",
+    "department": "重庆区域",
+    "last_interaction_time": "2023-03-30 17:37:18",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 2
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 56
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 7
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-30"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "503281",
+    "name": "李舸",
+    "org_name": "华泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:18",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 7
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园",
+        "time": "2023-03-30"
+      }
+    ],
+    "special_companies": "碧桂园"
   },
   {
     "uid": "336009",
@@ -43776,6 +43784,51 @@
     "special_companies": "中国人寿,中国金茂,国证国际证券(香港)研究所,建发国际集团,新希望服务,星盛商业,百融智能"
   },
   {
+    "uid": "435631",
+    "name": "Adrian Chan",
+    "org_name": "Ninety One Hong Kong Limited",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "",
+    "department": "Investing for a world of change",
+    "last_interaction_time": "2023-03-30 17:37:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 47
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 46
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "347208",
     "name": "郝亚雯",
     "org_name": "国泰君安证券股份有限公司研究所",
@@ -43823,41 +43876,6 @@
     "special_companies": "中国海外宏洋集团,招商蛇口,新城控股,融创服务"
   },
   {
-    "uid": "280285",
-    "name": "陈嘉",
-    "org_name": "中国国际金融股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "副总经理",
-    "department": "资产管理部",
-    "last_interaction_time": "2023-03-30 17:37:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-26",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 91
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "506209",
     "name": "谭钦元",
     "org_name": "中国国际金融股份有限公司",
@@ -43884,51 +43902,6 @@
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "435631",
-    "name": "Adrian Chan",
-    "org_name": "Ninety One Hong Kong Limited",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "",
-    "department": "Investing for a world of change",
-    "last_interaction_time": "2023-03-30 17:37:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 47
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 46
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -44299,20 +44272,20 @@
     "special_companies": ""
   },
   {
-    "uid": "291769",
-    "name": "尹欢科",
-    "org_name": "建信基金管理有限责任公司",
-    "org_type": "境内公募基金管理公司",
+    "uid": "280285",
+    "name": "陈嘉",
+    "org_name": "中国国际金融股份有限公司",
+    "org_type": "证券公司",
     "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-30 17:37:16",
+    "position": "副总经理",
+    "department": "资产管理部",
+    "last_interaction_time": "2023-03-30 17:37:17",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-29",
+        "time": "2023-03-26",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
       }
     ],
@@ -44321,7 +44294,7 @@
       {
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
+        "duration": 91
       },
       {
         "time": "2023-03-30",
@@ -44330,41 +44303,6 @@
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "招商蛇口",
-        "time": "2024-03-20"
-      }
-    ],
-    "special_companies": "招商蛇口"
-  },
-  {
-    "uid": "495009",
-    "name": "Hu Huiling, CFA",
-    "org_name": "DIAMOND CAPITAL MANAGEMENT （SINGAPORE） PTE.LTD.",
-    "org_type": "境外投资公司",
-    "cert_type": "机构投资者",
-    "position": "Credit Analyst",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -44655,6 +44593,36 @@
     "special_companies": ""
   },
   {
+    "uid": "494245",
+    "name": "何昊天",
+    "org_name": "SMBC日興證券(香港)有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "董事",
+    "department": "债务資本市場",
+    "last_interaction_time": "2023-03-30 17:37:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 64
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "273826",
     "name": "黄仁斌",
     "org_name": "国投瑞银资产管理（香港）有限公司",
@@ -44701,6 +44669,36 @@
       }
     ],
     "special_companies": "绿城中国"
+  },
+  {
+    "uid": "495009",
+    "name": "Hu Huiling, CFA",
+    "org_name": "DIAMOND CAPITAL MANAGEMENT （SINGAPORE） PTE.LTD.",
+    "org_type": "境外投资公司",
+    "cert_type": "机构投资者",
+    "position": "Credit Analyst",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "275767",
@@ -44894,13 +44892,13 @@
     "special_companies": ""
   },
   {
-    "uid": "494245",
-    "name": "何昊天",
-    "org_name": "SMBC日興證券(香港)有限公司",
-    "org_type": "证券公司",
+    "uid": "291769",
+    "name": "尹欢科",
+    "org_name": "建信基金管理有限责任公司",
+    "org_type": "境内公募基金管理公司",
     "cert_type": "机构投资者",
-    "position": "董事",
-    "department": "债务資本市場",
+    "position": "研究员",
+    "department": "研究部",
     "last_interaction_time": "2023-03-30 17:37:16",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
@@ -44916,12 +44914,22 @@
       {
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 64
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
       }
     ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "招商蛇口",
+        "time": "2024-03-20"
+      }
+    ],
+    "special_companies": "招商蛇口"
   },
   {
     "uid": "428492",
@@ -45121,66 +45129,6 @@
     "special_companies": "中国人寿,中国建筑,中国银河证券股份研究所,新城控股,英伟达,金风科技"
   },
   {
-    "uid": "284463",
-    "name": "Willer Chen",
-    "org_name": "瑞穗证券亚洲有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "Vice President",
-    "department": "Equity Research Department",
-    "last_interaction_time": "2023-03-30 17:37:15",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-24",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "恒安国际",
-        "time": "2026-03-17"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "272762",
-    "name": "Avery Chan",
-    "org_name": "J.P.Morgan",
-    "org_type": "投资银行",
-    "cert_type": "服务机构",
-    "position": "Equity Research",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:15",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "284767",
     "name": "陈剑锋",
     "org_name": "香港上海汇丰银行有限公司",
@@ -45229,6 +45177,66 @@
     "special_companies": "新世界发展,绿城中国"
   },
   {
+    "uid": "272762",
+    "name": "Avery Chan",
+    "org_name": "J.P.Morgan",
+    "org_type": "投资银行",
+    "cert_type": "服务机构",
+    "position": "Equity Research",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:15",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "348602",
+    "name": "李毅文",
+    "org_name": "碧桂园控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "副总经理",
+    "department": "资本市场部",
+    "last_interaction_time": "2023-03-30 17:37:15",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 69
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "424497",
     "name": "Sandy Dong",
     "org_name": "国泰君安证券（香港）有限公司",
@@ -45272,41 +45280,6 @@
     "special_companies": "国泰君安国际,新城发展,新城控股"
   },
   {
-    "uid": "348602",
-    "name": "李毅文",
-    "org_name": "碧桂园控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "副总经理",
-    "department": "资本市场部",
-    "last_interaction_time": "2023-03-30 17:37:15",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 69
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "426577",
     "name": "费阳",
     "org_name": "万和证券股份有限公司",
@@ -45337,20 +45310,20 @@
     "special_companies": ""
   },
   {
-    "uid": "495025",
-    "name": "莊子濠",
-    "org_name": "摩根大通资产管理（亚洲）有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "執行董事",
-    "department": "亚洲定息投资",
+    "uid": "284463",
+    "name": "Willer Chen",
+    "org_name": "瑞穗证券亚洲有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "Vice President",
+    "department": "Equity Research Department",
     "last_interaction_time": "2023-03-30 17:37:15",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-29",
+        "time": "2023-03-24",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
       }
     ],
@@ -45359,11 +45332,16 @@
       {
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 67
+        "duration": 68
       }
     ],
     "is_first_attend": false,
-    "subscribed_companies": [],
+    "subscribed_companies": [
+      {
+        "company": "恒安国际",
+        "time": "2026-03-17"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -45397,14 +45375,14 @@
     "special_companies": ""
   },
   {
-    "uid": "573489",
-    "name": "Stephen Cheung",
-    "org_name": "Morgan Stanley ASIA LIMITED",
-    "org_type": null,
+    "uid": "495025",
+    "name": "莊子濠",
+    "org_name": "摩根大通资产管理（亚洲）有限公司",
+    "org_type": "境外资产管理公司",
     "cert_type": "机构投资者",
-    "position": "Research",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:14",
+    "position": "執行董事",
+    "department": "亚洲定息投资",
+    "last_interaction_time": "2023-03-30 17:37:15",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
     "apply_count": 1,
@@ -45422,9 +45400,79 @@
         "duration": 67
       }
     ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "577828",
+    "name": "王成祖",
+    "org_name": "碧桂园控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "博士",
+    "department": "寿阳碧桂园",
+    "last_interaction_time": "2023-03-30 17:37:14",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 61
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "496962",
+    "name": "陳逸吾",
+    "org_name": "中国东方资产管理股份有限公司",
+    "org_type": "券商资管",
+    "cert_type": "机构投资者",
+    "position": "分析師",
+    "department": "固定收益投資",
+    "last_interaction_time": "2023-03-30 17:37:14",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 20
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "新世界发展",
+        "time": "2023-09-29"
+      }
+    ],
+    "special_companies": "新世界发展"
   },
   {
     "uid": "426693",
@@ -45470,41 +45518,6 @@
     "special_companies": "万物云,绿城中国"
   },
   {
-    "uid": "577828",
-    "name": "王成祖",
-    "org_name": "碧桂园控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "博士",
-    "department": "寿阳碧桂园",
-    "last_interaction_time": "2023-03-30 17:37:14",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 61
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "577835",
     "name": "江弘霖",
     "org_name": "复星保险资产管理中心",
@@ -45537,6 +45550,66 @@
         "time": "2023-03-30"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "428840",
+    "name": "李诗茵",
+    "org_name": "碧桂园控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "上市报表及财务分析经理",
+    "department": "上市报表组",
+    "last_interaction_time": "2023-03-30 17:37:14",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 69
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "573489",
+    "name": "Stephen Cheung",
+    "org_name": "Morgan Stanley ASIA LIMITED",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "Research",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:14",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -45579,20 +45652,20 @@
     "special_companies": ""
   },
   {
-    "uid": "428840",
-    "name": "李诗茵",
+    "uid": "283204",
+    "name": "梁薇",
     "org_name": "碧桂园控股有限公司",
     "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "上市报表及财务分析经理",
-    "department": "上市报表组",
-    "last_interaction_time": "2023-03-30 17:37:14",
+    "cert_type": "个人",
+    "position": "副总监",
+    "department": "金融部",
+    "last_interaction_time": "2023-03-30 17:37:13",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-29",
+        "time": "2023-03-24",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
       }
     ],
@@ -45601,47 +45674,12 @@
       {
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 69
+        "duration": 68
       }
     ],
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "496962",
-    "name": "陳逸吾",
-    "org_name": "中国东方资产管理股份有限公司",
-    "org_type": "券商资管",
-    "cert_type": "机构投资者",
-    "position": "分析師",
-    "department": "固定收益投資",
-    "last_interaction_time": "2023-03-30 17:37:14",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 20
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "新世界发展",
-        "time": "2023-09-29"
-      }
-    ],
-    "special_companies": "新世界发展"
   },
   {
     "uid": "419762",
@@ -45679,75 +45717,6 @@
     "special_companies": ""
   },
   {
-    "uid": "502998",
-    "name": "钟培源",
-    "org_name": "山西证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "个人",
-    "position": "高级运营经理",
-    "department": "金融机构部",
-    "last_interaction_time": "2023-03-30 17:37:13",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 64
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "496117",
-    "name": "刘然颖",
-    "org_name": "碧桂园集团",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "资金总监",
-    "department": "广西大区财务资金部",
-    "last_interaction_time": "2023-03-30 17:37:13",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "335813",
     "name": "刘伟",
     "org_name": "招商银行股份有限公司",
@@ -45771,36 +45740,6 @@
         "time": "2023-03-30",
         "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
         "duration": 66
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "283204",
-    "name": "梁薇",
-    "org_name": "碧桂园控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "副总监",
-    "department": "金融部",
-    "last_interaction_time": "2023-03-30 17:37:13",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-24",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
       }
     ],
     "is_first_attend": false,
@@ -45848,6 +45787,45 @@
     "special_companies": "上海实业控股,敏华控股,药明生物"
   },
   {
+    "uid": "502998",
+    "name": "钟培源",
+    "org_name": "山西证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "个人",
+    "position": "高级运营经理",
+    "department": "金融机构部",
+    "last_interaction_time": "2023-03-30 17:37:13",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "Country Garden （02007.HK）2022 Annual Results Announcement Investor Presentation"
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 64
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "431273",
     "name": "龙秀慧",
     "org_name": "富敦资金管理有限公司",
@@ -45879,6 +45857,36 @@
         "time": "2023-03-30"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "496117",
+    "name": "刘然颖",
+    "org_name": "碧桂园集团",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "资金总监",
+    "department": "广西大区财务资金部",
+    "last_interaction_time": "2023-03-30 17:37:13",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -46140,41 +46148,6 @@
     "special_companies": ""
   },
   {
-    "uid": "503772",
-    "name": "郭劍峰",
-    "org_name": "香港保诚保险有限公司",
-    "org_type": "保险公司",
-    "cert_type": "机构投资者",
-    "position": "營業經理",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:13",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 50
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "349380",
     "name": "陈远森",
     "org_name": "招商银行股份有限公司",
@@ -46207,6 +46180,41 @@
         "time": "2023-03-30"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "503772",
+    "name": "郭劍峰",
+    "org_name": "香港保诚保险有限公司",
+    "org_type": "保险公司",
+    "cert_type": "机构投资者",
+    "position": "營業經理",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:13",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 50
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -46457,149 +46465,6 @@
     "special_companies": "中原建业,新城发展,新城控股,绿城管理控股"
   },
   {
-    "uid": "436887",
-    "name": "赵祎",
-    "org_name": "南方基金管理股份有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "固定收益研究部",
-    "last_interaction_time": "2023-03-30 17:37:12",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "498217",
-    "name": "洪响涵",
-    "org_name": "碧桂园集团",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "资金副经理",
-    "department": "财务资金部",
-    "last_interaction_time": "2023-03-30 17:37:12",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 66
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 3
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "334922",
-    "name": "Charlotte Liu",
-    "org_name": "Potus Capital",
-    "org_type": "境外投资公司",
-    "cert_type": "机构投资者",
-    "position": "Senior Portfolio Manager",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:12",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 65
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "华润啤酒",
-        "time": "2023-11-03"
-      },
-      {
-        "company": "长城汽车",
-        "time": "2023-11-03"
-      },
-      {
-        "company": "吉利汽车",
-        "time": "2023-11-03"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "335794",
-    "name": "Li Bo",
-    "org_name": "安信国际金融控股有限公司",
-    "org_type": "QFII/RQFII",
-    "cert_type": "机构投资者",
-    "position": "Associate Director",
-    "department": "",
-    "last_interaction_time": "2023-03-30 17:37:12",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
-        "duration": 69
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "572896",
     "name": "Keng Yee Chong",
     "org_name": "Lombard Odier (Singapore) Ltd.",
@@ -46681,6 +46546,149 @@
       }
     ],
     "special_companies": "中国海外宏洋集团,建业地产,新世界发展,新城控股,绿城中国"
+  },
+  {
+    "uid": "334922",
+    "name": "Charlotte Liu",
+    "org_name": "Potus Capital",
+    "org_type": "境外投资公司",
+    "cert_type": "机构投资者",
+    "position": "Senior Portfolio Manager",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:12",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-28",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 65
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "华润啤酒",
+        "time": "2023-11-03"
+      },
+      {
+        "company": "长城汽车",
+        "time": "2023-11-03"
+      },
+      {
+        "company": "吉利汽车",
+        "time": "2023-11-03"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "498217",
+    "name": "洪响涵",
+    "org_name": "碧桂园集团",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "资金副经理",
+    "department": "财务资金部",
+    "last_interaction_time": "2023-03-30 17:37:12",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 66
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 3
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "335794",
+    "name": "Li Bo",
+    "org_name": "安信国际金融控股有限公司",
+    "org_type": "QFII/RQFII",
+    "cert_type": "机构投资者",
+    "position": "Associate Director",
+    "department": "",
+    "last_interaction_time": "2023-03-30 17:37:12",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 69
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "436887",
+    "name": "赵祎",
+    "org_name": "南方基金管理股份有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "固定收益研究部",
+    "last_interaction_time": "2023-03-30 17:37:12",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布投资者推介会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "338813",
@@ -49630,31 +49638,6 @@
     "special_companies": "万物云"
   },
   {
-    "uid": "428578",
-    "name": "刘西常",
-    "org_name": "乐居财经",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "记者",
-    "department": "",
-    "last_interaction_time": "2023-03-30 16:15:25",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "碧桂园（02007.HK）2022年度业绩公布新闻发布会",
-        "duration": 69
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "496483",
     "name": "黄嘉敏",
     "org_name": "蓝鲸财经",
@@ -49701,6 +49684,31 @@
       }
     ],
     "special_companies": "中南建设,碧桂园服务,美的置业"
+  },
+  {
+    "uid": "428578",
+    "name": "刘西常",
+    "org_name": "乐居财经",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "记者",
+    "department": "",
+    "last_interaction_time": "2023-03-30 16:15:25",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "碧桂园（02007.HK）2022年度业绩公布新闻发布会",
+        "duration": 69
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "339884",

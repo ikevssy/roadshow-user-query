@@ -4562,6 +4562,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-13"
+      },
+      {
         "company": "鸿远电子",
         "time": "2026-04-01"
       },
@@ -5246,6 +5250,110 @@
     "special_companies": "申万宏源"
   },
   {
+    "uid": "282855",
+    "name": "李丹",
+    "org_name": "申万宏源集团股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "上市公司",
+    "position": "投资者关系",
+    "department": "董事会办公室",
+    "last_interaction_time": "2026-03-30 15:00:09",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "申万宏源",
+    "apply_count": 5,
+    "apply_records": [
+      {
+        "time": "2026-03-29",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2025年度业绩说明会"
+      },
+      {
+        "time": "2025-03-21",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会"
+      },
+      {
+        "time": "2024-03-31",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会"
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "申万宏源集团（06806.HK，000166.SZ）2021年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 5,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2025年度业绩说明会",
+        "duration": 60
+      },
+      {
+        "time": "2026-03-30",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2025年度业绩说明会",
+        "duration": 65
+      },
+      {
+        "time": "2026-03-15",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会",
+        "duration": 47
+      },
+      {
+        "time": "2025-04-07",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会",
+        "duration": 0
+      },
+      {
+        "time": "2025-04-07",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会",
+        "duration": 2
+      },
+      {
+        "time": "2025-04-03",
+        "meet_title": "申万宏源集团股份有限公司2020年度业绩投资者及分析师电话会议",
+        "duration": 0
+      },
+      {
+        "time": "2025-03-20",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会",
+        "duration": 1
+      },
+      {
+        "time": "2024-04-26",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会",
+        "duration": 0
+      },
+      {
+        "time": "2024-04-09",
+        "meet_title": "申万宏源集团股份有限公司2020年度业绩投资者及分析师电话会议",
+        "duration": 1
+      },
+      {
+        "time": "2024-04-01",
+        "meet_title": "申万宏源集团股份有限公司2020年中期业绩电话会",
+        "duration": 9
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "申万宏源",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "农业银行",
+        "time": "2025-04-03"
+      },
+      {
+        "company": "光大证券",
+        "time": "2024-04-02"
+      }
+    ],
+    "special_companies": "光大证券,申万宏源"
+  },
+  {
     "uid": "581511",
     "name": "哈滢",
     "org_name": "国投证券股份有限公司",
@@ -5358,110 +5466,6 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "282855",
-    "name": "李丹",
-    "org_name": "申万宏源集团股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "上市公司",
-    "position": "投资者关系",
-    "department": "董事会办公室",
-    "last_interaction_time": "2026-03-30 15:00:09",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "申万宏源",
-    "apply_count": 5,
-    "apply_records": [
-      {
-        "time": "2026-03-29",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2025年度业绩说明会"
-      },
-      {
-        "time": "2025-03-21",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会"
-      },
-      {
-        "time": "2024-03-31",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会"
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "申万宏源集团（06806.HK，000166.SZ）2021年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 5,
-    "attend_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2025年度业绩说明会",
-        "duration": 60
-      },
-      {
-        "time": "2026-03-30",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2025年度业绩说明会",
-        "duration": 65
-      },
-      {
-        "time": "2026-03-15",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会",
-        "duration": 47
-      },
-      {
-        "time": "2025-04-07",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会",
-        "duration": 0
-      },
-      {
-        "time": "2025-04-07",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会",
-        "duration": 2
-      },
-      {
-        "time": "2025-04-03",
-        "meet_title": "申万宏源集团股份有限公司2020年度业绩投资者及分析师电话会议",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-20",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会",
-        "duration": 1
-      },
-      {
-        "time": "2024-04-26",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2023年度业绩说明会",
-        "duration": 0
-      },
-      {
-        "time": "2024-04-09",
-        "meet_title": "申万宏源集团股份有限公司2020年度业绩投资者及分析师电话会议",
-        "duration": 1
-      },
-      {
-        "time": "2024-04-01",
-        "meet_title": "申万宏源集团股份有限公司2020年中期业绩电话会",
-        "duration": 9
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "申万宏源",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "农业银行",
-        "time": "2025-04-03"
-      },
-      {
-        "company": "光大证券",
-        "time": "2024-04-02"
-      }
-    ],
-    "special_companies": "光大证券,申万宏源"
   },
   {
     "uid": "635962",
@@ -11116,36 +11120,6 @@
     "special_companies": "远东宏信"
   },
   {
-    "uid": "431705",
-    "name": "黄怡婷",
-    "org_name": "光大证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "非银行业分析师",
-    "department": "研究所",
-    "last_interaction_time": "2025-03-31 14:59:30",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "申万宏源",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-24",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-31",
-        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会",
-        "duration": 8
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "496270",
     "name": "蔡錦煌",
     "org_name": "交银国际（亚洲）有限公司",
@@ -11375,6 +11349,36 @@
         "time": "2023-03-15"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "431705",
+    "name": "黄怡婷",
+    "org_name": "光大证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "非银行业分析师",
+    "department": "研究所",
+    "last_interaction_time": "2025-03-31 14:59:30",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "申万宏源",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-24",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-31",
+        "meet_title": "申万宏源（000166.SZ，06806.HK）2024年度业绩说明会",
+        "duration": 8
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -12987,6 +12991,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
       {
         "company": "希迪智驾",
         "time": "2026-03-30"

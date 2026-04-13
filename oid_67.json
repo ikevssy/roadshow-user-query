@@ -1,5 +1,69 @@
 [
   {
+    "uid": "495945",
+    "name": "祝凯伦",
+    "org_name": "杭州中大君悦投资有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "",
+    "last_interaction_time": "2026-04-13 18:49:11",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "中集集团",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "招商银行",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "宝钢股份",
+        "time": "2025-09-02"
+      },
+      {
+        "company": "中国海外发展",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "美的集团",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "建设银行",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "工商银行",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2025-04-21"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": "中国建筑,比亚迪"
+  },
+  {
     "uid": "19352",
     "name": "马步川",
     "org_name": "永安财产保险股份有限公司",
@@ -3415,49 +3479,6 @@
     "special_companies": ""
   },
   {
-    "uid": "633618",
-    "name": "郑浩南",
-    "org_name": "中集天达控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "战略投资经理",
-    "department": "管理发展部",
-    "last_interaction_time": "2026-03-27 15:38:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集集团",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会"
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2024年全年业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会",
-        "duration": 18
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中集集团",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "希迪智驾",
-        "time": "2026-03-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "254530",
     "name": "张军",
     "org_name": "慈溪风力发电有限公司",
@@ -3509,6 +3530,49 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": "中集集团"
+  },
+  {
+    "uid": "633618",
+    "name": "郑浩南",
+    "org_name": "中集天达控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "战略投资经理",
+    "department": "管理发展部",
+    "last_interaction_time": "2026-03-27 15:38:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集集团",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会"
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2024年全年业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会",
+        "duration": 18
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中集集团",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-27"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "551018",
@@ -5057,6 +5121,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-13"
+      },
+      {
         "company": "鸿远电子",
         "time": "2026-04-01"
       },
@@ -5396,45 +5464,6 @@
     "special_companies": ""
   },
   {
-    "uid": "270518",
-    "name": "杜中明",
-    "org_name": "中信保诚资产管理有限责任公司",
-    "org_type": "保险公司",
-    "cert_type": "机构投资者",
-    "position": "投资主管",
-    "department": "股票投资部",
-    "last_interaction_time": "2026-03-27 15:00:47",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集集团",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-25",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会"
-      },
-      {
-        "time": "2025-08-28",
-        "meet_title": "中集集团2025年中期业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会",
-        "duration": 68
-      },
-      {
-        "time": "2026-03-27",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "573255",
     "name": "Victoria Xu",
     "org_name": "中信里昂资产管理有限公司",
@@ -5474,6 +5503,45 @@
     "special_companies": ""
   },
   {
+    "uid": "270518",
+    "name": "杜中明",
+    "org_name": "中信保诚资产管理有限责任公司",
+    "org_type": "保险公司",
+    "cert_type": "机构投资者",
+    "position": "投资主管",
+    "department": "股票投资部",
+    "last_interaction_time": "2026-03-27 15:00:47",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集集团",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会"
+      },
+      {
+        "time": "2025-08-28",
+        "meet_title": "中集集团2025年中期业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会",
+        "duration": 68
+      },
+      {
+        "time": "2026-03-27",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "351826",
     "name": "余辰俊",
     "org_name": "明辰资本管理有限公司",
@@ -5501,6 +5569,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-13"
+      },
       {
         "company": "潍柴动力",
         "time": "2026-03-25"
@@ -10206,6 +10278,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
       {
         "company": "希迪智驾",
         "time": "2026-03-30"
@@ -17400,36 +17476,6 @@
     "special_companies": ""
   },
   {
-    "uid": "573827",
-    "name": "王安亚",
-    "org_name": "東騰創新投資股份有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "个人",
-    "position": "總經理",
-    "department": "",
-    "last_interaction_time": "2025-08-28 15:29:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "中集集团2025年中期业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "中集集团2025年中期业绩说明会",
-        "duration": 78
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "430285",
     "name": "吴洋",
     "org_name": "招商证券股份有限公司",
@@ -17476,6 +17522,36 @@
         "time": "2025-08-28"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "573827",
+    "name": "王安亚",
+    "org_name": "東騰創新投資股份有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "个人",
+    "position": "總經理",
+    "department": "",
+    "last_interaction_time": "2025-08-28 15:29:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "中集集团2025年中期业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "中集集团2025年中期业绩说明会",
+        "duration": 78
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -27781,41 +27857,6 @@
     "special_companies": ""
   },
   {
-    "uid": "337367",
-    "name": "梁勤之",
-    "org_name": "国联基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "研究部",
-    "last_interaction_time": "2024-03-28 16:16:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会",
-        "duration": 3
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会",
-        "duration": 73
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "608585",
     "name": "邵禹豪",
     "org_name": "江海证券有限公司",
@@ -27893,6 +27934,41 @@
       }
     ],
     "special_companies": "华森制药,药师帮"
+  },
+  {
+    "uid": "337367",
+    "name": "梁勤之",
+    "org_name": "国联基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "研究部",
+    "last_interaction_time": "2024-03-28 16:16:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会",
+        "duration": 3
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会",
+        "duration": 73
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "607456",
@@ -31044,6 +31120,14 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "比亚迪电子",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2026-04-13"
+      },
       {
         "company": "阿里巴巴-W",
         "time": "2026-03-18"

@@ -1419,6 +1419,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-13"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-08"
       },
@@ -9972,6 +9976,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
       {
         "company": "希迪智驾",
         "time": "2026-03-30"
@@ -18778,6 +18786,54 @@
     "special_companies": ""
   },
   {
+    "uid": "340143",
+    "name": "Queenie Jin",
+    "org_name": "SCRIPTS Asia Limited",
+    "org_type": "其他研究机构",
+    "cert_type": "服务机构",
+    "position": "Corporate Partnership Manager",
+    "department": "",
+    "last_interaction_time": "2024-08-28 15:00:43",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "博腾股份",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-28",
+        "meet_title": "博腾股份（300363.SZ）2024年中报电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-28",
+        "meet_title": "博腾股份（300363.SZ）2024年中报电话会",
+        "duration": 0
+      },
+      {
+        "time": "2024-08-28",
+        "meet_title": "博腾股份（300363.SZ）2024年中报电话会",
+        "duration": 79
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "民生银行",
+        "time": "2025-10-31"
+      },
+      {
+        "company": "瑞声科技",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-18"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "279438",
     "name": "张加",
     "org_name": "北京聚创造创业投资管理有限公司",
@@ -18848,54 +18904,6 @@
       }
     ],
     "special_companies": "加科思,和铂医药,复宏汉霖,康基医疗,归创通桥,诺诚健华"
-  },
-  {
-    "uid": "340143",
-    "name": "Queenie Jin",
-    "org_name": "SCRIPTS Asia Limited",
-    "org_type": "其他研究机构",
-    "cert_type": "服务机构",
-    "position": "Corporate Partnership Manager",
-    "department": "",
-    "last_interaction_time": "2024-08-28 15:00:43",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "博腾股份",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-28",
-        "meet_title": "博腾股份（300363.SZ）2024年中报电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-28",
-        "meet_title": "博腾股份（300363.SZ）2024年中报电话会",
-        "duration": 0
-      },
-      {
-        "time": "2024-08-28",
-        "meet_title": "博腾股份（300363.SZ）2024年中报电话会",
-        "duration": 79
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "民生银行",
-        "time": "2025-10-31"
-      },
-      {
-        "company": "瑞声科技",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2025-08-18"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "434647",
@@ -21639,6 +21647,14 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "比亚迪电子",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2026-04-13"
+      },
+      {
         "company": "阿里巴巴-W",
         "time": "2026-03-18"
       },
@@ -23239,49 +23255,6 @@
     "special_companies": "神州控股"
   },
   {
-    "uid": "346878",
-    "name": "崔少煜",
-    "org_name": "中泰证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "医药行业分析师",
-    "department": "",
-    "last_interaction_time": "2023-10-30 19:30:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "博腾股份",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2023-10-29",
-        "meet_title": "博腾股份2023年三季度交流会"
-      },
-      {
-        "time": "2023-08-20",
-        "meet_title": "博腾股份2023年半年度业绩交流会"
-      },
-      {
-        "time": "2023-03-25",
-        "meet_title": "博腾股份2022年报交流会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2023-10-30",
-        "meet_title": "博腾股份2023年三季度交流会",
-        "duration": 60
-      },
-      {
-        "time": "2023-03-26",
-        "meet_title": "博腾股份2022年报交流会",
-        "duration": 79
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "药明生物"
-  },
-  {
     "uid": "495445",
     "name": "杨一腾",
     "org_name": "杭州凯昇投资管理有限公司",
@@ -23346,6 +23319,49 @@
       }
     ],
     "special_companies": "博腾股份"
+  },
+  {
+    "uid": "346878",
+    "name": "崔少煜",
+    "org_name": "中泰证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "医药行业分析师",
+    "department": "",
+    "last_interaction_time": "2023-10-30 19:30:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "博腾股份",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2023-10-29",
+        "meet_title": "博腾股份2023年三季度交流会"
+      },
+      {
+        "time": "2023-08-20",
+        "meet_title": "博腾股份2023年半年度业绩交流会"
+      },
+      {
+        "time": "2023-03-25",
+        "meet_title": "博腾股份2022年报交流会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2023-10-30",
+        "meet_title": "博腾股份2023年三季度交流会",
+        "duration": 60
+      },
+      {
+        "time": "2023-03-26",
+        "meet_title": "博腾股份2022年报交流会",
+        "duration": 79
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "药明生物"
   },
   {
     "uid": "277217",
@@ -32390,6 +32406,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-13"
+      },
       {
         "company": "鸿远电子",
         "time": "2026-04-01"

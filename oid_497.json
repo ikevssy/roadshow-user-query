@@ -2855,6 +2855,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "招商银行",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-04-13"
+      },
+      {
         "company": "宝钢股份",
         "time": "2025-09-02"
       },
@@ -4540,54 +4548,6 @@
     "special_companies": ""
   },
   {
-    "uid": "273123",
-    "name": "唐明",
-    "org_name": "青榕资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "投资",
-    "last_interaction_time": "2024-05-23 13:30:15",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华润三九",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-05-20",
-        "meet_title": "华润三九（000999.SZ）投资者推介会｜华安医药 x 路演中"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-05-23",
-        "meet_title": "华润三九（000999.SZ）投资者推介会｜华安医药 x 路演中",
-        "duration": 1
-      },
-      {
-        "time": "2024-05-23",
-        "meet_title": "华润三九（000999.SZ）投资者推介会｜华安医药 x 路演中",
-        "duration": 46
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国同辐",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2024-05-22"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2023-03-28"
-      }
-    ],
-    "special_companies": "华润医疗,联邦制药"
-  },
-  {
     "uid": "506536",
     "name": "李润泽",
     "org_name": "青岛金光紫金创业投资管理有限公司",
@@ -4637,6 +4597,54 @@
       }
     ],
     "special_companies": "ST易事特,国元国际,金力永磁"
+  },
+  {
+    "uid": "273123",
+    "name": "唐明",
+    "org_name": "青榕资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "投资",
+    "last_interaction_time": "2024-05-23 13:30:15",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华润三九",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-05-20",
+        "meet_title": "华润三九（000999.SZ）投资者推介会｜华安医药 x 路演中"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-05-23",
+        "meet_title": "华润三九（000999.SZ）投资者推介会｜华安医药 x 路演中",
+        "duration": 1
+      },
+      {
+        "time": "2024-05-23",
+        "meet_title": "华润三九（000999.SZ）投资者推介会｜华安医药 x 路演中",
+        "duration": 46
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国同辐",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2023-03-28"
+      }
+    ],
+    "special_companies": "华润医疗,联邦制药"
   },
   {
     "uid": "334060",
@@ -6104,6 +6112,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
       {
         "company": "希迪智驾",
         "time": "2026-03-30"

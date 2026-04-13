@@ -5971,6 +5971,30 @@
     "special_companies": ""
   },
   {
+    "uid": "645430",
+    "name": "施迤涵",
+    "org_name": "华泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "实习生",
+    "department": "研究所",
+    "last_interaction_time": "2026-03-17 16:30:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "恒安国际",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-17",
+        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "499868",
     "name": "Dustin Wei",
     "org_name": "Morgan Stanley",
@@ -5996,30 +6020,6 @@
         "duration": 47
       }
     ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "645430",
-    "name": "施迤涵",
-    "org_name": "华泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "实习生",
-    "department": "研究所",
-    "last_interaction_time": "2026-03-17 16:30:48",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "恒安国际",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-17",
-        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
@@ -6838,40 +6838,6 @@
     "special_companies": "中广核新能源,信义能源,兖煤澳大利亚,华熙生物,协合新能源,泡泡玛特,百果园集团,贝泰妮"
   },
   {
-    "uid": "493667",
-    "name": "周旻天",
-    "org_name": "瑞银证券有限责任公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "中国休闲及交通运输行业研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-17 16:29:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "恒安国际",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-17",
-        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会",
-        "duration": 47
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "恒安国际",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "珀莱雅",
-        "time": "2023-04-18"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "645419",
     "name": "Ruoling Zhong",
     "org_name": "中信里昂证券有限公司",
@@ -7071,6 +7037,40 @@
       }
     ],
     "special_companies": "万物云,华润医药,百果园集团"
+  },
+  {
+    "uid": "493667",
+    "name": "周旻天",
+    "org_name": "瑞银证券有限责任公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "中国休闲及交通运输行业研究员",
+    "department": "",
+    "last_interaction_time": "2026-03-17 16:29:57",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "恒安国际",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-17",
+        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会",
+        "duration": 47
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "恒安国际",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "珀莱雅",
+        "time": "2023-04-18"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "632908",
@@ -7312,6 +7312,61 @@
       }
     ],
     "special_companies": "万物云"
+  },
+  {
+    "uid": "308022",
+    "name": "段靜嫻",
+    "org_name": "国元国际控股有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析師",
+    "department": "研究部",
+    "last_interaction_time": "2026-03-17 16:29:49",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "恒安国际",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-17",
+        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会",
+        "duration": 46
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "433567",
+    "name": "Raymond Ching",
+    "org_name": "Optimas Capital, LTD",
+    "org_type": "境外投资公司",
+    "cert_type": "机构投资者",
+    "position": "Partner",
+    "department": "",
+    "last_interaction_time": "2026-03-17 16:29:49",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "恒安国际",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-17",
+        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会",
+        "duration": 48
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "波司登",
+        "time": "2025-06-26"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "379289",
@@ -7561,61 +7616,6 @@
     "special_companies": "中国心连心化肥,中国电信,中烟香港,丸美生物,佛朗斯股份,信義玻璃,呷哺呷哺,宜明昂科,小米集团-W,康臣药业,快手-W,招商银行,波司登,湾区发展,百果园集团,腾讯控股,顺丰同城"
   },
   {
-    "uid": "308022",
-    "name": "段靜嫻",
-    "org_name": "国元国际控股有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "分析師",
-    "department": "研究部",
-    "last_interaction_time": "2026-03-17 16:29:49",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "恒安国际",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-17",
-        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会",
-        "duration": 46
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "433567",
-    "name": "Raymond Ching",
-    "org_name": "Optimas Capital, LTD",
-    "org_type": "境外投资公司",
-    "cert_type": "机构投资者",
-    "position": "Partner",
-    "department": "",
-    "last_interaction_time": "2026-03-17 16:29:49",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "恒安国际",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-17",
-        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会",
-        "duration": 48
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "波司登",
-        "time": "2025-06-26"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "505931",
     "name": "吴昊龙",
     "org_name": "深圳市国晖投资有限公司",
@@ -7782,48 +7782,6 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "436685",
-    "name": "于建鈺",
-    "org_name": "摩根士丹利亚洲有限公司",
-    "org_type": "境外银行",
-    "cert_type": "机构投资者",
-    "position": "研究助理",
-    "department": "",
-    "last_interaction_time": "2026-03-17 16:29:47",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "恒安国际",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-17",
-        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会",
-        "duration": 47
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "协合新能源",
-        "time": "2024-03-06"
-      },
-      {
-        "company": "特锐德",
-        "time": "2023-08-22"
-      },
-      {
-        "company": "科士达",
-        "time": "2023-04-25"
-      },
-      {
-        "company": "粤海置地",
-        "time": "2023-04-03"
-      }
-    ],
-    "special_companies": "协合新能源,粤海置地"
   },
   {
     "uid": "341089",
@@ -8020,6 +7978,48 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "436685",
+    "name": "于建鈺",
+    "org_name": "摩根士丹利亚洲有限公司",
+    "org_type": "境外银行",
+    "cert_type": "机构投资者",
+    "position": "研究助理",
+    "department": "",
+    "last_interaction_time": "2026-03-17 16:29:47",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "恒安国际",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-17",
+        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会",
+        "duration": 47
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "协合新能源",
+        "time": "2024-03-06"
+      },
+      {
+        "company": "特锐德",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "科士达",
+        "time": "2023-04-25"
+      },
+      {
+        "company": "粤海置地",
+        "time": "2023-04-03"
+      }
+    ],
+    "special_companies": "协合新能源,粤海置地"
   },
   {
     "uid": "645389",
@@ -9379,6 +9379,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
       {
         "company": "希迪智驾",
         "time": "2026-03-30"

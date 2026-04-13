@@ -1564,6 +1564,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "比亚迪电子",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2026-04-13"
+      },
+      {
         "company": "阿里巴巴-W",
         "time": "2026-03-18"
       },
@@ -9369,6 +9377,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-13"
+      },
+      {
         "company": "鸿远电子",
         "time": "2026-04-01"
       },
@@ -13641,6 +13653,10 @@
     "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
       {
         "company": "希迪智驾",
         "time": "2026-03-30"
@@ -28270,6 +28286,36 @@
     "special_companies": "绿城中国"
   },
   {
+    "uid": "33866",
+    "name": "周科",
+    "org_name": "国信证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "研究总监",
+    "department": "固定收益事业部",
+    "last_interaction_time": "2024-03-29 09:33:14",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "万科A",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
+        "duration": 2
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "504744",
     "name": "范玉琢",
     "org_name": "上海枫叶林私募基金管理有限公司",
@@ -28496,36 +28542,6 @@
       }
     ],
     "special_companies": "万物云,世茂服务,合景悠活,建发物业,新城发展,深圳控股,碧桂园,碧桂园服务,绿城中国,绿城管理控股,融创服务,金科服务,雅生活服务"
-  },
-  {
-    "uid": "33866",
-    "name": "周科",
-    "org_name": "国信证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "研究总监",
-    "department": "固定收益事业部",
-    "last_interaction_time": "2024-03-29 09:33:14",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "万科A",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
-        "duration": 2
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "506536",
@@ -30669,45 +30685,6 @@
     "special_companies": "万物云,中国人寿,中国电信,新鸿基公司,明源云"
   },
   {
-    "uid": "427421",
-    "name": "龚珺",
-    "org_name": "鹏华基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "债券研究员",
-    "department": "固定收益总部",
-    "last_interaction_time": "2024-03-29 09:30:56",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "万科A",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
-        "duration": 110
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "万科A",
-        "time": "2024-03-29"
-      },
-      {
-        "company": "美的置业",
-        "time": "2024-03-28"
-      }
-    ],
-    "special_companies": "绿城中国"
-  },
-  {
     "uid": "33524",
     "name": "刘岚",
     "org_name": "嘉实基金管理有限公司",
@@ -30745,6 +30722,45 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "427421",
+    "name": "龚珺",
+    "org_name": "鹏华基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "债券研究员",
+    "department": "固定收益总部",
+    "last_interaction_time": "2024-03-29 09:30:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "万科A",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
+        "duration": 110
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "万科A",
+        "time": "2024-03-29"
+      },
+      {
+        "company": "美的置业",
+        "time": "2024-03-28"
+      }
+    ],
+    "special_companies": "绿城中国"
   },
   {
     "uid": "608539",
@@ -30803,6 +30819,36 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "272761",
+    "name": "崔宁",
+    "org_name": "南方基金管理股份有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "副总裁",
+    "department": "固定收益研究部",
+    "last_interaction_time": "2024-03-29 09:30:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "万科A",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -31157,36 +31203,6 @@
     "special_companies": "融创服务,金茂服务"
   },
   {
-    "uid": "272761",
-    "name": "崔宁",
-    "org_name": "南方基金管理股份有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "副总裁",
-    "department": "固定收益研究部",
-    "last_interaction_time": "2024-03-29 09:30:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "万科A",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "335275",
     "name": "陈颖",
     "org_name": "华泰证券股份有限公司",
@@ -31436,6 +31452,82 @@
     "special_companies": ""
   },
   {
+    "uid": "428282",
+    "name": "梁凯",
+    "org_name": "南京朴存投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2024-03-29 09:30:52",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "万科A",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-26",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
+      },
+      {
+        "time": "2023-08-31",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
+        "duration": 22
+      },
+      {
+        "time": "2023-09-06",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会",
+        "duration": 7
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "招商蛇口",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "中国燃气",
+        "time": "2024-11-27"
+      },
+      {
+        "company": "阜丰集团",
+        "time": "2024-08-24"
+      },
+      {
+        "company": "中粮包装",
+        "time": "2024-03-20"
+      },
+      {
+        "company": "国证国际证券(香港)研究所",
+        "time": "2023-10-27"
+      },
+      {
+        "company": "万科A",
+        "time": "2023-08-31"
+      },
+      {
+        "company": "中广核电力",
+        "time": "2023-08-25"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "城建设计",
+        "time": "2023-03-17"
+      }
+    ],
+    "special_companies": "中国燃气,中粮包装"
+  },
+  {
     "uid": "270101",
     "name": "董源",
     "org_name": "上海开思股权投资基金管理有限公司",
@@ -31556,82 +31648,6 @@
     "special_companies": "万物云,中国海外宏洋集团,中国船舶租赁,中海物业,丽珠集团,保利物业,滨江服务,绿城管理控股"
   },
   {
-    "uid": "428282",
-    "name": "梁凯",
-    "org_name": "南京朴存投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "总经理",
-    "department": "",
-    "last_interaction_time": "2024-03-29 09:30:52",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "万科A",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-26",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
-      },
-      {
-        "time": "2023-08-31",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
-        "duration": 22
-      },
-      {
-        "time": "2023-09-06",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会",
-        "duration": 7
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "招商蛇口",
-        "time": "2025-03-19"
-      },
-      {
-        "company": "中国燃气",
-        "time": "2024-11-27"
-      },
-      {
-        "company": "阜丰集团",
-        "time": "2024-08-24"
-      },
-      {
-        "company": "中粮包装",
-        "time": "2024-03-20"
-      },
-      {
-        "company": "国证国际证券(香港)研究所",
-        "time": "2023-10-27"
-      },
-      {
-        "company": "万科A",
-        "time": "2023-08-31"
-      },
-      {
-        "company": "中广核电力",
-        "time": "2023-08-25"
-      },
-      {
-        "company": "五谷磨房",
-        "time": "2023-08-22"
-      },
-      {
-        "company": "城建设计",
-        "time": "2023-03-17"
-      }
-    ],
-    "special_companies": "中国燃气,中粮包装"
-  },
-  {
     "uid": "346970",
     "name": "崔丹維",
     "org_name": "泓铭资本集团有限公司",
@@ -31677,50 +31693,6 @@
       }
     ],
     "special_companies": "中国黄金国际,星盛商业,百融智能"
-  },
-  {
-    "uid": "581402",
-    "name": "郝英",
-    "org_name": "开源证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "地产建筑研究员",
-    "department": "研究所",
-    "last_interaction_time": "2024-03-29 09:30:51",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "万科A",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
-      },
-      {
-        "time": "2023-08-31",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-29",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-08-31",
-        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会",
-        "duration": 23
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "新鸿基公司",
-        "time": "2023-08-01"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "495738",
@@ -31774,6 +31746,50 @@
       {
         "company": "零跑汽车",
         "time": "2025-08-18"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "581402",
+    "name": "郝英",
+    "org_name": "开源证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "地产建筑研究员",
+    "department": "研究所",
+    "last_interaction_time": "2024-03-29 09:30:51",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "万科A",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会"
+      },
+      {
+        "time": "2023-08-31",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-29",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年度业绩推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-08-31",
+        "meet_title": "万科（000002.SZ，02202.HK）2023年中期业绩推介会",
+        "duration": 23
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "新鸿基公司",
+        "time": "2023-08-01"
       }
     ],
     "special_companies": ""
@@ -32607,6 +32623,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "恒瑞医药",
+        "time": "2026-04-13"
+      },
       {
         "company": "药明康德",
         "time": "2025-10-26"
