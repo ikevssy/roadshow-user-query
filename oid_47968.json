@@ -29802,25 +29802,21 @@
     "special_companies": "万物云,卓越商企服务,合景悠活,碧桂园服务,雅生活服务"
   },
   {
-    "uid": "333711",
-    "name": "劉萬順",
-    "org_name": "Logan Financial Holdings CO.LTD",
-    "org_type": "金融控股集团",
-    "cert_type": "个人",
-    "position": "Investment Director",
-    "department": "Investment",
+    "uid": "350011",
+    "name": "刘国斌",
+    "org_name": "方圆天成资产管理（深圳）有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "硏究员",
+    "department": "投研部",
     "last_interaction_time": "2023-08-30 10:30:26",
     "last_interaction_behavior": "参会",
     "interaction_company": "合景悠活",
-    "apply_count": 2,
+    "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-08-22",
+        "time": "2023-08-30",
         "meet_title": "合景悠活（03913.HK）2023年中期业绩公布投资者推介会"
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "合景悠活（03913.HK）2022年全年业绩公布投资者推介会"
       }
     ],
     "attend_count": 1,
@@ -29831,7 +29827,7 @@
         "duration": 55
       }
     ],
-    "is_first_attend": true,
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -29866,21 +29862,25 @@
     "special_companies": ""
   },
   {
-    "uid": "350011",
-    "name": "刘国斌",
-    "org_name": "方圆天成资产管理（深圳）有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "硏究员",
-    "department": "投研部",
+    "uid": "333711",
+    "name": "劉萬順",
+    "org_name": "Logan Financial Holdings CO.LTD",
+    "org_type": "金融控股集团",
+    "cert_type": "个人",
+    "position": "Investment Director",
+    "department": "Investment",
     "last_interaction_time": "2023-08-30 10:30:26",
     "last_interaction_behavior": "参会",
     "interaction_company": "合景悠活",
-    "apply_count": 1,
+    "apply_count": 2,
     "apply_records": [
       {
-        "time": "2023-08-30",
+        "time": "2023-08-22",
         "meet_title": "合景悠活（03913.HK）2023年中期业绩公布投资者推介会"
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "合景悠活（03913.HK）2022年全年业绩公布投资者推介会"
       }
     ],
     "attend_count": 1,
@@ -29891,7 +29891,7 @@
         "duration": 55
       }
     ],
-    "is_first_attend": false,
+    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },

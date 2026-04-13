@@ -18,9 +18,35 @@
       }
     ],
     "attend_count": 1,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-12",
+        "meet_title": "贝康医疗（2170.HK）2025年度业绩发布会",
+        "duration": 4
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "美的集团",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "深高速",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2026-04-13"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-09"
@@ -4697,6 +4723,10 @@
     "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
       {
         "company": "希迪智驾",
         "time": "2026-03-30"
@@ -15388,9 +15418,9 @@
     "special_companies": ""
   },
   {
-    "uid": "612689",
-    "name": "赵宁",
-    "org_name": "道远资本管理(北京)有限公司",
+    "uid": "612744",
+    "name": "余静文",
+    "org_name": "晨岭资本有限公司",
     "org_type": "私募股权/创业投资基金管理人",
     "cert_type": "个人",
     "position": "投资经理",
@@ -15418,9 +15448,9 @@
     "special_companies": ""
   },
   {
-    "uid": "612744",
-    "name": "余静文",
-    "org_name": "晨岭资本有限公司",
+    "uid": "612689",
+    "name": "赵宁",
+    "org_name": "道远资本管理(北京)有限公司",
     "org_type": "私募股权/创业投资基金管理人",
     "cert_type": "个人",
     "position": "投资经理",
@@ -18672,10 +18702,10 @@
   {
     "uid": "436877",
     "name": "谭飞",
-    "org_name": "博远基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
+    "org_name": "上海康橙投资管理股份有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
     "cert_type": "机构投资者",
-    "position": "基金经理",
+    "position": "投资总监",
     "department": "权益投资总部",
     "last_interaction_time": "2024-03-31 13:24:26",
     "last_interaction_behavior": "参会",

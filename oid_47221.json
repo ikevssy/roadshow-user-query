@@ -2566,6 +2566,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
+      {
         "company": "希迪智驾",
         "time": "2026-03-30"
       },
@@ -6180,28 +6184,63 @@
     "special_companies": "中国民航信息网络"
   },
   {
-    "uid": "497048",
-    "name": "Qi Wen",
-    "org_name": "Jefferies",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "vice president equity research healthcare",
+    "uid": "634582",
+    "name": "陈杨",
+    "org_name": "北京安迪科电子有限责任公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "辐射安全主管",
     "department": "",
     "last_interaction_time": "2026-03-30 10:30:10",
     "last_interaction_behavior": "参会",
     "interaction_company": "中国同辐",
-    "apply_count": 1,
+    "apply_count": 2,
     "apply_records": [
       {
-        "time": "2026-03-20",
+        "time": "2026-03-12",
         "meet_title": "中国同辐股份有限公司2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-14",
+        "meet_title": "中国同辐股份有限公司2025年中期业绩发布会"
       }
     ],
-    "attend_count": 1,
-    "attend_records": [],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "中国同辐股份有限公司2025年度业绩发布会",
+        "duration": 82
+      },
+      {
+        "time": "2025-08-29",
+        "meet_title": "中国同辐股份有限公司2025年中期业绩发布会",
+        "duration": 87
+      },
+      {
+        "time": "2025-08-29",
+        "meet_title": "中国同辐股份有限公司2025年中期业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2025-04-22",
+        "meet_title": "中国同辐股份有限公司2024年度业绩发布会",
+        "duration": 76
+      },
+      {
+        "time": "2025-04-22",
+        "meet_title": "中国同辐股份有限公司2024年度业绩发布会",
+        "duration": 0
+      }
+    ],
     "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "百融智能,罕王黄金,联邦制药"
+    "subscribed_companies": [
+      {
+        "company": "中国同辐",
+        "time": "2025-06-23"
+      }
+    ],
+    "special_companies": "中国同辐"
   },
   {
     "uid": "348671",
@@ -6260,63 +6299,28 @@
     "special_companies": "康臣药业,思派健康"
   },
   {
-    "uid": "634582",
-    "name": "陈杨",
-    "org_name": "北京安迪科电子有限责任公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "辐射安全主管",
+    "uid": "497048",
+    "name": "Qi Wen",
+    "org_name": "Jefferies",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "vice president equity research healthcare",
     "department": "",
     "last_interaction_time": "2026-03-30 10:30:10",
     "last_interaction_behavior": "参会",
     "interaction_company": "中国同辐",
-    "apply_count": 2,
+    "apply_count": 1,
     "apply_records": [
       {
-        "time": "2026-03-12",
+        "time": "2026-03-20",
         "meet_title": "中国同辐股份有限公司2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-14",
-        "meet_title": "中国同辐股份有限公司2025年中期业绩发布会"
       }
     ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "中国同辐股份有限公司2025年度业绩发布会",
-        "duration": 82
-      },
-      {
-        "time": "2025-08-29",
-        "meet_title": "中国同辐股份有限公司2025年中期业绩发布会",
-        "duration": 87
-      },
-      {
-        "time": "2025-08-29",
-        "meet_title": "中国同辐股份有限公司2025年中期业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2025-04-22",
-        "meet_title": "中国同辐股份有限公司2024年度业绩发布会",
-        "duration": 76
-      },
-      {
-        "time": "2025-04-22",
-        "meet_title": "中国同辐股份有限公司2024年度业绩发布会",
-        "duration": 0
-      }
-    ],
+    "attend_count": 1,
+    "attend_records": [],
     "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国同辐",
-        "time": "2025-06-23"
-      }
-    ],
-    "special_companies": "中国同辐"
+    "subscribed_companies": [],
+    "special_companies": "百融智能,罕王黄金,联邦制药"
   },
   {
     "uid": "646671",
@@ -14871,6 +14875,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "比亚迪电子",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2026-04-13"
+      },
+      {
         "company": "阿里巴巴-W",
         "time": "2026-03-18"
       },
@@ -16992,6 +17004,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
       {
         "company": "联邦制药",
         "time": "2026-03-25"

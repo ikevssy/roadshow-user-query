@@ -934,6 +934,58 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "联合健康",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "雅培",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "雅诗兰黛",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "礼来",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "豫园股份",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "上美股份",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "毛戈平",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "珀莱雅",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "中国石油",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "强生",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "京东健康",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-13"
+      },
+      {
         "company": "开市客",
         "time": "2026-03-20"
       },
@@ -14875,43 +14927,6 @@
     "special_companies": ""
   },
   {
-    "uid": "494874",
-    "name": "赵瑞瑶",
-    "org_name": "海通国际证券集团有限公司",
-    "org_type": "证券公司",
-    "cert_type": "服务机构",
-    "position": "Assistant Analyst",
-    "department": "Corporate Finance 企业融资部",
-    "last_interaction_time": "2025-08-21 17:00:59",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "名创优品",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "名创优品（09896.HK，MNSO.US）2025年第二季度业绩电话会"
-      },
-      {
-        "time": "2025-03-21",
-        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "名创优品",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-03-23"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "386348",
     "name": "吴典",
     "org_name": "国际金融报",
@@ -14985,6 +15000,43 @@
       }
     ],
     "special_companies": "华熙生物,卓越商企服务"
+  },
+  {
+    "uid": "494874",
+    "name": "赵瑞瑶",
+    "org_name": "海通国际证券集团有限公司",
+    "org_type": "证券公司",
+    "cert_type": "服务机构",
+    "position": "Assistant Analyst",
+    "department": "Corporate Finance 企业融资部",
+    "last_interaction_time": "2025-08-21 17:00:59",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "名创优品",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "名创优品（09896.HK，MNSO.US）2025年第二季度业绩电话会"
+      },
+      {
+        "time": "2025-03-21",
+        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "名创优品",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-03-23"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "283910",
@@ -18650,6 +18702,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
       {
         "company": "希迪智驾",
         "time": "2026-03-30"
@@ -31458,36 +31514,6 @@
     "special_companies": "永升服务,碧桂园服务,美的置业,雅生活服务"
   },
   {
-    "uid": "632493",
-    "name": "吕鹏",
-    "org_name": "深圳市路演中网络科技有限公司",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "助理",
-    "department": "平台运营部",
-    "last_interaction_time": "2025-03-21 17:00:29",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "名创优品",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-21",
-        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-21",
-        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会",
-        "duration": 3
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "489165",
     "name": "陆亚宁",
     "org_name": "信达证券股份有限公司",
@@ -31521,6 +31547,36 @@
       }
     ],
     "special_companies": "交个朋友控股"
+  },
+  {
+    "uid": "632493",
+    "name": "吕鹏",
+    "org_name": "深圳市路演中网络科技有限公司",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "助理",
+    "department": "平台运营部",
+    "last_interaction_time": "2025-03-21 17:00:29",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "名创优品",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-21",
+        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-21",
+        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会",
+        "duration": 3
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "267969",
@@ -37481,6 +37537,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-13"
+      },
       {
         "company": "鸿远电子",
         "time": "2026-04-01"

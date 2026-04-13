@@ -175,6 +175,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-13"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-08"
       },
@@ -4639,30 +4643,6 @@
     "special_companies": ""
   },
   {
-    "uid": "497048",
-    "name": "Qi Wen",
-    "org_name": "Jefferies",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "vice president equity research healthcare",
-    "department": "",
-    "last_interaction_time": "2026-03-20 19:52:27",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "知乎",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "知乎（02390.HK，ZH.US）2025年第四季度及全年财务业绩电话会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "百融智能,罕王黄金,联邦制药"
-  },
-  {
     "uid": "266216",
     "name": "秦雷",
     "org_name": "NTF Asset Management Limited",
@@ -4750,6 +4730,30 @@
       }
     ],
     "special_companies": "宏信建发,建发国际集团,森松国际"
+  },
+  {
+    "uid": "497048",
+    "name": "Qi Wen",
+    "org_name": "Jefferies",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "vice president equity research healthcare",
+    "department": "",
+    "last_interaction_time": "2026-03-20 19:52:27",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "知乎",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "知乎（02390.HK，ZH.US）2025年第四季度及全年财务业绩电话会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "百融智能,罕王黄金,联邦制药"
   },
   {
     "uid": "610611",
@@ -5286,6 +5290,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
       {
         "company": "希迪智驾",
         "time": "2026-03-30"

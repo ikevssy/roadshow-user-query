@@ -3077,6 +3077,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国船舶租赁",
+        "time": "2026-04-13"
+      },
+      {
         "company": "国泰海通",
         "time": "2026-03-18"
       },
@@ -3189,6 +3193,41 @@
         "time": "2026-03-27",
         "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会",
         "duration": 73
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "646487",
+    "name": "李华融",
+    "org_name": "招银国际金融有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "研究部研究员",
+    "department": "",
+    "last_interaction_time": "2026-03-27 14:28:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "九方智投控股",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会",
+        "duration": 71
+      },
+      {
+        "time": "2026-03-27",
+        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会",
+        "duration": 2
       }
     ],
     "is_first_attend": true,
@@ -4740,41 +4779,6 @@
     "special_companies": "JS环球生活,一品红,万利,世茂服务,东方财富直播厅,东软教育,中信证券,中原建业,中国中冶,中国交通建设集团有限公司,中国光大环境,中国春来教育集团,中国民航信息网络,中国波顿,中国燃气,中国电信,中国电力,中国石墨,中国通信服务,中国通号,中国黄金国际,中广核技,中烟香港,中石化冠德,中粮包装,中粮家佳康,中银香港,中集车辆,丸美生物,乐享集团,九方智投控股,亚信科技,交个朋友控股,亿帆医药,伟仕佳杰,信义光能,先瑞达医疗,兖煤澳大利亚,利群股份,力劲科技,力合微,力鸿检验,加科思,华夏视听教育,华润啤酒,华润电力,卓越教育集团,启明医疗,周大福创建,喜相逢集团,复宏汉霖,天玛智控,天能动力,宏信建发,宜明昂科,小鹏汽车-W,康哲药业,康宁医院,建发国际集团,思治企业咨询,敏华控股,方舟健客,日清食品,明源云,易点云,星盛商业,晶门半导体,望尘科技控股有限公司,杰克股份,极光,欧陆通,比亚迪,民银国际研究部,汇通达网络,波司登,澳洲成峰高教,玄武云,环球新材国际,理士国际,申万宏源,百奥家庭互动,百得利,百果园集团,百融智能,石化油服,碧桂园,神威药业,科笛,粉笔,粤丰环保,粤海置地,纳科诺尔,网龙,罕王黄金,美丽田园,美的置业,联邦制药,艾德韦宣集团,艾美疫苗,英恒科技,药师帮,诺辉健康,路演中,量子之歌,长久股份,长江电力,阜博集团,首惠产业金融,香港中旅"
   },
   {
-    "uid": "646487",
-    "name": "李华融",
-    "org_name": "招银国际金融有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "研究部研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-27 14:28:07",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "九方智投控股",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会",
-        "duration": 71
-      },
-      {
-        "time": "2026-03-27",
-        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会",
-        "duration": 2
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "573119",
     "name": "傅晓烺",
     "org_name": "信达证券股份有限公司研究所",
@@ -4984,45 +4988,6 @@
     "special_companies": ""
   },
   {
-    "uid": "581326",
-    "name": "孙亦欣",
-    "org_name": "华泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "证券行业分析师",
-    "department": "研究所",
-    "last_interaction_time": "2026-03-27 14:27:25",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "九方智投控股",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-16",
-        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-21",
-        "meet_title": "九方智投控股（09636.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会",
-        "duration": 74
-      },
-      {
-        "time": "2025-08-29",
-        "meet_title": "九方智投控股（09636.HK）2025年中期业绩发布会",
-        "duration": 37
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "504227",
     "name": "开妍",
     "org_name": "兴业证券经济与金融研究院",
@@ -5073,6 +5038,45 @@
         "time": "2025-08-01"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "581326",
+    "name": "孙亦欣",
+    "org_name": "华泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "证券行业分析师",
+    "department": "研究所",
+    "last_interaction_time": "2026-03-27 14:27:25",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "九方智投控股",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-16",
+        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-21",
+        "meet_title": "九方智投控股（09636.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "九方智投控股（09636.HK）2025年度业绩发布会",
+        "duration": 74
+      },
+      {
+        "time": "2025-08-29",
+        "meet_title": "九方智投控股（09636.HK）2025年中期业绩发布会",
+        "duration": 37
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -10449,36 +10453,6 @@
     "special_companies": ""
   },
   {
-    "uid": "436674",
-    "name": "刘金",
-    "org_name": "太平基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "权益总监",
-    "department": "权益投资部",
-    "last_interaction_time": "2025-08-29 15:08:12",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "九方智投控股",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "九方智投控股（09636.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-29",
-        "meet_title": "九方智投控股（09636.HK）2025年中期业绩发布会",
-        "duration": 25
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "638036",
     "name": "何重阳",
     "org_name": "深圳市财富趋势科技股份有限公司",
@@ -10502,6 +10476,36 @@
         "time": "2025-08-29",
         "meet_title": "九方智投控股（09636.HK）2025年中期业绩发布会",
         "duration": 49
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "436674",
+    "name": "刘金",
+    "org_name": "太平基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "权益总监",
+    "department": "权益投资部",
+    "last_interaction_time": "2025-08-29 15:08:12",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "九方智投控股",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "九方智投控股（09636.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-29",
+        "meet_title": "九方智投控股（09636.HK）2025年中期业绩发布会",
+        "duration": 25
       }
     ],
     "is_first_attend": true,
@@ -14469,6 +14473,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-13"
+      },
       {
         "company": "希迪智驾",
         "time": "2026-03-30"
