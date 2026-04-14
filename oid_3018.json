@@ -7,8 +7,8 @@
     "cert_type": "上市公司",
     "position": "高级经理",
     "department": "投资者关系及资本市场部",
-    "last_interaction_time": "2026-04-13 18:41:18",
-    "last_interaction_behavior": "报名",
+    "last_interaction_time": "2026-04-14 17:49:10",
+    "last_interaction_behavior": "参会",
     "interaction_company": "腾讯控股",
     "apply_count": 3,
     "apply_records": [
@@ -27,6 +27,11 @@
     ],
     "attend_count": 3,
     "attend_records": [
+      {
+        "time": "2026-04-13",
+        "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会",
+        "duration": 2
+      },
       {
         "time": "2025-04-21",
         "meet_title": "腾讯控股（00700.HK）2024年第四季度及全年业绩电话会",
@@ -8655,6 +8660,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-12"
@@ -17425,6 +17434,18 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国有色矿业",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-14"
+      },
       {
         "company": "拼多多",
         "time": "2026-03-15"
@@ -28522,6 +28543,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "华住集团-S",
+        "time": "2026-04-14"
+      },
+      {
         "company": "腾讯控股",
         "time": "2026-03-12"
       },
@@ -33329,6 +33354,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "子不语",
+        "time": "2026-04-14"
+      },
+      {
         "company": "中煤能源",
         "time": "2026-04-01"
       },
@@ -34748,16 +34777,16 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中广核电力",
+        "time": "2026-04-14"
+      },
+      {
         "company": "思源电气",
         "time": "2026-04-10"
       },
       {
         "company": "中国神华",
         "time": "2026-04-02"
-      },
-      {
-        "company": "中广核电力",
-        "time": "2026-03-30"
       },
       {
         "company": "中煤能源",

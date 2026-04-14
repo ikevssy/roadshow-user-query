@@ -7952,36 +7952,6 @@
     "special_companies": ""
   },
   {
-    "uid": "494596",
-    "name": "耿岱琳",
-    "org_name": "华泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "交通运输分析师",
-    "department": "研究所",
-    "last_interaction_time": "2025-08-18 11:00:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "湾区发展",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-17",
-        "meet_title": "湾区发展（00737.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-18",
-        "meet_title": "湾区发展（00737.HK）2025年中期业绩发布会",
-        "duration": 38
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "636784",
     "name": "刘若琮",
     "org_name": "招商证券股份有限公司研究所",
@@ -8005,6 +7975,36 @@
         "time": "2025-08-18",
         "meet_title": "湾区发展（00737.HK）2025年中期业绩发布会",
         "duration": 27
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "494596",
+    "name": "耿岱琳",
+    "org_name": "华泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "交通运输分析师",
+    "department": "研究所",
+    "last_interaction_time": "2025-08-18 11:00:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "湾区发展",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-17",
+        "meet_title": "湾区发展（00737.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-18",
+        "meet_title": "湾区发展（00737.HK）2025年中期业绩发布会",
+        "duration": 38
       }
     ],
     "is_first_attend": true,
@@ -8600,6 +8600,14 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
+      {
         "company": "中煤能源",
         "time": "2026-04-01"
       },
@@ -8772,6 +8780,18 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "礼来",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
       {
         "company": "不同集团",
         "time": "2025-12-01"
@@ -9887,6 +9907,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "子不语",
+        "time": "2026-04-14"
+      },
       {
         "company": "中煤能源",
         "time": "2026-04-01"
@@ -11785,6 +11809,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-12"

@@ -5452,6 +5452,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
+      {
         "company": "中煤能源",
         "time": "2026-04-01"
       },
@@ -14397,6 +14405,18 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "礼来",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
+      {
         "company": "不同集团",
         "time": "2025-12-01"
       },
@@ -15254,6 +15274,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "子不语",
+        "time": "2026-04-14"
+      },
       {
         "company": "中煤能源",
         "time": "2026-04-01"
@@ -20619,6 +20643,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-12"
@@ -26137,6 +26165,46 @@
     "special_companies": ""
   },
   {
+    "uid": "282772",
+    "name": "王晓明",
+    "org_name": "恒越基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "权益投资部",
+    "last_interaction_time": "2023-08-24 16:01:45",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国通信服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国通信服务（00552.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国通信服务（00552.HK）2023年中期业绩发布会",
+        "duration": 1
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国通信服务（00552.HK）2023年中期业绩发布会",
+        "duration": 63
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "腾讯控股",
+        "time": "2023-08-16"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "507365",
     "name": "陈生",
     "org_name": "格伦投资",
@@ -26307,46 +26375,6 @@
       }
     ],
     "special_companies": "万物云,中原建业,中国交建,中国人保,中国太保,中国民航信息网络,中国电信,中国联通,中国通信服务,中广核新能源,农业银行,卓越商企服务,建业新生活,招商银行,新城悦服务,新希望服务,星盛商业,深圳控股,深高速,滨江服务,碧桂园服务,粉笔,绿城管理控股,融创服务,金科服务,金茂服务,雅生活服务"
-  },
-  {
-    "uid": "282772",
-    "name": "王晓明",
-    "org_name": "恒越基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "权益投资部",
-    "last_interaction_time": "2023-08-24 16:01:45",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国通信服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国通信服务（00552.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国通信服务（00552.HK）2023年中期业绩发布会",
-        "duration": 1
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国通信服务（00552.HK）2023年中期业绩发布会",
-        "duration": 63
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "腾讯控股",
-        "time": "2023-08-16"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "265593",

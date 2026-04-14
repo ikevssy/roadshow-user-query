@@ -1,5 +1,225 @@
 [
   {
+    "uid": "657",
+    "name": "顾峰",
+    "org_name": "鲸域资产管理（上海）有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投研总监",
+    "department": "",
+    "last_interaction_time": "2026-04-14 11:47:07",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "中国交建",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "合景悠活",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "滴普科技",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "华检医疗",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "华森制药",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "石化油服",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "比亚迪电子",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "粉笔",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2023-08-30"
+      }
+    ],
+    "special_companies": "华夏视听教育,联邦制药"
+  },
+  {
+    "uid": "647541",
+    "name": "孙晓兰",
+    "org_name": "国信证券股份有限公司",
+    "org_type": null,
+    "cert_type": "服务机构",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2026-04-14 10:39:50",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "中国交建",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "比亚迪电子",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "石化油服",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-14"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "634595",
     "name": "汪勇",
     "org_name": "上海天下粮仓投资管理有限公司",
@@ -2450,6 +2670,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-12"
       },
@@ -2832,6 +3056,14 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
       {
         "company": "中煤能源",
         "time": "2026-04-01"
@@ -5087,40 +5319,6 @@
     "special_companies": ""
   },
   {
-    "uid": "428821",
-    "name": "曾慧诗",
-    "org_name": "深圳市黑匣子速记有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "经理",
-    "department": "",
-    "last_interaction_time": "2026-04-02 10:01:51",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国交建",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-04-02",
-        "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会",
-        "duration": 90
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国同辐",
-        "time": "2025-04-22"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-03-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "308022",
     "name": "段靜嫻",
     "org_name": "国元国际控股有限公司",
@@ -5729,6 +5927,40 @@
       }
     ],
     "special_companies": "中国交建,中国电信,中国船舶租赁,中广核新能源,保利置业集团,建发物业,新世界发展,新城发展,新城控股,星盛商业,比亚迪,比亚迪电子,深圳控股,滨江服务,百融智能,碧桂园服务,绿景中国地产"
+  },
+  {
+    "uid": "428821",
+    "name": "曾慧诗",
+    "org_name": "深圳市黑匣子速记有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "",
+    "last_interaction_time": "2026-04-02 10:01:51",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国交建",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-02",
+        "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会",
+        "duration": 90
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国同辐",
+        "time": "2025-04-22"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-03-27"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "505442",
@@ -9623,6 +9855,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "子不语",
+        "time": "2026-04-14"
+      },
+      {
         "company": "中煤能源",
         "time": "2026-04-01"
       },
@@ -13386,6 +13622,36 @@
     "special_companies": ""
   },
   {
+    "uid": "449170",
+    "name": "吴钰洁",
+    "org_name": "光大证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "建筑建材分析师",
+    "department": "研究所",
+    "last_interaction_time": "2025-03-31 15:01:06",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国交建",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-30",
+        "meet_title": "中国交建（601800.SH，1800.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-31",
+        "meet_title": "中国交建（601800.SH，1800.HK）2024年度业绩发布会",
+        "duration": 84
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "496270",
     "name": "蔡錦煌",
     "org_name": "交银国际（亚洲）有限公司",
@@ -13664,36 +13930,6 @@
         "time": "2025-03-31"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "449170",
-    "name": "吴钰洁",
-    "org_name": "光大证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "建筑建材分析师",
-    "department": "研究所",
-    "last_interaction_time": "2025-03-31 15:01:06",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国交建",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-30",
-        "meet_title": "中国交建（601800.SH，1800.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-31",
-        "meet_title": "中国交建（601800.SH，1800.HK）2024年度业绩发布会",
-        "duration": 84
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -26926,36 +27162,6 @@
     "special_companies": "ST易事特,国元国际,金力永磁"
   },
   {
-    "uid": "609146",
-    "name": "林妍",
-    "org_name": "高盛（亚洲）有限责任公司",
-    "org_type": "投资银行",
-    "cert_type": "机构投资者",
-    "position": "執行董事",
-    "department": "",
-    "last_interaction_time": "2024-04-02 10:02:21",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "中国交建",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-04-02",
-        "meet_title": "中国交建（601800.SH，1800.HK）2023年度业绩说明会",
-        "duration": 74
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国交建",
-        "time": "2024-04-02"
-      }
-    ],
-    "special_companies": "中国交建"
-  },
-  {
     "uid": "320189",
     "name": "龙天光",
     "org_name": "中国银河证券股份有限公司研究所",
@@ -26984,6 +27190,36 @@
       }
     ],
     "special_companies": "中国建筑"
+  },
+  {
+    "uid": "609146",
+    "name": "林妍",
+    "org_name": "高盛（亚洲）有限责任公司",
+    "org_type": "投资银行",
+    "cert_type": "机构投资者",
+    "position": "執行董事",
+    "department": "",
+    "last_interaction_time": "2024-04-02 10:02:21",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "中国交建",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-04-02",
+        "meet_title": "中国交建（601800.SH，1800.HK）2023年度业绩说明会",
+        "duration": 74
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国交建",
+        "time": "2024-04-02"
+      }
+    ],
+    "special_companies": "中国交建"
   },
   {
     "uid": "284002",
