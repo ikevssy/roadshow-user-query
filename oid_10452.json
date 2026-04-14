@@ -1049,6 +1049,18 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国有色矿业",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-14"
+      },
+      {
         "company": "拼多多",
         "time": "2026-03-15"
       },
@@ -5051,6 +5063,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "子不语",
+        "time": "2026-04-14"
+      },
       {
         "company": "中煤能源",
         "time": "2026-04-01"
@@ -20804,40 +20820,6 @@
     "special_companies": ""
   },
   {
-    "uid": "284575",
-    "name": "杨鹏丹",
-    "org_name": "广州市龙智投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "",
-    "last_interaction_time": "2023-04-24 16:30:03",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-04-23",
-        "meet_title": "中海宏洋（81.HK）线上交流会｜\"2023上市公司路演大会•第四季\""
-      },
-      {
-        "time": "2023-03-23",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-24",
-        "meet_title": "中海宏洋（81.HK）线上交流会｜\"2023上市公司路演大会•第四季\"",
-        "duration": 50
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "493247",
     "name": "徐得尊",
     "org_name": "民生证券股份有限公司",
@@ -20971,6 +20953,40 @@
       }
     ],
     "special_companies": "新城悦服务,新希望服务,绿城服务,绿城管理控股"
+  },
+  {
+    "uid": "284575",
+    "name": "杨鹏丹",
+    "org_name": "广州市龙智投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2023-04-24 16:30:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-04-23",
+        "meet_title": "中海宏洋（81.HK）线上交流会｜\"2023上市公司路演大会•第四季\""
+      },
+      {
+        "time": "2023-03-23",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-24",
+        "meet_title": "中海宏洋（81.HK）线上交流会｜\"2023上市公司路演大会•第四季\"",
+        "duration": 50
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "436977",
@@ -29223,85 +29239,6 @@
     "special_companies": "明源云,绿城中国,美的置业"
   },
   {
-    "uid": "339452",
-    "name": "陈立",
-    "org_name": "国投证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "房地产行业首席分析师",
-    "department": "证券研究所",
-    "last_interaction_time": "2023-03-27 16:36:50",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-25",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 37
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "深圳控股",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "美的置业",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "莱纳建筑",
-        "time": "2025-03-13"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-03-12"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2023-08-31"
-      },
-      {
-        "company": "保利物业",
-        "time": "2023-08-23"
-      }
-    ],
-    "special_companies": "绿城中国"
-  },
-  {
     "uid": "47288",
     "name": "宋健",
     "org_name": "兴业证券经济与金融研究院",
@@ -29387,6 +29324,85 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "339452",
+    "name": "陈立",
+    "org_name": "国投证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "房地产行业首席分析师",
+    "department": "证券研究所",
+    "last_interaction_time": "2023-03-27 16:36:50",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-25",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 37
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "深圳控股",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "美的置业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "莱纳建筑",
+        "time": "2025-03-13"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-03-12"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2023-08-31"
+      },
+      {
+        "company": "保利物业",
+        "time": "2023-08-23"
+      }
+    ],
+    "special_companies": "绿城中国"
   },
   {
     "uid": "348113",
@@ -29543,6 +29559,36 @@
     "special_companies": "万物云"
   },
   {
+    "uid": "333134",
+    "name": "郑创凯",
+    "org_name": "海通国际研究有限公司",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "分析师-股票研究",
+    "department": "股票研究部",
+    "last_interaction_time": "2023-03-27 16:35:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 50
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "284415",
     "name": "徐时",
     "org_name": "高盛(中国)证券有限责任公司",
@@ -29608,36 +29654,6 @@
         "time": "2024-03-18"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "333134",
-    "name": "郑创凯",
-    "org_name": "海通国际研究有限公司",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "分析师-股票研究",
-    "department": "股票研究部",
-    "last_interaction_time": "2023-03-27 16:35:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 50
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -31919,36 +31935,6 @@
     "special_companies": ""
   },
   {
-    "uid": "495025",
-    "name": "莊子濠",
-    "org_name": "摩根大通资产管理（亚洲）有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "執行董事",
-    "department": "亚洲定息投资",
-    "last_interaction_time": "2023-03-27 16:31:21",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "276604",
     "name": "周健鋒",
     "org_name": "中泰金融国际有限公司研究所",
@@ -31986,6 +31972,71 @@
       }
     ],
     "special_companies": "碧桂园服务,绿城中国"
+  },
+  {
+    "uid": "495025",
+    "name": "莊子濠",
+    "org_name": "摩根大通资产管理（亚洲）有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "執行董事",
+    "department": "亚洲定息投资",
+    "last_interaction_time": "2023-03-27 16:31:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "333383",
+    "name": "丁欣",
+    "org_name": "瑞信方正证券有限责任公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "高级经理",
+    "department": "研究部",
+    "last_interaction_time": "2023-03-27 16:31:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 51
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "333614",
@@ -32045,41 +32096,6 @@
       }
     ],
     "special_companies": "金茂服务"
-  },
-  {
-    "uid": "333383",
-    "name": "丁欣",
-    "org_name": "瑞信方正证券有限责任公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "高级经理",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-27 16:31:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 51
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "332858",
@@ -32929,20 +32945,20 @@
     "special_companies": "世茂服务,中国海外宏洋集团"
   },
   {
-    "uid": "336613",
-    "name": "陈玄璇",
-    "org_name": "东方红资产管理有限公司",
-    "org_type": "券商资管",
+    "uid": "502902",
+    "name": "卓楨亮",
+    "org_name": "中国工商银行（亚洲）有限公司",
+    "org_type": "银行",
     "cert_type": "机构投资者",
-    "position": "高级研究员",
-    "department": "固定收益研究部",
+    "position": "總監",
+    "department": "中資地產業務",
     "last_interaction_time": "2023-03-27 16:30:51",
     "last_interaction_behavior": "参会",
     "interaction_company": "中国海外宏洋集团",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-23",
+        "time": "2023-03-22",
         "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
       }
     ],
@@ -32951,15 +32967,10 @@
       {
         "time": "2023-03-27",
         "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 54
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 56
+        "duration": 53
       }
     ],
-    "is_first_attend": true,
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -33007,20 +33018,20 @@
     "special_companies": "复星国际,绿城中国,美的置业"
   },
   {
-    "uid": "502902",
-    "name": "卓楨亮",
-    "org_name": "中国工商银行（亚洲）有限公司",
-    "org_type": "银行",
+    "uid": "336613",
+    "name": "陈玄璇",
+    "org_name": "东方红资产管理有限公司",
+    "org_type": "券商资管",
     "cert_type": "机构投资者",
-    "position": "總監",
-    "department": "中資地產業務",
+    "position": "高级研究员",
+    "department": "固定收益研究部",
     "last_interaction_time": "2023-03-27 16:30:51",
     "last_interaction_behavior": "参会",
     "interaction_company": "中国海外宏洋集团",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-22",
+        "time": "2023-03-23",
         "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
       }
     ],
@@ -33029,10 +33040,15 @@
       {
         "time": "2023-03-27",
         "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 53
+        "duration": 54
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 56
       }
     ],
-    "is_first_attend": false,
+    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -33128,6 +33144,71 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "503010",
+    "name": "李小卉",
+    "org_name": "中海宏洋地产集团有限公司",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "助理总经理",
+    "department": "财务资金部",
+    "last_interaction_time": "2023-03-27 16:30:49",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-24",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "中国海外宏洋集团"
+  },
+  {
+    "uid": "503006",
+    "name": "孙柯",
+    "org_name": "中国海外宏洋集团有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "高级经理",
+    "department": "财务资金部",
+    "last_interaction_time": "2023-03-27 16:30:49",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 1
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -33267,71 +33348,6 @@
     "special_companies": "万物云,中南建设,保利物业,卓越商企服务,宝龙商业,建业新生活,建发国际集团,招商局商业房托,新城悦服务,新城控股,深圳控股,绿城中国,绿城服务,美的置业,金科服务"
   },
   {
-    "uid": "503010",
-    "name": "李小卉",
-    "org_name": "中海宏洋地产集团有限公司",
-    "org_type": null,
-    "cert_type": "个人",
-    "position": "助理总经理",
-    "department": "财务资金部",
-    "last_interaction_time": "2023-03-27 16:30:49",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-24",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "中国海外宏洋集团"
-  },
-  {
-    "uid": "503006",
-    "name": "孙柯",
-    "org_name": "中国海外宏洋集团有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "高级经理",
-    "department": "财务资金部",
-    "last_interaction_time": "2023-03-27 16:30:49",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 1
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "495172",
     "name": "赵宇翔",
     "org_name": "中國國際金融(國際)有限公司",
@@ -33365,6 +33381,50 @@
       }
     ],
     "special_companies": "绿城中国"
+  },
+  {
+    "uid": "342279",
+    "name": "Michael Chan",
+    "org_name": "FIL Asia Holdings Pte Limited",
+    "org_type": "境外资产管理公司",
+    "cert_type": "个人",
+    "position": "Credit Analyst",
+    "department": "",
+    "last_interaction_time": "2023-03-27 16:30:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-15",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 3
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "新城发展",
+        "time": "2023-04-03"
+      },
+      {
+        "company": "建业地产",
+        "time": "2023-04-03"
+      }
+    ],
+    "special_companies": "建业地产,新城发展,碧桂园"
   },
   {
     "uid": "427046",
@@ -33422,50 +33482,6 @@
     "special_companies": "建发国际集团,碧桂园,绿城中国,美的置业"
   },
   {
-    "uid": "342279",
-    "name": "Michael Chan",
-    "org_name": "FIL Asia Holdings Pte Limited",
-    "org_type": "境外资产管理公司",
-    "cert_type": "个人",
-    "position": "Credit Analyst",
-    "department": "",
-    "last_interaction_time": "2023-03-27 16:30:48",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-15",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 3
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "新城发展",
-        "time": "2023-04-03"
-      },
-      {
-        "company": "建业地产",
-        "time": "2023-04-03"
-      }
-    ],
-    "special_companies": "建业地产,新城发展,碧桂园"
-  },
-  {
     "uid": "270314",
     "name": "夏亦丰",
     "org_name": "方正证券股份有限公司",
@@ -33511,6 +33527,49 @@
       }
     ],
     "special_companies": "新希望服务"
+  },
+  {
+    "uid": "269548",
+    "name": "马秋思",
+    "org_name": "国海富兰克林基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "投资管理部基金经理兼研究员",
+    "department": "",
+    "last_interaction_time": "2023-03-27 16:30:47",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-08",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-03-27"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "346756",
@@ -33607,49 +33666,6 @@
       }
     ],
     "special_companies": "招商蛇口,深圳控股"
-  },
-  {
-    "uid": "269548",
-    "name": "马秋思",
-    "org_name": "国海富兰克林基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "投资管理部基金经理兼研究员",
-    "department": "",
-    "last_interaction_time": "2023-03-27 16:30:47",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-08",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "保利物业",
-        "time": "2024-03-27"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "333508",
@@ -34069,6 +34085,89 @@
     "special_companies": "中国交建,信義玻璃,绿城管理控股"
   },
   {
+    "uid": "267998",
+    "name": "蔡崇嘉",
+    "org_name": "美林（亚太）有限公司",
+    "org_type": "投资银行",
+    "cert_type": "机构投资者",
+    "position": "董事總經理",
+    "department": "",
+    "last_interaction_time": "2023-03-27 16:30:43",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-20",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-28",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 3
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "建发国际集团",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "万科A",
+        "time": "2023-08-31"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "574000",
+    "name": "王佳宁",
+    "org_name": "银华基金管理股份有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "助理信用研究员",
+    "department": "投资管理三部",
+    "last_interaction_time": "2023-03-27 16:30:43",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "绿城中国"
+  },
+  {
     "uid": "250212",
     "name": "趙恬恬",
     "org_name": "上海金历投资有限公司",
@@ -34185,14 +34284,14 @@
     "special_companies": "中广核新能源,信义光能,新城控股,融创中国"
   },
   {
-    "uid": "267998",
-    "name": "蔡崇嘉",
-    "org_name": "美林（亚太）有限公司",
-    "org_type": "投资银行",
-    "cert_type": "机构投资者",
-    "position": "董事總經理",
+    "uid": "340252",
+    "name": "邢莘",
+    "org_name": "广发证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "房地产行业分析师",
     "department": "",
-    "last_interaction_time": "2023-03-27 16:30:43",
+    "last_interaction_time": "2023-03-27 16:30:42",
     "last_interaction_behavior": "参会",
     "interaction_company": "中国海外宏洋集团",
     "apply_count": 1,
@@ -34205,67 +34304,35 @@
     "attend_count": 1,
     "attend_records": [
       {
-        "time": "2023-03-28",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 3
-      },
-      {
         "time": "2023-03-27",
         "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
         "duration": 55
       }
     ],
-    "is_first_attend": false,
+    "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "建发国际集团",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-25"
+        "company": "金地集团",
+        "time": "2023-03-20"
       },
       {
         "company": "万科A",
-        "time": "2023-08-31"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "574000",
-    "name": "王佳宁",
-    "org_name": "银华基金管理股份有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "助理信用研究员",
-    "department": "投资管理三部",
-    "last_interaction_time": "2023-03-27 16:30:43",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
+        "time": "2023-03-20"
+      },
       {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
+        "company": "华润置地",
+        "time": "2023-03-20"
+      },
       {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 0
+        "company": "中国海外发展",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2023-03-20"
       }
     ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "绿城中国"
+    "special_companies": "中国海外宏洋集团"
   },
   {
     "uid": "333233",
@@ -34354,20 +34421,20 @@
     "special_companies": ""
   },
   {
-    "uid": "340252",
-    "name": "邢莘",
-    "org_name": "广发证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "房地产行业分析师",
-    "department": "",
-    "last_interaction_time": "2023-03-27 16:30:42",
+    "uid": "436935",
+    "name": "曹晶晶",
+    "org_name": "北京中指信息技术研究院",
+    "org_type": "其他研究机构",
+    "cert_type": "个人",
+    "position": "总经理",
+    "department": "中指指数事业部",
+    "last_interaction_time": "2023-03-27 16:30:41",
     "last_interaction_behavior": "参会",
     "interaction_company": "中国海外宏洋集团",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-20",
+        "time": "2023-03-27",
         "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
       }
     ],
@@ -34382,27 +34449,11 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "金地集团",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "万科A",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "华润置地",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "中国海外发展",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2023-03-20"
+        "company": "绿城中国",
+        "time": "2023-03-28"
       }
     ],
-    "special_companies": "中国海外宏洋集团"
+    "special_companies": ""
   },
   {
     "uid": "507947",
@@ -34439,6 +34490,53 @@
     "special_companies": ""
   },
   {
+    "uid": "275958",
+    "name": "孙静曦",
+    "org_name": "景顺长城基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2023-03-27 16:30:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-15",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "顺丰同城",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "贝壳",
+        "time": "2023-01-25"
+      }
+    ],
+    "special_companies": "碧桂园服务,绿城中国"
+  },
+  {
     "uid": "574344",
     "name": "朱晉鏗",
     "org_name": "普徕仕香港有限公司",
@@ -34446,6 +34544,96 @@
     "cert_type": "机构投资者",
     "position": "分析師",
     "department": "",
+    "last_interaction_time": "2023-03-27 16:30:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "493157",
+    "name": "洪宁蔚",
+    "org_name": "中达证券投资有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "高级经理",
+    "department": "研究部",
+    "last_interaction_time": "2023-03-27 16:30:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-20",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "334080",
+    "name": "Du Yejie杜晔婕",
+    "org_name": "上海金历投资有限公司",
+    "org_type": "实业投资",
+    "cert_type": "机构投资者",
+    "position": "房地产分析师",
+    "department": "",
+    "last_interaction_time": "2023-03-27 16:30:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-21",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "招商蛇口"
+  },
+  {
+    "uid": "502979",
+    "name": "贺文奇",
+    "org_name": "中国海外宏洋集团有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "副总经理",
+    "department": "财务资金部",
     "last_interaction_time": "2023-03-27 16:30:41",
     "last_interaction_behavior": "参会",
     "interaction_company": "中国海外宏洋集团",
@@ -34542,418 +34730,6 @@
       }
     ],
     "special_companies": "上海实业控股,卓越商企服务,新城悦服务,碧桂园服务"
-  },
-  {
-    "uid": "275958",
-    "name": "孙静曦",
-    "org_name": "景顺长城基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-27 16:30:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-15",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "顺丰同城",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "贝壳",
-        "time": "2023-01-25"
-      }
-    ],
-    "special_companies": "碧桂园服务,绿城中国"
-  },
-  {
-    "uid": "502979",
-    "name": "贺文奇",
-    "org_name": "中国海外宏洋集团有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "副总经理",
-    "department": "财务资金部",
-    "last_interaction_time": "2023-03-27 16:30:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "436935",
-    "name": "曹晶晶",
-    "org_name": "北京中指信息技术研究院",
-    "org_type": "其他研究机构",
-    "cert_type": "个人",
-    "position": "总经理",
-    "department": "中指指数事业部",
-    "last_interaction_time": "2023-03-27 16:30:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2023-03-28"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "334080",
-    "name": "Du Yejie杜晔婕",
-    "org_name": "上海金历投资有限公司",
-    "org_type": "实业投资",
-    "cert_type": "机构投资者",
-    "position": "房地产分析师",
-    "department": "",
-    "last_interaction_time": "2023-03-27 16:30:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-21",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "招商蛇口"
-  },
-  {
-    "uid": "493157",
-    "name": "洪宁蔚",
-    "org_name": "中达证券投资有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "高级经理",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-27 16:30:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-20",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "333595",
-    "name": "李恪勤",
-    "org_name": "华南财富管理有限公司",
-    "org_type": "财富管理公司",
-    "cert_type": "机构投资者",
-    "position": "Portfolio Manager",
-    "department": "",
-    "last_interaction_time": "2023-03-27 16:30:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-22",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "436952",
-    "name": "Qi Ashley",
-    "org_name": "穆迪投资服务公司",
-    "org_type": "评级服务机构",
-    "cert_type": "个人",
-    "position": "Associate Analyst",
-    "department": "",
-    "last_interaction_time": "2023-03-27 16:30:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-24",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "493611",
-    "name": "卢佳玥",
-    "org_name": "Polymer Capital Singapore Pte.Ltd.",
-    "org_type": "境外投资公司",
-    "cert_type": "个人",
-    "position": "分析员",
-    "department": "",
-    "last_interaction_time": "2023-03-27 16:30:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-13",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "347208",
-    "name": "郝亚雯",
-    "org_name": "国泰君安证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "房地产行业分析师",
-    "department": "研究所",
-    "last_interaction_time": "2023-03-27 16:30:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-15",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 48
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "新城控股",
-        "time": "2023-04-03"
-      },
-      {
-        "company": "招商蛇口",
-        "time": "2023-03-21"
-      },
-      {
-        "company": "融创服务",
-        "time": "2023-03-19"
-      },
-      {
-        "company": "龙湖集团",
-        "time": "2023-03-15"
-      }
-    ],
-    "special_companies": "中国海外宏洋集团,招商蛇口,新城控股,融创服务"
-  },
-  {
-    "uid": "425114",
-    "name": "阮永皓",
-    "org_name": "法国巴黎银行",
-    "org_type": "境外银行",
-    "cert_type": "服务机构",
-    "position": "房地产分析员",
-    "department": "亚太区投资银行部",
-    "last_interaction_time": "2023-03-27 16:30:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-09",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2023-03-15"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "435112",
-    "name": "Cathy Cheng",
-    "org_name": "The Hongkong and Shanghai Banking Corporation Limiited",
-    "org_type": "境外银行",
-    "cert_type": "机构投资者",
-    "position": "Associate",
-    "department": "Credit Research",
-    "last_interaction_time": "2023-03-27 16:30:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 51
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "574981",
-    "name": "刘晨旭",
-    "org_name": "香港上海汇丰银行有限公司",
-    "org_type": "境外银行",
-    "cert_type": "机构投资者",
-    "position": "分析员",
-    "department": "环球银行中资企业组",
-    "last_interaction_time": "2023-03-27 16:30:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国海外宏洋集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国建筑",
-        "time": "2023-04-18"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "352430",
@@ -35082,6 +34858,36 @@
     "special_companies": "万物云,中国海外宏洋集团,保利物业,建发国际集团,碧桂园,绿城中国,绿城管理控股"
   },
   {
+    "uid": "493611",
+    "name": "卢佳玥",
+    "org_name": "Polymer Capital Singapore Pte.Ltd.",
+    "org_type": "境外投资公司",
+    "cert_type": "个人",
+    "position": "分析员",
+    "department": "",
+    "last_interaction_time": "2023-03-27 16:30:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-13",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "425772",
     "name": "苏炫昊",
     "org_name": "中信证券股份有限公司",
@@ -35123,6 +34929,216 @@
       }
     ],
     "special_companies": "绿城中国,美的置业"
+  },
+  {
+    "uid": "436952",
+    "name": "Qi Ashley",
+    "org_name": "穆迪投资服务公司",
+    "org_type": "评级服务机构",
+    "cert_type": "个人",
+    "position": "Associate Analyst",
+    "department": "",
+    "last_interaction_time": "2023-03-27 16:30:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-24",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "333595",
+    "name": "李恪勤",
+    "org_name": "华南财富管理有限公司",
+    "org_type": "财富管理公司",
+    "cert_type": "机构投资者",
+    "position": "Portfolio Manager",
+    "department": "",
+    "last_interaction_time": "2023-03-27 16:30:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-22",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "574981",
+    "name": "刘晨旭",
+    "org_name": "香港上海汇丰银行有限公司",
+    "org_type": "境外银行",
+    "cert_type": "机构投资者",
+    "position": "分析员",
+    "department": "环球银行中资企业组",
+    "last_interaction_time": "2023-03-27 16:30:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 56
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2023-04-18"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "425114",
+    "name": "阮永皓",
+    "org_name": "法国巴黎银行",
+    "org_type": "境外银行",
+    "cert_type": "服务机构",
+    "position": "房地产分析员",
+    "department": "亚太区投资银行部",
+    "last_interaction_time": "2023-03-27 16:30:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-09",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2023-03-15"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "435112",
+    "name": "Cathy Cheng",
+    "org_name": "The Hongkong and Shanghai Banking Corporation Limiited",
+    "org_type": "境外银行",
+    "cert_type": "机构投资者",
+    "position": "Associate",
+    "department": "Credit Research",
+    "last_interaction_time": "2023-03-27 16:30:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 51
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "347208",
+    "name": "郝亚雯",
+    "org_name": "国泰君安证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "房地产行业分析师",
+    "department": "研究所",
+    "last_interaction_time": "2023-03-27 16:30:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国海外宏洋集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-15",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中海宏洋(81.HK)2022年全年业绩发布会",
+        "duration": 48
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "新城控股",
+        "time": "2023-04-03"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2023-03-21"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-03-19"
+      },
+      {
+        "company": "龙湖集团",
+        "time": "2023-03-15"
+      }
+    ],
+    "special_companies": "中国海外宏洋集团,招商蛇口,新城控股,融创服务"
   },
   {
     "uid": "573257",

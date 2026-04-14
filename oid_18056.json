@@ -22,7 +22,13 @@
       }
     ],
     "attend_count": 2,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-13",
+        "meet_title": "强生 (JNJ.US) 2025年第四季度业绩电话会",
+        "duration": 0
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
@@ -6997,6 +7003,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "子不语",
+        "time": "2026-04-14"
+      },
       {
         "company": "中煤能源",
         "time": "2026-04-01"

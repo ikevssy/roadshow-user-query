@@ -462,6 +462,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "子不语",
+        "time": "2026-04-14"
+      },
+      {
         "company": "中煤能源",
         "time": "2026-04-01"
       },
@@ -7253,43 +7257,6 @@
     "special_companies": ""
   },
   {
-    "uid": "576949",
-    "name": "李璐",
-    "org_name": "Regents Capital, LTD",
-    "org_type": "境外资产管理公司",
-    "cert_type": "个人",
-    "position": "Assistant Analyst",
-    "department": "",
-    "last_interaction_time": "2023-08-24 10:00:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集车辆",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-23",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国船舶租赁",
-        "time": "2023-08-24"
-      },
-      {
-        "company": "新鸿基公司",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "比亚迪",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "430880",
     "name": "王扬帆",
     "org_name": "深圳市哲灵投资管理有限公司",
@@ -7328,6 +7295,43 @@
       }
     ],
     "special_companies": "中集车辆"
+  },
+  {
+    "uid": "576949",
+    "name": "李璐",
+    "org_name": "Regents Capital, LTD",
+    "org_type": "境外资产管理公司",
+    "cert_type": "个人",
+    "position": "Assistant Analyst",
+    "department": "",
+    "last_interaction_time": "2023-08-24 10:00:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集车辆",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国船舶租赁",
+        "time": "2023-08-24"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "576785",
@@ -22044,6 +22048,36 @@
     "special_companies": ""
   },
   {
+    "uid": "335163",
+    "name": "谢鹏",
+    "org_name": "张家港中集圣达因低温装备有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "客户经理",
+    "department": "客户服务中心",
+    "last_interaction_time": "2023-03-28 09:31:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集车辆",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-25",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-28",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
+        "duration": 2
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "中集集团"
+  },
+  {
     "uid": "426778",
     "name": "陈亮",
     "org_name": "中邮证券有限责任公司",
@@ -22155,36 +22189,6 @@
     "special_companies": "中国动向,中国同辐,中国燃气,中广核矿业,力劲科技,新世界发展"
   },
   {
-    "uid": "335163",
-    "name": "谢鹏",
-    "org_name": "张家港中集圣达因低温装备有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "客户经理",
-    "department": "客户服务中心",
-    "last_interaction_time": "2023-03-28 09:31:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集车辆",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-25",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
-        "duration": 2
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "中集集团"
-  },
-  {
     "uid": "337325",
     "name": "邢重阳",
     "org_name": "财通证券股份有限公司",
@@ -22245,36 +22249,6 @@
     "special_companies": ""
   },
   {
-    "uid": "20213",
-    "name": "付伟琦",
-    "org_name": "深圳奇盛基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "执行董事",
-    "department": "",
-    "last_interaction_time": "2023-03-28 09:31:11",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集车辆",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
-        "duration": 70
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "333539",
     "name": "王迪",
     "org_name": "HK Cai Fu Ju Asset Management, LTD",
@@ -22305,20 +22279,20 @@
     "special_companies": ""
   },
   {
-    "uid": "293470",
-    "name": "吴晓飞",
-    "org_name": "国泰君安证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "汽车行业首席分析师",
-    "department": "研究所",
-    "last_interaction_time": "2023-03-28 09:31:10",
+    "uid": "20213",
+    "name": "付伟琦",
+    "org_name": "深圳奇盛基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "执行董事",
+    "department": "",
+    "last_interaction_time": "2023-03-28 09:31:11",
     "last_interaction_behavior": "参会",
     "interaction_company": "中集车辆",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-27",
+        "time": "2023-03-28",
         "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
       }
     ],
@@ -22327,16 +22301,11 @@
       {
         "time": "2023-03-28",
         "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
-        "duration": 71
+        "duration": 70
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "法拉第未来",
-        "time": "2025-07-18"
-      }
-    ],
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -22391,14 +22360,14 @@
     "special_companies": "冠盛股份,小鹏汽车-W"
   },
   {
-    "uid": "576369",
-    "name": "陈怀山",
-    "org_name": "中信建投证券股份有限公司",
+    "uid": "293470",
+    "name": "吴晓飞",
+    "org_name": "国泰君安证券股份有限公司",
     "org_type": "证券公司",
     "cert_type": "卖方分析师",
-    "position": "副总裁 汽车行业分析师",
-    "department": "研究发展部",
-    "last_interaction_time": "2023-03-28 09:31:09",
+    "position": "汽车行业首席分析师",
+    "department": "研究所",
+    "last_interaction_time": "2023-03-28 09:31:10",
     "last_interaction_behavior": "参会",
     "interaction_company": "中集车辆",
     "apply_count": 1,
@@ -22413,11 +22382,16 @@
       {
         "time": "2023-03-28",
         "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
-        "duration": 72
+        "duration": 71
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [],
+    "subscribed_companies": [
+      {
+        "company": "法拉第未来",
+        "time": "2025-07-18"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -22444,6 +22418,36 @@
         "time": "2023-03-28",
         "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
         "duration": 2
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "576369",
+    "name": "陈怀山",
+    "org_name": "中信建投证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "副总裁 汽车行业分析师",
+    "department": "研究发展部",
+    "last_interaction_time": "2023-03-28 09:31:09",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集车辆",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-28",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
+        "duration": 72
       }
     ],
     "is_first_attend": true,

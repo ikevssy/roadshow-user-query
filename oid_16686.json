@@ -52,6 +52,11 @@
     "attend_count": 4,
     "attend_records": [
       {
+        "time": "2026-04-13",
+        "meet_title": "苹果（AAPL.US）2025财年第四季度业绩电话会",
+        "duration": 5
+      },
+      {
         "time": "2026-04-07",
         "meet_title": "苹果 (AAPL.US) 2026财年第一季度业绩电话会",
         "duration": 20
@@ -14815,6 +14820,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "子不语",
+        "time": "2026-04-14"
+      },
+      {
         "company": "中煤能源",
         "time": "2026-04-01"
       },
@@ -18864,6 +18873,14 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
+      {
         "company": "中煤能源",
         "time": "2026-04-01"
       },
@@ -22040,16 +22057,16 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中广核电力",
+        "time": "2026-04-14"
+      },
+      {
         "company": "思源电气",
         "time": "2026-04-10"
       },
       {
         "company": "中国神华",
         "time": "2026-04-02"
-      },
-      {
-        "company": "中广核电力",
-        "time": "2026-03-30"
       },
       {
         "company": "中煤能源",
