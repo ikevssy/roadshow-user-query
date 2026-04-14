@@ -18,7 +18,13 @@
       }
     ],
     "attend_count": 1,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-13",
+        "meet_title": "【头豹研究院】量肤定制，天然与有机祛痘产品的兴起",
+        "duration": 0
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
@@ -1048,6 +1054,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "子不语",
+        "time": "2026-04-14"
+      },
       {
         "company": "中煤能源",
         "time": "2026-04-01"
@@ -16808,6 +16818,14 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
+      {
         "company": "中煤能源",
         "time": "2026-04-01"
       },
@@ -23947,13 +23965,13 @@
       },
       {
         "time": "2023-08-06",
-        "meet_title": "【头豹研究院】头豹2022年商用车主机厂年鉴发布会",
-        "duration": 0
+        "meet_title": "【头豹研究院】头豹光伏行业洞察发布会",
+        "duration": 21
       },
       {
         "time": "2023-08-06",
-        "meet_title": "【头豹研究院】头豹光伏行业洞察发布会",
-        "duration": 21
+        "meet_title": "【头豹研究院】头豹2022年商用车主机厂年鉴发布会",
+        "duration": 0
       },
       {
         "time": "2023-08-05",
@@ -32817,6 +32835,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
+      {
         "company": "晶泰控股",
         "time": "2026-01-12"
       },
@@ -35058,6 +35080,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-12"

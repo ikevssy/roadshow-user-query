@@ -6958,41 +6958,6 @@
     "special_companies": "协合新能源,宝龙商业,药明生物,融创服务"
   },
   {
-    "uid": "380463",
-    "name": "王倩雯",
-    "org_name": "国金证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "计算机高级分新师",
-    "department": "创新技术与企业服务研究中心",
-    "last_interaction_time": "2026-03-27 09:00:53",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "百融智能",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-09",
-        "meet_title": "百融智能（6608.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "百融智能（6608.HK）2025年度业绩发布会",
-        "duration": 61
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "九方智投控股",
-        "time": "2025-08-29"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "379842",
     "name": "Laura YANG CFA",
     "org_name": "国投证券股份有限公司",
@@ -7044,6 +7009,41 @@
       {
         "company": "百融智能",
         "time": "2025-08-19"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "380463",
+    "name": "王倩雯",
+    "org_name": "国金证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "计算机高级分新师",
+    "department": "创新技术与企业服务研究中心",
+    "last_interaction_time": "2026-03-27 09:00:53",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "百融智能",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-09",
+        "meet_title": "百融智能（6608.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "百融智能（6608.HK）2025年度业绩发布会",
+        "duration": 61
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "九方智投控股",
+        "time": "2025-08-29"
       }
     ],
     "special_companies": ""
@@ -7435,45 +7435,6 @@
       }
     ],
     "special_companies": "环球医疗,百融智能,远东宏信"
-  },
-  {
-    "uid": "610720",
-    "name": "马丁",
-    "org_name": "雅利(上海)投资管理有限公司",
-    "org_type": "其他私募投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "",
-    "last_interaction_time": "2026-03-27 09:00:03",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "百融智能",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "百融智能（6608.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "百融云创（6608.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "百融智能（6608.HK）2025年度业绩发布会",
-        "duration": 95
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "百融云创（6608.HK）2024年度业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "579328",
@@ -8091,6 +8052,45 @@
       }
     ],
     "special_companies": "IGG INC,世茂服务,东软教育,中国有色矿业,中国波顿,中国职业教育,中广核新能源,中广核矿业,中手游,中汇集团,中石化冠德,中银香港,九方智投控股,九毛九,信义光能,医脉通,卓越商企服务,合景悠活,国网信通,国证国际证券(香港)研究所,复星国际,大唐新能源,天能动力,奈雪的茶,宝龙商业,建发物业,新城悦服务,新奥能源,新希望服务,新鸿基公司,永升服务,汇量科技,深圳控股,滨江服务,玄武云,环球医疗,环球新材国际,百果园集团,百融智能,石化油服,碧桂园服务,神州控股,稀美资源,绿城管理控股,药明生物,金科服务,锦富技术,雅生活服务"
+  },
+  {
+    "uid": "610720",
+    "name": "马丁",
+    "org_name": "雅利(上海)投资管理有限公司",
+    "org_type": "其他私募投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "",
+    "last_interaction_time": "2026-03-27 09:00:03",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "百融智能",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "百融智能（6608.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "百融云创（6608.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "百融智能（6608.HK）2025年度业绩发布会",
+        "duration": 95
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "百融云创（6608.HK）2024年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "356346",
@@ -9077,6 +9077,18 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "礼来",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
       {
         "company": "不同集团",
         "time": "2025-12-01"
@@ -12724,6 +12736,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "子不语",
+        "time": "2026-04-14"
+      },
       {
         "company": "中煤能源",
         "time": "2026-04-01"
@@ -22459,6 +22475,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-12"
@@ -34019,50 +34039,6 @@
     "special_companies": "万物云,保利物业,华熙生物,卓越商企服务,博腾股份,国证国际证券(香港)研究所,滨江服务,百融智能,碧桂园服务,绿城服务,药明生物,融创服务,金科服务,金茂服务,雅生活服务"
   },
   {
-    "uid": "583858",
-    "name": "宋佳蔚",
-    "org_name": "东方财富证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "互联网及大消费行业研究员",
-    "department": "研究所",
-    "last_interaction_time": "2024-03-26 09:07:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "百融智能",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-19",
-        "meet_title": "百融云创（6608.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-11-17",
-        "meet_title": "百融云创（6608.HK）2023年投资者交流会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-26",
-        "meet_title": "百融云创（6608.HK）2023年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "百融云创（6608.HK）2023年投资者交流会",
-        "duration": 47
-      },
-      {
-        "time": "2023-11-21",
-        "meet_title": "百融云创（6608.HK）2023年投资者交流会",
-        "duration": 43
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "JS环球生活,明源云"
-  },
-  {
     "uid": "348198",
     "name": "冯超奇",
     "org_name": "上海石溪投资管理有限公司",
@@ -34117,6 +34093,50 @@
       }
     ],
     "special_companies": "中国建筑,中集车辆,滨江服务,百融智能"
+  },
+  {
+    "uid": "583858",
+    "name": "宋佳蔚",
+    "org_name": "东方财富证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "互联网及大消费行业研究员",
+    "department": "研究所",
+    "last_interaction_time": "2024-03-26 09:07:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "百融智能",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-19",
+        "meet_title": "百融云创（6608.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-11-17",
+        "meet_title": "百融云创（6608.HK）2023年投资者交流会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-26",
+        "meet_title": "百融云创（6608.HK）2023年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "百融云创（6608.HK）2023年投资者交流会",
+        "duration": 47
+      },
+      {
+        "time": "2023-11-21",
+        "meet_title": "百融云创（6608.HK）2023年投资者交流会",
+        "duration": 43
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "JS环球生活,明源云"
   },
   {
     "uid": "607971",
@@ -36581,6 +36601,122 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "合景悠活",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "滴普科技",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "华检医疗",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "华森制药",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "石化油服",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "比亚迪电子",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-04-14"
+      },
       {
         "company": "粉笔",
         "time": "2023-08-30"

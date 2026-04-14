@@ -6690,6 +6690,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "子不语",
+        "time": "2026-04-14"
+      },
+      {
         "company": "中煤能源",
         "time": "2026-04-01"
       },
@@ -7627,6 +7631,18 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "礼来",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
       {
         "company": "不同集团",
         "time": "2025-12-01"
@@ -12935,6 +12951,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-12"
       },
@@ -16522,30 +16542,6 @@
     "special_companies": "中原建业,新城发展,新城控股,星盛商业,美的置业"
   },
   {
-    "uid": "506297",
-    "name": "张宇晴",
-    "org_name": "本营国际有限公司",
-    "org_type": "金融科技软件技术服务",
-    "cert_type": "媒体",
-    "position": "分析师",
-    "department": "",
-    "last_interaction_time": "2024-03-21 10:00:49",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "星盛商业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-05",
-        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "264687",
     "name": "张春娥",
     "org_name": "广发证券股份有限公司",
@@ -16607,6 +16603,30 @@
       }
     ],
     "special_companies": "华润医药,招商蛇口"
+  },
+  {
+    "uid": "506297",
+    "name": "张宇晴",
+    "org_name": "本营国际有限公司",
+    "org_type": "金融科技软件技术服务",
+    "cert_type": "媒体",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2024-03-21 10:00:49",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "星盛商业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-05",
+        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "339544",
@@ -18440,6 +18460,36 @@
     "special_companies": ""
   },
   {
+    "uid": "607494",
+    "name": "Jocelyn",
+    "org_name": "格隆汇",
+    "org_type": "财经公关服务",
+    "cert_type": "个人",
+    "position": "Guruclub Research Insütute Finance Analyst  Me",
+    "department": "公司研究部",
+    "last_interaction_time": "2024-03-21 10:00:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "星盛商业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-21",
+        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-21",
+        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会",
+        "duration": 74
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "496065",
     "name": "钟志斌",
     "org_name": "北京泽淳永联投资管理有限公司",
@@ -18619,36 +18669,6 @@
       }
     ],
     "special_companies": "保利物业,合景悠活,国证国际证券(香港)研究所,宝龙商业,建业新生活,捷利交易宝,新希望服务,滨江服务,碧桂园服务,绿城服务"
-  },
-  {
-    "uid": "607494",
-    "name": "Jocelyn",
-    "org_name": "格隆汇",
-    "org_type": "财经公关服务",
-    "cert_type": "个人",
-    "position": "Guruclub Research Insütute Finance Analyst  Me",
-    "department": "公司研究部",
-    "last_interaction_time": "2024-03-21 10:00:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "星盛商业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-21",
-        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-21",
-        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会",
-        "duration": 74
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "334186",
@@ -30812,36 +30832,6 @@
     "special_companies": "星盛商业,绿城管理控股"
   },
   {
-    "uid": "579937",
-    "name": "赵欣",
-    "org_name": "广州金控期货有限公司",
-    "org_type": "期货公司",
-    "cert_type": "个人",
-    "position": "业务总监",
-    "department": "产业部",
-    "last_interaction_time": "2023-08-31 10:00:45",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "星盛商业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-30",
-        "meet_title": "星盛商业（6668.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-31",
-        "meet_title": "星盛商业（6668.HK）2023年中期业绩发布会",
-        "duration": 58
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "583599",
     "name": "郭靓",
     "org_name": "深圳市前海双城股权投资管理有限责任公司",
@@ -30875,6 +30865,36 @@
       }
     ],
     "special_companies": "星盛商业"
+  },
+  {
+    "uid": "579937",
+    "name": "赵欣",
+    "org_name": "广州金控期货有限公司",
+    "org_type": "期货公司",
+    "cert_type": "个人",
+    "position": "业务总监",
+    "department": "产业部",
+    "last_interaction_time": "2023-08-31 10:00:45",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "星盛商业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-30",
+        "meet_title": "星盛商业（6668.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-31",
+        "meet_title": "星盛商业（6668.HK）2023年中期业绩发布会",
+        "duration": 58
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "347489",
@@ -35097,6 +35117,14 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
       {
         "company": "中煤能源",
         "time": "2026-04-01"

@@ -11414,6 +11414,41 @@
     "special_companies": "思治企业咨询"
   },
   {
+    "uid": "638404",
+    "name": "张光艳",
+    "org_name": "中化化肥控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "董事",
+    "department": "",
+    "last_interaction_time": "2025-09-23 20:01:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "思治企业咨询",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-09-23",
+        "meet_title": "港股上市公司董事培训示范公开课：第六讲 高效运作的审计委员会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-09-23",
+        "meet_title": "港股上市公司董事培训示范公开课：第六讲 高效运作的审计委员会",
+        "duration": 0
+      },
+      {
+        "time": "2025-09-23",
+        "meet_title": "港股上市公司董事培训示范公开课：第六讲 高效运作的审计委员会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "606071",
     "name": "陈洋洋",
     "org_name": "耕霁(上海)投资管理有限公司",
@@ -11491,41 +11526,6 @@
         "time": "2024-10-14",
         "meet_title": "【香港公司治理公会】最新法律与监管趋势对境内上市公司治理的影响",
         "duration": 100
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "638404",
-    "name": "张光艳",
-    "org_name": "中化化肥控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "董事",
-    "department": "",
-    "last_interaction_time": "2025-09-23 20:01:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "思治企业咨询",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-09-23",
-        "meet_title": "港股上市公司董事培训示范公开课：第六讲 高效运作的审计委员会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-09-23",
-        "meet_title": "港股上市公司董事培训示范公开课：第六讲 高效运作的审计委员会",
-        "duration": 0
-      },
-      {
-        "time": "2025-09-23",
-        "meet_title": "港股上市公司董事培训示范公开课：第六讲 高效运作的审计委员会",
-        "duration": 54
       }
     ],
     "is_first_attend": true,
@@ -23082,30 +23082,6 @@
     "special_companies": ""
   },
   {
-    "uid": "632821",
-    "name": "岑平一",
-    "org_name": "海通证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "服务机构",
-    "position": "Vice General Manaqer",
-    "department": "Strategic Coopera¥on Department",
-    "last_interaction_time": "2025-03-18 20:08:14",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "思治企业咨询",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-18",
-        "meet_title": "【香港公司治理公会】董事会秘书/公司秘书实务公开课——第二讲 前沿解读\"先A后H\"上市"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "295392",
     "name": "肖雅文",
     "org_name": "深圳市华宝新能源股份有限公司",
@@ -23139,6 +23115,30 @@
       }
     ],
     "special_companies": "思治企业咨询"
+  },
+  {
+    "uid": "632821",
+    "name": "岑平一",
+    "org_name": "海通证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "服务机构",
+    "position": "Vice General Manaqer",
+    "department": "Strategic Coopera¥on Department",
+    "last_interaction_time": "2025-03-18 20:08:14",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "思治企业咨询",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-18",
+        "meet_title": "【香港公司治理公会】董事会秘书/公司秘书实务公开课——第二讲 前沿解读\"先A后H\"上市"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "632590",
@@ -34593,6 +34593,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "子不语",
+        "time": "2026-04-14"
+      },
+      {
         "company": "中煤能源",
         "time": "2026-04-01"
       },
@@ -37935,36 +37939,6 @@
     "special_companies": ""
   },
   {
-    "uid": "613762",
-    "name": "刘晨",
-    "org_name": "兖矿能源集团股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "投资者关系经理",
-    "department": "董事会秘书处",
-    "last_interaction_time": "2024-10-29 13:59:38",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "思治企业咨询",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-10-28",
-        "meet_title": "【香港公司治理公会】企业可持续发展趋势与MSCI ESG评级方法论讲座"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-10-29",
-        "meet_title": "【香港公司治理公会】企业可持续发展趋势与MSCI ESG评级方法论讲座",
-        "duration": 174
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "613716",
     "name": "王瑶",
     "org_name": "中国农业银行股份有限公司",
@@ -38007,6 +37981,36 @@
       }
     ],
     "special_companies": "思治企业咨询"
+  },
+  {
+    "uid": "613762",
+    "name": "刘晨",
+    "org_name": "兖矿能源集团股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "投资者关系经理",
+    "department": "董事会秘书处",
+    "last_interaction_time": "2024-10-29 13:59:38",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "思治企业咨询",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-10-28",
+        "meet_title": "【香港公司治理公会】企业可持续发展趋势与MSCI ESG评级方法论讲座"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-10-29",
+        "meet_title": "【香港公司治理公会】企业可持续发展趋势与MSCI ESG评级方法论讲座",
+        "duration": 174
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "440995",
@@ -40893,7 +40897,7 @@
     "name": "赵文",
     "org_name": "云知声智能科技股份有限公司",
     "org_type": "一般企业",
-    "cert_type": "个人",
+    "cert_type": "上市公司",
     "position": "证券事务代表",
     "department": "董事会办公室",
     "last_interaction_time": "2024-10-12 15:18:40",

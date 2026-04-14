@@ -12736,16 +12736,16 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中广核电力",
+        "time": "2026-04-14"
+      },
+      {
         "company": "思源电气",
         "time": "2026-04-10"
       },
       {
         "company": "中国神华",
         "time": "2026-04-02"
-      },
-      {
-        "company": "中广核电力",
-        "time": "2026-03-30"
       },
       {
         "company": "中煤能源",
@@ -26532,6 +26532,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
+      {
         "company": "中煤能源",
         "time": "2026-04-01"
       },
@@ -27134,6 +27142,122 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "合景悠活",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "滴普科技",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "华检医疗",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "华森制药",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "石化油服",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "比亚迪电子",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-14"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-04-14"
+      },
       {
         "company": "粉笔",
         "time": "2023-08-30"
@@ -30796,6 +30920,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "银诺医药",
+        "time": "2026-04-14"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-12"
       },
@@ -31514,6 +31642,36 @@
     "special_companies": "永升服务,碧桂园服务,美的置业,雅生活服务"
   },
   {
+    "uid": "632493",
+    "name": "吕鹏",
+    "org_name": "深圳市路演中网络科技有限公司",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "助理",
+    "department": "平台运营部",
+    "last_interaction_time": "2025-03-21 17:00:29",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "名创优品",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-21",
+        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-21",
+        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会",
+        "duration": 3
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "489165",
     "name": "陆亚宁",
     "org_name": "信达证券股份有限公司",
@@ -31547,36 +31705,6 @@
       }
     ],
     "special_companies": "交个朋友控股"
-  },
-  {
-    "uid": "632493",
-    "name": "吕鹏",
-    "org_name": "深圳市路演中网络科技有限公司",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "助理",
-    "department": "平台运营部",
-    "last_interaction_time": "2025-03-21 17:00:29",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "名创优品",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-21",
-        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-21",
-        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会",
-        "duration": 3
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "267969",
@@ -38493,6 +38621,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "子不语",
+        "time": "2026-04-14"
+      },
       {
         "company": "中煤能源",
         "time": "2026-04-01"
