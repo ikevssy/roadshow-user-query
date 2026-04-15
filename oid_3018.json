@@ -7,7 +7,7 @@
     "cert_type": "上市公司",
     "position": "高级经理",
     "department": "投资者关系及资本市场部",
-    "last_interaction_time": "2026-04-14 17:49:10",
+    "last_interaction_time": "2026-04-15 18:41:38",
     "last_interaction_behavior": "参会",
     "interaction_company": "腾讯控股",
     "apply_count": 3,
@@ -27,6 +27,11 @@
     ],
     "attend_count": 3,
     "attend_records": [
+      {
+        "time": "2026-04-14",
+        "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会",
+        "duration": 11
+      },
       {
         "time": "2026-04-13",
         "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会",
@@ -61,6 +66,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "呷哺呷哺",
         "time": "2025-08-29"
       },
@@ -74,6 +83,186 @@
       }
     ],
     "special_companies": "IGG INC"
+  },
+  {
+    "uid": "343413",
+    "name": "伍力恒",
+    "org_name": "招银国际证券有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "执行董事",
+    "department": "研究部",
+    "last_interaction_time": "2026-04-15 10:21:53",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "腾讯控股",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "特斯拉",
+        "time": "2026-01-27"
+      },
+      {
+        "company": "立讯精密",
+        "time": "2025-11-03"
+      },
+      {
+        "company": "美团-W",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "宁德时代",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "ARM",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "惠普",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "迈威尔科技",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "瑞声科技",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "谷歌",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "亚马逊",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "思科（中国）",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "应用材料公司",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "联想集团",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "戴尔",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "慧与科技",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "博通",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "舜宇光学科技",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "TCL电子",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "阿斯麦",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "德州仪器",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "英特尔",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "高通",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "索尼",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "超威半导体",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "超微电脑",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "华虹公司",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "微软",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "美光科技",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "英伟达",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "甲骨文",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "台积电",
+        "time": "2025-10-11"
+      },
+      {
+        "company": "芯动联科",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "蓝思科技",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "苹果",
+        "time": "2024-10-30"
+      }
+    ],
+    "special_companies": "工业富联"
   },
   {
     "uid": "250216",
@@ -10380,6 +10569,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-13"
       },
@@ -11776,7 +11969,7 @@
     "name": "毛卫文",
     "org_name": "上海至璞资产管理合伙企业（有限合伙）",
     "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "研发合伙人",
     "department": "",
     "last_interaction_time": "2026-03-19 14:15:46",
@@ -23944,7 +24137,7 @@
     "name": "管宇强",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "董事",
     "department": "",
     "last_interaction_time": "2026-03-17 15:25:32",
@@ -32261,7 +32454,7 @@
     "name": "周波",
     "org_name": "铸山股权投资基金管理(上海)股份有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "高级研究员",
     "department": "",
     "last_interaction_time": "2026-03-07 13:19:09",
@@ -41181,6 +41374,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "宁德时代",
         "time": "2026-04-13"
       },
@@ -41585,7 +41782,7 @@
     "name": "李宇宁",
     "org_name": "上海联新资本管理有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "执行董事",
     "department": "",
     "last_interaction_time": "2025-11-06 16:50:41",
@@ -72755,7 +72952,7 @@
     "name": "王建营",
     "org_name": "上海中帝股权投资基金有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "合伙人",
     "department": "",
     "last_interaction_time": "2025-02-11 10:16:37",

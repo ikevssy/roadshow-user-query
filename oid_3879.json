@@ -4962,7 +4962,7 @@
     "name": "管宇强",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "董事",
     "department": "",
     "last_interaction_time": "2026-03-25 17:02:12",
@@ -30383,41 +30383,6 @@
     "special_companies": "珀莱雅,联邦制药"
   },
   {
-    "uid": "277363",
-    "name": "Jenny Hu",
-    "org_name": "天元资本有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Portfolio Manager",
-    "department": "",
-    "last_interaction_time": "2025-08-29 15:55:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "联邦制药",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-29",
-        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-29",
-        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会",
-        "duration": 92
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "华润医药",
-        "time": "2023-03-30"
-      }
-    ],
-    "special_companies": "华润医药,药明生物"
-  },
-  {
     "uid": "583609",
     "name": "刘隹川",
     "org_name": "平安银行股份有限公司",
@@ -30512,6 +30477,41 @@
       }
     ],
     "special_companies": "联邦制药"
+  },
+  {
+    "uid": "277363",
+    "name": "Jenny Hu",
+    "org_name": "天元资本有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Portfolio Manager",
+    "department": "",
+    "last_interaction_time": "2025-08-29 15:55:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "联邦制药",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-29",
+        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-29",
+        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会",
+        "duration": 92
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华润医药",
+        "time": "2023-03-30"
+      }
+    ],
+    "special_companies": "华润医药,药明生物"
   },
   {
     "uid": "607961",
@@ -39170,6 +39170,45 @@
     "special_companies": ""
   },
   {
+    "uid": "247927",
+    "name": "王超",
+    "org_name": "富国基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "医药分析师",
+    "department": "行业研究",
+    "last_interaction_time": "2025-03-25 16:48:15",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "联邦制药",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "联邦制药（3933.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会",
+        "duration": 21
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "联邦制药（3933.HK）2023年度业绩发布会",
+        "duration": 29
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "633275",
     "name": "王冬",
     "org_name": "深圳市前海慧鑫泉投资管理有限公司",
@@ -39213,45 +39252,6 @@
       }
     ],
     "special_companies": "联邦制药"
-  },
-  {
-    "uid": "247927",
-    "name": "王超",
-    "org_name": "富国基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "医药分析师",
-    "department": "行业研究",
-    "last_interaction_time": "2025-03-25 16:48:15",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "联邦制药",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "联邦制药（3933.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会",
-        "duration": 21
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "联邦制药（3933.HK）2023年度业绩发布会",
-        "duration": 29
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "428103",
@@ -40803,6 +40803,46 @@
     "special_companies": "中国人寿,中国金茂,国证国际证券(香港)研究所,建发国际集团,新希望服务,星盛商业,百融智能"
   },
   {
+    "uid": "633368",
+    "name": "邢志刚",
+    "org_name": "宁波梅山保税港区宽旭投资管理有限公司",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "董事长 创始人",
+    "department": "",
+    "last_interaction_time": "2025-03-25 16:01:02",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "联邦制药",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会",
+        "duration": 75
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "联邦制药",
+        "time": "2025-03-25"
+      }
+    ],
+    "special_companies": "联邦制药"
+  },
+  {
     "uid": "280100",
     "name": "张伟明",
     "org_name": "青骊投资管理(上海)有限公司",
@@ -40842,46 +40882,6 @@
       {
         "company": "联邦制药",
         "time": "2025-03-24"
-      }
-    ],
-    "special_companies": "联邦制药"
-  },
-  {
-    "uid": "633368",
-    "name": "邢志刚",
-    "org_name": "宁波梅山保税港区宽旭投资管理有限公司",
-    "org_type": null,
-    "cert_type": "机构投资者",
-    "position": "董事长 创始人",
-    "department": "",
-    "last_interaction_time": "2025-03-25 16:01:02",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "联邦制药",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会",
-        "duration": 75
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "联邦制药",
-        "time": "2025-03-25"
       }
     ],
     "special_companies": "联邦制药"
@@ -47081,6 +47081,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-13"
@@ -66545,6 +66549,36 @@
     "special_companies": "比亚迪电子"
   },
   {
+    "uid": "11692",
+    "name": "周文婧",
+    "org_name": "国信证券（香港）金融控股有限公司",
+    "org_type": "证券公司",
+    "cert_type": "服务机构",
+    "position": "业务助理",
+    "department": "股权投资部",
+    "last_interaction_time": "2023-08-30 15:37:43",
+    "last_interaction_behavior": "特关",
+    "interaction_company": "联邦制药",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-30",
+        "meet_title": "联邦制药（3933.HK）2023年中期业绩发布会",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "联邦制药",
+        "time": "2023-08-30"
+      }
+    ],
+    "special_companies": "联邦制药"
+  },
+  {
     "uid": "426046",
     "name": "李永",
     "org_name": "北京宏道投资管理有限公司",
@@ -66573,36 +66607,6 @@
         "time": "2023-08-30",
         "meet_title": "联邦制药（3933.HK）2023年中期业绩发布会",
         "duration": 2
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "联邦制药",
-        "time": "2023-08-30"
-      }
-    ],
-    "special_companies": "联邦制药"
-  },
-  {
-    "uid": "11692",
-    "name": "周文婧",
-    "org_name": "国信证券（香港）金融控股有限公司",
-    "org_type": "证券公司",
-    "cert_type": "服务机构",
-    "position": "业务助理",
-    "department": "股权投资部",
-    "last_interaction_time": "2023-08-30 15:37:43",
-    "last_interaction_behavior": "特关",
-    "interaction_company": "联邦制药",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-30",
-        "meet_title": "联邦制药（3933.HK）2023年中期业绩发布会",
-        "duration": 62
       }
     ],
     "is_first_attend": true,

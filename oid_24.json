@@ -10133,6 +10133,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-15"
+      },
+      {
         "company": "三只松鼠",
         "time": "2026-03-19"
       },
@@ -10660,7 +10668,7 @@
     "name": "胡建芳",
     "org_name": "上海磐厚投资管理有限公司",
     "org_type": "财务顾问机构",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "投资经理",
     "department": "",
     "last_interaction_time": "2025-08-22 09:00:12",
@@ -17485,41 +17493,6 @@
     "special_companies": ""
   },
   {
-    "uid": "339695",
-    "name": "张永林",
-    "org_name": "新华汇富资产管理有限公司",
-    "org_type": "未分类",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "",
-    "last_interaction_time": "2024-08-23 10:00:38",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "李宁",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-23",
-        "meet_title": "李宁（02331.HK） 2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-23",
-        "meet_title": "李宁（02331.HK） 2024年中期业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "卓越教育集团",
-        "time": "2024-03-28"
-      }
-    ],
-    "special_companies": "卓越教育集团,天能动力"
-  },
-  {
     "uid": "343644",
     "name": "史方遒",
     "org_name": "远智投资管理(香港)有限公司",
@@ -17637,6 +17610,41 @@
       }
     ],
     "special_companies": "中国太保,华润医疗"
+  },
+  {
+    "uid": "339695",
+    "name": "张永林",
+    "org_name": "新华汇富资产管理有限公司",
+    "org_type": "未分类",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2024-08-23 10:00:38",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "李宁",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-23",
+        "meet_title": "李宁（02331.HK） 2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-23",
+        "meet_title": "李宁（02331.HK） 2024年中期业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "卓越教育集团",
+        "time": "2024-03-28"
+      }
+    ],
+    "special_companies": "卓越教育集团,天能动力"
   },
   {
     "uid": "790",
@@ -21214,6 +21222,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-13"

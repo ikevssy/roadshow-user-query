@@ -80,6 +80,11 @@
     "attend_count": 71,
     "attend_records": [
       {
+        "time": "2026-04-14",
+        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会",
+        "duration": 2
+      },
+      {
         "time": "2026-03-26",
         "meet_title": "中国人寿2025年度业绩发布会",
         "duration": 79
@@ -659,6 +664,16 @@
     ],
     "attend_count": 19,
     "attend_records": [
+      {
+        "time": "2026-04-14",
+        "meet_title": "中国人寿2025年度业绩发布会",
+        "duration": 24
+      },
+      {
+        "time": "2026-04-14",
+        "meet_title": "中国人寿（601628.SH，02628.HK）| 卧沪藏龙·聚力未来上市公司业绩说明会暨投资人交流会",
+        "duration": 0
+      },
       {
         "time": "2026-04-13",
         "meet_title": "中国人寿（601628.SH，02628.HK）| 卧沪藏龙·聚力未来上市公司业绩说明会暨投资人交流会",
@@ -4708,6 +4723,14 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "保利置业集团",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "保利发展",
+        "time": "2026-04-15"
+      },
       {
         "company": "汇丰控股",
         "time": "2026-03-24"
@@ -8852,6 +8875,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-13"
@@ -14166,6 +14193,74 @@
     "special_companies": ""
   },
   {
+    "uid": "353429",
+    "name": "向超",
+    "org_name": "国泰君安证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "机构业务总监",
+    "department": "机构业务部",
+    "last_interaction_time": "2026-03-26 10:46:01",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会"
+      },
+      {
+        "time": "2025-10-30",
+        "meet_title": "中国人寿2025年第三季度业绩发布会"
+      },
+      {
+        "time": "2025-04-29",
+        "meet_title": "中国人寿2025年第一季度业绩发布会"
+      }
+    ],
+    "attend_count": 6,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "中国人寿2025年度业绩发布会",
+        "duration": 60
+      },
+      {
+        "time": "2026-03-26",
+        "meet_title": "中国人寿2025年度业绩发布会",
+        "duration": 11
+      },
+      {
+        "time": "2026-03-26",
+        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会",
+        "duration": 11
+      },
+      {
+        "time": "2025-10-30",
+        "meet_title": "中国人寿2025年第三季度业绩发布会",
+        "duration": 62
+      },
+      {
+        "time": "2025-08-28",
+        "meet_title": "中国人寿2025年中期业绩发布会",
+        "duration": 76
+      },
+      {
+        "time": "2025-04-29",
+        "meet_title": "中国人寿2025年第一季度业绩发布会",
+        "duration": 43
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "中国人寿2024年度业绩发布会",
+        "duration": 32
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "337215",
     "name": "胡志挺",
     "org_name": "澎湃新闻网",
@@ -14316,74 +14411,6 @@
       }
     ],
     "special_companies": "中国人寿"
-  },
-  {
-    "uid": "353429",
-    "name": "向超",
-    "org_name": "国泰君安证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "机构业务总监",
-    "department": "机构业务部",
-    "last_interaction_time": "2026-03-26 10:46:01",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会"
-      },
-      {
-        "time": "2025-10-30",
-        "meet_title": "中国人寿2025年第三季度业绩发布会"
-      },
-      {
-        "time": "2025-04-29",
-        "meet_title": "中国人寿2025年第一季度业绩发布会"
-      }
-    ],
-    "attend_count": 6,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "中国人寿2025年度业绩发布会",
-        "duration": 60
-      },
-      {
-        "time": "2026-03-26",
-        "meet_title": "中国人寿2025年度业绩发布会",
-        "duration": 11
-      },
-      {
-        "time": "2026-03-26",
-        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会",
-        "duration": 11
-      },
-      {
-        "time": "2025-10-30",
-        "meet_title": "中国人寿2025年第三季度业绩发布会",
-        "duration": 62
-      },
-      {
-        "time": "2025-08-28",
-        "meet_title": "中国人寿2025年中期业绩发布会",
-        "duration": 76
-      },
-      {
-        "time": "2025-04-29",
-        "meet_title": "中国人寿2025年第一季度业绩发布会",
-        "duration": 43
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "中国人寿2024年度业绩发布会",
-        "duration": 32
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "577725",
@@ -14558,6 +14585,31 @@
     "special_companies": "中国人寿"
   },
   {
+    "uid": "633818",
+    "name": "周云",
+    "org_name": "上海九岭股权投资管理有限公司",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "高级投资经理",
+    "department": "",
+    "last_interaction_time": "2026-03-26 10:45:58",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "中国人寿2025年度业绩发布会",
+        "duration": 83
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "437783",
     "name": "张倩",
     "org_name": "中国人寿保险股份有限公司",
@@ -14729,31 +14781,6 @@
       }
     ],
     "special_companies": "中国人寿"
-  },
-  {
-    "uid": "633818",
-    "name": "周云",
-    "org_name": "上海九岭股权投资管理有限公司",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "高级投资经理",
-    "department": "",
-    "last_interaction_time": "2026-03-26 10:45:58",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "中国人寿2025年度业绩发布会",
-        "duration": 83
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "646088",
@@ -15307,7 +15334,7 @@
     "name": "管宇强",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "董事",
     "department": "",
     "last_interaction_time": "2026-03-26 10:00:16",
@@ -15768,6 +15795,30 @@
     "special_companies": "光大证券"
   },
   {
+    "uid": "646168",
+    "name": "王丰莹",
+    "org_name": "华泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "场外衍生品业务副总监",
+    "department": "证券投资部",
+    "last_interaction_time": "2026-03-26 09:48:00",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国人寿",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "1511",
     "name": "王赟",
     "org_name": "华泰资产管理有限公司",
@@ -15794,30 +15845,6 @@
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "646168",
-    "name": "王丰莹",
-    "org_name": "华泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "场外衍生品业务副总监",
-    "department": "证券投资部",
-    "last_interaction_time": "2026-03-26 09:48:00",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "中国人寿",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -24194,6 +24221,53 @@
     "special_companies": "中国人保,中国人寿"
   },
   {
+    "uid": "644951",
+    "name": "潘逸芸",
+    "org_name": "富国基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "助理研究员",
+    "department": "海外权益投资部",
+    "last_interaction_time": "2026-03-26 09:00:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "蔚来",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "开市客",
+        "time": "2026-03-06"
+      },
+      {
+        "company": "京东健康",
+        "time": "2026-03-05"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "431890",
     "name": "祝俭",
     "org_name": "上海毅木资产管理有限公司",
@@ -24245,53 +24319,6 @@
     "special_companies": ""
   },
   {
-    "uid": "644951",
-    "name": "潘逸芸",
-    "org_name": "富国基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "助理研究员",
-    "department": "海外权益投资部",
-    "last_interaction_time": "2026-03-26 09:00:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "蔚来",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "宏信建发",
-        "time": "2026-03-10"
-      },
-      {
-        "company": "开市客",
-        "time": "2026-03-06"
-      },
-      {
-        "company": "京东健康",
-        "time": "2026-03-05"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "347089",
     "name": "Jiajing",
     "org_name": "上海大朴资产管理有限公司",
@@ -24325,6 +24352,30 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "497048",
+    "name": "Qi Wen",
+    "org_name": "Jefferies",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "vice president equity research healthcare",
+    "department": "",
+    "last_interaction_time": "2026-03-26 09:00:09",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "百融智能,罕王黄金,联邦制药"
   },
   {
     "uid": "607583",
@@ -24440,30 +24491,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "497048",
-    "name": "Qi Wen",
-    "org_name": "Jefferies",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "vice president equity research healthcare",
-    "department": "",
-    "last_interaction_time": "2026-03-26 09:00:09",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "百融智能,罕王黄金,联邦制药"
   },
   {
     "uid": "646133",
@@ -24712,6 +24739,106 @@
     "special_companies": ""
   },
   {
+    "uid": "503924",
+    "name": "羅凡環",
+    "org_name": "第一上海证券有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析员",
+    "department": "",
+    "last_interaction_time": "2026-03-26 09:00:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-18",
+        "meet_title": "China Life 2025 Annual Results Briefing for Analysts and Investors"
+      },
+      {
+        "time": "2026-03-18",
+        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会"
+      },
+      {
+        "time": "2025-08-20",
+        "meet_title": "中国人寿2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会",
+        "duration": 76
+      },
+      {
+        "time": "2025-08-28",
+        "meet_title": "中国人寿2025年中期业绩发布会",
+        "duration": 78
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "新华保险",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中国移动",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "美团-W",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "中国财险",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "中国太保",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "中国太平保险控股",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "中国人保",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "联易融科技",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "中国平安",
+        "time": "2025-08-20"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "582710",
     "name": "王京灵",
     "org_name": "国信证券股份有限公司",
@@ -24886,106 +25013,6 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "503924",
-    "name": "羅凡環",
-    "org_name": "第一上海证券有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "分析员",
-    "department": "",
-    "last_interaction_time": "2026-03-26 09:00:03",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-18",
-        "meet_title": "China Life 2025 Annual Results Briefing for Analysts and Investors"
-      },
-      {
-        "time": "2026-03-18",
-        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会"
-      },
-      {
-        "time": "2025-08-20",
-        "meet_title": "中国人寿2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "中国人寿2025年度业绩分析师及投资者交流会",
-        "duration": 76
-      },
-      {
-        "time": "2025-08-28",
-        "meet_title": "中国人寿2025年中期业绩发布会",
-        "duration": 78
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "新华保险",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "中国移动",
-        "time": "2026-03-26"
-      },
-      {
-        "company": "中国电信",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "拼多多",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "美团-W",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "中国财险",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "中国太保",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "中国太平保险控股",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "中国人保",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "联易融科技",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "中国平安",
-        "time": "2025-08-20"
-      }
-    ],
     "special_companies": ""
   },
   {
@@ -26411,6 +26438,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "宁德时代",
         "time": "2026-04-13"
@@ -37402,6 +37433,75 @@
     "special_companies": ""
   },
   {
+    "uid": "283910",
+    "name": "周梓霖",
+    "org_name": "Infinity Asset Management, LTD (Hong Kong)",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "首席投資官",
+    "department": "資產管理",
+    "last_interaction_time": "2025-10-30 19:00:26",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2025-10-25",
+        "meet_title": "中国人寿2025年第三季度业绩发布会"
+      },
+      {
+        "time": "2025-04-22",
+        "meet_title": "China Life 2025 First Quarter Results Briefing for Analysts and Investors"
+      },
+      {
+        "time": "2024-08-28",
+        "meet_title": "中国人寿2024年中期业绩分析师及投资者交流会"
+      },
+      {
+        "time": "2023-03-29",
+        "meet_title": "中国人寿2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-10-30",
+        "meet_title": "中国人寿2025年第三季度业绩发布会",
+        "duration": 19
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "中国人寿2024年中期业绩发布会",
+        "duration": 12
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "中国人寿2024年中期业绩分析师及投资者交流会",
+        "duration": 56
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "神州控股",
+        "time": "2025-09-05"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-08-29"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "433098",
     "name": "童成墩",
     "org_name": "中信证券股份有限公司",
@@ -37483,75 +37583,6 @@
       }
     ],
     "special_companies": "中国人寿"
-  },
-  {
-    "uid": "283910",
-    "name": "周梓霖",
-    "org_name": "Infinity Asset Management, LTD (Hong Kong)",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "首席投資官",
-    "department": "資產管理",
-    "last_interaction_time": "2025-10-30 19:00:26",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2025-10-25",
-        "meet_title": "中国人寿2025年第三季度业绩发布会"
-      },
-      {
-        "time": "2025-04-22",
-        "meet_title": "China Life 2025 First Quarter Results Briefing for Analysts and Investors"
-      },
-      {
-        "time": "2024-08-28",
-        "meet_title": "中国人寿2024年中期业绩分析师及投资者交流会"
-      },
-      {
-        "time": "2023-03-29",
-        "meet_title": "中国人寿2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-10-30",
-        "meet_title": "中国人寿2025年第三季度业绩发布会",
-        "duration": 19
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "中国人寿2024年中期业绩发布会",
-        "duration": 12
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "中国人寿2024年中期业绩分析师及投资者交流会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "比亚迪",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "保利物业",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "神州控股",
-        "time": "2025-09-05"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2025-08-29"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "280008",
@@ -44818,6 +44849,98 @@
     "special_companies": ""
   },
   {
+    "uid": "637769",
+    "name": "王欣然",
+    "org_name": "泰康人寿保险有限责任公司",
+    "org_type": "保险公司",
+    "cert_type": "机构投资者",
+    "position": "行业研究员",
+    "department": "",
+    "last_interaction_time": "2025-08-28 10:45:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "中国人寿2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-08-27",
+        "meet_title": "中国人寿2025年中期业绩分析师及投资者交流会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "中国人寿2025年中期业绩发布会",
+        "duration": 77
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国人寿",
+        "time": "2025-08-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "584845",
+    "name": "谭丽萍",
+    "org_name": "中国人寿保险股份有限公司",
+    "org_type": "保险公司",
+    "cert_type": "上市公司",
+    "position": "高级经理",
+    "department": "个险运营部",
+    "last_interaction_time": "2025-08-28 10:45:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "China Life 2025 Interim Results Briefing for Analysts and Investors"
+      },
+      {
+        "time": "2025-08-28",
+        "meet_title": "中国人寿2025年中期业绩分析师及投资者交流会"
+      },
+      {
+        "time": "2025-08-28",
+        "meet_title": "中国人寿2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "中国人寿2025年中期业绩发布会",
+        "duration": 49
+      },
+      {
+        "time": "2025-08-28",
+        "meet_title": "China Life 2025 Interim Results Briefing for Analysts and Investors",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-28",
+        "meet_title": "中国人寿2025年中期业绩分析师及投资者交流会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国人寿",
+        "time": "2023-10-30"
+      }
+    ],
+    "special_companies": "中国人寿"
+  },
+  {
     "uid": "429116",
     "name": "林伟伟",
     "org_name": "中国人寿保险股份有限公司",
@@ -44912,25 +45035,25 @@
     "special_companies": ""
   },
   {
-    "uid": "637769",
-    "name": "王欣然",
-    "org_name": "泰康人寿保险有限责任公司",
-    "org_type": "保险公司",
+    "uid": "282756",
+    "name": "陈喆",
+    "org_name": "碧云资本",
+    "org_type": "境外资产管理公司",
     "cert_type": "机构投资者",
-    "position": "行业研究员",
+    "position": "合伙人/ 高级研究分析师",
     "department": "",
-    "last_interaction_time": "2025-08-28 10:45:04",
+    "last_interaction_time": "2025-08-28 10:45:03",
     "last_interaction_behavior": "参会",
     "interaction_company": "中国人寿",
     "apply_count": 2,
     "apply_records": [
       {
-        "time": "2025-08-27",
+        "time": "2025-08-28",
         "meet_title": "中国人寿2025年中期业绩发布会"
       },
       {
-        "time": "2025-08-27",
-        "meet_title": "中国人寿2025年中期业绩分析师及投资者交流会"
+        "time": "2023-03-30",
+        "meet_title": "中国人寿2022年度业绩发布会"
       }
     ],
     "attend_count": 1,
@@ -44938,70 +45061,21 @@
       {
         "time": "2025-08-28",
         "meet_title": "中国人寿2025年中期业绩发布会",
-        "duration": 77
+        "duration": 56
       }
     ],
-    "is_first_attend": true,
+    "is_first_attend": false,
     "subscribed_companies": [
       {
         "company": "中国人寿",
-        "time": "2025-08-27"
+        "time": "2025-08-28"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-08-20"
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "584845",
-    "name": "谭丽萍",
-    "org_name": "中国人寿保险股份有限公司",
-    "org_type": "保险公司",
-    "cert_type": "上市公司",
-    "position": "高级经理",
-    "department": "个险运营部",
-    "last_interaction_time": "2025-08-28 10:45:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "China Life 2025 Interim Results Briefing for Analysts and Investors"
-      },
-      {
-        "time": "2025-08-28",
-        "meet_title": "中国人寿2025年中期业绩分析师及投资者交流会"
-      },
-      {
-        "time": "2025-08-28",
-        "meet_title": "中国人寿2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "中国人寿2025年中期业绩发布会",
-        "duration": 49
-      },
-      {
-        "time": "2025-08-28",
-        "meet_title": "China Life 2025 Interim Results Briefing for Analysts and Investors",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-28",
-        "meet_title": "中国人寿2025年中期业绩分析师及投资者交流会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国人寿",
-        "time": "2023-10-30"
-      }
-    ],
-    "special_companies": "中国人寿"
   },
   {
     "uid": "504074",
@@ -45053,49 +45127,6 @@
       {
         "company": "中国人寿",
         "time": "2025-08-28"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "282756",
-    "name": "陈喆",
-    "org_name": "碧云资本",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "合伙人/ 高级研究分析师",
-    "department": "",
-    "last_interaction_time": "2025-08-28 10:45:03",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "中国人寿2025年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "中国人寿2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "中国人寿2025年中期业绩发布会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中国人寿",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "保利物业",
-        "time": "2024-08-20"
       }
     ],
     "special_companies": ""
@@ -46914,63 +46945,6 @@
     "special_companies": ""
   },
   {
-    "uid": "17905",
-    "name": "张洪涛",
-    "org_name": "宁夏鑫晟泰投资管理有限公司",
-    "org_type": "私募基金管理人(已注销)",
-    "cert_type": "机构投资者",
-    "position": "投资品行业分析师",
-    "department": "",
-    "last_interaction_time": "2025-08-28 09:01:12",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "中国人寿2025年中期业绩分析师及投资者交流会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "中国人寿2025年中期业绩分析师及投资者交流会",
-        "duration": 81
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "中国人寿2024年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "中国人寿2024年度业绩发布会",
-        "duration": 35
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中海物业",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "中国太保",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "理想汽车-w",
-        "time": "2025-03-14"
-      },
-      {
-        "company": "友邦保险",
-        "time": "2025-03-13"
-      }
-    ],
-    "special_companies": "中国太保"
-  },
-  {
     "uid": "433097",
     "name": "曾素芬",
     "org_name": "上海复星高科技(集团)有限公司",
@@ -47079,6 +47053,63 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "17905",
+    "name": "张洪涛",
+    "org_name": "宁夏鑫晟泰投资管理有限公司",
+    "org_type": "私募基金管理人(已注销)",
+    "cert_type": "机构投资者",
+    "position": "投资品行业分析师",
+    "department": "",
+    "last_interaction_time": "2025-08-28 09:01:12",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "中国人寿2025年中期业绩分析师及投资者交流会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "中国人寿2025年中期业绩分析师及投资者交流会",
+        "duration": 81
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "中国人寿2024年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "中国人寿2024年度业绩发布会",
+        "duration": 35
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中海物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "理想汽车-w",
+        "time": "2025-03-14"
+      },
+      {
+        "company": "友邦保险",
+        "time": "2025-03-13"
+      }
+    ],
+    "special_companies": "中国太保"
   },
   {
     "uid": "350639",
@@ -52953,36 +52984,6 @@
     "special_companies": "中烟香港,国泰君安国际,新世界发展"
   },
   {
-    "uid": "612627",
-    "name": "唐关勇",
-    "org_name": "开源证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "非银金融行业助理研究员",
-    "department": "研究所",
-    "last_interaction_time": "2025-04-29 19:01:01",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-04-29",
-        "meet_title": "中国人寿2025年第一季度业绩发布会",
-        "duration": 59
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国人寿",
-        "time": "2024-08-28"
-      }
-    ],
-    "special_companies": "中国人寿"
-  },
-  {
     "uid": "280126",
     "name": "耿艳艳",
     "org_name": "太平资产管理有限公司",
@@ -53048,6 +53049,36 @@
       {
         "company": "中国人寿",
         "time": "2024-03-28"
+      }
+    ],
+    "special_companies": "中国人寿"
+  },
+  {
+    "uid": "612627",
+    "name": "唐关勇",
+    "org_name": "开源证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "非银金融行业助理研究员",
+    "department": "研究所",
+    "last_interaction_time": "2025-04-29 19:01:01",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-04-29",
+        "meet_title": "中国人寿2025年第一季度业绩发布会",
+        "duration": 59
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国人寿",
+        "time": "2024-08-28"
       }
     ],
     "special_companies": "中国人寿"
@@ -53841,7 +53872,7 @@
     "name": "李宇宁",
     "org_name": "上海联新资本管理有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "执行董事",
     "department": "",
     "last_interaction_time": "2025-04-22 16:19:51",
@@ -60850,41 +60881,6 @@
     "special_companies": "中国人寿"
   },
   {
-    "uid": "282314",
-    "name": "章悦琦",
-    "org_name": "摩根基金管理(中国)有限公司",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "客户营销经理",
-    "department": "",
-    "last_interaction_time": "2024-10-30 19:02:11",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-10-29",
-        "meet_title": "中国人寿2024年第三季度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-10-30",
-        "meet_title": "中国人寿2024年第三季度业绩发布会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中国人寿",
-        "time": "2024-10-21"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "434647",
     "name": "朱丞安",
     "org_name": "深圳市路演中网络科技有限公司",
@@ -61034,6 +61030,41 @@
       }
     ],
     "special_companies": "中国海外宏洋集团,新鸿基公司,沛嘉医疗,百果园集团"
+  },
+  {
+    "uid": "282314",
+    "name": "章悦琦",
+    "org_name": "摩根基金管理(中国)有限公司",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "客户营销经理",
+    "department": "",
+    "last_interaction_time": "2024-10-30 19:02:11",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-10-29",
+        "meet_title": "中国人寿2024年第三季度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-10-30",
+        "meet_title": "中国人寿2024年第三季度业绩发布会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国人寿",
+        "time": "2024-10-21"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "337499",
@@ -61274,84 +61305,6 @@
     "special_companies": ""
   },
   {
-    "uid": "435125",
-    "name": "WANG Ran",
-    "org_name": "三井住友德思私募基金管理(上海)有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "投资研究部",
-    "last_interaction_time": "2024-10-30 19:00:21",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2024-10-28",
-        "meet_title": "中国人寿2024年第三季度业绩发布会"
-      },
-      {
-        "time": "2024-04-25",
-        "meet_title": "中国人寿2024年第一季度业绩发布会"
-      },
-      {
-        "time": "2023-10-25",
-        "meet_title": "中国人寿2023年第三季度业绩发布会"
-      },
-      {
-        "time": "2023-04-27",
-        "meet_title": "中国人寿2023年第一季度业绩发布会"
-      }
-    ],
-    "attend_count": 5,
-    "attend_records": [
-      {
-        "time": "2024-10-30",
-        "meet_title": "中国人寿2024年第三季度业绩发布会",
-        "duration": 61
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "中国人寿2023年度业绩分析师及投资者交流会",
-        "duration": 74
-      },
-      {
-        "time": "2023-10-26",
-        "meet_title": "中国人寿2023年第三季度业绩发布会",
-        "duration": 37
-      },
-      {
-        "time": "2023-04-27",
-        "meet_title": "中国人寿2023年第一季度业绩发布会",
-        "duration": 27
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中信证券",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-03-22"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2024-03-14"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2024-02-27"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2023-04-27"
-      }
-    ],
-    "special_companies": "万物云,中信证券,中国人寿,中国太保,新世界发展,绿城管理控股,越秀地产,远东宏信"
-  },
-  {
     "uid": "577652",
     "name": "郭瑞",
     "org_name": "中国国际金融股份有限公司",
@@ -61430,6 +61383,84 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "435125",
+    "name": "WANG Ran",
+    "org_name": "三井住友德思私募基金管理(上海)有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "投资研究部",
+    "last_interaction_time": "2024-10-30 19:00:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2024-10-28",
+        "meet_title": "中国人寿2024年第三季度业绩发布会"
+      },
+      {
+        "time": "2024-04-25",
+        "meet_title": "中国人寿2024年第一季度业绩发布会"
+      },
+      {
+        "time": "2023-10-25",
+        "meet_title": "中国人寿2023年第三季度业绩发布会"
+      },
+      {
+        "time": "2023-04-27",
+        "meet_title": "中国人寿2023年第一季度业绩发布会"
+      }
+    ],
+    "attend_count": 5,
+    "attend_records": [
+      {
+        "time": "2024-10-30",
+        "meet_title": "中国人寿2024年第三季度业绩发布会",
+        "duration": 61
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "中国人寿2023年度业绩分析师及投资者交流会",
+        "duration": 74
+      },
+      {
+        "time": "2023-10-26",
+        "meet_title": "中国人寿2023年第三季度业绩发布会",
+        "duration": 37
+      },
+      {
+        "time": "2023-04-27",
+        "meet_title": "中国人寿2023年第一季度业绩发布会",
+        "duration": 27
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中信证券",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2024-03-14"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2024-02-27"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2023-04-27"
+      }
+    ],
+    "special_companies": "万物云,中信证券,中国人寿,中国太保,新世界发展,绿城管理控股,越秀地产,远东宏信"
   },
   {
     "uid": "2264",
@@ -61527,72 +61558,6 @@
       }
     ],
     "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "334957",
-    "name": "赵可",
-    "org_name": "海南丰岭私募基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2024-10-30 19:00:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 5,
-    "apply_records": [
-      {
-        "time": "2024-08-22",
-        "meet_title": "中国人寿2024年中期业绩分析师及投资者交流会"
-      },
-      {
-        "time": "2024-04-23",
-        "meet_title": "中国人寿2024年第一季度业绩发布会"
-      },
-      {
-        "time": "2024-03-18",
-        "meet_title": "中国人寿2023年度业绩分析师及投资者交流会"
-      },
-      {
-        "time": "2023-10-26",
-        "meet_title": "中国人寿2023年第三季度业绩发布会"
-      },
-      {
-        "time": "2023-10-16",
-        "meet_title": "中国人寿2023年开放日"
-      }
-    ],
-    "attend_count": 5,
-    "attend_records": [
-      {
-        "time": "2024-10-30",
-        "meet_title": "中国人寿2024年第三季度业绩发布会",
-        "duration": 61
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "中国人寿2024年中期业绩分析师及投资者交流会",
-        "duration": 76
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "中国人寿2023年度业绩分析师及投资者交流会",
-        "duration": 79
-      },
-      {
-        "time": "2023-10-31",
-        "meet_title": "中国人寿2023年开放日",
-        "duration": 148
-      },
-      {
-        "time": "2023-10-26",
-        "meet_title": "中国人寿2023年第三季度业绩发布会",
-        "duration": 37
-      }
-    ],
-    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -61735,6 +61700,72 @@
         "time": "2024-10-30",
         "meet_title": "中国人寿2024年第三季度业绩发布会",
         "duration": 61
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "334957",
+    "name": "赵可",
+    "org_name": "海南丰岭私募基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2024-10-30 19:00:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 5,
+    "apply_records": [
+      {
+        "time": "2024-08-22",
+        "meet_title": "中国人寿2024年中期业绩分析师及投资者交流会"
+      },
+      {
+        "time": "2024-04-23",
+        "meet_title": "中国人寿2024年第一季度业绩发布会"
+      },
+      {
+        "time": "2024-03-18",
+        "meet_title": "中国人寿2023年度业绩分析师及投资者交流会"
+      },
+      {
+        "time": "2023-10-26",
+        "meet_title": "中国人寿2023年第三季度业绩发布会"
+      },
+      {
+        "time": "2023-10-16",
+        "meet_title": "中国人寿2023年开放日"
+      }
+    ],
+    "attend_count": 5,
+    "attend_records": [
+      {
+        "time": "2024-10-30",
+        "meet_title": "中国人寿2024年第三季度业绩发布会",
+        "duration": 61
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "中国人寿2024年中期业绩分析师及投资者交流会",
+        "duration": 76
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "中国人寿2023年度业绩分析师及投资者交流会",
+        "duration": 79
+      },
+      {
+        "time": "2023-10-31",
+        "meet_title": "中国人寿2023年开放日",
+        "duration": 148
+      },
+      {
+        "time": "2023-10-26",
+        "meet_title": "中国人寿2023年第三季度业绩发布会",
+        "duration": 37
       }
     ],
     "is_first_attend": true,
@@ -78007,6 +78038,14 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-15"
+      },
+      {
         "company": "三只松鼠",
         "time": "2026-03-19"
       },
@@ -89297,6 +89336,36 @@
     "special_companies": "中国燃气,中粮包装"
   },
   {
+    "uid": "582292",
+    "name": "关博文",
+    "org_name": "招商证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析师",
+    "department": "研究所非银金融部",
+    "last_interaction_time": "2023-08-24 10:46:31",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国人寿",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-21",
+        "meet_title": "中国人寿2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国人寿2023年中期业绩发布会",
+        "duration": 69
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "582278",
     "name": "邹文榕",
     "org_name": "上海界面财联社科技股份有限公司",
@@ -89333,36 +89402,6 @@
         "time": "2023-08-21"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "582292",
-    "name": "关博文",
-    "org_name": "招商证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "分析师",
-    "department": "研究所非银金融部",
-    "last_interaction_time": "2023-08-24 10:46:31",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国人寿",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-21",
-        "meet_title": "中国人寿2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国人寿2023年中期业绩发布会",
-        "duration": 69
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
