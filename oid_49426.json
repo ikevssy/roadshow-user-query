@@ -1,5 +1,101 @@
 [
   {
+    "uid": "495750",
+    "name": "彭超",
+    "org_name": "绿城中国控股有限公司",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "助理总经理",
+    "department": "华南区域广州公司",
+    "last_interaction_time": "2026-04-15 22:59:48",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "贝壳",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第四季度及全年业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第四季度及全年业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2026-03-31",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第四季度及全年业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "保利置业集团",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "保利发展",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "越秀地产",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "招商银行",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "蔚来",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "迈瑞医疗",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-31"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "246976",
     "name": "张俊杰",
     "org_name": "上海鸿熙资产管理有限公司",
@@ -1360,94 +1456,6 @@
     "special_companies": "上海实业控股,中信证券,中国中冶,中国人保,中国人寿,中国太保,中国建筑,中集车辆,中集集团,华润医疗,卓越商企服务,复星国际,建业地产,建发国际集团,招商蛇口,招商银行,新城发展,粤海置地,绿城中国,美的置业,融创中国"
   },
   {
-    "uid": "495750",
-    "name": "彭超",
-    "org_name": "绿城中国控股有限公司",
-    "org_type": null,
-    "cert_type": "个人",
-    "position": "助理总经理",
-    "department": "华南区域广州公司",
-    "last_interaction_time": "2026-03-31 21:09:37",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "贝壳",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第四季度及全年业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第四季度及全年业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2026-03-31",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第四季度及全年业绩电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "绿城管理控股",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "保利置业集团",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "保利发展",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "越秀地产",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "招商蛇口",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "招商银行",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "携程集团-S",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "蔚来",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "迈瑞医疗",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "中国交建",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2026-03-31"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "489595",
     "name": "陳建成",
     "org_name": "SINORICH SECURITIES",
@@ -2449,6 +2457,10 @@
     "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-09"
@@ -13969,103 +13981,6 @@
     "special_companies": "绿城管理控股"
   },
   {
-    "uid": "578504",
-    "name": "姜好幸",
-    "org_name": "东吴证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "房地产首席分析师",
-    "department": "研究所",
-    "last_interaction_time": "2026-03-16 20:00:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "贝壳",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-16",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第四季度及全年业绩电话会"
-      },
-      {
-        "time": "2025-11-10",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第三季度业绩电话会"
-      },
-      {
-        "time": "2024-03-22",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-03-16",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第四季度及全年业绩电话会",
-        "duration": 80
-      },
-      {
-        "time": "2025-11-10",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第三季度业绩电话会",
-        "duration": 81
-      },
-      {
-        "time": "2024-03-22",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会",
-        "duration": 45
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "中海物业",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2026-03-22"
-      },
-      {
-        "company": "融创服务",
-        "time": "2026-03-22"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2026-03-22"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-11-04"
-      },
-      {
-        "company": "东吴证券研究所",
-        "time": "2025-11-04"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-05-15"
-      },
-      {
-        "company": "中国海外发展",
-        "time": "2025-03-31"
-      },
-      {
-        "company": "保利物业",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-03-20"
-      }
-    ],
-    "special_companies": "保利物业"
-  },
-  {
     "uid": "440370",
     "name": "高朕逸",
     "org_name": "摩根大通证券（亚太）有限公司",
@@ -14212,6 +14127,103 @@
       }
     ],
     "special_companies": "保利物业,新城悦服务,绿城中国"
+  },
+  {
+    "uid": "578504",
+    "name": "姜好幸",
+    "org_name": "东吴证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "房地产首席分析师",
+    "department": "研究所",
+    "last_interaction_time": "2026-03-16 20:00:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "贝壳",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-16",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第四季度及全年业绩电话会"
+      },
+      {
+        "time": "2025-11-10",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第三季度业绩电话会"
+      },
+      {
+        "time": "2024-03-22",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-03-16",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第四季度及全年业绩电话会",
+        "duration": 80
+      },
+      {
+        "time": "2025-11-10",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第三季度业绩电话会",
+        "duration": 81
+      },
+      {
+        "time": "2024-03-22",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会",
+        "duration": 45
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2026-03-22"
+      },
+      {
+        "company": "融创服务",
+        "time": "2026-03-22"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2026-03-22"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-11-04"
+      },
+      {
+        "company": "东吴证券研究所",
+        "time": "2025-11-04"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-05-15"
+      },
+      {
+        "company": "中国海外发展",
+        "time": "2025-03-31"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-03-20"
+      }
+    ],
+    "special_companies": "保利物业"
   },
   {
     "uid": "612376",
@@ -14408,6 +14420,14 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "国泰海通",
         "time": "2026-03-31"
@@ -24670,6 +24690,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "比亚迪",
         "time": "2026-04-01"
       },
@@ -24949,100 +24973,6 @@
     "special_companies": "万物云,保利物业,信義玻璃"
   },
   {
-    "uid": "334834",
-    "name": "余阳鸥翔",
-    "org_name": "香港上海汇丰银行有限公司",
-    "org_type": "银行",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "房地产业务亚太区研究",
-    "last_interaction_time": "2025-11-10 20:02:06",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "贝壳",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2025-11-10",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第三季度业绩电话会"
-      },
-      {
-        "time": "2025-08-24",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第二季度业绩电话会"
-      },
-      {
-        "time": "2024-08-12",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2024年第二季度业绩电话会"
-      },
-      {
-        "time": "2024-03-14",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2025-11-10",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第三季度业绩电话会",
-        "duration": 32
-      },
-      {
-        "time": "2025-08-26",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第二季度业绩电话会",
-        "duration": 72
-      },
-      {
-        "time": "2024-08-12",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2024年第二季度业绩电话会",
-        "duration": 70
-      },
-      {
-        "time": "2024-03-14",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "世茂服务",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-24"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "282778",
     "name": "李心圆",
     "org_name": "花旗环球金融亚洲有限公司",
@@ -25135,6 +25065,100 @@
       }
     ],
     "special_companies": "万物云,世茂服务,保利物业,卓越商企服务,建业新生活,招商蛇口,新城悦服务,新希望服务,滨江服务,碧桂园服务,金茂服务"
+  },
+  {
+    "uid": "334834",
+    "name": "余阳鸥翔",
+    "org_name": "香港上海汇丰银行有限公司",
+    "org_type": "银行",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "房地产业务亚太区研究",
+    "last_interaction_time": "2025-11-10 20:02:06",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "贝壳",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2025-11-10",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第三季度业绩电话会"
+      },
+      {
+        "time": "2025-08-24",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第二季度业绩电话会"
+      },
+      {
+        "time": "2024-08-12",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2024年第二季度业绩电话会"
+      },
+      {
+        "time": "2024-03-14",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会"
+      }
+    ],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2025-11-10",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第三季度业绩电话会",
+        "duration": 32
+      },
+      {
+        "time": "2025-08-26",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2025年第二季度业绩电话会",
+        "duration": 72
+      },
+      {
+        "time": "2024-08-12",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2024年第二季度业绩电话会",
+        "duration": 70
+      },
+      {
+        "time": "2024-03-14",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "世茂服务",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-24"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "282787",
@@ -52150,119 +52174,6 @@
     "special_companies": "万物云,中国动向,中石化冠德,中集集团,信義玻璃,协合新能源,小米集团-W,康哲药业,百果园集团,百融智能,美的置业,联邦制药,药师帮,贝康医疗,金风科技,雅生活服务"
   },
   {
-    "uid": "499718",
-    "name": "蔣明昊",
-    "org_name": "摩根士丹利亚洲有限公司",
-    "org_type": "境外银行",
-    "cert_type": "卖方分析师",
-    "position": "股票分析师",
-    "department": "",
-    "last_interaction_time": "2025-03-18 20:01:37",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "贝壳",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-03-18",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2024年第四季度及全年业绩电话会"
-      },
-      {
-        "time": "2024-03-14",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-03-18",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2024年第四季度及全年业绩电话会",
-        "duration": 78
-      },
-      {
-        "time": "2024-03-14",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会",
-        "duration": 2
-      },
-      {
-        "time": "2024-03-14",
-        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会",
-        "duration": 77
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "保利物业",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "滨江集团",
-        "time": "2024-08-30"
-      },
-      {
-        "company": "中海物业",
-        "time": "2024-08-27"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2024-08-22"
-      },
-      {
-        "company": "保利发展",
-        "time": "2024-08-20"
-      },
-      {
-        "company": "中国金茂",
-        "time": "2024-08-19"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2024-03-21"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2024-03-20"
-      },
-      {
-        "company": "贝壳",
-        "time": "2024-03-14"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2024-03-14"
-      },
-      {
-        "company": "万科A",
-        "time": "2023-08-31"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2023-08-23"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "招商蛇口",
-        "time": "2023-03-21"
-      }
-    ],
-    "special_companies": "中国海外宏洋集团,中国金茂,保利发展,宝龙商业,建发国际集团,招商蛇口,新城发展,星盛商业,深圳控股,碧桂园,绿城中国,绿城管理控股,融创中国"
-  },
-  {
     "uid": "434225",
     "name": "王天瑜",
     "org_name": "南方基金管理股份有限公司",
@@ -52382,6 +52293,119 @@
       }
     ],
     "special_companies": "万物云,保利物业,宝龙商业,招商蛇口,新鸿基公司,星盛商业,滨江服务,碧桂园,绿城中国,绿城服务,绿城管理控股,越秀地产,越秀服务"
+  },
+  {
+    "uid": "499718",
+    "name": "蔣明昊",
+    "org_name": "摩根士丹利亚洲有限公司",
+    "org_type": "境外银行",
+    "cert_type": "卖方分析师",
+    "position": "股票分析师",
+    "department": "",
+    "last_interaction_time": "2025-03-18 20:01:37",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "贝壳",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-03-18",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2024年第四季度及全年业绩电话会"
+      },
+      {
+        "time": "2024-03-14",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-03-18",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2024年第四季度及全年业绩电话会",
+        "duration": 78
+      },
+      {
+        "time": "2024-03-14",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会",
+        "duration": 2
+      },
+      {
+        "time": "2024-03-14",
+        "meet_title": "贝壳（02423.HK，BEKE.US）2023年第四季度及全年业绩电话会",
+        "duration": 77
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "保利物业",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "滨江集团",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "中海物业",
+        "time": "2024-08-27"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-08-22"
+      },
+      {
+        "company": "保利发展",
+        "time": "2024-08-20"
+      },
+      {
+        "company": "中国金茂",
+        "time": "2024-08-19"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2024-03-21"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2024-03-20"
+      },
+      {
+        "company": "贝壳",
+        "time": "2024-03-14"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2024-03-14"
+      },
+      {
+        "company": "万科A",
+        "time": "2023-08-31"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2023-08-23"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2023-03-21"
+      }
+    ],
+    "special_companies": "中国海外宏洋集团,中国金茂,保利发展,宝龙商业,建发国际集团,招商蛇口,新城发展,星盛商业,深圳控股,碧桂园,绿城中国,绿城管理控股,融创中国"
   },
   {
     "uid": "495922",
@@ -64641,6 +64665,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "宁德时代",
         "time": "2026-04-13"
@@ -81145,6 +81173,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "宁德时代",
+        "time": "2026-04-15"
+      },
       {
         "company": "泡泡玛特",
         "time": "2026-03-25"

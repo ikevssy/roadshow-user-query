@@ -15039,6 +15039,57 @@
     "special_companies": "华熙生物,卓越商企服务"
   },
   {
+    "uid": "283910",
+    "name": "周梓霖",
+    "org_name": "Infinity Asset Management, LTD (Hong Kong)",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "首席投資官",
+    "department": "資產管理",
+    "last_interaction_time": "2025-08-21 17:00:58",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "名创优品",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "名创优品（09896.HK，MNSO.US）2025年第二季度业绩电话会"
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "名创优品（MNSO.US）2024年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-08-30",
+        "meet_title": "名创优品（MNSO.US）2024年第二季度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "神州控股",
+        "time": "2025-09-05"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-08-29"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "273655",
     "name": "黄旭昭",
     "org_name": "广州哲望投资管理合伙企业（有限合伙）",
@@ -15438,57 +15489,6 @@
     "special_companies": "万物云,世茂服务,中信证券,保利发展,保利物业,呷哺呷哺,小米集团-W,建发物业,招商蛇口,招商银行,新城发展,新城悦服务,新城控股,新希望服务,易居企业控股,比亚迪,永升服务,滨江服务,申万宏源,碧桂园,碧桂园服务,绿城中国,绿城服务,绿城管理控股,美的置业,融创中国,融创服务,越秀地产,金茂服务,雅生活服务,顺丰同城"
   },
   {
-    "uid": "283910",
-    "name": "周梓霖",
-    "org_name": "Infinity Asset Management, LTD (Hong Kong)",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "首席投資官",
-    "department": "資產管理",
-    "last_interaction_time": "2025-08-21 17:00:58",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "名创优品",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "名创优品（09896.HK，MNSO.US）2025年第二季度业绩电话会"
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "名创优品（MNSO.US）2024年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-08-30",
-        "meet_title": "名创优品（MNSO.US）2024年第二季度业绩电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "比亚迪",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "保利物业",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "神州控股",
-        "time": "2025-09-05"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2025-08-29"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "606815",
     "name": "崔颖新",
     "org_name": "善恆集團有限公司",
@@ -15759,6 +15759,14 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "国泰海通",
         "time": "2026-03-31"
@@ -23757,6 +23765,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "宁德时代",
+        "time": "2026-04-15"
+      },
       {
         "company": "泡泡玛特",
         "time": "2026-03-25"
@@ -32924,6 +32936,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-09"
@@ -51200,6 +51216,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "工业富联",
+        "time": "2026-04-15"
+      },
       {
         "company": "碧桂园服务",
         "time": "2024-08-22"

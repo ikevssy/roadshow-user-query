@@ -15020,6 +15020,101 @@
     "special_companies": "星盛商业,绿城服务"
   },
   {
+    "uid": "347009",
+    "name": "朱音Cara Zhu",
+    "org_name": "摩根士丹利",
+    "org_type": "其他机构投资者",
+    "cert_type": "卖方分析师",
+    "position": "Vice President",
+    "department": "Research",
+    "last_interaction_time": "2024-03-21 10:02:43",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "星盛商业",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-20",
+        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会"
+      },
+      {
+        "time": "2023-08-30",
+        "meet_title": "星盛商业（6668.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-21",
+        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会",
+        "duration": 5
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-05-14"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2025-03-18"
+      }
+    ],
+    "special_companies": "万物云,招商蛇口,绿城管理控股"
+  },
+  {
     "uid": "14555",
     "name": "李興文",
     "org_name": "工银国际证券研究有限公司",
@@ -15253,101 +15348,6 @@
       }
     ],
     "special_companies": "万物云,中国交建,中国建筑,中国电信,中国金茂,中海物业,宝龙商业,招商局商业房托,招商蛇口,新世界发展,新城悦服务,新希望服务,新鸿基公司,滨江服务,碧桂园,碧桂园服务,绿城中国,绿城管理控股,绿景中国地产,美的置业,金科服务,金茂服务"
-  },
-  {
-    "uid": "347009",
-    "name": "朱音Cara Zhu",
-    "org_name": "摩根士丹利",
-    "org_type": "其他机构投资者",
-    "cert_type": "卖方分析师",
-    "position": "Vice President",
-    "department": "Research",
-    "last_interaction_time": "2024-03-21 10:02:43",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "星盛商业",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-20",
-        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会"
-      },
-      {
-        "time": "2023-08-30",
-        "meet_title": "星盛商业（6668.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-21",
-        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会",
-        "duration": 5
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "阿里巴巴-W",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "拼多多",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "名创优品",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-05-14"
-      },
-      {
-        "company": "招商蛇口",
-        "time": "2025-03-18"
-      }
-    ],
-    "special_companies": "万物云,招商蛇口,绿城管理控股"
   },
   {
     "uid": "503291",
@@ -17107,6 +17107,82 @@
     "special_companies": "万物云,世茂服务,中原建业,中国海外宏洋集团,中海物业,保利物业,卓越商企服务,合景悠活,合景泰富集团,宝龙商业,建业新生活,建发物业,招商局商业房托,招商蛇口,新城控股,星盛商业,深圳控股,碧桂园,碧桂园服务,绿城中国,绿城服务,绿城管理控股,美的置业,融创服务,远洋服务,金科服务,雅生活服务"
   },
   {
+    "uid": "434635",
+    "name": "程艺新",
+    "org_name": "深圳市路演中网络科技有限公司",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "",
+    "department": "",
+    "last_interaction_time": "2024-03-21 10:00:31",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "星盛商业",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2024-03-21",
+        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会"
+      },
+      {
+        "time": "2023-10-27",
+        "meet_title": "星盛商业（6668.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
+      },
+      {
+        "time": "2023-08-31",
+        "meet_title": "星盛商业（6668.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "星盛商业（6668.HK）2022年度业绩投资者推介会"
+      }
+    ],
+    "attend_count": 5,
+    "attend_records": [
+      {
+        "time": "2024-03-21",
+        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会",
+        "duration": 74
+      },
+      {
+        "time": "2023-10-27",
+        "meet_title": "星盛商业（6668.HK）线上交流会｜\"2023上市公司路演大会•第五季\"",
+        "duration": 38
+      },
+      {
+        "time": "2023-07-03",
+        "meet_title": "星盛商业（6668.HK）2022年度业绩投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-06-29",
+        "meet_title": "星盛商业（6668.HK）2022年中期业绩投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-31",
+        "meet_title": "星盛商业（6668.HK）2022年度业绩投资者推介会",
+        "duration": 24
+      },
+      {
+        "time": "2023-03-31",
+        "meet_title": "星盛商业（6668.HK）2022年度业绩投资者推介会",
+        "duration": 11
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "珀莱雅",
+        "time": "2023-09-05"
+      },
+      {
+        "company": "中广核技",
+        "time": "2023-09-05"
+      }
+    ],
+    "special_companies": "天齐锂业"
+  },
+  {
     "uid": "441056",
     "name": "Dexter Chun",
     "org_name": "DBS Bank （Hong Kong） Limited",
@@ -17334,82 +17410,6 @@
       }
     ],
     "special_companies": "中国建筑,保利物业,建发国际集团,招商局商业房托,碧桂园服务,绿城中国,绿城管理控股"
-  },
-  {
-    "uid": "434635",
-    "name": "程艺新",
-    "org_name": "深圳市路演中网络科技有限公司",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "",
-    "department": "",
-    "last_interaction_time": "2024-03-21 10:00:31",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "星盛商业",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2024-03-21",
-        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会"
-      },
-      {
-        "time": "2023-10-27",
-        "meet_title": "星盛商业（6668.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
-      },
-      {
-        "time": "2023-08-31",
-        "meet_title": "星盛商业（6668.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "星盛商业（6668.HK）2022年度业绩投资者推介会"
-      }
-    ],
-    "attend_count": 5,
-    "attend_records": [
-      {
-        "time": "2024-03-21",
-        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会",
-        "duration": 74
-      },
-      {
-        "time": "2023-10-27",
-        "meet_title": "星盛商业（6668.HK）线上交流会｜\"2023上市公司路演大会•第五季\"",
-        "duration": 38
-      },
-      {
-        "time": "2023-07-03",
-        "meet_title": "星盛商业（6668.HK）2022年度业绩投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-06-29",
-        "meet_title": "星盛商业（6668.HK）2022年中期业绩投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-31",
-        "meet_title": "星盛商业（6668.HK）2022年度业绩投资者推介会",
-        "duration": 24
-      },
-      {
-        "time": "2023-03-31",
-        "meet_title": "星盛商业（6668.HK）2022年度业绩投资者推介会",
-        "duration": 11
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "珀莱雅",
-        "time": "2023-09-05"
-      },
-      {
-        "company": "中广核技",
-        "time": "2023-09-05"
-      }
-    ],
-    "special_companies": "天齐锂业"
   },
   {
     "uid": "9851",
@@ -17913,65 +17913,6 @@
     "special_companies": "万物云,碧桂园服务,药明生物"
   },
   {
-    "uid": "347734",
-    "name": "卢福红",
-    "org_name": "深圳市安际资产管理有限公司",
-    "org_type": "财富管理公司",
-    "cert_type": "个人",
-    "position": "分析师",
-    "department": "",
-    "last_interaction_time": "2024-03-21 10:00:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "星盛商业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-20",
-        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-21",
-        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "恒瑞医药",
-        "time": "2026-04-13"
-      },
-      {
-        "company": "药明康德",
-        "time": "2025-10-26"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2024-03-26"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2024-03-22"
-      },
-      {
-        "company": "万科A",
-        "time": "2024-03-22"
-      },
-      {
-        "company": "星盛商业",
-        "time": "2024-03-20"
-      }
-    ],
-    "special_companies": "宝龙商业,星盛商业,绿城中国"
-  },
-  {
     "uid": "282778",
     "name": "李心圆",
     "org_name": "花旗环球金融亚洲有限公司",
@@ -18033,6 +17974,65 @@
       }
     ],
     "special_companies": "万物云,世茂服务,保利物业,卓越商企服务,建业新生活,招商蛇口,新城悦服务,新希望服务,滨江服务,碧桂园服务,金茂服务"
+  },
+  {
+    "uid": "347734",
+    "name": "卢福红",
+    "org_name": "深圳市安际资产管理有限公司",
+    "org_type": "财富管理公司",
+    "cert_type": "个人",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2024-03-21 10:00:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "星盛商业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-20",
+        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-21",
+        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "恒瑞医药",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "药明康德",
+        "time": "2025-10-26"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "万科A",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "星盛商业",
+        "time": "2024-03-20"
+      }
+    ],
+    "special_companies": "宝龙商业,星盛商业,绿城中国"
   },
   {
     "uid": "493692",
@@ -18356,59 +18356,6 @@
     "special_companies": ""
   },
   {
-    "uid": "424806",
-    "name": "陈真",
-    "org_name": "深圳市前海双城投资管理有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2024-03-21 10:00:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "星盛商业",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2024-03-20",
-        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会"
-      },
-      {
-        "time": "2023-08-25",
-        "meet_title": "星盛商业（6668.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-20",
-        "meet_title": "星盛商业（6668.HK）2022年度业绩投资者推介会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2024-03-21",
-        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会",
-        "duration": 74
-      },
-      {
-        "time": "2023-08-31",
-        "meet_title": "星盛商业（6668.HK）2023年中期业绩发布会",
-        "duration": 60
-      },
-      {
-        "time": "2023-03-31",
-        "meet_title": "星盛商业（6668.HK）2022年度业绩投资者推介会",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "华熙生物",
-        "time": "2023-03-24"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "493364",
     "name": "王永航",
     "org_name": "北京汇通资本有限公司",
@@ -18673,6 +18620,59 @@
       }
     ],
     "special_companies": "保利物业,合景悠活,国证国际证券(香港)研究所,宝龙商业,建业新生活,捷利交易宝,新希望服务,滨江服务,碧桂园服务,绿城服务"
+  },
+  {
+    "uid": "424806",
+    "name": "陈真",
+    "org_name": "深圳市前海双城投资管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "个人",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2024-03-21 10:00:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "星盛商业",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2024-03-20",
+        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会"
+      },
+      {
+        "time": "2023-08-25",
+        "meet_title": "星盛商业（6668.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-20",
+        "meet_title": "星盛商业（6668.HK）2022年度业绩投资者推介会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2024-03-21",
+        "meet_title": "星盛商业（6668.HK）2023年度业绩投资者推介会",
+        "duration": 74
+      },
+      {
+        "time": "2023-08-31",
+        "meet_title": "星盛商业（6668.HK）2023年中期业绩发布会",
+        "duration": 60
+      },
+      {
+        "time": "2023-03-31",
+        "meet_title": "星盛商业（6668.HK）2022年度业绩投资者推介会",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "华熙生物",
+        "time": "2023-03-24"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "334186",
@@ -26587,6 +26587,14 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "国泰海通",
         "time": "2026-03-31"

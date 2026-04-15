@@ -3391,46 +3391,6 @@
     "special_companies": ""
   },
   {
-    "uid": "646431",
-    "name": "李龙飞",
-    "org_name": "玫德集团有限公司",
-    "org_type": "一般企业",
-    "cert_type": "金融机构",
-    "position": "业务三部负责人",
-    "department": "",
-    "last_interaction_time": "2026-03-27 14:58:52",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "佛朗斯股份",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会",
-        "duration": 1
-      },
-      {
-        "time": "2026-03-27",
-        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "佛朗斯股份",
-        "time": "2026-03-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "632744",
     "name": "王赛",
     "org_name": "广州佛朗斯股份有限公司",
@@ -3474,6 +3434,46 @@
       {
         "company": "佛朗斯股份",
         "time": "2025-08-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "646431",
+    "name": "李龙飞",
+    "org_name": "玫德集团有限公司",
+    "org_type": "一般企业",
+    "cert_type": "金融机构",
+    "position": "业务三部负责人",
+    "department": "",
+    "last_interaction_time": "2026-03-27 14:58:52",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "佛朗斯股份",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会",
+        "duration": 1
+      },
+      {
+        "time": "2026-03-27",
+        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-03-27"
       }
     ],
     "special_companies": ""
@@ -7418,6 +7418,14 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "国泰海通",
         "time": "2026-03-31"
