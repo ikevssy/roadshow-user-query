@@ -16808,6 +16808,14 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "国泰海通",
         "time": "2026-03-31"
       },
@@ -23769,36 +23777,6 @@
     "special_companies": "华润医疗,卓越教育集团,森松国际,美的置业,药明生物"
   },
   {
-    "uid": "609130",
-    "name": "张渤昊",
-    "org_name": "国盛证券有限责任公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "社服行业实习生",
-    "department": "研究所",
-    "last_interaction_time": "2024-08-09 10:28:01",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "卓越教育集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-07",
-        "meet_title": "卓越教育集团（03978.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-09",
-        "meet_title": "卓越教育集团（03978.HK）2024年中期业绩发布会",
-        "duration": 12
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "17397",
     "name": "杨爱琳",
     "org_name": "青骊投资管理（上海）有限公司",
@@ -23827,6 +23805,36 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": "珀莱雅"
+  },
+  {
+    "uid": "609130",
+    "name": "张渤昊",
+    "org_name": "国盛证券有限责任公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "社服行业实习生",
+    "department": "研究所",
+    "last_interaction_time": "2024-08-09 10:28:01",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "卓越教育集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-07",
+        "meet_title": "卓越教育集团（03978.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-09",
+        "meet_title": "卓越教育集团（03978.HK）2024年中期业绩发布会",
+        "duration": 12
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "276591",

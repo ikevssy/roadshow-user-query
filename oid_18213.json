@@ -7972,36 +7972,6 @@
     "special_companies": ""
   },
   {
-    "uid": "494004",
-    "name": "潘宇",
-    "org_name": "西部利得基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2023-10-24 15:10:53",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-10-17",
-        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-10-24",
-        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会",
-        "duration": 51
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "494232",
     "name": "何卉",
     "org_name": "青榕资产管理有限公司",
@@ -8079,6 +8049,36 @@
       }
     ],
     "special_companies": "万物云,中国通信服务,华熙生物,国证国际证券(香港)研究所,招商银行,碧桂园服务"
+  },
+  {
+    "uid": "494004",
+    "name": "潘宇",
+    "org_name": "西部利得基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2023-10-24 15:10:53",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-10-17",
+        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-10-24",
+        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会",
+        "duration": 51
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "502967",
@@ -10115,6 +10115,58 @@
     "special_companies": ""
   },
   {
+    "uid": "501643",
+    "name": "祁诗皓",
+    "org_name": "博裕投资有限公司",
+    "org_type": "一般企业",
+    "cert_type": "机构投资者",
+    "position": "副总裁",
+    "department": "",
+    "last_interaction_time": "2023-10-24 15:05:53",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-10-23",
+        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会"
+      },
+      {
+        "time": "2023-08-29",
+        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-10-24",
+        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会",
+        "duration": 57
+      },
+      {
+        "time": "2023-08-30",
+        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会",
+        "duration": 40
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "万物云",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "金科服务",
+        "time": "2024-03-28"
+      }
+    ],
+    "special_companies": "保利物业,金科服务"
+  },
+  {
     "uid": "494535",
     "name": "Nancy Xu",
     "org_name": "Citadel International",
@@ -10166,58 +10218,6 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "501643",
-    "name": "祁诗皓",
-    "org_name": "博裕投资有限公司",
-    "org_type": "一般企业",
-    "cert_type": "机构投资者",
-    "position": "副总裁",
-    "department": "",
-    "last_interaction_time": "2023-10-24 15:05:53",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-10-23",
-        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会"
-      },
-      {
-        "time": "2023-08-29",
-        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-10-24",
-        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会",
-        "duration": 57
-      },
-      {
-        "time": "2023-08-30",
-        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会",
-        "duration": 40
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "万物云",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-03-19"
-      },
-      {
-        "company": "金科服务",
-        "time": "2024-03-28"
-      }
-    ],
-    "special_companies": "保利物业,金科服务"
   },
   {
     "uid": "379340",
@@ -10598,6 +10598,40 @@
     "special_companies": "国证国际证券(香港)研究所,路演中"
   },
   {
+    "uid": "495866",
+    "name": "刘意纯",
+    "org_name": "中邮证券有限责任公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "交易员",
+    "department": "自营投资部",
+    "last_interaction_time": "2023-10-24 15:05:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-10-18",
+        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会"
+      },
+      {
+        "time": "2023-04-18",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-10-24",
+        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "584580",
     "name": "林锦煜",
     "org_name": "Nippon Life Global Investors Singapore, LTD",
@@ -10631,40 +10665,6 @@
       }
     ],
     "special_companies": "珀莱雅"
-  },
-  {
-    "uid": "495866",
-    "name": "刘意纯",
-    "org_name": "中邮证券有限责任公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "交易员",
-    "department": "自营投资部",
-    "last_interaction_time": "2023-10-24 15:05:19",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-10-18",
-        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会"
-      },
-      {
-        "time": "2023-04-18",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-10-24",
-        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "576633",
@@ -11303,6 +11303,41 @@
     "special_companies": ""
   },
   {
+    "uid": "584430",
+    "name": "谭佩佩",
+    "org_name": "上海胤胜资产管理有限公司",
+    "org_type": "其他私募投资基金管理人(未备案)",
+    "cert_type": "个人",
+    "position": "研究员",
+    "department": "投研部",
+    "last_interaction_time": "2023-10-24 15:05:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-10-17",
+        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-10-24",
+        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会",
+        "duration": 58
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "珀莱雅",
+        "time": "2023-10-24"
+      }
+    ],
+    "special_companies": "珀莱雅"
+  },
+  {
     "uid": "496823",
     "name": "何方圆",
     "org_name": "无锡汇蠡投资管理中心（有限合伙）",
@@ -11344,41 +11379,6 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "584430",
-    "name": "谭佩佩",
-    "org_name": "上海胤胜资产管理有限公司",
-    "org_type": "其他私募投资基金管理人(未备案)",
-    "cert_type": "个人",
-    "position": "研究员",
-    "department": "投研部",
-    "last_interaction_time": "2023-10-24 15:05:07",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-10-17",
-        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-10-24",
-        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会",
-        "duration": 58
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "珀莱雅",
-        "time": "2023-10-24"
-      }
-    ],
-    "special_companies": "珀莱雅"
   },
   {
     "uid": "425193",
@@ -11499,49 +11499,6 @@
     "special_companies": "粉笔"
   },
   {
-    "uid": "577986",
-    "name": "姜人文",
-    "org_name": "野村东方国际证券有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "研究助理",
-    "department": "研究部",
-    "last_interaction_time": "2023-10-24 15:05:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2023-10-17",
-        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会"
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会"
-      },
-      {
-        "time": "2023-04-19",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-10-24",
-        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会",
-        "duration": 58
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "珀莱雅",
-        "time": "2023-04-19"
-      }
-    ],
-    "special_companies": "珀莱雅"
-  },
-  {
     "uid": "494865",
     "name": "Haiwen Luo",
     "org_name": "Jarislowsky, Fraser, LTD",
@@ -11652,49 +11609,6 @@
     "special_companies": "永升服务,沛嘉医疗,珀莱雅,碧桂园服务,绿城管理控股,药明生物,锦欣生殖"
   },
   {
-    "uid": "276368",
-    "name": "Huilinq Yu",
-    "org_name": "BALYASNY ASSET MANAGEMENT （HONG KONG） LTD",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Analyst",
-    "department": "",
-    "last_interaction_time": "2023-10-24 15:05:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-10-24",
-        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会"
-      },
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      },
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-10-24",
-        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会",
-        "duration": 58
-      },
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 80
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "506297",
     "name": "张宇晴",
     "org_name": "本营国际有限公司",
@@ -11796,6 +11710,49 @@
     "special_companies": ""
   },
   {
+    "uid": "276368",
+    "name": "Huilinq Yu",
+    "org_name": "BALYASNY ASSET MANAGEMENT （HONG KONG） LTD",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Analyst",
+    "department": "",
+    "last_interaction_time": "2023-10-24 15:05:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-10-24",
+        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会"
+      },
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      },
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-10-24",
+        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会",
+        "duration": 58
+      },
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 80
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "500771",
     "name": "陶姿岑",
     "org_name": "深圳华强鼎信投资有限公司",
@@ -11828,6 +11785,49 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "577986",
+    "name": "姜人文",
+    "org_name": "野村东方国际证券有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "研究助理",
+    "department": "研究部",
+    "last_interaction_time": "2023-10-24 15:05:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2023-10-17",
+        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会"
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会"
+      },
+      {
+        "time": "2023-04-19",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-10-24",
+        "meet_title": "珀莱雅（603605.SH）2023年第三季度业绩说明会",
+        "duration": 58
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "珀莱雅",
+        "time": "2023-04-19"
+      }
+    ],
+    "special_companies": "珀莱雅"
   },
   {
     "uid": "435812",
@@ -20266,45 +20266,6 @@
     "special_companies": ""
   },
   {
-    "uid": "583425",
-    "name": "朴初花",
-    "org_name": "Daishin Securities Co., Ltd",
-    "org_type": "境外投资公司",
-    "cert_type": "卖方分析师",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-08-30 15:05:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-29",
-        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-30",
-        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会",
-        "duration": 85
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "携程集团-S",
-        "time": "2024-08-23"
-      },
-      {
-        "company": "珀莱雅",
-        "time": "2023-08-30"
-      }
-    ],
-    "special_companies": "珀莱雅"
-  },
-  {
     "uid": "573943",
     "name": "童雅菁",
     "org_name": "深圳市元德投资管理有限公司",
@@ -20383,14 +20344,14 @@
     "special_companies": "珀莱雅"
   },
   {
-    "uid": "579592",
-    "name": "郭秋莲",
-    "org_name": "上海牛乎资产管理有限公司",
-    "org_type": "财富管理公司",
-    "cert_type": "缺少分类",
+    "uid": "583425",
+    "name": "朴初花",
+    "org_name": "Daishin Securities Co., Ltd",
+    "org_type": "境外投资公司",
+    "cert_type": "卖方分析师",
     "position": "研究员",
     "department": "",
-    "last_interaction_time": "2023-08-30 15:05:15",
+    "last_interaction_time": "2023-08-30 15:05:16",
     "last_interaction_behavior": "参会",
     "interaction_company": "珀莱雅",
     "apply_count": 1,
@@ -20409,68 +20370,34 @@
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
+    "subscribed_companies": [
+      {
+        "company": "携程集团-S",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "珀莱雅",
+        "time": "2023-08-30"
+      }
+    ],
+    "special_companies": "珀莱雅"
   },
   {
-    "uid": "578965",
-    "name": "刘众兴",
-    "org_name": "深圳和众行资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "总经理 投资总监",
+    "uid": "579592",
+    "name": "郭秋莲",
+    "org_name": "上海牛乎资产管理有限公司",
+    "org_type": "财富管理公司",
+    "cert_type": "缺少分类",
+    "position": "研究员",
     "department": "",
-    "last_interaction_time": "2023-08-30 15:05:11",
+    "last_interaction_time": "2023-08-30 15:05:15",
     "last_interaction_behavior": "参会",
     "interaction_company": "珀莱雅",
-    "apply_count": 2,
+    "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-08-26",
+        "time": "2023-08-29",
         "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会"
-      },
-      {
-        "time": "2023-04-13",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-08-30",
-        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会",
-        "duration": 51
-      },
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 48
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "33524",
-    "name": "刘岚",
-    "org_name": "嘉实基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "港股通投资策略组",
-    "last_interaction_time": "2023-08-30 15:05:11",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-08-30",
-        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会"
-      },
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
       }
     ],
     "attend_count": 1,
@@ -20583,6 +20510,79 @@
       }
     ],
     "special_companies": "国元国际,国证国际证券(香港)研究所,康宁医院,快手-W,敏华控股,联邦制药,药明生物"
+  },
+  {
+    "uid": "33524",
+    "name": "刘岚",
+    "org_name": "嘉实基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "港股通投资策略组",
+    "last_interaction_time": "2023-08-30 15:05:11",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-08-30",
+        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会"
+      },
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-30",
+        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会",
+        "duration": 85
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "578965",
+    "name": "刘众兴",
+    "org_name": "深圳和众行资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "总经理 投资总监",
+    "department": "",
+    "last_interaction_time": "2023-08-30 15:05:11",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-08-26",
+        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会"
+      },
+      {
+        "time": "2023-04-13",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-08-30",
+        "meet_title": "珀莱雅（603605.SH）2023半年度业绩说明会",
+        "duration": 51
+      },
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 48
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "351299",
@@ -30491,6 +30491,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-15"
+      },
+      {
         "company": "碧桂园服务",
         "time": "2024-08-22"
       },
@@ -31350,6 +31354,41 @@
     "special_companies": ""
   },
   {
+    "uid": "342625",
+    "name": "陈丽丽",
+    "org_name": "上海恒复投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理助理",
+    "department": "",
+    "last_interaction_time": "2023-04-21 15:12:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-13",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 74
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "江南布衣",
+        "time": "2025-03-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "431694",
     "name": "胡梦",
     "org_name": "深圳市翼虎投资管理有限公司",
@@ -31385,41 +31424,6 @@
       {
         "company": "珀莱雅",
         "time": "2023-04-19"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "342625",
-    "name": "陈丽丽",
-    "org_name": "上海恒复投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "基金经理助理",
-    "department": "",
-    "last_interaction_time": "2023-04-21 15:12:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-13",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 74
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "江南布衣",
-        "time": "2025-03-27"
       }
     ],
     "special_companies": ""
@@ -33587,6 +33591,36 @@
     "special_companies": ""
   },
   {
+    "uid": "283458",
+    "name": "姬雨楠",
+    "org_name": "友邦保险有限公司上海分公司",
+    "org_type": "保险公司",
+    "cert_type": "机构投资者",
+    "position": "",
+    "department": "高级分析师一股票",
+    "last_interaction_time": "2023-04-21 15:07:09",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-19",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "428405",
     "name": "秦瑶函",
     "org_name": "贝莱德基金管理有限公司",
@@ -33620,36 +33654,6 @@
       }
     ],
     "special_companies": "华润医疗"
-  },
-  {
-    "uid": "283458",
-    "name": "姬雨楠",
-    "org_name": "友邦保险有限公司上海分公司",
-    "org_type": "保险公司",
-    "cert_type": "机构投资者",
-    "position": "",
-    "department": "高级分析师一股票",
-    "last_interaction_time": "2023-04-21 15:07:09",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-19",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "265675",
@@ -33799,36 +33803,6 @@
     "special_companies": "珀莱雅"
   },
   {
-    "uid": "579199",
-    "name": "王哲",
-    "org_name": "杭州凯昇投资管理有限公司",
-    "org_type": "其他私募投资基金管理人",
-    "cert_type": "卖方分析师",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-04-21 15:07:00",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 82
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "504271",
     "name": "陈亮",
     "org_name": "长江证券股份有限公司",
@@ -33859,14 +33833,14 @@
     "special_companies": ""
   },
   {
-    "uid": "275865",
-    "name": "Shirlly Peng",
-    "org_name": "Aspex Management (HK), LTD",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Investment Analyst",
+    "uid": "579199",
+    "name": "王哲",
+    "org_name": "杭州凯昇投资管理有限公司",
+    "org_type": "其他私募投资基金管理人",
+    "cert_type": "卖方分析师",
+    "position": "研究员",
     "department": "",
-    "last_interaction_time": "2023-04-21 15:06:59",
+    "last_interaction_time": "2023-04-21 15:07:00",
     "last_interaction_behavior": "参会",
     "interaction_company": "珀莱雅",
     "apply_count": 1,
@@ -33881,10 +33855,10 @@
       {
         "time": "2023-04-21",
         "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 70
+        "duration": 82
       }
     ],
-    "is_first_attend": false,
+    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -33926,6 +33900,36 @@
       }
     ],
     "special_companies": "波司登,珀莱雅"
+  },
+  {
+    "uid": "275865",
+    "name": "Shirlly Peng",
+    "org_name": "Aspex Management (HK), LTD",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Investment Analyst",
+    "department": "",
+    "last_interaction_time": "2023-04-21 15:06:59",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 70
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "6202",
@@ -34033,36 +34037,6 @@
     "special_companies": ""
   },
   {
-    "uid": "494485",
-    "name": "姚咏絮",
-    "org_name": "上海明河投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究副总监",
-    "department": "",
-    "last_interaction_time": "2023-04-21 15:06:42",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-13",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 81
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "578948",
     "name": "黄清荷",
     "org_name": "弘毅远方基金管理有限公司",
@@ -34089,6 +34063,36 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "494485",
+    "name": "姚咏絮",
+    "org_name": "上海明河投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究副总监",
+    "department": "",
+    "last_interaction_time": "2023-04-21 15:06:42",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-13",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 81
+      }
+    ],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -34383,36 +34387,6 @@
     "special_companies": "珀莱雅"
   },
   {
-    "uid": "494380",
-    "name": "徐熠",
-    "org_name": "淡马锡投资咨询有限公司",
-    "org_type": "主权财富基金",
-    "cert_type": "机构投资者",
-    "position": "副总监",
-    "department": "投资部",
-    "last_interaction_time": "2023-04-21 15:06:28",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-13",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 6
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "574221",
     "name": "黃凱銘",
     "org_name": "東亞聯豊投資管理有限公司",
@@ -34458,6 +34432,36 @@
       }
     ],
     "special_companies": "珀莱雅"
+  },
+  {
+    "uid": "494380",
+    "name": "徐熠",
+    "org_name": "淡马锡投资咨询有限公司",
+    "org_type": "主权财富基金",
+    "cert_type": "机构投资者",
+    "position": "副总监",
+    "department": "投资部",
+    "last_interaction_time": "2023-04-21 15:06:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-13",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 6
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "426067",
@@ -34895,36 +34899,6 @@
     "special_companies": ""
   },
   {
-    "uid": "337976",
-    "name": "张昭丞",
-    "org_name": "上海丹羿投资管理合伙企业(普通合伙)",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-04-21 15:06:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 50
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "440974",
     "name": "余瑛紫",
     "org_name": "瓴仁投资",
@@ -34951,6 +34925,36 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "337976",
+    "name": "张昭丞",
+    "org_name": "上海丹羿投资管理合伙企业(普通合伙)",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-04-21 15:06:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 50
+      }
+    ],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -35208,41 +35212,6 @@
     "special_companies": ""
   },
   {
-    "uid": "579184",
-    "name": "雷环中",
-    "org_name": "Astroll Management Limited",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "首席投资官",
-    "department": "",
-    "last_interaction_time": "2023-04-21 15:05:53",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 0
-      },
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 80
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "501157",
     "name": "廖捷",
     "org_name": "方正证券股份有限公司",
@@ -35290,14 +35259,14 @@
     "special_companies": "361度,交个朋友控股,波司登"
   },
   {
-    "uid": "499801",
-    "name": "吴越",
-    "org_name": "东方红资产管理有限公司",
-    "org_type": "券商资管",
+    "uid": "579184",
+    "name": "雷环中",
+    "org_name": "Astroll Management Limited",
+    "org_type": "境外资产管理公司",
     "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "固定收益研究部",
-    "last_interaction_time": "2023-04-21 15:05:51",
+    "position": "首席投资官",
+    "department": "",
+    "last_interaction_time": "2023-04-21 15:05:53",
     "last_interaction_behavior": "参会",
     "interaction_company": "珀莱雅",
     "apply_count": 1,
@@ -35312,10 +35281,15 @@
       {
         "time": "2023-04-21",
         "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 57
+        "duration": 0
+      },
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 80
       }
     ],
-    "is_first_attend": false,
+    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -35346,6 +35320,36 @@
       }
     ],
     "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "499801",
+    "name": "吴越",
+    "org_name": "东方红资产管理有限公司",
+    "org_type": "券商资管",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "固定收益研究部",
+    "last_interaction_time": "2023-04-21 15:05:51",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -35615,41 +35619,6 @@
     "special_companies": ""
   },
   {
-    "uid": "436347",
-    "name": "李宇宸",
-    "org_name": "国海证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "商贸零售研究员",
-    "department": "研究所",
-    "last_interaction_time": "2023-04-21 15:05:42",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-20",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 82
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "九毛九",
-        "time": "2025-03-31"
-      }
-    ],
-    "special_companies": "九毛九"
-  },
-  {
     "uid": "506472",
     "name": "錢辰悦",
     "org_name": "摩根士丹利亚洲有限公司",
@@ -35683,6 +35652,41 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "436347",
+    "name": "李宇宸",
+    "org_name": "国海证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "商贸零售研究员",
+    "department": "研究所",
+    "last_interaction_time": "2023-04-21 15:05:42",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-20",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 82
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "九毛九",
+        "time": "2025-03-31"
+      }
+    ],
+    "special_companies": "九毛九"
   },
   {
     "uid": "493760",
@@ -35838,6 +35842,36 @@
     "special_companies": "中国电信,国证国际证券(香港)研究所"
   },
   {
+    "uid": "579180",
+    "name": "李禹蒙",
+    "org_name": "上海和谕私募基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-04-21 15:05:34",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-20",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 83
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "280032",
     "name": "唐苓",
     "org_name": "工银安盛资产管理有限公司",
@@ -35869,36 +35903,6 @@
       }
     ],
     "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "579180",
-    "name": "李禹蒙",
-    "org_name": "上海和谕私募基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-04-21 15:05:34",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-20",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 83
-      }
-    ],
-    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -35941,6 +35945,76 @@
       }
     ],
     "special_companies": "珀莱雅"
+  },
+  {
+    "uid": "437169",
+    "name": "刘逸秋",
+    "org_name": "上海睿郡资产管理有限公司",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-04-21 15:05:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-17",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 0
+      },
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 80
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "敏华控股",
+        "time": "2024-05-15"
+      }
+    ],
+    "special_companies": "敏华控股"
+  },
+  {
+    "uid": "439479",
+    "name": "朱宇",
+    "org_name": "兴业基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2023-04-21 15:05:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-13",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 83
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "18142",
@@ -36017,76 +36091,6 @@
       }
     ],
     "special_companies": "JS环球生活,小米集团-W,快手-W,绿城管理控股"
-  },
-  {
-    "uid": "437169",
-    "name": "刘逸秋",
-    "org_name": "上海睿郡资产管理有限公司",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-04-21 15:05:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-17",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 0
-      },
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 80
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "敏华控股",
-        "time": "2024-05-15"
-      }
-    ],
-    "special_companies": "敏华控股"
-  },
-  {
-    "uid": "439479",
-    "name": "朱宇",
-    "org_name": "兴业基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2023-04-21 15:05:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-13",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 83
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "437039",
@@ -36258,6 +36262,36 @@
     "special_companies": ""
   },
   {
+    "uid": "579206",
+    "name": "Jia He",
+    "org_name": "杭州汇升投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-04-21 15:05:27",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 83
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "503540",
     "name": "隋爽",
     "org_name": "德邦证券股份有限公司研究所",
@@ -36293,36 +36327,6 @@
     "special_companies": ""
   },
   {
-    "uid": "579206",
-    "name": "Jia He",
-    "org_name": "杭州汇升投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-04-21 15:05:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 83
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "344471",
     "name": "周易",
     "org_name": "弘盛资本有限公司",
@@ -36346,36 +36350,6 @@
         "time": "2023-04-21",
         "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
         "duration": 12
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "503389",
-    "name": "曹蕾娜",
-    "org_name": "海通证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "批发和零售贸易行业分析师",
-    "department": "",
-    "last_interaction_time": "2023-04-21 15:05:25",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-13",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 84
       }
     ],
     "is_first_attend": false,
@@ -36418,20 +36392,20 @@
     "special_companies": ""
   },
   {
-    "uid": "494418",
-    "name": "张泽",
-    "org_name": "民生加银基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "权益研究部",
-    "last_interaction_time": "2023-04-21 15:05:24",
+    "uid": "503389",
+    "name": "曹蕾娜",
+    "org_name": "海通证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "批发和零售贸易行业分析师",
+    "department": "",
+    "last_interaction_time": "2023-04-21 15:05:25",
     "last_interaction_behavior": "参会",
     "interaction_company": "珀莱雅",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-04-21",
+        "time": "2023-04-13",
         "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
       }
     ],
@@ -36440,7 +36414,7 @@
       {
         "time": "2023-04-21",
         "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 83
+        "duration": 84
       }
     ],
     "is_first_attend": false,
@@ -36476,61 +36450,6 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "493505",
-    "name": "何红宇",
-    "org_name": "福州樟树私募基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "助理分析师",
-    "department": "",
-    "last_interaction_time": "2023-04-21 15:05:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-18",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 84
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "珀莱雅",
-        "time": "2023-04-18"
-      },
-      {
-        "company": "环球医疗",
-        "time": "2023-03-31"
-      },
-      {
-        "company": "碧桂园",
-        "time": "2023-03-30"
-      },
-      {
-        "company": "贝泰妮",
-        "time": "2023-03-30"
-      },
-      {
-        "company": "保利物业",
-        "time": "2023-03-30"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": "保利物业,碧桂园"
   },
   {
     "uid": "579137",
@@ -36607,6 +36526,120 @@
     "special_companies": ""
   },
   {
+    "uid": "494418",
+    "name": "张泽",
+    "org_name": "民生加银基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "权益研究部",
+    "last_interaction_time": "2023-04-21 15:05:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 83
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "493505",
+    "name": "何红宇",
+    "org_name": "福州樟树私募基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "助理分析师",
+    "department": "",
+    "last_interaction_time": "2023-04-21 15:05:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-18",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 84
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "珀莱雅",
+        "time": "2023-04-18"
+      },
+      {
+        "company": "环球医疗",
+        "time": "2023-03-31"
+      },
+      {
+        "company": "碧桂园",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "贝泰妮",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "保利物业",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": "保利物业,碧桂园"
+  },
+  {
+    "uid": "13133",
+    "name": "张家麟",
+    "org_name": "富兰克林华美证券投资信托股份有限公司",
+    "org_type": "QFII/RQFII",
+    "cert_type": "机构投资者",
+    "position": "资深研究员",
+    "department": "上海代表处",
+    "last_interaction_time": "2023-04-21 15:05:23",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-19",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国人寿",
+        "time": "2024-03-28"
+      }
+    ],
+    "special_companies": "中国人寿"
+  },
+  {
     "uid": "576197",
     "name": "陈徐升",
     "org_name": "国元证券股份有限公司",
@@ -36640,130 +36673,6 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": "华熙生物"
-  },
-  {
-    "uid": "13133",
-    "name": "张家麟",
-    "org_name": "富兰克林华美证券投资信托股份有限公司",
-    "org_type": "QFII/RQFII",
-    "cert_type": "机构投资者",
-    "position": "资深研究员",
-    "department": "上海代表处",
-    "last_interaction_time": "2023-04-21 15:05:23",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-19",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中国人寿",
-        "time": "2024-03-28"
-      }
-    ],
-    "special_companies": "中国人寿"
-  },
-  {
-    "uid": "499925",
-    "name": "Atena LIU",
-    "org_name": "BNP PARIBAS ASSET MANAGEMENT Asia Limited",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Research Analyst",
-    "department": "Greater China Equities",
-    "last_interaction_time": "2023-04-21 15:05:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-19",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 40
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "273229",
-    "name": "毛志伟",
-    "org_name": "上海利檀投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "投研部",
-    "last_interaction_time": "2023-04-21 15:05:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 84
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "504893",
-    "name": "Brian Cho",
-    "org_name": "花旗环球金融亚洲有限公司",
-    "org_type": "证券公司",
-    "cert_type": "服务机构",
-    "position": "Senior Associate",
-    "department": "花旗銀行研究部",
-    "last_interaction_time": "2023-04-21 15:05:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-13",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 1
-      },
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 83
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "499848",
@@ -36803,6 +36712,140 @@
       }
     ],
     "special_companies": "珀莱雅"
+  },
+  {
+    "uid": "504893",
+    "name": "Brian Cho",
+    "org_name": "花旗环球金融亚洲有限公司",
+    "org_type": "证券公司",
+    "cert_type": "服务机构",
+    "position": "Senior Associate",
+    "department": "花旗銀行研究部",
+    "last_interaction_time": "2023-04-21 15:05:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-13",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 1
+      },
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 83
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "273229",
+    "name": "毛志伟",
+    "org_name": "上海利檀投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "投研部",
+    "last_interaction_time": "2023-04-21 15:05:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 84
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "499925",
+    "name": "Atena LIU",
+    "org_name": "BNP PARIBAS ASSET MANAGEMENT Asia Limited",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Research Analyst",
+    "department": "Greater China Equities",
+    "last_interaction_time": "2023-04-21 15:05:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-19",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 40
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "506403",
+    "name": "劉子郡",
+    "org_name": "中信里昂证券有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2023-04-21 15:05:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-13",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 81
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "珀莱雅",
+        "time": "2023-04-13"
+      },
+      {
+        "company": "华熙生物",
+        "time": "2023-03-31"
+      }
+    ],
+    "special_companies": "华熙生物"
   },
   {
     "uid": "495690",
@@ -36849,45 +36892,6 @@
     "special_companies": "华熙生物,珀莱雅"
   },
   {
-    "uid": "506403",
-    "name": "劉子郡",
-    "org_name": "中信里昂证券有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "分析师",
-    "department": "",
-    "last_interaction_time": "2023-04-21 15:05:21",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-13",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 81
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "珀莱雅",
-        "time": "2023-04-13"
-      },
-      {
-        "company": "华熙生物",
-        "time": "2023-03-31"
-      }
-    ],
-    "special_companies": "华熙生物"
-  },
-  {
     "uid": "494566",
     "name": "楊星宛",
     "org_name": "盛博香港有限公司",
@@ -36929,36 +36933,6 @@
       }
     ],
     "special_companies": "361度,珀莱雅"
-  },
-  {
-    "uid": "503289",
-    "name": "王帅",
-    "org_name": "晨曦（深圳）私募证券投资基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "",
-    "last_interaction_time": "2023-04-21 15:05:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-13",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 80
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "503286",
@@ -37035,6 +37009,36 @@
     "special_companies": "金风科技"
   },
   {
+    "uid": "503289",
+    "name": "王帅",
+    "org_name": "晨曦（深圳）私募证券投资基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2023-04-21 15:05:20",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-13",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 80
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "353594",
     "name": "吴岑",
     "org_name": "西部证券股份有限公司",
@@ -37058,36 +37062,6 @@
         "time": "2023-04-21",
         "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
         "duration": 84
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "344785",
-    "name": "林千叶",
-    "org_name": "中国国际金融股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "经理",
-    "department": "研究部",
-    "last_interaction_time": "2023-04-21 15:05:19",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-13",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 47
       }
     ],
     "is_first_attend": false,
@@ -37122,6 +37096,71 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [],
+    "special_companies": "珀莱雅"
+  },
+  {
+    "uid": "344785",
+    "name": "林千叶",
+    "org_name": "中国国际金融股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "经理",
+    "department": "研究部",
+    "last_interaction_time": "2023-04-21 15:05:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-13",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 47
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "578950",
+    "name": "阮帅",
+    "org_name": "信达证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "医药行业分析师",
+    "department": "研究开发中心",
+    "last_interaction_time": "2023-04-21 15:05:18",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-13",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "珀莱雅",
+        "time": "2023-04-13"
+      }
+    ],
     "special_companies": "珀莱雅"
   },
   {
@@ -37163,41 +37202,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "578950",
-    "name": "阮帅",
-    "org_name": "信达证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "医药行业分析师",
-    "department": "研究开发中心",
-    "last_interaction_time": "2023-04-21 15:05:18",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-13",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "珀莱雅",
-        "time": "2023-04-13"
-      }
-    ],
-    "special_companies": "珀莱雅"
   },
   {
     "uid": "339354",
@@ -37269,101 +37273,6 @@
     "special_companies": ""
   },
   {
-    "uid": "503992",
-    "name": "雷韵",
-    "org_name": "汇丰环球投资管理(香港)有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "分析員",
-    "department": "股票投資管理",
-    "last_interaction_time": "2023-04-21 15:05:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-13",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 83
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "波司登",
-        "time": "2025-06-26"
-      }
-    ],
-    "special_companies": "中国中免"
-  },
-  {
-    "uid": "280059",
-    "name": "崔恒旭",
-    "org_name": "中国人寿养老保险股份有限公司",
-    "org_type": "保险公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2023-04-21 15:05:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-20",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "436220",
-    "name": "陈凤",
-    "org_name": "重庆莱美药业股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "证券事务代表",
-    "department": "",
-    "last_interaction_time": "2023-04-21 15:05:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "珀莱雅",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-13",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-21",
-        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
-        "duration": 70
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "503266",
     "name": "黄振星",
     "org_name": "浙商证券股份有限公司",
@@ -37420,6 +37329,101 @@
       }
     ],
     "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "280059",
+    "name": "崔恒旭",
+    "org_name": "中国人寿养老保险股份有限公司",
+    "org_type": "保险公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2023-04-21 15:05:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-20",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "503992",
+    "name": "雷韵",
+    "org_name": "汇丰环球投资管理(香港)有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "分析員",
+    "department": "股票投資管理",
+    "last_interaction_time": "2023-04-21 15:05:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-13",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 83
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "波司登",
+        "time": "2025-06-26"
+      }
+    ],
+    "special_companies": "中国中免"
+  },
+  {
+    "uid": "436220",
+    "name": "陈凤",
+    "org_name": "重庆莱美药业股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "证券事务代表",
+    "department": "",
+    "last_interaction_time": "2023-04-21 15:05:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "珀莱雅",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-13",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-21",
+        "meet_title": "珀莱雅（603605.SH）2022年度业绩说明会",
+        "duration": 70
+      }
+    ],
+    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },

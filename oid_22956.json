@@ -2874,85 +2874,6 @@
     "special_companies": ""
   },
   {
-    "uid": "275980",
-    "name": "张全国",
-    "org_name": "中信证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "高级副总裁",
-    "department": "研究部",
-    "last_interaction_time": "2025-08-28 09:39:34",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "美的置业控股有限公司2025年中期业绩推介会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "美的置业控股有限公司2025年中期业绩推介会",
-        "duration": 12
-      },
-      {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 45
-      },
-      {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 7
-      },
-      {
-        "time": "2023-08-30",
-        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会",
-        "duration": 68
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
-        "duration": 40
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "快手-W",
-        "time": "2024-11-20"
-      },
-      {
-        "company": "中海物业",
-        "time": "2024-08-27"
-      },
-      {
-        "company": "新城控股",
-        "time": "2023-04-03"
-      },
-      {
-        "company": "保利发展",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-03-27"
-      }
-    ],
-    "special_companies": "快手-W,碧桂园服务,绿城中国"
-  },
-  {
     "uid": "282299",
     "name": "稂与峰",
     "org_name": "维景价值资本",
@@ -3042,6 +2963,85 @@
       }
     ],
     "special_companies": "建发国际集团,永升服务,顺丰同城"
+  },
+  {
+    "uid": "275980",
+    "name": "张全国",
+    "org_name": "中信证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "高级副总裁",
+    "department": "研究部",
+    "last_interaction_time": "2025-08-28 09:39:34",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "美的置业控股有限公司2025年中期业绩推介会"
+      }
+    ],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "美的置业控股有限公司2025年中期业绩推介会",
+        "duration": 12
+      },
+      {
+        "time": "2024-08-19",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
+        "duration": 45
+      },
+      {
+        "time": "2024-08-19",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
+        "duration": 7
+      },
+      {
+        "time": "2023-08-30",
+        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会",
+        "duration": 68
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
+        "duration": 40
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "快手-W",
+        "time": "2024-11-20"
+      },
+      {
+        "company": "中海物业",
+        "time": "2024-08-27"
+      },
+      {
+        "company": "新城控股",
+        "time": "2023-04-03"
+      },
+      {
+        "company": "保利发展",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": "快手-W,碧桂园服务,绿城中国"
   },
   {
     "uid": "434152",
@@ -4399,105 +4399,6 @@
     "special_companies": "世茂服务,中国金茂,协合新能源,合景悠活,宝龙商业,新城发展,新希望服务,碧桂园,碧桂园服务,融创服务,金科服务,雅生活服务"
   },
   {
-    "uid": "435761",
-    "name": "刘慧婷",
-    "org_name": "中国国际金融股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "分析员",
-    "department": "财富服务中心",
-    "last_interaction_time": "2025-08-28 09:34:56",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-18",
-        "meet_title": "美的置业控股有限公司2025年中期业绩推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "美的置业控股有限公司2025年中期业绩推介会",
-        "duration": 17
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中国海外发展",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "新鸿基地产",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "美的置业",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-03-26"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2024-08-26"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "越秀服务",
-        "time": "2024-08-20"
-      }
-    ],
-    "special_companies": "万物云,中海物业,绿城中国"
-  },
-  {
     "uid": "505942",
     "name": "冯晖",
     "org_name": "安邦融资产管理有限公司",
@@ -4731,6 +4632,105 @@
       }
     ],
     "special_companies": "中汇集团,小鹏汽车-W,百融智能,碧桂园服务,阜博集团"
+  },
+  {
+    "uid": "435761",
+    "name": "刘慧婷",
+    "org_name": "中国国际金融股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析员",
+    "department": "财富服务中心",
+    "last_interaction_time": "2025-08-28 09:34:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-18",
+        "meet_title": "美的置业控股有限公司2025年中期业绩推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "美的置业控股有限公司2025年中期业绩推介会",
+        "duration": 17
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国海外发展",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "新鸿基地产",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "美的置业",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "越秀服务",
+        "time": "2024-08-20"
+      }
+    ],
+    "special_companies": "万物云,中海物业,绿城中国"
   },
   {
     "uid": "276332",
@@ -7881,36 +7881,6 @@
     "special_companies": ""
   },
   {
-    "uid": "320497",
-    "name": "沈醉",
-    "org_name": "美的置业控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "副总经理",
-    "department": "品牌营销中心",
-    "last_interaction_time": "2025-08-28 09:30:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "美的置业控股有限公司2025年中期业绩推介会",
-        "duration": 21
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "美的置业控股有限公司2024年度业绩推介会",
-        "duration": 38
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "636292",
     "name": "CHEN YIYI",
     "org_name": "花旗环球金融亚洲有限公司研究所",
@@ -7995,6 +7965,36 @@
         "time": "2025-08-08"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "320497",
+    "name": "沈醉",
+    "org_name": "美的置业控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "副总经理",
+    "department": "品牌营销中心",
+    "last_interaction_time": "2025-08-28 09:30:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "美的置业控股有限公司2025年中期业绩推介会",
+        "duration": 21
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "美的置业控股有限公司2024年度业绩推介会",
+        "duration": 38
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -9004,113 +9004,72 @@
     "special_companies": ""
   },
   {
-    "uid": "607742",
-    "name": "俞悦",
-    "org_name": "信达证券股份有限公司",
+    "uid": "434693",
+    "name": "李佳璠",
+    "org_name": "中国国际金融股份有限公司",
     "org_type": "证券公司",
     "cert_type": "卖方分析师",
-    "position": "地产、公用环保及REITS行业负责人",
-    "department": "研究所",
+    "position": "分析员",
+    "department": "研究部",
     "last_interaction_time": "2025-08-28 09:29:17",
     "last_interaction_behavior": "参会",
     "interaction_company": "美的置业",
-    "apply_count": 4,
+    "apply_count": 2,
     "apply_records": [
       {
         "time": "2025-08-19",
         "meet_title": "美的置业控股有限公司2025年中期业绩推介会"
       },
       {
-        "time": "2025-04-03",
-        "meet_title": "美的置业（3990.HK）智慧地产制造商——美的置业路演"
-      },
-      {
-        "time": "2025-03-24",
+        "time": "2025-03-19",
         "meet_title": "美的置业控股有限公司2024年度业绩推介会"
-      },
-      {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会"
       }
     ],
-    "attend_count": 3,
+    "attend_count": 2,
     "attend_records": [
       {
         "time": "2025-08-28",
         "meet_title": "美的置业控股有限公司2025年中期业绩推介会",
-        "duration": 22
+        "duration": 44
       },
       {
-        "time": "2025-04-03",
-        "meet_title": "美的置业（3990.HK）智慧地产制造商——美的置业路演",
-        "duration": 0
-      },
-      {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 50
+        "time": "2025-03-31",
+        "meet_title": "美的置业控股有限公司2024年度业绩推介会",
+        "duration": 42
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "中国海外宏洋集团",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "保利物业",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "万物云",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "宏信建发",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "新世界发展",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2026-03-21"
+        "company": "美的置业",
+        "time": "2025-03-19"
       },
       {
         "company": "碧桂园服务",
-        "time": "2026-03-21"
+        "time": "2025-03-19"
       },
       {
-        "company": "龙湖集团",
-        "time": "2026-03-21"
+        "company": "中国海外宏洋集团",
+        "time": "2025-03-19"
       },
       {
-        "company": "贝壳",
-        "time": "2026-03-21"
+        "company": "绿城服务",
+        "time": "2025-03-19"
       },
       {
-        "company": "美的置业",
-        "time": "2025-04-03"
+        "company": "保利物业",
+        "time": "2023-08-23"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-08-23"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-22"
       }
     ],
-    "special_companies": ""
+    "special_companies": "保利物业"
   },
   {
     "uid": "608893",
@@ -9396,74 +9355,6 @@
     "special_companies": "建发国际集团,新希望服务,滨江服务,美的置业"
   },
   {
-    "uid": "434693",
-    "name": "李佳璠",
-    "org_name": "中国国际金融股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "分析员",
-    "department": "研究部",
-    "last_interaction_time": "2025-08-28 09:29:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "美的置业控股有限公司2025年中期业绩推介会"
-      },
-      {
-        "time": "2025-03-19",
-        "meet_title": "美的置业控股有限公司2024年度业绩推介会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "美的置业控股有限公司2025年中期业绩推介会",
-        "duration": 44
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "美的置业控股有限公司2024年度业绩推介会",
-        "duration": 42
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "美的置业",
-        "time": "2025-03-19"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-03-19"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2025-03-19"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-03-19"
-      },
-      {
-        "company": "保利物业",
-        "time": "2023-08-23"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-08-23"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-03-22"
-      }
-    ],
-    "special_companies": "保利物业"
-  },
-  {
     "uid": "343565",
     "name": "Shirley Huang",
     "org_name": "哇牛投资管理有限公司",
@@ -9491,6 +9382,374 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "607742",
+    "name": "俞悦",
+    "org_name": "信达证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "地产、公用环保及REITS行业负责人",
+    "department": "研究所",
+    "last_interaction_time": "2025-08-28 09:29:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "美的置业控股有限公司2025年中期业绩推介会"
+      },
+      {
+        "time": "2025-04-03",
+        "meet_title": "美的置业（3990.HK）智慧地产制造商——美的置业路演"
+      },
+      {
+        "time": "2025-03-24",
+        "meet_title": "美的置业控股有限公司2024年度业绩推介会"
+      },
+      {
+        "time": "2024-08-19",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "美的置业控股有限公司2025年中期业绩推介会",
+        "duration": 22
+      },
+      {
+        "time": "2025-04-03",
+        "meet_title": "美的置业（3990.HK）智慧地产制造商——美的置业路演",
+        "duration": 0
+      },
+      {
+        "time": "2024-08-19",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
+        "duration": 50
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "万物云",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "龙湖集团",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "美的置业",
+        "time": "2025-04-03"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "496270",
+    "name": "蔡錦煌",
+    "org_name": "交银国际（亚洲）有限公司",
+    "org_type": "投资银行",
+    "cert_type": "服务机构",
+    "position": "執行董事",
+    "department": "股票資本市場",
+    "last_interaction_time": "2025-08-28 09:29:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 6,
+    "apply_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "美的置业控股有限公司2025年中期业绩推介会"
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "美的置业控股有限公司2024年度业绩推介会"
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "美的置业控股有限公司2023年度业绩推介会"
+      },
+      {
+        "time": "2023-08-30",
+        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会"
+      },
+      {
+        "time": "2023-04-21",
+        "meet_title": "美的置业（3990.HK）线上交流会｜\"2023上市公司路演大会•第四季\""
+      },
+      {
+        "time": "2023-03-24",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会"
+      }
+    ],
+    "attend_count": 6,
+    "attend_records": [
+      {
+        "time": "2025-03-31",
+        "meet_title": "美的置业控股有限公司2024年度业绩推介会",
+        "duration": 0
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "美的置业控股有限公司2023年度业绩推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-08-30",
+        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-04-24",
+        "meet_title": "美的置业（3990.HK）线上交流会｜\"2023上市公司路演大会•第四季\"",
+        "duration": 29
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中广核新能源",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "中国联通",
+        "time": "2025-08-17"
+      },
+      {
+        "company": "敏华控股",
+        "time": "2025-02-06"
+      },
+      {
+        "company": "中国动向",
+        "time": "2025-01-28"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2024-05-23"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2024-05-23"
+      },
+      {
+        "company": "中国电信",
+        "time": "2024-05-23"
+      },
+      {
+        "company": "新奥能源",
+        "time": "2023-05-21"
+      },
+      {
+        "company": "百融智能",
+        "time": "2023-05-17"
+      },
+      {
+        "company": "商汤-W",
+        "time": "2023-05-14"
+      },
+      {
+        "company": "中石化冠德",
+        "time": "2023-05-10"
+      },
+      {
+        "company": "百奥赛图",
+        "time": "2023-05-08"
+      },
+      {
+        "company": "和铂医药",
+        "time": "2023-05-04"
+      },
+      {
+        "company": "歌礼制药",
+        "time": "2023-05-04"
+      },
+      {
+        "company": "康圣环球",
+        "time": "2023-05-04"
+      },
+      {
+        "company": "中国中药",
+        "time": "2023-05-04"
+      },
+      {
+        "company": "加科思",
+        "time": "2023-05-04"
+      },
+      {
+        "company": "伯克希尔-哈撒韦",
+        "time": "2023-05-02"
+      },
+      {
+        "company": "交通银行",
+        "time": "2023-04-27"
+      },
+      {
+        "company": "中国金茂",
+        "time": "2023-04-26"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-04-26"
+      },
+      {
+        "company": "远东宏信——资金部",
+        "time": "2023-04-25"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2023-04-25"
+      },
+      {
+        "company": "中国通号",
+        "time": "2023-04-21"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2023-04-21"
+      },
+      {
+        "company": "美的置业",
+        "time": "2023-04-21"
+      },
+      {
+        "company": "绿景中国地产",
+        "time": "2023-04-21"
+      },
+      {
+        "company": "建业地产",
+        "time": "2023-04-04"
+      },
+      {
+        "company": "中国交建",
+        "time": "2023-04-03"
+      },
+      {
+        "company": "兴科蓉医药",
+        "time": "2023-04-03"
+      },
+      {
+        "company": "启明医疗",
+        "time": "2023-04-03"
+      },
+      {
+        "company": "石化油服",
+        "time": "2023-04-03"
+      },
+      {
+        "company": "玄武云",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "碧桂园",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "中国太保",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "光大银行",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "招商银行",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "同程旅行",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "金山软件",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2023-03-15"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -10035,265 +10294,6 @@
       }
     ],
     "special_companies": "深圳控股"
-  },
-  {
-    "uid": "496270",
-    "name": "蔡錦煌",
-    "org_name": "交银国际（亚洲）有限公司",
-    "org_type": "投资银行",
-    "cert_type": "服务机构",
-    "position": "執行董事",
-    "department": "股票資本市場",
-    "last_interaction_time": "2025-08-28 09:29:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 6,
-    "apply_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "美的置业控股有限公司2025年中期业绩推介会"
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "美的置业控股有限公司2024年度业绩推介会"
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "美的置业控股有限公司2023年度业绩推介会"
-      },
-      {
-        "time": "2023-08-30",
-        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会"
-      },
-      {
-        "time": "2023-04-21",
-        "meet_title": "美的置业（3990.HK）线上交流会｜\"2023上市公司路演大会•第四季\""
-      },
-      {
-        "time": "2023-03-24",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会"
-      }
-    ],
-    "attend_count": 6,
-    "attend_records": [
-      {
-        "time": "2025-03-31",
-        "meet_title": "美的置业控股有限公司2024年度业绩推介会",
-        "duration": 0
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "美的置业控股有限公司2023年度业绩推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-08-30",
-        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-04-24",
-        "meet_title": "美的置业（3990.HK）线上交流会｜\"2023上市公司路演大会•第四季\"",
-        "duration": 29
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中广核新能源",
-        "time": "2025-08-27"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "中国联通",
-        "time": "2025-08-17"
-      },
-      {
-        "company": "敏华控股",
-        "time": "2025-02-06"
-      },
-      {
-        "company": "中国动向",
-        "time": "2025-01-28"
-      },
-      {
-        "company": "比亚迪",
-        "time": "2024-05-23"
-      },
-      {
-        "company": "新世界发展",
-        "time": "2024-05-23"
-      },
-      {
-        "company": "中国电信",
-        "time": "2024-05-23"
-      },
-      {
-        "company": "新奥能源",
-        "time": "2023-05-21"
-      },
-      {
-        "company": "百融智能",
-        "time": "2023-05-17"
-      },
-      {
-        "company": "商汤-W",
-        "time": "2023-05-14"
-      },
-      {
-        "company": "中石化冠德",
-        "time": "2023-05-10"
-      },
-      {
-        "company": "百奥赛图",
-        "time": "2023-05-08"
-      },
-      {
-        "company": "和铂医药",
-        "time": "2023-05-04"
-      },
-      {
-        "company": "歌礼制药",
-        "time": "2023-05-04"
-      },
-      {
-        "company": "康圣环球",
-        "time": "2023-05-04"
-      },
-      {
-        "company": "中国中药",
-        "time": "2023-05-04"
-      },
-      {
-        "company": "加科思",
-        "time": "2023-05-04"
-      },
-      {
-        "company": "伯克希尔-哈撒韦",
-        "time": "2023-05-02"
-      },
-      {
-        "company": "交通银行",
-        "time": "2023-04-27"
-      },
-      {
-        "company": "中国金茂",
-        "time": "2023-04-26"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2023-04-26"
-      },
-      {
-        "company": "远东宏信——资金部",
-        "time": "2023-04-25"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2023-04-25"
-      },
-      {
-        "company": "中国通号",
-        "time": "2023-04-21"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2023-04-21"
-      },
-      {
-        "company": "美的置业",
-        "time": "2023-04-21"
-      },
-      {
-        "company": "绿景中国地产",
-        "time": "2023-04-21"
-      },
-      {
-        "company": "建业地产",
-        "time": "2023-04-04"
-      },
-      {
-        "company": "中国交建",
-        "time": "2023-04-03"
-      },
-      {
-        "company": "兴科蓉医药",
-        "time": "2023-04-03"
-      },
-      {
-        "company": "启明医疗",
-        "time": "2023-04-03"
-      },
-      {
-        "company": "石化油服",
-        "time": "2023-04-03"
-      },
-      {
-        "company": "玄武云",
-        "time": "2023-03-30"
-      },
-      {
-        "company": "碧桂园",
-        "time": "2023-03-30"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2023-03-30"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2023-03-30"
-      },
-      {
-        "company": "中国通信服务",
-        "time": "2023-03-28"
-      },
-      {
-        "company": "中国太保",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "光大银行",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "招商银行",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "同程旅行",
-        "time": "2023-03-22"
-      },
-      {
-        "company": "金山软件",
-        "time": "2023-03-22"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2023-03-22"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "万国数据服务",
-        "time": "2023-03-15"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "434433",
@@ -14926,6 +14926,14 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "国泰海通",
         "time": "2026-03-31"
@@ -23605,6 +23613,103 @@
     "special_companies": "绿城中国,美的置业"
   },
   {
+    "uid": "19522",
+    "name": "袁豪",
+    "org_name": "申万宏源证券有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "首席分析师",
+    "department": "房地产组",
+    "last_interaction_time": "2025-03-31 09:30:13",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-15",
+        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-03-31",
+        "meet_title": "美的置业控股有限公司2024年度业绩推介会",
+        "duration": 15
+      },
+      {
+        "time": "2024-08-19",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
+        "duration": 23
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
+        "duration": 4
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "招商局商业房托",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "贝壳",
+        "time": "2023-03-16"
+      }
+    ],
+    "special_companies": "万物云"
+  },
+  {
     "uid": "581383",
     "name": "王会晋",
     "org_name": "大华继显私人有限公司",
@@ -23739,103 +23844,6 @@
       }
     ],
     "special_companies": "万物云,中国动向,中石化冠德,中集集团,信義玻璃,协合新能源,小米集团-W,康哲药业,百果园集团,百融智能,美的置业,联邦制药,药师帮,贝康医疗,金风科技,雅生活服务"
-  },
-  {
-    "uid": "19522",
-    "name": "袁豪",
-    "org_name": "申万宏源证券有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "首席分析师",
-    "department": "房地产组",
-    "last_interaction_time": "2025-03-31 09:30:13",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-15",
-        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-03-31",
-        "meet_title": "美的置业控股有限公司2024年度业绩推介会",
-        "duration": 15
-      },
-      {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 23
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
-        "duration": 4
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "招商局商业房托",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "新鸿基公司",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-03-26"
-      },
-      {
-        "company": "贝壳",
-        "time": "2023-03-16"
-      }
-    ],
-    "special_companies": "万物云"
   },
   {
     "uid": "610720",
@@ -25384,6 +25392,36 @@
     "special_companies": "呷哺呷哺,明源云"
   },
   {
+    "uid": "632572",
+    "name": "胡臻杰",
+    "org_name": "中泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "地产组实习生",
+    "department": "研究所",
+    "last_interaction_time": "2025-03-31 09:27:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-24",
+        "meet_title": "美的置业控股有限公司2024年度业绩推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-31",
+        "meet_title": "美的置业控股有限公司2024年度业绩推介会",
+        "duration": 42
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "340429",
     "name": "吴国州",
     "org_name": "美的置业控股有限公司",
@@ -25425,36 +25463,6 @@
       }
     ],
     "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "632572",
-    "name": "胡臻杰",
-    "org_name": "中泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "地产组实习生",
-    "department": "研究所",
-    "last_interaction_time": "2025-03-31 09:27:03",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-24",
-        "meet_title": "美的置业控股有限公司2024年度业绩推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-31",
-        "meet_title": "美的置业控股有限公司2024年度业绩推介会",
-        "duration": 42
-      }
-    ],
-    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -35830,6 +35838,48 @@
     "special_companies": "中信证券,中国交建,复星国际,建发国际集团,深圳控股,绿城中国,美的置业"
   },
   {
+    "uid": "424446",
+    "name": "王亚利",
+    "org_name": "保定市爱情地产集团有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "战略企划主管",
+    "department": "董事长办公室",
+    "last_interaction_time": "2024-08-19 09:35:30",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2024-08-16",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会"
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "美的置业控股有限公司2023年度业绩推介会"
+      },
+      {
+        "time": "2023-08-14",
+        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会"
+      },
+      {
+        "time": "2023-03-14",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-19",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
+        "duration": 3
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "336009",
     "name": "司巍",
     "org_name": "摩根士丹利华鑫基金管理有限公司",
@@ -36000,32 +36050,28 @@
     "special_companies": "中国人寿,中国金茂,国证国际证券(香港)研究所,建发国际集团,新希望服务,星盛商业,百融智能"
   },
   {
-    "uid": "424446",
-    "name": "王亚利",
-    "org_name": "保定市爱情地产集团有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "战略企划主管",
-    "department": "董事长办公室",
-    "last_interaction_time": "2024-08-19 09:35:30",
+    "uid": "283065",
+    "name": "Jeff Ma",
+    "org_name": "hongkong insights investment",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "Partner",
+    "department": "",
+    "last_interaction_time": "2024-08-19 09:35:27",
     "last_interaction_behavior": "参会",
     "interaction_company": "美的置业",
-    "apply_count": 4,
+    "apply_count": 3,
     "apply_records": [
       {
         "time": "2024-08-16",
         "meet_title": "美的置业控股有限公司2024年中期业绩推介会"
       },
       {
-        "time": "2024-03-20",
-        "meet_title": "美的置业控股有限公司2023年度业绩推介会"
-      },
-      {
-        "time": "2023-08-14",
+        "time": "2023-08-24",
         "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会"
       },
       {
-        "time": "2023-03-14",
+        "time": "2023-03-13",
         "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会"
       }
     ],
@@ -36034,12 +36080,25 @@
       {
         "time": "2024-08-19",
         "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 3
+        "duration": 43
       }
     ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "万物云",
+        "time": "2023-08-26"
+      },
+      {
+        "company": "力劲科技",
+        "time": "2023-06-29"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2023-04-02"
+      }
+    ],
+    "special_companies": "力劲科技,森松国际"
   },
   {
     "uid": "27676",
@@ -36112,57 +36171,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "283065",
-    "name": "Jeff Ma",
-    "org_name": "hongkong insights investment",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "Partner",
-    "department": "",
-    "last_interaction_time": "2024-08-19 09:35:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2024-08-16",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会"
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会"
-      },
-      {
-        "time": "2023-03-13",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 43
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "万物云",
-        "time": "2023-08-26"
-      },
-      {
-        "company": "力劲科技",
-        "time": "2023-06-29"
-      },
-      {
-        "company": "阜博集团",
-        "time": "2023-04-02"
-      }
-    ],
-    "special_companies": "力劲科技,森松国际"
   },
   {
     "uid": "493584",
@@ -38824,41 +38832,6 @@
     "special_companies": ""
   },
   {
-    "uid": "2265",
-    "name": "徐爽",
-    "org_name": "申万菱信基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "权益投资部总经理",
-    "department": "基金投资管理总部",
-    "last_interaction_time": "2024-08-19 09:30:45",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-18",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 0
-      },
-      {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 47
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "33527",
     "name": "洪俊骅",
     "org_name": "上海希瓦资产管理有限公司",
@@ -38916,6 +38889,41 @@
       }
     ],
     "special_companies": "万物云,呷哺呷哺,宝龙商业,新世界发展,绿城中国"
+  },
+  {
+    "uid": "2265",
+    "name": "徐爽",
+    "org_name": "申万菱信基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "权益投资部总经理",
+    "department": "基金投资管理总部",
+    "last_interaction_time": "2024-08-19 09:30:45",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-18",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-19",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
+        "duration": 0
+      },
+      {
+        "time": "2024-08-19",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
+        "duration": 47
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "581434",
@@ -39680,6 +39688,72 @@
     "special_companies": "小鹏汽车-W,工业富联,波司登,腾讯控股,药明生物"
   },
   {
+    "uid": "267972",
+    "name": "李薇",
+    "org_name": "高盛(中国)证券有限责任公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "执行董事",
+    "department": "上海浦东新区世纪大道证券营业部",
+    "last_interaction_time": "2024-08-19 09:30:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2024-08-12",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会"
+      },
+      {
+        "time": "2024-03-14",
+        "meet_title": "美的置业控股有限公司2023年度业绩推介会"
+      },
+      {
+        "time": "2023-08-14",
+        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会"
+      },
+      {
+        "time": "2023-03-10",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2024-08-19",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
+        "duration": 49
+      },
+      {
+        "time": "2023-08-30",
+        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会",
+        "duration": 10
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
+        "duration": 29
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
+        "duration": 26
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "世茂服务",
+        "time": "2023-09-01"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-08-29"
+      }
+    ],
+    "special_companies": "绿城管理控股,融创服务"
+  },
+  {
     "uid": "282719",
     "name": "邓杰文",
     "org_name": "Whitefield",
@@ -39944,72 +40018,6 @@
     "special_companies": "万物云,中国电信,中集车辆,呷哺呷哺,国证国际证券(香港)研究所,滨江服务,珀莱雅,越秀服务,顺丰同城"
   },
   {
-    "uid": "267972",
-    "name": "李薇",
-    "org_name": "高盛(中国)证券有限责任公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "执行董事",
-    "department": "上海浦东新区世纪大道证券营业部",
-    "last_interaction_time": "2024-08-19 09:30:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2024-08-12",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会"
-      },
-      {
-        "time": "2024-03-14",
-        "meet_title": "美的置业控股有限公司2023年度业绩推介会"
-      },
-      {
-        "time": "2023-08-14",
-        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会"
-      },
-      {
-        "time": "2023-03-10",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 49
-      },
-      {
-        "time": "2023-08-30",
-        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会",
-        "duration": 10
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
-        "duration": 29
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
-        "duration": 26
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "世茂服务",
-        "time": "2023-09-01"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-08-29"
-      }
-    ],
-    "special_companies": "绿城管理控股,融创服务"
-  },
-  {
     "uid": "506297",
     "name": "张宇晴",
     "org_name": "本营国际有限公司",
@@ -40159,31 +40167,6 @@
     "special_companies": "华润医疗,卓越教育集团,森松国际,美的置业,药明生物"
   },
   {
-    "uid": "424573",
-    "name": "黄一祖",
-    "org_name": "BFAM Partners（Hongkong）Limited",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "分析员",
-    "department": "",
-    "last_interaction_time": "2024-08-19 09:30:12",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 37
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "333411",
     "name": "陈家翘",
     "org_name": "TX Capital （HK） Limited",
@@ -40238,6 +40221,31 @@
       }
     ],
     "special_companies": "中原建业,新城发展,新城控股,绿城管理控股"
+  },
+  {
+    "uid": "424573",
+    "name": "黄一祖",
+    "org_name": "BFAM Partners（Hongkong）Limited",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "分析员",
+    "department": "",
+    "last_interaction_time": "2024-08-19 09:30:12",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-19",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
+        "duration": 37
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "347009",
@@ -40558,40 +40566,6 @@
     "special_companies": ""
   },
   {
-    "uid": "504566",
-    "name": "武杨",
-    "org_name": "美的置业控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "高级产品经理",
-    "department": "",
-    "last_interaction_time": "2024-08-19 09:30:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会"
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
-        "duration": 59
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "333205",
     "name": "王玲",
     "org_name": "上海亿翰商务咨询股份有限公司",
@@ -40656,46 +40630,6 @@
       }
     ],
     "special_companies": "万物云,建发国际集团,碧桂园,绿城管理控股,美的置业"
-  },
-  {
-    "uid": "340824",
-    "name": "刘雁甲",
-    "org_name": "美的置业控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "职能中心副总经理兼并购发展总监",
-    "department": "战略投资中心",
-    "last_interaction_time": "2024-08-19 09:30:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 50
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "美的置业控股有限公司2023年度业绩推介会",
-        "duration": 51
-      },
-      {
-        "time": "2023-08-30",
-        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会",
-        "duration": 83
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "437405",
@@ -40929,131 +40863,78 @@
     "special_companies": "万物新生（爱回收）,中国民航信息网络,中国电信,中国通信服务,中国黄金国际,中汇集团,兖煤澳大利亚,华润电力,建发国际集团,森松国际,比亚迪电子,石化油服,美的置业,路演中,远大医药"
   },
   {
-    "uid": "499718",
-    "name": "蔣明昊",
-    "org_name": "摩根士丹利亚洲有限公司",
-    "org_type": "境外银行",
-    "cert_type": "卖方分析师",
-    "position": "股票分析师",
-    "department": "",
-    "last_interaction_time": "2024-08-19 09:30:04",
+    "uid": "340824",
+    "name": "刘雁甲",
+    "org_name": "美的置业控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "职能中心副总经理兼并购发展总监",
+    "department": "战略投资中心",
+    "last_interaction_time": "2024-08-19 09:30:05",
     "last_interaction_behavior": "参会",
     "interaction_company": "美的置业",
-    "apply_count": 3,
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2024-08-19",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
+        "duration": 50
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "美的置业控股有限公司2023年度业绩推介会",
+        "duration": 51
+      },
+      {
+        "time": "2023-08-30",
+        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会",
+        "duration": 83
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "504566",
+    "name": "武杨",
+    "org_name": "美的置业控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "高级产品经理",
+    "department": "",
+    "last_interaction_time": "2024-08-19 09:30:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 2,
     "apply_records": [
       {
         "time": "2024-08-19",
         "meet_title": "美的置业控股有限公司2024年中期业绩推介会"
       },
       {
-        "time": "2024-03-28",
-        "meet_title": "美的置业控股有限公司2023年度业绩推介会"
-      },
-      {
         "time": "2023-03-27",
         "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会"
       }
     ],
-    "attend_count": 3,
+    "attend_count": 2,
     "attend_records": [
       {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 0
-      },
-      {
-        "time": "2024-08-19",
-        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 49
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "美的置业控股有限公司2023年度业绩推介会",
-        "duration": 44
-      },
-      {
         "time": "2023-03-27",
         "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
-        "duration": 0
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
-        "duration": 61
+        "duration": 59
       }
     ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "保利物业",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "滨江集团",
-        "time": "2024-08-30"
-      },
-      {
-        "company": "中海物业",
-        "time": "2024-08-27"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2024-08-22"
-      },
-      {
-        "company": "保利发展",
-        "time": "2024-08-20"
-      },
-      {
-        "company": "中国金茂",
-        "time": "2024-08-19"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2024-03-21"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2024-03-20"
-      },
-      {
-        "company": "贝壳",
-        "time": "2024-03-14"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2024-03-14"
-      },
-      {
-        "company": "万科A",
-        "time": "2023-08-31"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2023-08-23"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "招商蛇口",
-        "time": "2023-03-21"
-      }
-    ],
-    "special_companies": "中国海外宏洋集团,中国金茂,保利发展,宝龙商业,建发国际集团,招商蛇口,新城发展,星盛商业,深圳控股,碧桂园,绿城中国,绿城管理控股,融创中国"
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "426135",
@@ -41191,47 +41072,131 @@
     "special_companies": "万物云,上海实业控股,东软教育,中广核新能源,华润医药,新希望服务,百融智能,联邦制药,英恒科技,金科服务,金茂服务,金风科技"
   },
   {
-    "uid": "572686",
-    "name": "戴梓涵",
-    "org_name": "太平洋证券股份有限公司",
-    "org_type": "证券公司",
+    "uid": "499718",
+    "name": "蔣明昊",
+    "org_name": "摩根士丹利亚洲有限公司",
+    "org_type": "境外银行",
     "cert_type": "卖方分析师",
-    "position": "固收研究员",
-    "department": "研究院",
-    "last_interaction_time": "2024-08-19 09:30:03",
+    "position": "股票分析师",
+    "department": "",
+    "last_interaction_time": "2024-08-19 09:30:04",
     "last_interaction_behavior": "参会",
     "interaction_company": "美的置业",
-    "apply_count": 1,
+    "apply_count": 3,
     "apply_records": [
       {
-        "time": "2024-08-18",
+        "time": "2024-08-19",
         "meet_title": "美的置业控股有限公司2024年中期业绩推介会"
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "美的置业控股有限公司2023年度业绩推介会"
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会"
       }
     ],
-    "attend_count": 1,
+    "attend_count": 3,
     "attend_records": [
       {
         "time": "2024-08-19",
         "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
-        "duration": 50
+        "duration": 0
+      },
+      {
+        "time": "2024-08-19",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
+        "duration": 49
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "美的置业控股有限公司2023年度业绩推介会",
+        "duration": 44
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
+        "duration": 0
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
+        "duration": 61
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "建发国际集团",
+        "company": "保利物业",
         "time": "2025-08-20"
       },
       {
-        "company": "东峰集团",
-        "time": "2023-05-24"
+        "company": "绿城服务",
+        "time": "2025-08-20"
       },
       {
-        "company": "欧陆通",
-        "time": "2023-03-02"
+        "company": "万物云",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "滨江集团",
+        "time": "2024-08-30"
+      },
+      {
+        "company": "中海物业",
+        "time": "2024-08-27"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-08-22"
+      },
+      {
+        "company": "保利发展",
+        "time": "2024-08-20"
+      },
+      {
+        "company": "中国金茂",
+        "time": "2024-08-19"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2024-03-21"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2024-03-20"
+      },
+      {
+        "company": "贝壳",
+        "time": "2024-03-14"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2024-03-14"
+      },
+      {
+        "company": "万科A",
+        "time": "2023-08-31"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2023-08-23"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2023-03-21"
       }
     ],
-    "special_companies": "东峰集团,欧陆通"
+    "special_companies": "中国海外宏洋集团,中国金茂,保利发展,宝龙商业,建发国际集团,招商蛇口,新城发展,星盛商业,深圳控股,碧桂园,绿城中国,绿城管理控股,融创中国"
   },
   {
     "uid": "502998",
@@ -41355,6 +41320,49 @@
       }
     ],
     "special_companies": "美的置业"
+  },
+  {
+    "uid": "572686",
+    "name": "戴梓涵",
+    "org_name": "太平洋证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "固收研究员",
+    "department": "研究院",
+    "last_interaction_time": "2024-08-19 09:30:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-18",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-19",
+        "meet_title": "美的置业控股有限公司2024年中期业绩推介会",
+        "duration": 50
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "东峰集团",
+        "time": "2023-05-24"
+      },
+      {
+        "company": "欧陆通",
+        "time": "2023-03-02"
+      }
+    ],
+    "special_companies": "东峰集团,欧陆通"
   },
   {
     "uid": "338746",
@@ -47684,6 +47692,57 @@
     "special_companies": "中国人寿,中国建筑,中国银河证券股份研究所,新城控股,英伟达,金风科技"
   },
   {
+    "uid": "276488",
+    "name": "周瑾",
+    "org_name": "广发乾和投资有限公司",
+    "org_type": "其他私募投资基金管理人(未备案)",
+    "cert_type": "机构投资者",
+    "position": "高级投资经理",
+    "department": "股权投资部",
+    "last_interaction_time": "2024-03-28 09:33:00",
+    "last_interaction_behavior": "特关",
+    "interaction_company": "美的置业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "美的置业控股有限公司2023年度业绩推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "美的置业控股有限公司2023年度业绩推介会",
+        "duration": 15
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "卓越商企服务",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "粤海置地",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-03-27"
+      }
+    ],
+    "special_companies": "保利物业,卓越商企服务,碧桂园服务,粤海置地,美的置业"
+  },
+  {
     "uid": "425678",
     "name": "施卫",
     "org_name": "国海证券资产管理分公司",
@@ -47769,57 +47828,6 @@
       }
     ],
     "special_companies": "融创服务,金茂服务"
-  },
-  {
-    "uid": "276488",
-    "name": "周瑾",
-    "org_name": "广发乾和投资有限公司",
-    "org_type": "其他私募投资基金管理人(未备案)",
-    "cert_type": "机构投资者",
-    "position": "高级投资经理",
-    "department": "股权投资部",
-    "last_interaction_time": "2024-03-28 09:33:00",
-    "last_interaction_behavior": "特关",
-    "interaction_company": "美的置业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "美的置业控股有限公司2023年度业绩推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "美的置业控股有限公司2023年度业绩推介会",
-        "duration": 15
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "卓越商企服务",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "粤海置地",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "保利物业",
-        "time": "2024-03-27"
-      }
-    ],
-    "special_companies": "保利物业,卓越商企服务,碧桂园服务,粤海置地,美的置业"
   },
   {
     "uid": "499678",
@@ -48129,50 +48137,6 @@
     "special_companies": "天齐锂业"
   },
   {
-    "uid": "436402",
-    "name": "江陈骄",
-    "org_name": "上海璞远资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "信评研究员",
-    "department": "",
-    "last_interaction_time": "2024-03-28 09:31:37",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-22",
-        "meet_title": "美的置业控股有限公司2023年度业绩推介会"
-      },
-      {
-        "time": "2023-08-21",
-        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "美的置业控股有限公司2023年度业绩推介会",
-        "duration": 56
-      },
-      {
-        "time": "2023-08-30",
-        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会",
-        "duration": 72
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "融创服务",
-        "time": "2023-08-22"
-      }
-    ],
-    "special_companies": "复星国际,融创服务"
-  },
-  {
     "uid": "270245",
     "name": "林鎮鴻",
     "org_name": "瑞银集团股份公司",
@@ -48286,6 +48250,50 @@
       }
     ],
     "special_companies": "万物云,世茂服务,中国海外宏洋集团,中国金茂,保利物业,建业地产,建发国际集团,招商局商业房托,招商蛇口,绿城中国,绿城服务,绿城管理控股,雅生活服务"
+  },
+  {
+    "uid": "436402",
+    "name": "江陈骄",
+    "org_name": "上海璞远资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "信评研究员",
+    "department": "",
+    "last_interaction_time": "2024-03-28 09:31:37",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-22",
+        "meet_title": "美的置业控股有限公司2023年度业绩推介会"
+      },
+      {
+        "time": "2023-08-21",
+        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "美的置业控股有限公司2023年度业绩推介会",
+        "duration": 56
+      },
+      {
+        "time": "2023-08-30",
+        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会",
+        "duration": 72
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "融创服务",
+        "time": "2023-08-22"
+      }
+    ],
+    "special_companies": "复星国际,融创服务"
   },
   {
     "uid": "266069",
@@ -53348,6 +53356,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "宁德时代",
+        "time": "2026-04-15"
+      },
+      {
         "company": "泡泡玛特",
         "time": "2026-03-25"
       },
@@ -56471,6 +56483,41 @@
     "special_companies": "JS环球生活,五谷磨房,呷哺呷哺,碧桂园服务"
   },
   {
+    "uid": "505379",
+    "name": "修琳",
+    "org_name": "广发银行股份有限公司佛山分行",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "营销经理",
+    "department": "金融同业部",
+    "last_interaction_time": "2023-08-30 09:32:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-30",
+        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-30",
+        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园",
+        "time": "2023-03-30"
+      }
+    ],
+    "special_companies": "碧桂园"
+  },
+  {
     "uid": "333166",
     "name": "杨羚强",
     "org_name": "和讯信息科技",
@@ -56531,41 +56578,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "505379",
-    "name": "修琳",
-    "org_name": "广发银行股份有限公司佛山分行",
-    "org_type": null,
-    "cert_type": "机构投资者",
-    "position": "营销经理",
-    "department": "金融同业部",
-    "last_interaction_time": "2023-08-30 09:32:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-30",
-        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-30",
-        "meet_title": "美的置业控股有限公司2023年中期业绩投资者推介会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园",
-        "time": "2023-03-30"
-      }
-    ],
-    "special_companies": "碧桂园"
   },
   {
     "uid": "12621",
@@ -66360,6 +66372,30 @@
     "special_companies": ""
   },
   {
+    "uid": "427380",
+    "name": "李维",
+    "org_name": "中银基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "固定收益投资部",
+    "last_interaction_time": "2023-03-27 09:33:50",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "美的置业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "432466",
     "name": "俞悦",
     "org_name": "信达证券股份有限公司研究所",
@@ -66401,30 +66437,6 @@
       }
     ],
     "special_companies": "美的置业"
-  },
-  {
-    "uid": "427380",
-    "name": "李维",
-    "org_name": "中银基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "固定收益投资部",
-    "last_interaction_time": "2023-03-27 09:33:50",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "美的置业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "436728",
@@ -67269,31 +67281,6 @@
     "special_companies": "宝龙商业,新城悦服务,绿城中国,绿城管理控股,金科服务"
   },
   {
-    "uid": "352432",
-    "name": "Kingston Lin",
-    "org_name": "勤丰金控",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Managing Director",
-    "department": "Asset Management",
-    "last_interaction_time": "2023-03-27 09:30:37",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
-        "duration": 63
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "424508",
     "name": "陈泽平",
     "org_name": "First Manhattan Co.",
@@ -67321,6 +67308,31 @@
         "time": "2025-08-19"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "352432",
+    "name": "Kingston Lin",
+    "org_name": "勤丰金控",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Managing Director",
+    "department": "Asset Management",
+    "last_interaction_time": "2023-03-27 09:30:37",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
+        "duration": 63
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -67387,31 +67399,6 @@
     "special_companies": "万物云,敏华控股,新城发展"
   },
   {
-    "uid": "282915",
-    "name": "董耀基",
-    "org_name": "农银国际证券有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "高級副总裁",
-    "department": "中国地产研究",
-    "last_interaction_time": "2023-03-27 09:30:35",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
-        "duration": 41
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "493582",
     "name": "Betty Chen",
     "org_name": "摩根士丹利亚洲有限公司",
@@ -67450,6 +67437,31 @@
     "special_companies": "比亚迪电子"
   },
   {
+    "uid": "282915",
+    "name": "董耀基",
+    "org_name": "农银国际证券有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "高級副总裁",
+    "department": "中国地产研究",
+    "last_interaction_time": "2023-03-27 09:30:35",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
+        "duration": 41
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "338063",
     "name": "王心怡",
     "org_name": "中信里昂证券有限公司",
@@ -67465,6 +67477,31 @@
     "attend_count": 1,
     "attend_records": [],
     "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "573489",
+    "name": "Stephen Cheung",
+    "org_name": "Morgan Stanley ASIA LIMITED",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "Research",
+    "department": "",
+    "last_interaction_time": "2023-03-27 09:30:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美的置业",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
+        "duration": 63
+      }
+    ],
+    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -67508,14 +67545,14 @@
     "special_companies": "万物云,明源云"
   },
   {
-    "uid": "573489",
-    "name": "Stephen Cheung",
-    "org_name": "Morgan Stanley ASIA LIMITED",
-    "org_type": null,
-    "cert_type": "机构投资者",
-    "position": "Research",
-    "department": "",
-    "last_interaction_time": "2023-03-27 09:30:28",
+    "uid": "434598",
+    "name": "陈浩鑫",
+    "org_name": "花旗环球金融亚洲公司",
+    "org_type": "证券公司",
+    "cert_type": "缺少分类",
+    "position": "分析师",
+    "department": "研究部",
+    "last_interaction_time": "2023-03-27 09:30:27",
     "last_interaction_behavior": "参会",
     "interaction_company": "美的置业",
     "apply_count": 0,
@@ -67525,12 +67562,12 @@
       {
         "time": "2023-03-27",
         "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
-        "duration": 63
+        "duration": 62
       }
     ],
-    "is_first_attend": true,
+    "is_first_attend": false,
     "subscribed_companies": [],
-    "special_companies": ""
+    "special_companies": "世茂服务"
   },
   {
     "uid": "426555",
@@ -67591,31 +67628,6 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "434598",
-    "name": "陈浩鑫",
-    "org_name": "花旗环球金融亚洲公司",
-    "org_type": "证券公司",
-    "cert_type": "缺少分类",
-    "position": "分析师",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-27 09:30:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美的置业",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "美的置业控股有限公司2022年度业绩投资者推介会",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "世茂服务"
   },
   {
     "uid": "504578",

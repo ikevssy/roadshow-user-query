@@ -2802,6 +2802,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-09"
       },
@@ -5275,6 +5279,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "比亚迪",
         "time": "2026-04-01"
@@ -32940,6 +32948,14 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "国泰海通",
         "time": "2026-03-31"
       },
@@ -39753,6 +39769,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "宁德时代",
+        "time": "2026-04-15"
+      },
       {
         "company": "泡泡玛特",
         "time": "2026-03-25"
@@ -55401,36 +55421,6 @@
     "special_companies": ""
   },
   {
-    "uid": "254189",
-    "name": "陈继业",
-    "org_name": "农银汇理基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2024-08-26 19:44:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "拼多多",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-26",
-        "meet_title": "拼多多（PDD.US）2024年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-26",
-        "meet_title": "拼多多（PDD.US）2024年第二季度业绩电话会",
-        "duration": 8
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "282412",
     "name": "盧毅",
     "org_name": "浙商国际金融控股有限公司",
@@ -55615,6 +55605,36 @@
       }
     ],
     "special_companies": "万物云,上海实业控股,保利物业,卓越商企服务,新世界发展,新希望服务,碧桂园,神州控股,粤海置地,英伟达"
+  },
+  {
+    "uid": "254189",
+    "name": "陈继业",
+    "org_name": "农银汇理基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2024-08-26 19:44:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "拼多多",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-26",
+        "meet_title": "拼多多（PDD.US）2024年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-26",
+        "meet_title": "拼多多（PDD.US）2024年第二季度业绩电话会",
+        "duration": 8
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "282346",

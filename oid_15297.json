@@ -3426,6 +3426,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-09"
       },
@@ -14688,6 +14692,36 @@
     "special_companies": "敏华控股"
   },
   {
+    "uid": "633141",
+    "name": "陈思佳",
+    "org_name": "中国国际金融股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "实习生（名片信息为组长信息）",
+    "department": "研究部",
+    "last_interaction_time": "2025-03-28 09:59:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "呷哺呷哺",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-24",
+        "meet_title": "呷哺呷哺（00520.HK）2024年度業績發佈會"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-28",
+        "meet_title": "呷哺呷哺（00520.HK）2024年度業績發佈會",
+        "duration": 34
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "283563",
     "name": "张鑫辉",
     "org_name": "上海德邻众福投资管理有限公司",
@@ -14749,36 +14783,6 @@
       }
     ],
     "special_companies": "力劲科技,零跑汽车"
-  },
-  {
-    "uid": "633141",
-    "name": "陈思佳",
-    "org_name": "中国国际金融股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "实习生（名片信息为组长信息）",
-    "department": "研究部",
-    "last_interaction_time": "2025-03-28 09:59:56",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "呷哺呷哺",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-24",
-        "meet_title": "呷哺呷哺（00520.HK）2024年度業績發佈會"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-28",
-        "meet_title": "呷哺呷哺（00520.HK）2024年度業績發佈會",
-        "duration": 34
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "633155",
@@ -19626,6 +19630,14 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "国泰海通",
         "time": "2026-03-31"
@@ -32814,36 +32826,6 @@
     "special_companies": "呷哺呷哺,海底捞"
   },
   {
-    "uid": "606848",
-    "name": "潘哲昊",
-    "org_name": "中国国际金融股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "实习生",
-    "department": "研究部",
-    "last_interaction_time": "2024-03-28 10:07:08",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "呷哺呷哺",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-13",
-        "meet_title": "呷哺呷哺（00520.HK）2023年度業績發佈會"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "呷哺呷哺（00520.HK）2023年度業績發佈會",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "434040",
     "name": "余驰",
     "org_name": "富国基金管理有限公司",
@@ -32876,6 +32858,36 @@
         "time": "2023-08-28",
         "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會",
         "duration": 46
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "606848",
+    "name": "潘哲昊",
+    "org_name": "中国国际金融股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "实习生",
+    "department": "研究部",
+    "last_interaction_time": "2024-03-28 10:07:08",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "呷哺呷哺",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-13",
+        "meet_title": "呷哺呷哺（00520.HK）2023年度業績發佈會"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "呷哺呷哺（00520.HK）2023年度業績發佈會",
+        "duration": 0
       }
     ],
     "is_first_attend": true,
@@ -38008,6 +38020,10 @@
     "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "宁德时代",
+        "time": "2026-04-15"
+      },
       {
         "company": "泡泡玛特",
         "time": "2026-03-25"
@@ -47033,36 +47049,6 @@
     "special_companies": "百融智能,阜博集团"
   },
   {
-    "uid": "501451",
-    "name": "黄昱诚",
-    "org_name": "上海曜川私募基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "权益投资部",
-    "last_interaction_time": "2023-08-28 14:00:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "呷哺呷哺",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-09",
-        "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-28",
-        "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會",
-        "duration": 60
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "中国人保"
-  },
-  {
     "uid": "582104",
     "name": "常欣仪",
     "org_name": "中信证券股份有限公司",
@@ -47091,6 +47077,36 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "501451",
+    "name": "黄昱诚",
+    "org_name": "上海曜川私募基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "权益投资部",
+    "last_interaction_time": "2023-08-28 14:00:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "呷哺呷哺",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-09",
+        "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-28",
+        "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會",
+        "duration": 60
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "中国人保"
   },
   {
     "uid": "427171",
@@ -47141,36 +47157,6 @@
     "special_companies": "呷哺呷哺,敏华控股"
   },
   {
-    "uid": "339958",
-    "name": "Michelle Cheng",
-    "org_name": "Goldman Sachs (Asia) L.L.C.",
-    "org_type": "投资银行",
-    "cert_type": "机构投资者",
-    "position": "Executive Director",
-    "department": "Global Investment Research, Asia Pacific",
-    "last_interaction_time": "2023-08-28 14:00:36",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "呷哺呷哺",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-28",
-        "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-28",
-        "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會",
-        "duration": 61
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "273428",
     "name": "Frankie Law",
     "org_name": "Integrated Asset Management Limited",
@@ -47201,20 +47187,20 @@
     "special_companies": ""
   },
   {
-    "uid": "335146",
-    "name": "曾捷",
-    "org_name": "广州穗财投资管理有限公司",
-    "org_type": "其他私募投资基金管理人(未备案)",
-    "cert_type": "缺少分类",
-    "position": "研究助理",
-    "department": "",
-    "last_interaction_time": "2023-08-28 14:00:34",
+    "uid": "339958",
+    "name": "Michelle Cheng",
+    "org_name": "Goldman Sachs (Asia) L.L.C.",
+    "org_type": "投资银行",
+    "cert_type": "机构投资者",
+    "position": "Executive Director",
+    "department": "Global Investment Research, Asia Pacific",
+    "last_interaction_time": "2023-08-28 14:00:36",
     "last_interaction_behavior": "参会",
     "interaction_company": "呷哺呷哺",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-08-23",
+        "time": "2023-08-28",
         "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會"
       }
     ],
@@ -47223,10 +47209,10 @@
       {
         "time": "2023-08-28",
         "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會",
-        "duration": 60
+        "duration": 61
       }
     ],
-    "is_first_attend": true,
+    "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -47279,6 +47265,71 @@
     "special_companies": "呷哺呷哺,比亚迪"
   },
   {
+    "uid": "335146",
+    "name": "曾捷",
+    "org_name": "广州穗财投资管理有限公司",
+    "org_type": "其他私募投资基金管理人(未备案)",
+    "cert_type": "缺少分类",
+    "position": "研究助理",
+    "department": "",
+    "last_interaction_time": "2023-08-28 14:00:34",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "呷哺呷哺",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-28",
+        "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會",
+        "duration": 60
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "499720",
+    "name": "宋熙予",
+    "org_name": "北京泓澄投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究部助理",
+    "department": "",
+    "last_interaction_time": "2023-08-28 14:00:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "呷哺呷哺",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-28",
+        "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會",
+        "duration": 2
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "敏华控股",
+        "time": "2024-11-12"
+      }
+    ],
+    "special_companies": "比亚迪"
+  },
+  {
     "uid": "577006",
     "name": "徐凯迪",
     "org_name": "上海友莹格资产管理有限公司",
@@ -47321,41 +47372,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "499720",
-    "name": "宋熙予",
-    "org_name": "北京泓澄投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究部助理",
-    "department": "",
-    "last_interaction_time": "2023-08-28 14:00:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "呷哺呷哺",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-23",
-        "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-28",
-        "meet_title": "呷哺呷哺（00520.HK）2023年中期業績發佈會",
-        "duration": 2
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "敏华控股",
-        "time": "2024-11-12"
-      }
-    ],
-    "special_companies": "比亚迪"
   },
   {
     "uid": "16634",
@@ -57141,30 +57157,6 @@
     "special_companies": "呷哺呷哺"
   },
   {
-    "uid": "574439",
-    "name": "刘东",
-    "org_name": "雪湖资本（香港）有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Analyst",
-    "department": "",
-    "last_interaction_time": "2023-03-29 09:31:07",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "呷哺呷哺",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "呷哺呷哺（00520.HK）2022年度業績發佈會"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "574191",
     "name": "王偉洲",
     "org_name": "觀博資本有限公司",
@@ -57187,6 +57179,30 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": "呷哺呷哺"
+  },
+  {
+    "uid": "574439",
+    "name": "刘东",
+    "org_name": "雪湖资本（香港）有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Analyst",
+    "department": "",
+    "last_interaction_time": "2023-03-29 09:31:07",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "呷哺呷哺",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "呷哺呷哺（00520.HK）2022年度業績發佈會"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "42501",
@@ -58931,41 +58947,6 @@
     "special_companies": ""
   },
   {
-    "uid": "281097",
-    "name": "Osbert Tang",
-    "org_name": "嘉贝资本有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "董事总经理",
-    "department": "投资部",
-    "last_interaction_time": "2023-03-29 09:03:07",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "呷哺呷哺",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-18",
-        "meet_title": "呷哺呷哺（00520.HK）2022年度業績發佈會"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "呷哺呷哺（00520.HK）2022年度業績發佈會",
-        "duration": 74
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "香港中旅",
-        "time": "2026-04-01"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "576191",
     "name": "林彦竹",
     "org_name": "华夏未来资本管理有限公司",
@@ -59008,6 +58989,41 @@
       }
     ],
     "special_companies": "呷哺呷哺"
+  },
+  {
+    "uid": "281097",
+    "name": "Osbert Tang",
+    "org_name": "嘉贝资本有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "董事总经理",
+    "department": "投资部",
+    "last_interaction_time": "2023-03-29 09:03:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "呷哺呷哺",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-18",
+        "meet_title": "呷哺呷哺（00520.HK）2022年度業績發佈會"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "呷哺呷哺（00520.HK）2022年度業績發佈會",
+        "duration": 74
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "香港中旅",
+        "time": "2026-04-01"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "576799",
@@ -59614,36 +59630,6 @@
     "special_companies": "药明生物"
   },
   {
-    "uid": "432710",
-    "name": "戴雯雯",
-    "org_name": "华兴证券（香港）有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "Analyst",
-    "department": "Research",
-    "last_interaction_time": "2023-03-29 09:01:50",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "呷哺呷哺",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "呷哺呷哺（00520.HK）2022年度業績發佈會"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "呷哺呷哺（00520.HK）2022年度業績發佈會",
-        "duration": 88
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "576825",
     "name": "李一腾",
     "org_name": "海通国际研究有限公司",
@@ -59667,6 +59653,36 @@
         "time": "2023-03-29",
         "meet_title": "呷哺呷哺（00520.HK）2022年度業績發佈會",
         "duration": 85
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "432710",
+    "name": "戴雯雯",
+    "org_name": "华兴证券（香港）有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "Analyst",
+    "department": "Research",
+    "last_interaction_time": "2023-03-29 09:01:50",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "呷哺呷哺",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-28",
+        "meet_title": "呷哺呷哺（00520.HK）2022年度業績發佈會"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "呷哺呷哺（00520.HK）2022年度業績發佈會",
+        "duration": 88
       }
     ],
     "is_first_attend": true,
@@ -59708,12 +59724,12 @@
     "special_companies": ""
   },
   {
-    "uid": "573412",
-    "name": "刘芳西",
-    "org_name": "华西证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "缺少分类",
-    "position": "行研实习生",
+    "uid": "576640",
+    "name": "康宇喆",
+    "org_name": "天风证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "商社助理分析师",
     "department": "研究所",
     "last_interaction_time": "2023-03-29 09:01:49",
     "last_interaction_behavior": "参会",
@@ -59721,7 +59737,7 @@
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-29",
+        "time": "2023-03-28",
         "meet_title": "呷哺呷哺（00520.HK）2022年度業績發佈會"
       }
     ],
@@ -59738,12 +59754,12 @@
     "special_companies": ""
   },
   {
-    "uid": "576640",
-    "name": "康宇喆",
-    "org_name": "天风证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "商社助理分析师",
+    "uid": "573412",
+    "name": "刘芳西",
+    "org_name": "华西证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "缺少分类",
+    "position": "行研实习生",
     "department": "研究所",
     "last_interaction_time": "2023-03-29 09:01:49",
     "last_interaction_behavior": "参会",
@@ -59751,7 +59767,7 @@
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-28",
+        "time": "2023-03-29",
         "meet_title": "呷哺呷哺（00520.HK）2022年度業績發佈會"
       }
     ],

@@ -33,6 +33,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "阿里巴巴-W",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-04-15"
+      },
+      {
         "company": "绿城管理控股",
         "time": "2026-03-31"
       },
@@ -743,6 +751,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-09"
@@ -10117,6 +10129,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "比亚迪",
         "time": "2026-04-01"
       },
@@ -18953,6 +18969,14 @@
     "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "国泰海通",
         "time": "2026-03-31"
@@ -49850,6 +49874,36 @@
     "special_companies": ""
   },
   {
+    "uid": "33524",
+    "name": "刘岚",
+    "org_name": "嘉实基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "港股通投资策略组",
+    "last_interaction_time": "2023-08-16 20:00:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "京东集团-SW",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-16",
+        "meet_title": "京东（09618.HK，JD.US）2023年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-16",
+        "meet_title": "京东（09618.HK，JD.US）2023年第二季度业绩电话会",
+        "duration": 70
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "492405",
     "name": "李柳晓",
     "org_name": "国信证券（香港）金融控股有限公司",
@@ -49911,36 +49965,6 @@
       }
     ],
     "special_companies": "复星国际,百果园集团,药明生物"
-  },
-  {
-    "uid": "33524",
-    "name": "刘岚",
-    "org_name": "嘉实基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "港股通投资策略组",
-    "last_interaction_time": "2023-08-16 20:00:28",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "京东集团-SW",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-16",
-        "meet_title": "京东（09618.HK，JD.US）2023年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-16",
-        "meet_title": "京东（09618.HK，JD.US）2023年第二季度业绩电话会",
-        "duration": 70
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "333226",

@@ -1,5 +1,129 @@
 [
   {
+    "uid": "32639",
+    "name": "陈炜",
+    "org_name": "平安银行股份有限公司",
+    "org_type": "银行",
+    "cert_type": "金融机构",
+    "position": "副总经理",
+    "department": "深圳分行风险管理部",
+    "last_interaction_time": "2026-04-15 21:28:19",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "宁德时代",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "宁德时代",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "杭州银行",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "中国人保",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "平安银行",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2025-07-25"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-05-23"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-05-23"
+      },
+      {
+        "company": "美团-W",
+        "time": "2025-05-23"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-03-21"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "中信证券",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "龙湖集团",
+        "time": "2023-10-27"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-06-09"
+      },
+      {
+        "company": "碧桂园",
+        "time": "2023-04-07"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "招商银行",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "招商基金",
+        "time": "2023-03-18"
+      }
+    ],
+    "special_companies": "卓越商企服务,宝龙商业,新希望服务,碧桂园服务,绿城中国,绿城管理控股,融创服务,金科服务"
+  },
+  {
     "uid": "270412",
     "name": "张芳芳",
     "org_name": "Polymer Capital Singapore Pte.Ltd.",
@@ -1476,6 +1600,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-09"

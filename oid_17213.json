@@ -14393,36 +14393,6 @@
     "special_companies": "英恒科技"
   },
   {
-    "uid": "572075",
-    "name": "董琳琳",
-    "org_name": "国信证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "金融机构",
-    "position": "业务总监",
-    "department": "投资银行部、医疗健康总部",
-    "last_interaction_time": "2024-01-03 15:36:36",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "东吴证券研究所",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-01-03",
-        "meet_title": "东吴证券2024年度策略会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-01-03",
-        "meet_title": "东吴证券2024年度策略会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "554333",
     "name": "李庚",
     "org_name": "头豹研究院",
@@ -14460,6 +14430,36 @@
       }
     ],
     "special_companies": "百融智能"
+  },
+  {
+    "uid": "572075",
+    "name": "董琳琳",
+    "org_name": "国信证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "金融机构",
+    "position": "业务总监",
+    "department": "投资银行部、医疗健康总部",
+    "last_interaction_time": "2024-01-03 15:36:36",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "东吴证券研究所",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-01-03",
+        "meet_title": "东吴证券2024年度策略会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-01-03",
+        "meet_title": "东吴证券2024年度策略会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "582113",

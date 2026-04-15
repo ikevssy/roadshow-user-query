@@ -1,5 +1,85 @@
 [
   {
+    "uid": "495750",
+    "name": "彭超",
+    "org_name": "绿城中国控股有限公司",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "助理总经理",
+    "department": "华南区域广州公司",
+    "last_interaction_time": "2026-04-15 23:00:06",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "阿里巴巴-W",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "保利置业集团",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "保利发展",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "越秀地产",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "招商银行",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "携程集团-S",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "蔚来",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "迈瑞医疗",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-31"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "349211",
     "name": "王婷",
     "org_name": "祖龍娛樂有限公司",
@@ -1525,6 +1605,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-09"
@@ -3666,6 +3750,14 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "国泰海通",
         "time": "2026-03-31"
@@ -16259,6 +16351,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "宁德时代",
         "time": "2026-04-13"
       },
@@ -17292,6 +17388,36 @@
     "special_companies": "万物云,中国金茂,保利物业,合景悠活,宝龙商业,建发国际集团,招商局商业房托,招商蛇口,星盛商业,深圳控股,碧桂园服务,绿城中国,绿城服务,绿城管理控股,美的置业,融创服务"
   },
   {
+    "uid": "632261",
+    "name": "刘璟欣",
+    "org_name": "耕霁(上海)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投研助理",
+    "department": "研究部",
+    "last_interaction_time": "2026-03-19 19:30:55",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "阿里巴巴-W",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "阿里巴巴（09988.HK，BABA.US）2026财年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "阿里巴巴（09988.HK，BABA.US）2026财年第三季度业绩电话会",
+        "duration": 76
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "499973",
     "name": "傅子平",
     "org_name": "上海摩旗投资管理有限公司",
@@ -17354,36 +17480,6 @@
       }
     ],
     "special_companies": "腾讯控股,金风科技"
-  },
-  {
-    "uid": "632261",
-    "name": "刘璟欣",
-    "org_name": "耕霁(上海)投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投研助理",
-    "department": "研究部",
-    "last_interaction_time": "2026-03-19 19:30:55",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "阿里巴巴-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "阿里巴巴（09988.HK，BABA.US）2026财年第三季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "阿里巴巴（09988.HK，BABA.US）2026财年第三季度业绩电话会",
-        "duration": 76
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "341221",
@@ -33667,6 +33763,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "比亚迪",
         "time": "2026-04-01"
       },
@@ -38193,80 +38293,6 @@
     "special_companies": "中国太保,腾讯控股"
   },
   {
-    "uid": "610446",
-    "name": "张林晚",
-    "org_name": "耕霁(上海)投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
-    "position": "市场部助理",
-    "department": "",
-    "last_interaction_time": "2025-11-25 20:31:39",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "阿里巴巴-W",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-11-17",
-        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-11-25",
-        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第二季度业绩电话会",
-        "duration": 70
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "426195",
-    "name": "程子傳",
-    "org_name": "远石资本有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "創始合夥人",
-    "department": "",
-    "last_interaction_time": "2025-11-25 20:31:39",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "阿里巴巴-W",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-11-25",
-        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第二季度业绩电话会"
-      },
-      {
-        "time": "2025-11-12",
-        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第一季度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-11-25",
-        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第二季度业绩电话会",
-        "duration": 70
-      },
-      {
-        "time": "2025-11-25",
-        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第一季度业绩电话会",
-        "duration": 26
-      },
-      {
-        "time": "2025-11-12",
-        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第一季度业绩电话会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "635110",
     "name": "王涵",
     "org_name": "香港凤凰周刊有限公司",
@@ -38365,6 +38391,80 @@
         "time": "2025-05-13"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "426195",
+    "name": "程子傳",
+    "org_name": "远石资本有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "創始合夥人",
+    "department": "",
+    "last_interaction_time": "2025-11-25 20:31:39",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "阿里巴巴-W",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-11-25",
+        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第二季度业绩电话会"
+      },
+      {
+        "time": "2025-11-12",
+        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第一季度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-11-25",
+        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第二季度业绩电话会",
+        "duration": 70
+      },
+      {
+        "time": "2025-11-25",
+        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第一季度业绩电话会",
+        "duration": 26
+      },
+      {
+        "time": "2025-11-12",
+        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第一季度业绩电话会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "610446",
+    "name": "张林晚",
+    "org_name": "耕霁(上海)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "市场部助理",
+    "department": "",
+    "last_interaction_time": "2025-11-25 20:31:39",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "阿里巴巴-W",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-11-17",
+        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-11-25",
+        "meet_title": "阿里巴巴(BABA.US，09988.HK)2026财年第二季度业绩电话会",
+        "duration": 70
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -66923,6 +67023,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "宁德时代",
+        "time": "2026-04-15"
+      },
       {
         "company": "泡泡玛特",
         "time": "2026-03-25"
