@@ -3345,6 +3345,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "宁德时代",
+        "time": "2026-04-15"
+      },
+      {
         "company": "泡泡玛特",
         "time": "2026-03-25"
       },
@@ -4348,6 +4352,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-09"
@@ -13044,6 +13052,14 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "国泰海通",
         "time": "2026-03-31"
       },
@@ -16071,45 +16087,6 @@
     "special_companies": "上海实业控股,中国人寿,中国太保,招商银行"
   },
   {
-    "uid": "437773",
-    "name": "乔士容",
-    "org_name": "中国人寿保险股份有限公司",
-    "org_type": "保险公司",
-    "cert_type": "个人",
-    "position": "投资管理中心主管",
-    "department": "投资管理中心",
-    "last_interaction_time": "2025-08-27 11:45:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国平安",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "中国平安（601318.SH，02318.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "中国平安（601318.SH，02318.HK）2025年中期业绩发布会",
-        "duration": 59
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国平安",
-        "time": "2025-08-27"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2024-10-31"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "40055",
     "name": "王立",
     "org_name": "中再资产管理股份有限公司",
@@ -16209,6 +16186,45 @@
       }
     ],
     "special_companies": "中国人保,中国人寿"
+  },
+  {
+    "uid": "437773",
+    "name": "乔士容",
+    "org_name": "中国人寿保险股份有限公司",
+    "org_type": "保险公司",
+    "cert_type": "个人",
+    "position": "投资管理中心主管",
+    "department": "投资管理中心",
+    "last_interaction_time": "2025-08-27 11:45:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国平安",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "中国平安（601318.SH，02318.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "中国平安（601318.SH，02318.HK）2025年中期业绩发布会",
+        "duration": 59
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国平安",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2024-10-31"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "632260",
@@ -27338,41 +27354,6 @@
     "special_companies": "思路迪医药股份,碧桂园,路演中"
   },
   {
-    "uid": "278800",
-    "name": "宋宇飞",
-    "org_name": "中国再保险(集团)股份有限公司",
-    "org_type": "保险公司",
-    "cert_type": "上市公司",
-    "position": "高级副经理",
-    "department": "董事会办公室/投资者关系处",
-    "last_interaction_time": "2025-03-20 11:48:13",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国平安",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-20",
-        "meet_title": "中国平安（601318.SH，02318.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-20",
-        "meet_title": "中国平安（601318.SH，02318.HK）2024年度业绩发布会",
-        "duration": 3
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国人保",
-        "time": "2025-08-28"
-      }
-    ],
-    "special_companies": "中国人寿,中国太保"
-  },
-  {
     "uid": "506772",
     "name": "郭舒洁",
     "org_name": "富国基金管理有限公司",
@@ -27406,6 +27387,41 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "278800",
+    "name": "宋宇飞",
+    "org_name": "中国再保险(集团)股份有限公司",
+    "org_type": "保险公司",
+    "cert_type": "上市公司",
+    "position": "高级副经理",
+    "department": "董事会办公室/投资者关系处",
+    "last_interaction_time": "2025-03-20 11:48:13",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国平安",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-20",
+        "meet_title": "中国平安（601318.SH，02318.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-20",
+        "meet_title": "中国平安（601318.SH，02318.HK）2024年度业绩发布会",
+        "duration": 3
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国人保",
+        "time": "2025-08-28"
+      }
+    ],
+    "special_companies": "中国人寿,中国太保"
   },
   {
     "uid": "339544",
@@ -39840,6 +39856,43 @@
     "special_companies": "华润医药"
   },
   {
+    "uid": "496483",
+    "name": "黄嘉敏",
+    "org_name": "蓝鲸财经",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "房产记者",
+    "department": "房产",
+    "last_interaction_time": "2024-03-22 12:27:58",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国平安",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-22",
+        "meet_title": "中国平安（601318.SH，02318.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "万物云",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "中南建设",
+        "time": "2023-04-25"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": "中南建设,碧桂园服务,美的置业"
+  },
+  {
     "uid": "347734",
     "name": "卢福红",
     "org_name": "深圳市安际资产管理有限公司",
@@ -39897,43 +39950,6 @@
       }
     ],
     "special_companies": "宝龙商业,星盛商业,绿城中国"
-  },
-  {
-    "uid": "496483",
-    "name": "黄嘉敏",
-    "org_name": "蓝鲸财经",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "房产记者",
-    "department": "房产",
-    "last_interaction_time": "2024-03-22 12:27:58",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "中国平安",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-22",
-        "meet_title": "中国平安（601318.SH，02318.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "万物云",
-        "time": "2024-03-22"
-      },
-      {
-        "company": "中南建设",
-        "time": "2023-04-25"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": "中南建设,碧桂园服务,美的置业"
   },
   {
     "uid": "579684",

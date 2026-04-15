@@ -4911,6 +4911,14 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "国泰海通",
         "time": "2026-03-31"
       },
@@ -7460,6 +7468,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-09"
@@ -21904,6 +21916,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "宁德时代",
+        "time": "2026-04-15"
+      },
+      {
         "company": "泡泡玛特",
         "time": "2026-03-25"
       },
@@ -25065,36 +25081,6 @@
     "special_companies": ""
   },
   {
-    "uid": "346925",
-    "name": "张阳",
-    "org_name": "上海毅木资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2025-08-29 15:29:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国太保",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-29",
-        "meet_title": "中国太保2025年中期业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-29",
-        "meet_title": "中国太保2025年中期业绩说明会",
-        "duration": 95
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "261039",
     "name": "李钊",
     "org_name": "腾讯科技（北京）有限公司",
@@ -25132,6 +25118,36 @@
       }
     ],
     "special_companies": "中信证券,中国人寿"
+  },
+  {
+    "uid": "346925",
+    "name": "张阳",
+    "org_name": "上海毅木资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2025-08-29 15:29:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国太保",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-29",
+        "meet_title": "中国太保2025年中期业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-29",
+        "meet_title": "中国太保2025年中期业绩说明会",
+        "duration": 95
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "265392",

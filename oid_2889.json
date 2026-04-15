@@ -5718,6 +5718,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-09"
       },
@@ -8428,6 +8432,14 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "国泰海通",
         "time": "2026-03-31"
@@ -20912,13 +20924,13 @@
     "special_companies": ""
   },
   {
-    "uid": "41155",
-    "name": "余涛",
-    "org_name": "浙江银万私募基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
+    "uid": "440744",
+    "name": "刘锡源",
+    "org_name": "富国基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
     "cert_type": "机构投资者",
-    "position": "Partner",
-    "department": "",
+    "position": "行业研究员",
+    "department": "海外权益投资部",
     "last_interaction_time": "2024-08-27 16:01:08",
     "last_interaction_behavior": "参会",
     "interaction_company": "中国通信服务",
@@ -20942,13 +20954,13 @@
     "special_companies": ""
   },
   {
-    "uid": "440744",
-    "name": "刘锡源",
-    "org_name": "富国基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
+    "uid": "41155",
+    "name": "余涛",
+    "org_name": "浙江银万私募基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
     "cert_type": "机构投资者",
-    "position": "行业研究员",
-    "department": "海外权益投资部",
+    "position": "Partner",
+    "department": "",
     "last_interaction_time": "2024-08-27 16:01:08",
     "last_interaction_behavior": "参会",
     "interaction_company": "中国通信服务",

@@ -670,6 +670,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "比亚迪",
         "time": "2026-04-01"
       },
@@ -9470,85 +9474,6 @@
     "special_companies": "中国电信,药明生物"
   },
   {
-    "uid": "347948",
-    "name": "Sam Jones",
-    "org_name": "APPLE Group",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "Side-Analyst",
-    "department": "Self",
-    "last_interaction_time": "2026-03-24 17:01:02",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国电信",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-24",
-        "meet_title": "中国电信股份有限公司2025年度业绩说明会"
-      },
-      {
-        "time": "2025-03-19",
-        "meet_title": "中国电信股份有限公司2024年度业绩说明会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-08-14",
-        "meet_title": "中国电信股份有限公司2025年中期业绩说明会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "申万宏源",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "阅文集团",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "中国中冶",
-        "time": "2025-12-19"
-      },
-      {
-        "company": "万国数据服务",
-        "time": "2025-11-19"
-      },
-      {
-        "company": "乐鑫科技",
-        "time": "2025-09-01"
-      },
-      {
-        "company": "中国太保",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "瑞声科技",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "中国建筑",
-        "time": "2025-04-18"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "427752",
     "name": "林雷",
     "org_name": "致融征信服务(上海)股份有限公司",
@@ -9675,6 +9600,85 @@
       }
     ],
     "special_companies": "中国电力,中粮家佳康,绿城中国,路演中,金风科技"
+  },
+  {
+    "uid": "347948",
+    "name": "Sam Jones",
+    "org_name": "APPLE Group",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "Side-Analyst",
+    "department": "Self",
+    "last_interaction_time": "2026-03-24 17:01:02",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国电信",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "中国电信股份有限公司2025年度业绩说明会"
+      },
+      {
+        "time": "2025-03-19",
+        "meet_title": "中国电信股份有限公司2024年度业绩说明会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-08-14",
+        "meet_title": "中国电信股份有限公司2025年中期业绩说明会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "申万宏源",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "阅文集团",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2025-12-19"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2025-11-19"
+      },
+      {
+        "company": "乐鑫科技",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "瑞声科技",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2025-04-18"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "610720",
@@ -16747,6 +16751,14 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "国泰海通",
         "time": "2026-03-31"
@@ -50191,6 +50203,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "宁德时代",
+        "time": "2026-04-15"
+      },
+      {
         "company": "泡泡玛特",
         "time": "2026-03-25"
       },
@@ -50483,6 +50499,31 @@
     "special_companies": ""
   },
   {
+    "uid": "1533",
+    "name": "周伟光",
+    "org_name": "东方金诚国际信用评估有限公司",
+    "org_type": "评级服务机构",
+    "cert_type": "个人",
+    "position": "负责人",
+    "department": "人力资源部",
+    "last_interaction_time": "2023-03-22 16:45:30",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国电信",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-22",
+        "meet_title": "中国电信股份有限公司2022年度业绩说明会",
+        "duration": 46
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "341412",
     "name": "李曉琳",
     "org_name": "星岛报业集团有限公司",
@@ -50509,31 +50550,6 @@
       }
     ],
     "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "1533",
-    "name": "周伟光",
-    "org_name": "东方金诚国际信用评估有限公司",
-    "org_type": "评级服务机构",
-    "cert_type": "个人",
-    "position": "负责人",
-    "department": "人力资源部",
-    "last_interaction_time": "2023-03-22 16:45:30",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国电信",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-22",
-        "meet_title": "中国电信股份有限公司2022年度业绩说明会",
-        "duration": 46
-      }
-    ],
-    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
