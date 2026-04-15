@@ -1260,6 +1260,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-13"
       },
@@ -10637,6 +10641,53 @@
     "special_companies": "招商局商业房托,招商蛇口,新希望服务,新鸿基公司,永升服务,碧桂园服务,融创服务,金科服务,雅生活服务"
   },
   {
+    "uid": "339878",
+    "name": "梁争誉",
+    "org_name": "时代周报社",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "记者",
+    "department": "消费新闻部",
+    "last_interaction_time": "2026-03-27 16:58:30",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会",
+        "duration": 90
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园服务",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2023-03-24"
+      }
+    ],
+    "special_companies": "万物云,卓越商企服务"
+  },
+  {
     "uid": "282778",
     "name": "李心圆",
     "org_name": "花旗环球金融亚洲有限公司",
@@ -10744,53 +10795,6 @@
       }
     ],
     "special_companies": "万物云,世茂服务,保利物业,卓越商企服务,建业新生活,招商蛇口,新城悦服务,新希望服务,滨江服务,碧桂园服务,金茂服务"
-  },
-  {
-    "uid": "339878",
-    "name": "梁争誉",
-    "org_name": "时代周报社",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "记者",
-    "department": "消费新闻部",
-    "last_interaction_time": "2026-03-27 16:58:30",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会",
-        "duration": 90
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园服务",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-03-28"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-03-28"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2023-03-24"
-      }
-    ],
-    "special_companies": "万物云,卓越商企服务"
   },
   {
     "uid": "341867",
@@ -10905,123 +10909,6 @@
       {
         "company": "建发国际集团",
         "time": "2025-08-25"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "284415",
-    "name": "徐时",
-    "org_name": "高盛(中国)证券有限责任公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "分析师",
-    "department": "上海浦东新区世纪大道证券营业部",
-    "last_interaction_time": "2026-03-27 16:58:25",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 7,
-    "apply_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-19",
-        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-20",
-        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-21",
-        "meet_title": "碧桂园服务（6098.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-20",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-25",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-23",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
-      }
-    ],
-    "attend_count": 7,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会",
-        "duration": 85
-      },
-      {
-        "time": "2025-08-27",
-        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会",
-        "duration": 98
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会",
-        "duration": 87
-      },
-      {
-        "time": "2024-08-22",
-        "meet_title": "碧桂园服务（6098.HK）2024年中期业绩发布会",
-        "duration": 115
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
-        "duration": 98
-      },
-      {
-        "time": "2023-08-29",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
-        "duration": 68
-      },
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
-        "duration": 108
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "新城发展",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "华润置地",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "新城悦服务",
-        "time": "2024-03-18"
       }
     ],
     "special_companies": ""
@@ -11201,6 +11088,123 @@
     "special_companies": "建发国际集团,新希望服务,滨江服务,美的置业"
   },
   {
+    "uid": "284415",
+    "name": "徐时",
+    "org_name": "高盛(中国)证券有限责任公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析师",
+    "department": "上海浦东新区世纪大道证券营业部",
+    "last_interaction_time": "2026-03-27 16:58:25",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 7,
+    "apply_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-19",
+        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-20",
+        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-21",
+        "meet_title": "碧桂园服务（6098.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-25",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-23",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
+      }
+    ],
+    "attend_count": 7,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会",
+        "duration": 85
+      },
+      {
+        "time": "2025-08-27",
+        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会",
+        "duration": 98
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会",
+        "duration": 87
+      },
+      {
+        "time": "2024-08-22",
+        "meet_title": "碧桂园服务（6098.HK）2024年中期业绩发布会",
+        "duration": 115
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
+        "duration": 98
+      },
+      {
+        "time": "2023-08-29",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
+        "duration": 68
+      },
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
+        "duration": 108
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "新城发展",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "华润置地",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "新城悦服务",
+        "time": "2024-03-18"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "350625",
     "name": "Kevin Zhang",
     "org_name": "Hong Kong Zhongcai Finance Investment Ltd.",
@@ -11246,62 +11250,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "424846",
-    "name": "徐酒眠",
-    "org_name": "北京怡生乐居信息服务有限公司",
-    "org_type": "一般企业",
-    "cert_type": "媒体",
-    "position": "新闻编辑",
-    "department": "",
-    "last_interaction_time": "2026-03-27 16:58:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会",
-        "duration": 85
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会",
-        "duration": 86
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园服务",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "迅雷",
-        "time": "2025-03-25"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-03-27"
-      }
-    ],
-    "special_companies": "卓越商企服务,碧桂园服务"
   },
   {
     "uid": "334186",
@@ -11382,6 +11330,62 @@
       }
     ],
     "special_companies": "碧桂园服务"
+  },
+  {
+    "uid": "424846",
+    "name": "徐酒眠",
+    "org_name": "北京怡生乐居信息服务有限公司",
+    "org_type": "一般企业",
+    "cert_type": "媒体",
+    "position": "新闻编辑",
+    "department": "",
+    "last_interaction_time": "2026-03-27 16:58:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会",
+        "duration": 85
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会",
+        "duration": 86
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园服务",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "迅雷",
+        "time": "2025-03-25"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": "卓越商企服务,碧桂园服务"
   },
   {
     "uid": "493260",
@@ -12136,195 +12140,6 @@
     "special_companies": "世茂服务,中国人寿,中国电信,新城发展,深圳控股,珀莱雅,石化油服,碧桂园,碧桂园服务,药明生物,融创中国"
   },
   {
-    "uid": "496065",
-    "name": "钟志斌",
-    "org_name": "北京泽淳永联投资管理有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
-    "position": "合伙人",
-    "department": "上市物企市值管理. 物企成本管控. 物企供应链金融",
-    "last_interaction_time": "2026-03-27 16:58:18",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 6,
-    "apply_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-19",
-        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-23",
-        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-03-20",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-23",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会",
-        "duration": 85
-      },
-      {
-        "time": "2025-08-27",
-        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会",
-        "duration": 94
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
-        "duration": 46
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "建发物业",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "中海物业",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "国锐生活",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "国证国际证券(香港)研究所",
-        "time": "2023-10-31"
-      },
-      {
-        "company": "捷利交易宝",
-        "time": "2023-10-27"
-      },
-      {
-        "company": "星悦康旅",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "金融街物业",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "正荣服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "德信服务集团",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "佳源服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "弘阳服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "佳兆业美好",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "远洋服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "银城生活服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "融创服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "永升服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "合景悠活",
-        "time": "2023-03-31"
-      },
-      {
-        "company": "建业新生活",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "保利物业",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "新城悦服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "星盛商业",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-03-27"
-      }
-    ],
-    "special_companies": "保利物业,合景悠活,国证国际证券(香港)研究所,宝龙商业,建业新生活,捷利交易宝,新希望服务,滨江服务,碧桂园服务,绿城服务"
-  },
-  {
     "uid": "505942",
     "name": "冯晖",
     "org_name": "安邦融资产管理有限公司",
@@ -12583,152 +12398,193 @@
     "special_companies": "中汇集团,小鹏汽车-W,百融智能,碧桂园服务,阜博集团"
   },
   {
-    "uid": "333463",
-    "name": "徐作为",
-    "org_name": "道翼资本",
+    "uid": "496065",
+    "name": "钟志斌",
+    "org_name": "北京泽淳永联投资管理有限公司",
     "org_type": "私募股权/创业投资基金管理人",
     "cert_type": "个人",
-    "position": "投资经理",
-    "department": "美元基金部",
-    "last_interaction_time": "2026-03-27 16:58:17",
+    "position": "合伙人",
+    "department": "上市物企市值管理. 物企成本管控. 物企供应链金融",
+    "last_interaction_time": "2026-03-27 16:58:18",
     "last_interaction_behavior": "参会",
     "interaction_company": "碧桂园服务",
-    "apply_count": 7,
+    "apply_count": 6,
     "apply_records": [
       {
-        "time": "2026-03-26",
+        "time": "2026-03-20",
         "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会"
       },
       {
-        "time": "2025-08-18",
+        "time": "2025-08-19",
         "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会"
       },
       {
-        "time": "2025-03-21",
+        "time": "2025-03-23",
         "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-22",
-        "meet_title": "碧桂园服务（6098.HK）2024年中期业绩发布会"
       },
       {
         "time": "2024-03-20",
         "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
       },
       {
-        "time": "2023-08-22",
+        "time": "2023-08-23",
         "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
       },
       {
-        "time": "2023-03-23",
+        "time": "2023-03-27",
         "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
       }
     ],
-    "attend_count": 5,
+    "attend_count": 4,
     "attend_records": [
       {
         "time": "2026-03-27",
         "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会",
-        "duration": 74
+        "duration": 85
       },
       {
-        "time": "2025-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会",
-        "duration": 47
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
-        "duration": 6
+        "time": "2025-08-27",
+        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会",
+        "duration": 94
       },
       {
         "time": "2024-03-27",
         "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
-        "duration": 44
-      },
-      {
-        "time": "2023-08-29",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
-        "duration": 78
-      },
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
-        "duration": 39
+        "duration": 46
       }
     ],
-    "is_first_attend": false,
+    "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "建发物业",
+        "time": "2026-03-27"
+      },
+      {
         "company": "中海物业",
-        "time": "2025-08-25"
+        "time": "2026-03-24"
       },
       {
-        "company": "名创优品",
-        "time": "2025-08-18"
+        "company": "国锐生活",
+        "time": "2026-03-16"
       },
       {
-        "company": "森松国际",
-        "time": "2023-08-15"
+        "company": "国证国际证券(香港)研究所",
+        "time": "2023-10-31"
       },
       {
-        "company": "绿城中国",
-        "time": "2023-04-25"
+        "company": "捷利交易宝",
+        "time": "2023-10-27"
       },
       {
-        "company": "呷哺呷哺",
-        "time": "2023-03-30"
+        "company": "星悦康旅",
+        "time": "2023-08-17"
       },
       {
-        "company": "卓越商企服务",
-        "time": "2023-03-30"
+        "company": "金融街物业",
+        "time": "2023-08-17"
       },
       {
-        "company": "华住集团-S",
-        "time": "2023-03-30"
+        "company": "正荣服务",
+        "time": "2023-08-17"
       },
       {
-        "company": "药明生物",
-        "time": "2023-03-30"
+        "company": "德信服务集团",
+        "time": "2023-08-17"
       },
       {
-        "company": "贝壳",
-        "time": "2023-03-30"
+        "company": "佳源服务",
+        "time": "2023-08-17"
       },
       {
-        "company": "万物云",
-        "time": "2023-03-30"
+        "company": "弘阳服务",
+        "time": "2023-08-17"
       },
       {
-        "company": "华润医疗",
-        "time": "2023-03-30"
+        "company": "佳兆业美好",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "远洋服务",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "银城生活服务",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "永升服务",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2023-03-31"
+      },
+      {
+        "company": "建业新生活",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "保利物业",
+        "time": "2023-03-27"
       },
       {
         "company": "宝龙商业",
-        "time": "2023-03-30"
+        "time": "2023-03-27"
       },
       {
-        "company": "融创中国",
-        "time": "2023-03-29"
+        "company": "绿城服务",
+        "time": "2023-03-27"
       },
       {
         "company": "滨江服务",
         "time": "2023-03-27"
       },
       {
-        "company": "金茂服务",
-        "time": "2023-03-24"
+        "company": "新希望服务",
+        "time": "2023-03-27"
       },
       {
-        "company": "中国人寿",
-        "time": "2023-03-23"
+        "company": "雅生活服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "新城悦服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "星盛商业",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2023-03-27"
       },
       {
         "company": "金科服务",
-        "time": "2023-03-23"
+        "time": "2023-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-27"
       }
     ],
-    "special_companies": "万物云,华润医疗,卓越商企服务,宝龙商业,森松国际,粉笔,药明生物,融创中国,金茂服务"
+    "special_companies": "保利物业,合景悠活,国证国际证券(香港)研究所,宝龙商业,建业新生活,捷利交易宝,新希望服务,滨江服务,碧桂园服务,绿城服务"
   },
   {
     "uid": "282317",
@@ -12899,6 +12755,154 @@
       }
     ],
     "special_companies": "万物云,中海物业,绿城管理控股"
+  },
+  {
+    "uid": "333463",
+    "name": "徐作为",
+    "org_name": "道翼资本",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "个人",
+    "position": "投资经理",
+    "department": "美元基金部",
+    "last_interaction_time": "2026-03-27 16:58:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 7,
+    "apply_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-18",
+        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-21",
+        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-22",
+        "meet_title": "碧桂园服务（6098.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-23",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
+      }
+    ],
+    "attend_count": 5,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2025年度业绩发布会",
+        "duration": 74
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会",
+        "duration": 47
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
+        "duration": 6
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
+        "duration": 44
+      },
+      {
+        "time": "2023-08-29",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
+        "duration": 78
+      },
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
+        "duration": 39
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中海物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "森松国际",
+        "time": "2023-08-15"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2023-04-25"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "药明生物",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "贝壳",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "融创中国",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-03-23"
+      }
+    ],
+    "special_companies": "万物云,华润医疗,卓越商企服务,宝龙商业,森松国际,粉笔,药明生物,融创中国,金茂服务"
   },
   {
     "uid": "335480",
@@ -14392,6 +14396,14 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-15"
+      },
       {
         "company": "三只松鼠",
         "time": "2026-03-19"
@@ -21776,6 +21788,14 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "保利置业集团",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "保利发展",
+        "time": "2026-04-15"
+      },
+      {
         "company": "汇丰控股",
         "time": "2026-03-24"
       },
@@ -28893,41 +28913,6 @@
     "special_companies": "明源云,绿城中国,美的置业"
   },
   {
-    "uid": "428314",
-    "name": "朱南钰",
-    "org_name": "华泰证券(上海)资产管理有限公司",
-    "org_type": "公募资管",
-    "cert_type": "机构投资者",
-    "position": "行业研究员",
-    "department": "公募权益部",
-    "last_interaction_time": "2025-08-27 17:00:48",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会",
-        "duration": 90
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "珀莱雅",
-        "time": "2023-08-30"
-      }
-    ],
-    "special_companies": "珀莱雅"
-  },
-  {
     "uid": "612572",
     "name": "程远",
     "org_name": "安徽国海投资发展有限公司",
@@ -28985,6 +28970,41 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "428314",
+    "name": "朱南钰",
+    "org_name": "华泰证券(上海)资产管理有限公司",
+    "org_type": "公募资管",
+    "cert_type": "机构投资者",
+    "position": "行业研究员",
+    "department": "公募权益部",
+    "last_interaction_time": "2025-08-27 17:00:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会",
+        "duration": 90
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "珀莱雅",
+        "time": "2023-08-30"
+      }
+    ],
+    "special_companies": "珀莱雅"
   },
   {
     "uid": "341047",
@@ -30175,67 +30195,6 @@
     "special_companies": "绿城中国"
   },
   {
-    "uid": "571945",
-    "name": "谷润青",
-    "org_name": "海南善祥投资有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "投资经理助理",
-    "department": "",
-    "last_interaction_time": "2025-08-27 16:59:21",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2025-08-21",
-        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-24",
-        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-03-23",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-25",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会",
-        "duration": 93
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会",
-        "duration": 82
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
-        "duration": 95
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中海物业",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-08-29"
-      }
-    ],
-    "special_companies": "中原建业"
-  },
-  {
     "uid": "435076",
     "name": "廖朝磊",
     "org_name": "佛山弘信私募基金管理有限公司",
@@ -30375,6 +30334,67 @@
       }
     ],
     "special_companies": "中国黄金国际,五谷磨房,协合新能源,宏信建发,碧桂园服务,绿城服务,腾讯控股,融创服务,金茂服务"
+  },
+  {
+    "uid": "571945",
+    "name": "谷润青",
+    "org_name": "海南善祥投资有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "投资经理助理",
+    "department": "",
+    "last_interaction_time": "2025-08-27 16:59:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2025-08-21",
+        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-24",
+        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-03-23",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-25",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "碧桂园服务（6098.HK）2025年中期业绩发布会",
+        "duration": 93
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会",
+        "duration": 82
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
+        "duration": 95
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中海物业",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-08-29"
+      }
+    ],
+    "special_companies": "中原建业"
   },
   {
     "uid": "340905",
@@ -34002,7 +34022,7 @@
     "name": "周波",
     "org_name": "铸山股权投资基金管理(上海)股份有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "高级研究员",
     "department": "",
     "last_interaction_time": "2025-08-21 14:59:43",
@@ -40942,7 +40962,7 @@
     "name": "李宇宁",
     "org_name": "上海联新资本管理有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "执行董事",
     "department": "",
     "last_interaction_time": "2025-03-27 17:07:44",
@@ -43245,6 +43265,50 @@
     "special_companies": ""
   },
   {
+    "uid": "612178",
+    "name": "Sam Wu",
+    "org_name": "Antipodes Partners (U.K.), LTD",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "Investment Analyst",
+    "department": "",
+    "last_interaction_time": "2025-03-27 17:00:11",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-22",
+        "meet_title": "碧桂园服务（6098.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会",
+        "duration": 84
+      },
+      {
+        "time": "2024-08-22",
+        "meet_title": "碧桂园服务（6098.HK）2024年中期业绩发布会",
+        "duration": 114
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园服务",
+        "time": "2024-08-22"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "339677",
     "name": "程锋",
     "org_name": "上海景熙资产管理有限公司",
@@ -43315,50 +43379,6 @@
       }
     ],
     "special_companies": "万物云,敏华控股"
-  },
-  {
-    "uid": "612178",
-    "name": "Sam Wu",
-    "org_name": "Antipodes Partners (U.K.), LTD",
-    "org_type": null,
-    "cert_type": "个人",
-    "position": "Investment Analyst",
-    "department": "",
-    "last_interaction_time": "2025-03-27 17:00:11",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-22",
-        "meet_title": "碧桂园服务（6098.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2024年度业绩发布会",
-        "duration": 84
-      },
-      {
-        "time": "2024-08-22",
-        "meet_title": "碧桂园服务（6098.HK）2024年中期业绩发布会",
-        "duration": 114
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园服务",
-        "time": "2024-08-22"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "633163",
@@ -54687,7 +54707,7 @@
     "name": "管宇强",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "董事",
     "department": "",
     "last_interaction_time": "2024-08-22 17:04:23",
@@ -60136,6 +60156,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "宁德时代",
         "time": "2026-04-13"
       },
@@ -63040,7 +63064,7 @@
     "uid": "503111",
     "name": "吴灏林",
     "org_name": "深圳华尔资本管理有限公司",
-    "org_type": null,
+    "org_type": "私募证券投资基金管理人",
     "cert_type": "机构投资者",
     "position": "基金经理",
     "department": "投研部",
@@ -66111,7 +66135,7 @@
     "name": "毛卫文",
     "org_name": "上海至璞资产管理合伙企业（有限合伙）",
     "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "研发合伙人",
     "department": "",
     "last_interaction_time": "2024-03-27 17:04:45",
@@ -66616,6 +66640,45 @@
     "special_companies": ""
   },
   {
+    "uid": "281961",
+    "name": "James Yan",
+    "org_name": "方瀛研究與投資（香港）有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Equity Research Associate",
+    "department": "",
+    "last_interaction_time": "2024-03-27 17:02:52",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "百融智能",
+        "time": "2023-03-23"
+      }
+    ],
+    "special_companies": "呷哺呷哺,新希望服务,百融智能"
+  },
+  {
     "uid": "333184",
     "name": "刘诗洁",
     "org_name": "圆方资本管理有限公司",
@@ -66677,45 +66740,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "281961",
-    "name": "James Yan",
-    "org_name": "方瀛研究與投資（香港）有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Equity Research Associate",
-    "department": "",
-    "last_interaction_time": "2024-03-27 17:02:52",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-03-28"
-      },
-      {
-        "company": "百融智能",
-        "time": "2023-03-23"
-      }
-    ],
-    "special_companies": "呷哺呷哺,新希望服务,百融智能"
   },
   {
     "uid": "607425",
@@ -67215,6 +67239,59 @@
     "special_companies": "保利物业,新世界发展,碧桂园"
   },
   {
+    "uid": "41862",
+    "name": "张迪",
+    "org_name": "华夏基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "国际投资部",
+    "last_interaction_time": "2024-03-27 17:01:06",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-29",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
+        "duration": 97
+      },
+      {
+        "time": "2023-08-29",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
+        "duration": 84
+      },
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
+        "duration": 108
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "496483",
     "name": "黄嘉敏",
     "org_name": "蓝鲸财经",
@@ -67276,59 +67353,6 @@
       }
     ],
     "special_companies": "中南建设,碧桂园服务,美的置业"
-  },
-  {
-    "uid": "41862",
-    "name": "张迪",
-    "org_name": "华夏基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "国际投资部",
-    "last_interaction_time": "2024-03-27 17:01:06",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-29",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
-        "duration": 97
-      },
-      {
-        "time": "2023-08-29",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
-        "duration": 84
-      },
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
-        "duration": 108
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "494773",
@@ -67539,6 +67563,57 @@
     "special_companies": "华润医药,康哲药业,联邦制药,药明生物,雅生活服务"
   },
   {
+    "uid": "580388",
+    "name": "舒殷",
+    "org_name": "鸿运私募基金管理（海南）有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "投资部",
+    "last_interaction_time": "2024-03-27 17:00:36",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
+        "duration": 88
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "拼多多",
+        "time": "2024-05-22"
+      },
+      {
+        "company": "VESYNC",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "康基医疗",
+        "time": "2024-03-21"
+      },
+      {
+        "company": "富国基金",
+        "time": "2023-08-02"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-08-01"
+      }
+    ],
+    "special_companies": "VESYNC,康基医疗,绿城管理控股"
+  },
+  {
     "uid": "335391",
     "name": "冼业丰",
     "org_name": "FIRST BASE （H.K.） LIMITED",
@@ -67594,57 +67669,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "580388",
-    "name": "舒殷",
-    "org_name": "鸿运私募基金管理（海南）有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "投资部",
-    "last_interaction_time": "2024-03-27 17:00:36",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
-        "duration": 88
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "拼多多",
-        "time": "2024-05-22"
-      },
-      {
-        "company": "VESYNC",
-        "time": "2024-03-26"
-      },
-      {
-        "company": "康基医疗",
-        "time": "2024-03-21"
-      },
-      {
-        "company": "富国基金",
-        "time": "2023-08-02"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2023-08-01"
-      }
-    ],
-    "special_companies": "VESYNC,康基医疗,绿城管理控股"
   },
   {
     "uid": "426813",
@@ -67823,6 +67847,36 @@
     "special_companies": ""
   },
   {
+    "uid": "607660",
+    "name": "胡正维",
+    "org_name": "广发证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2024-03-27 17:00:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-25",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
+        "duration": 97
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "429713",
     "name": "钟云",
     "org_name": "国泰君安证券股份有限公司",
@@ -67887,36 +67941,6 @@
       }
     ],
     "special_companies": "世茂服务,卓越商企服务,建业新生活,永升服务,碧桂园服务,金科服务,雅生活服务"
-  },
-  {
-    "uid": "607660",
-    "name": "胡正维",
-    "org_name": "广发证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2024-03-27 17:00:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-25",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2023年度业绩发布会",
-        "duration": 97
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "425569",
@@ -79674,6 +79698,55 @@
     "special_companies": "中国有色矿业,保利物业,卓越商企服务,合景悠活,敏华控股,深圳控股,滨江服务,福寿园,绿城管理控股,越秀服务"
   },
   {
+    "uid": "276639",
+    "name": "蔡字宇",
+    "org_name": "上海同犇投资管理中心(有限合伙)",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-08-29 17:00:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-08-29",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-08-29",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
+        "duration": 78
+      },
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
+        "duration": 7
+      },
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
+        "duration": 82
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "万物云",
+        "time": "2023-03-28"
+      }
+    ],
+    "special_companies": "万物云"
+  },
+  {
     "uid": "576367",
     "name": "张丰淇",
     "org_name": "东北证券股份有限公司 上海证券研究 咨询分公司",
@@ -79723,55 +79796,6 @@
       }
     ],
     "special_companies": "大悦城地产,宝龙商业,绿城中国,绿景中国地产"
-  },
-  {
-    "uid": "276639",
-    "name": "蔡字宇",
-    "org_name": "上海同犇投资管理中心(有限合伙)",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-08-29 17:00:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-08-29",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-08-29",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
-        "duration": 78
-      },
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
-        "duration": 7
-      },
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
-        "duration": 82
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "万物云",
-        "time": "2023-03-28"
-      }
-    ],
-    "special_companies": "万物云"
   },
   {
     "uid": "435790",
@@ -79911,36 +79935,6 @@
     "special_companies": ""
   },
   {
-    "uid": "503972",
-    "name": "Lam Sau Mui",
-    "org_name": "中国银行(香港)有限公司",
-    "org_type": "银行",
-    "cert_type": "个人",
-    "position": "Senior Manager",
-    "department": "Corporate Business Division I",
-    "last_interaction_time": "2023-08-29 17:00:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-24",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-29",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
-        "duration": 24
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "碧桂园服务"
-  },
-  {
     "uid": "346355",
     "name": "庞宇铭",
     "org_name": "西藏合众易晟投资管理有限责任公司",
@@ -79969,6 +79963,36 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "503972",
+    "name": "Lam Sau Mui",
+    "org_name": "中国银行(香港)有限公司",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "Senior Manager",
+    "department": "Corporate Business Division I",
+    "last_interaction_time": "2023-08-29 17:00:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-24",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-29",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
+        "duration": 24
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "碧桂园服务"
   },
   {
     "uid": "347617",
@@ -80101,6 +80125,58 @@
     "special_companies": ""
   },
   {
+    "uid": "336704",
+    "name": "Karen Yiu",
+    "org_name": "Citicorp",
+    "org_type": "境外银行",
+    "cert_type": "机构投资者",
+    "position": "Vice President",
+    "department": "",
+    "last_interaction_time": "2023-08-29 17:00:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-08-25",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-08-29",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
+        "duration": 79
+      },
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
+        "duration": 108
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "融创服务",
+        "time": "2024-03-26"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-08-25"
+      },
+      {
+        "company": "中国电信",
+        "time": "2023-03-22"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "427039",
     "name": "赵俊桦",
     "org_name": "南方基金管理股份有限公司",
@@ -80156,58 +80232,6 @@
       }
     ],
     "special_companies": "碧桂园服务"
-  },
-  {
-    "uid": "336704",
-    "name": "Karen Yiu",
-    "org_name": "Citicorp",
-    "org_type": "境外银行",
-    "cert_type": "机构投资者",
-    "position": "Vice President",
-    "department": "",
-    "last_interaction_time": "2023-08-29 17:00:07",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-08-25",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-08-29",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
-        "duration": 79
-      },
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
-        "duration": 108
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "融创服务",
-        "time": "2024-03-26"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-08-25"
-      },
-      {
-        "company": "中国电信",
-        "time": "2023-03-22"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "573534",
@@ -80792,36 +80816,6 @@
     "special_companies": "万物云"
   },
   {
-    "uid": "493303",
-    "name": "許英略",
-    "org_name": "经济通有限公司",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "Finance Reporter",
-    "department": "",
-    "last_interaction_time": "2023-08-29 16:59:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-29",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
-        "duration": 91
-      },
-      {
-        "time": "2023-08-29",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "333373",
     "name": "Anthony Wong",
     "org_name": "Millennium Capital Management （HONG KONG）, LTD",
@@ -80861,6 +80855,36 @@
     "special_companies": ""
   },
   {
+    "uid": "493303",
+    "name": "許英略",
+    "org_name": "经济通有限公司",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "Finance Reporter",
+    "department": "",
+    "last_interaction_time": "2023-08-29 16:59:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-29",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
+        "duration": 91
+      },
+      {
+        "time": "2023-08-29",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "494124",
     "name": "符文豪",
     "org_name": "广东奶酪投资基金股份有限公司",
@@ -80889,6 +80913,44 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": "国证国际证券(香港)研究所"
+  },
+  {
+    "uid": "582762",
+    "name": "朱箪",
+    "org_name": "界面新闻",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "记者",
+    "department": "",
+    "last_interaction_time": "2023-08-29 16:59:31",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-29",
+        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
+        "duration": 80
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "美的置业",
+        "time": "2023-08-24"
+      }
+    ],
+    "special_companies": "中国建筑,碧桂园服务,美的置业"
   },
   {
     "uid": "573202",
@@ -81039,44 +81101,6 @@
       }
     ],
     "special_companies": "万物云,世茂服务,保利物业,卓越商企服务,合景悠活,宝龙商业,建业新生活,建发物业,新城悦服务,星盛商业,永升服务,滨江服务,碧桂园服务,绿城服务,融创服务,越秀服务,金茂服务,雅生活服务"
-  },
-  {
-    "uid": "582762",
-    "name": "朱箪",
-    "org_name": "界面新闻",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "记者",
-    "department": "",
-    "last_interaction_time": "2023-08-29 16:59:31",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-29",
-        "meet_title": "碧桂园服务（6098.HK）2023年中期业绩发布会",
-        "duration": 80
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国建筑",
-        "time": "2023-08-30"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2023-08-29"
-      },
-      {
-        "company": "美的置业",
-        "time": "2023-08-24"
-      }
-    ],
-    "special_companies": "中国建筑,碧桂园服务,美的置业"
   },
   {
     "uid": "337071",
@@ -91085,6 +91109,45 @@
     "special_companies": ""
   },
   {
+    "uid": "429934",
+    "name": "沈丹柠",
+    "org_name": "中航信托股份有限公司",
+    "org_type": "信托公司",
+    "cert_type": "个人",
+    "position": "信用研究员",
+    "department": "证券投资部",
+    "last_interaction_time": "2023-03-29 16:36:37",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-23",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
+        "duration": 13
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2023-03-16"
+      }
+    ],
+    "special_companies": "碧桂园服务,绿城中国"
+  },
+  {
     "uid": "270177",
     "name": "胡继中",
     "org_name": "上海盛宇股权投资基金管理有限公司",
@@ -91135,45 +91198,6 @@
       }
     ],
     "special_companies": "波司登"
-  },
-  {
-    "uid": "429934",
-    "name": "沈丹柠",
-    "org_name": "中航信托股份有限公司",
-    "org_type": "信托公司",
-    "cert_type": "个人",
-    "position": "信用研究员",
-    "department": "证券投资部",
-    "last_interaction_time": "2023-03-29 16:36:37",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-23",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
-        "duration": 13
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-23"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2023-03-16"
-      }
-    ],
-    "special_companies": "碧桂园服务,绿城中国"
   },
   {
     "uid": "424574",
@@ -91490,6 +91514,30 @@
     "special_companies": ""
   },
   {
+    "uid": "576524",
+    "name": "郭子凡",
+    "org_name": "定航资本",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "投资经理",
+    "department": "",
+    "last_interaction_time": "2023-03-29 16:34:57",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "282780",
     "name": "陈婷",
     "org_name": "RRJ管理（香港）有限公司",
@@ -91527,30 +91575,6 @@
       }
     ],
     "special_companies": "万物云,明源云"
-  },
-  {
-    "uid": "576524",
-    "name": "郭子凡",
-    "org_name": "定航资本",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "投资经理",
-    "department": "",
-    "last_interaction_time": "2023-03-29 16:34:57",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "436391",
@@ -94009,6 +94033,45 @@
     "special_companies": "中国黄金国际,星盛商业,百融智能"
   },
   {
+    "uid": "270405",
+    "name": "吴迪",
+    "org_name": "禾其投资",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "副总裁",
+    "department": null,
+    "last_interaction_time": "2023-03-29 16:30:36",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "碧桂园服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
+        "duration": 56
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": "碧桂园"
+  },
+  {
     "uid": "284814",
     "name": "张蒙",
     "org_name": "橡树岭(海南)私募基金管理有限公司",
@@ -94051,45 +94114,6 @@
       }
     ],
     "special_companies": "碧桂园,碧桂园服务"
-  },
-  {
-    "uid": "270405",
-    "name": "吴迪",
-    "org_name": "禾其投资",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "副总裁",
-    "department": null,
-    "last_interaction_time": "2023-03-29 16:30:36",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "碧桂园服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "碧桂园服务（6098.HK）2022年度业绩投资者发布会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园",
-        "time": "2023-03-30"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": "碧桂园"
   },
   {
     "uid": "251464",

@@ -164,6 +164,11 @@
     "attend_count": 1,
     "attend_records": [
       {
+        "time": "2026-04-14",
+        "meet_title": "【普通话】新世界发展有限公司（17.HK）2026财政年度中期业绩发布会",
+        "duration": 0
+      },
+      {
         "time": "2026-03-01",
         "meet_title": "【普通话】新世界发展有限公司（17.HK）2026财政年度中期业绩发布会",
         "duration": 1
@@ -3333,6 +3338,14 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "保利置业集团",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "保利发展",
+        "time": "2026-04-15"
+      },
       {
         "company": "汇丰控股",
         "time": "2026-03-24"
@@ -13253,105 +13266,6 @@
     "special_companies": "万物云,兖煤澳大利亚,医脉通,华润医疗,呷哺呷哺,敏华控股,民生教育,环球新材国际,百果园集团,神威药业,粉笔"
   },
   {
-    "uid": "435784",
-    "name": "井若冲",
-    "org_name": "中国山东高速资本有限公司",
-    "org_type": "境外投资公司",
-    "cert_type": "个人",
-    "position": "高级副总裁",
-    "department": "结构性融资",
-    "last_interaction_time": "2026-02-27 17:44:08",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新世界发展",
-    "apply_count": 9,
-    "apply_records": [
-      {
-        "time": "2026-02-16",
-        "meet_title": "【广东话】新世界发展有限公司（17.HK）2026财政年度中期业绩发布会"
-      },
-      {
-        "time": "2026-02-16",
-        "meet_title": "【普通话】新世界发展有限公司（17.HK）2026财政年度中期业绩发布会"
-      },
-      {
-        "time": "2025-09-26",
-        "meet_title": "【普通话】新世界发展有限公司(17.HK)2025财政年度业绩发布会"
-      },
-      {
-        "time": "2025-09-26",
-        "meet_title": "【广东话】新世界发展有限公司(17.HK)2025财政年度业绩发布会"
-      },
-      {
-        "time": "2025-02-27",
-        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
-      },
-      {
-        "time": "2025-02-25",
-        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
-      },
-      {
-        "time": "2024-02-29",
-        "meet_title": "新世界发展有限公司（17.HK）2024财政年度中期业绩发布会"
-      },
-      {
-        "time": "2023-11-03",
-        "meet_title": "新世界发展有限公司(17.HK)管理层非交易路演"
-      },
-      {
-        "time": "2023-09-26",
-        "meet_title": "新世界发展有限公司(17.HK)2023财政年度业绩发布会"
-      }
-    ],
-    "attend_count": 5,
-    "attend_records": [
-      {
-        "time": "2026-02-27",
-        "meet_title": "【广东话】新世界发展有限公司（17.HK）2026财政年度中期业绩发布会",
-        "duration": 50
-      },
-      {
-        "time": "2025-09-26",
-        "meet_title": "【广东话】新世界发展有限公司(17.HK)2025财政年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-09-26",
-        "meet_title": "【普通话】新世界发展有限公司(17.HK)2025财政年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-02-28",
-        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会",
-        "duration": 1
-      },
-      {
-        "time": "2024-02-29",
-        "meet_title": "新世界发展有限公司(17.HK)2023财政年度业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "周大福创建",
-        "time": "2025-02-26"
-      },
-      {
-        "company": "远东发展",
-        "time": "2025-02-26"
-      },
-      {
-        "company": "新世界发展",
-        "time": "2024-02-29"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2023-08-16"
-      }
-    ],
-    "special_companies": "周大福创建,绿城中国,融创服务"
-  },
-  {
     "uid": "507218",
     "name": "熊双艳",
     "org_name": "新世界中国",
@@ -13479,6 +13393,105 @@
       }
     ],
     "special_companies": "中国交建,新世界发展"
+  },
+  {
+    "uid": "435784",
+    "name": "井若冲",
+    "org_name": "中国山东高速资本有限公司",
+    "org_type": "境外投资公司",
+    "cert_type": "个人",
+    "position": "高级副总裁",
+    "department": "结构性融资",
+    "last_interaction_time": "2026-02-27 17:44:08",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新世界发展",
+    "apply_count": 9,
+    "apply_records": [
+      {
+        "time": "2026-02-16",
+        "meet_title": "【广东话】新世界发展有限公司（17.HK）2026财政年度中期业绩发布会"
+      },
+      {
+        "time": "2026-02-16",
+        "meet_title": "【普通话】新世界发展有限公司（17.HK）2026财政年度中期业绩发布会"
+      },
+      {
+        "time": "2025-09-26",
+        "meet_title": "【普通话】新世界发展有限公司(17.HK)2025财政年度业绩发布会"
+      },
+      {
+        "time": "2025-09-26",
+        "meet_title": "【广东话】新世界发展有限公司(17.HK)2025财政年度业绩发布会"
+      },
+      {
+        "time": "2025-02-27",
+        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
+      },
+      {
+        "time": "2025-02-25",
+        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
+      },
+      {
+        "time": "2024-02-29",
+        "meet_title": "新世界发展有限公司（17.HK）2024财政年度中期业绩发布会"
+      },
+      {
+        "time": "2023-11-03",
+        "meet_title": "新世界发展有限公司(17.HK)管理层非交易路演"
+      },
+      {
+        "time": "2023-09-26",
+        "meet_title": "新世界发展有限公司(17.HK)2023财政年度业绩发布会"
+      }
+    ],
+    "attend_count": 5,
+    "attend_records": [
+      {
+        "time": "2026-02-27",
+        "meet_title": "【广东话】新世界发展有限公司（17.HK）2026财政年度中期业绩发布会",
+        "duration": 50
+      },
+      {
+        "time": "2025-09-26",
+        "meet_title": "【广东话】新世界发展有限公司(17.HK)2025财政年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-09-26",
+        "meet_title": "【普通话】新世界发展有限公司(17.HK)2025财政年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-02-28",
+        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会",
+        "duration": 1
+      },
+      {
+        "time": "2024-02-29",
+        "meet_title": "新世界发展有限公司(17.HK)2023财政年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "周大福创建",
+        "time": "2025-02-26"
+      },
+      {
+        "company": "远东发展",
+        "time": "2025-02-26"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2024-02-29"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2023-08-16"
+      }
+    ],
+    "special_companies": "周大福创建,绿城中国,融创服务"
   },
   {
     "uid": "22987",
@@ -20441,45 +20454,6 @@
     "special_companies": "世茂服务,中国海外宏洋集团,保利发展,保利物业,招商蛇口,新世界发展,绿城服务"
   },
   {
-    "uid": "632313",
-    "name": "刘廷轩",
-    "org_name": "新世界中国地产有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "Deputy General Manager",
-    "department": "",
-    "last_interaction_time": "2025-09-26 17:45:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新世界发展",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-09-26",
-        "meet_title": "【广东话】新世界发展有限公司(17.HK)2025财政年度业绩发布会"
-      },
-      {
-        "time": "2025-02-28",
-        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-09-26",
-        "meet_title": "【广东话】新世界发展有限公司(17.HK)2025财政年度业绩发布会",
-        "duration": 38
-      },
-      {
-        "time": "2025-02-28",
-        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会",
-        "duration": 44
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "637459",
     "name": "Tse Kay Chung",
     "org_name": "交银国际证券有限公司",
@@ -20568,6 +20542,45 @@
         "time": "2025-08-25"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "632313",
+    "name": "刘廷轩",
+    "org_name": "新世界中国地产有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "Deputy General Manager",
+    "department": "",
+    "last_interaction_time": "2025-09-26 17:45:57",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新世界发展",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-09-26",
+        "meet_title": "【广东话】新世界发展有限公司(17.HK)2025财政年度业绩发布会"
+      },
+      {
+        "time": "2025-02-28",
+        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-09-26",
+        "meet_title": "【广东话】新世界发展有限公司(17.HK)2025财政年度业绩发布会",
+        "duration": 38
+      },
+      {
+        "time": "2025-02-28",
+        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会",
+        "duration": 44
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -31890,6 +31903,40 @@
     "special_companies": ""
   },
   {
+    "uid": "572273",
+    "name": "馮浩",
+    "org_name": "国元咨询服务（深圳）有限公司",
+    "org_type": "一般企业",
+    "cert_type": "卖方分析师",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2025-02-28 17:44:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新世界发展",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-02-28",
+        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
+      },
+      {
+        "time": "2025-02-28",
+        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-02-28",
+        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "中国交建"
+  },
+  {
     "uid": "439365",
     "name": "謝博淵",
     "org_name": "中國人壽富蘭克林資產管理有限公司",
@@ -31927,40 +31974,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "572273",
-    "name": "馮浩",
-    "org_name": "国元咨询服务（深圳）有限公司",
-    "org_type": "一般企业",
-    "cert_type": "卖方分析师",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2025-02-28 17:44:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新世界发展",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-02-28",
-        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
-      },
-      {
-        "time": "2025-02-28",
-        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-02-28",
-        "meet_title": "新世界发展有限公司（17.HK）2025财政年度中期业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "中国交建"
   },
   {
     "uid": "632237",
@@ -47686,6 +47699,36 @@
     "special_companies": ""
   },
   {
+    "uid": "342116",
+    "name": "毋婧",
+    "org_name": "凯基证券亚洲有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "助理副總裁",
+    "department": "环球市场/价券部/可换股价券",
+    "last_interaction_time": "2024-02-29 17:44:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新世界发展",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-02-29",
+        "meet_title": "新世界发展有限公司（17.HK）2024财政年度中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-02-29",
+        "meet_title": "新世界发展有限公司（17.HK）2024财政年度中期业绩发布会",
+        "duration": 51
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "439983",
     "name": "李佩仪",
     "org_name": "广州新沛投资有限公司",
@@ -47726,36 +47769,6 @@
       }
     ],
     "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "342116",
-    "name": "毋婧",
-    "org_name": "凯基证券亚洲有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "助理副總裁",
-    "department": "环球市场/价券部/可换股价券",
-    "last_interaction_time": "2024-02-29 17:44:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新世界发展",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-02-29",
-        "meet_title": "新世界发展有限公司（17.HK）2024财政年度中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-02-29",
-        "meet_title": "新世界发展有限公司（17.HK）2024财政年度中期业绩发布会",
-        "duration": 51
-      }
-    ],
-    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -55315,6 +55328,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-13"

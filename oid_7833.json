@@ -1,5 +1,287 @@
 [
   {
+    "uid": "1450",
+    "name": "盧超",
+    "org_name": "理成(开曼)资产管理有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2026-04-15 13:29:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "深圳控股",
+    "apply_count": 6,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "深圳控股（0604.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-24",
+        "meet_title": "深圳控股（0604.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "深圳控股（0604.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-24",
+        "meet_title": "深圳控股（0604.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "深圳控股（0604.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-23",
+        "meet_title": "深圳控股（0604.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "深圳控股（0604.HK）2025年度业绩发布会",
+        "duration": 54
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "深圳控股（0604.HK）2024年度业绩发布会",
+        "duration": 39
+      },
+      {
+        "time": "2024-08-29",
+        "meet_title": "深圳控股（0604.HK）2024年中期业绩发布会",
+        "duration": 58
+      },
+      {
+        "time": "2023-08-31",
+        "meet_title": "深圳控股（0604.HK）2023年中期业绩发布会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "九方智投控股",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "小马智行",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "香港中旅",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "稀美资源",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "百融智能",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "美团-W",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "恒安国际",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-09"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "理士国际",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "中国银行",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "招商银行",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "顺丰同城",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "美的置业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "百度",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "药师帮",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "中国电信",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2025-08-09"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "京东物流",
+        "time": "2025-08-06"
+      }
+    ],
+    "special_companies": "呷哺呷哺,国证国际证券(香港)研究所,沛嘉医疗,滨江服务"
+  },
+  {
     "uid": "333639",
     "name": "田国宝",
     "org_name": "经济观察报",
@@ -37,6 +319,14 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "保利置业集团",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "保利发展",
+        "time": "2026-04-15"
+      },
       {
         "company": "汇丰控股",
         "time": "2026-03-24"
@@ -1801,7 +2091,7 @@
     "name": "毛卫文",
     "org_name": "上海至璞资产管理合伙企业（有限合伙）",
     "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "研发合伙人",
     "department": "",
     "last_interaction_time": "2026-03-31 11:21:51",
@@ -4049,288 +4339,6 @@
     "special_companies": ""
   },
   {
-    "uid": "1450",
-    "name": "盧超",
-    "org_name": "理成(开曼)资产管理有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "",
-    "last_interaction_time": "2026-03-31 11:05:10",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "深圳控股",
-    "apply_count": 6,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "深圳控股（0604.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-24",
-        "meet_title": "深圳控股（0604.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "深圳控股（0604.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-24",
-        "meet_title": "深圳控股（0604.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-20",
-        "meet_title": "深圳控股（0604.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-23",
-        "meet_title": "深圳控股（0604.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "深圳控股（0604.HK）2025年度业绩发布会",
-        "duration": 54
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "深圳控股（0604.HK）2024年度业绩发布会",
-        "duration": 39
-      },
-      {
-        "time": "2024-08-29",
-        "meet_title": "深圳控股（0604.HK）2024年中期业绩发布会",
-        "duration": 58
-      },
-      {
-        "time": "2023-08-31",
-        "meet_title": "深圳控股（0604.HK）2023年中期业绩发布会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "希迪智驾",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "九方智投控股",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "小马智行",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "香港中旅",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "稀美资源",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "中国民航信息网络",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "百融智能",
-        "time": "2026-03-21"
-      },
-      {
-        "company": "五谷磨房",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "美团-W",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "恒安国际",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "阜博集团",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-11-09"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-08-29"
-      },
-      {
-        "company": "理士国际",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "中国银行",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "招商银行",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "顺丰同城",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "合景悠活",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "拼多多",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "美的置业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "卓越教育集团",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "百度",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "药师帮",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "名创优品",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "佛朗斯股份",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "中国电信",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "快手-W",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "金山软件",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "小鹏汽车-W",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2025-08-09"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-08-08"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "京东物流",
-        "time": "2025-08-06"
-      }
-    ],
-    "special_companies": "呷哺呷哺,国证国际证券(香港)研究所,沛嘉医疗,滨江服务"
-  },
-  {
     "uid": "286478",
     "name": "朱國強",
     "org_name": "国信证券(香港）",
@@ -6568,6 +6576,66 @@
     "special_companies": "世茂服务,中国人寿,中国电信,新城发展,深圳控股,珀莱雅,石化油服,碧桂园,碧桂园服务,药明生物,融创中国"
   },
   {
+    "uid": "636813",
+    "name": "Charlotte Ye",
+    "org_name": "汇丰控股有限公司",
+    "org_type": "境外银行",
+    "cert_type": "卖方分析师",
+    "position": "Associate",
+    "department": "Global Research",
+    "last_interaction_time": "2026-03-31 10:56:52",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "深圳控股",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "深圳控股（0604.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "深圳控股（0604.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "深圳控股（0604.HK）2025年度业绩发布会",
+        "duration": 66
+      },
+      {
+        "time": "2025-08-29",
+        "meet_title": "深圳控股（0604.HK）2025年中期业绩发布会",
+        "duration": 60
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园服务",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2026-03-23"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "583645",
     "name": "林朗生",
     "org_name": "穎寶投資有限公司",
@@ -6657,66 +6725,6 @@
       }
     ],
     "special_companies": "康基医疗,粤海置地"
-  },
-  {
-    "uid": "636813",
-    "name": "Charlotte Ye",
-    "org_name": "汇丰控股有限公司",
-    "org_type": "境外银行",
-    "cert_type": "卖方分析师",
-    "position": "Associate",
-    "department": "Global Research",
-    "last_interaction_time": "2026-03-31 10:56:52",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "深圳控股",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-25",
-        "meet_title": "深圳控股（0604.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "深圳控股（0604.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "深圳控股（0604.HK）2025年度业绩发布会",
-        "duration": 66
-      },
-      {
-        "time": "2025-08-29",
-        "meet_title": "深圳控股（0604.HK）2025年中期业绩发布会",
-        "duration": 60
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园服务",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "中海物业",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2026-03-23"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "646032",
@@ -15927,6 +15935,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-13"
       },
@@ -18070,7 +18082,7 @@
     "name": "管宇强",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "董事",
     "department": "",
     "last_interaction_time": "2025-03-31 11:17:23",

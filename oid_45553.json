@@ -9390,7 +9390,7 @@
     "name": "管宇强",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "董事",
     "department": "",
     "last_interaction_time": "2024-08-28 10:50:02",
@@ -15636,41 +15636,6 @@
     "special_companies": "万物云,中国交建,农夫山泉,合景悠活,宝龙商业,建发物业,招商银行,新希望服务,星盛商业,永升服务,碧桂园,绿城中国,绿城管理控股,融创服务,路演中,金茂服务,雅生活服务"
   },
   {
-    "uid": "18301",
-    "name": "James Lu",
-    "org_name": "Dragon China Capital Co.,Ltd",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Managing Director",
-    "department": "",
-    "last_interaction_time": "2024-08-28 10:00:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宝龙商业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-28",
-        "meet_title": "宝龙商业（9909.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-28",
-        "meet_title": "宝龙商业（9909.HK）2024年中期业绩发布会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "融创服务",
-        "time": "2024-08-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "607047",
     "name": "刘张驰",
     "org_name": "东北证券股份有限公司上海证券自营分公司",
@@ -15768,6 +15733,41 @@
       }
     ],
     "special_companies": "万物云,建发国际集团,新城控股,绿城服务,绿城管理控股"
+  },
+  {
+    "uid": "18301",
+    "name": "James Lu",
+    "org_name": "Dragon China Capital Co.,Ltd",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Managing Director",
+    "department": "",
+    "last_interaction_time": "2024-08-28 10:00:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宝龙商业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-28",
+        "meet_title": "宝龙商业（9909.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-28",
+        "meet_title": "宝龙商业（9909.HK）2024年中期业绩发布会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "融创服务",
+        "time": "2024-08-27"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "336011",
@@ -18118,6 +18118,14 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-15"
+      },
       {
         "company": "三只松鼠",
         "time": "2026-03-19"
@@ -36411,6 +36419,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-13"
       },
@@ -44988,53 +45000,6 @@
     "special_companies": "卓越商企服务,启明医疗,宝龙商业,碧桂园服务,贝泰妮"
   },
   {
-    "uid": "424846",
-    "name": "徐酒眠",
-    "org_name": "北京怡生乐居信息服务有限公司",
-    "org_type": "一般企业",
-    "cert_type": "媒体",
-    "position": "新闻编辑",
-    "department": "",
-    "last_interaction_time": "2023-08-25 10:00:39",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宝龙商业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-25",
-        "meet_title": "宝龙商业（9909.HK）2023年中期业绩发布会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园服务",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "迅雷",
-        "time": "2025-03-25"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-03-27"
-      }
-    ],
-    "special_companies": "卓越商企服务,碧桂园服务"
-  },
-  {
     "uid": "502342",
     "name": "Aira Li",
     "org_name": "UBS Group AG",
@@ -45202,6 +45167,53 @@
     "special_companies": "新世界发展,新鸿基公司,绿城管理控股,美的置业"
   },
   {
+    "uid": "424846",
+    "name": "徐酒眠",
+    "org_name": "北京怡生乐居信息服务有限公司",
+    "org_type": "一般企业",
+    "cert_type": "媒体",
+    "position": "新闻编辑",
+    "department": "",
+    "last_interaction_time": "2023-08-25 10:00:39",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宝龙商业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-25",
+        "meet_title": "宝龙商业（9909.HK）2023年中期业绩发布会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园服务",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "迅雷",
+        "time": "2025-03-25"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": "卓越商企服务,碧桂园服务"
+  },
+  {
     "uid": "576367",
     "name": "张丰淇",
     "org_name": "东北证券股份有限公司 上海证券研究 咨询分公司",
@@ -45260,36 +45272,6 @@
       }
     ],
     "special_companies": "大悦城地产,宝龙商业,绿城中国,绿景中国地产"
-  },
-  {
-    "uid": "582840",
-    "name": "Andrew Cheong",
-    "org_name": "华金融资（国际）有限公司",
-    "org_type": "其他机构投资者",
-    "cert_type": "机构投资者",
-    "position": "Director",
-    "department": "",
-    "last_interaction_time": "2023-08-25 10:00:37",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宝龙商业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-24",
-        "meet_title": "宝龙商业（9909.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-25",
-        "meet_title": "宝龙商业（9909.HK）2023年中期业绩发布会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "266216",
@@ -45398,6 +45380,36 @@
       }
     ],
     "special_companies": "宏信建发,建发国际集团,森松国际"
+  },
+  {
+    "uid": "582840",
+    "name": "Andrew Cheong",
+    "org_name": "华金融资（国际）有限公司",
+    "org_type": "其他机构投资者",
+    "cert_type": "机构投资者",
+    "position": "Director",
+    "department": "",
+    "last_interaction_time": "2023-08-25 10:00:37",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宝龙商业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-24",
+        "meet_title": "宝龙商业（9909.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-25",
+        "meet_title": "宝龙商业（9909.HK）2023年中期业绩发布会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "333737",
@@ -49394,7 +49406,7 @@
     "name": "張同鑫",
     "org_name": "上海国鸣投资管理有限公司",
     "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "副总裁",
     "department": "",
     "last_interaction_time": "2023-08-16 11:20:47",
@@ -57147,6 +57159,41 @@
     "special_companies": "世茂服务"
   },
   {
+    "uid": "270166",
+    "name": "郭一辰",
+    "org_name": "大华继显(香港)有限公司",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "和國消費品行業研究主管",
+    "department": "",
+    "last_interaction_time": "2023-03-30 10:00:10",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宝龙商业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "万物云"
+  },
+  {
     "uid": "502770",
     "name": "Lim Su Aik",
     "org_name": "富敦资金管理有限公司",
@@ -57228,41 +57275,6 @@
       }
     ],
     "special_companies": "中国人寿,小米集团-W,绿城中国,美的置业,阿里巴巴-W"
-  },
-  {
-    "uid": "270166",
-    "name": "郭一辰",
-    "org_name": "大华继显(香港)有限公司",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "和國消費品行業研究主管",
-    "department": "",
-    "last_interaction_time": "2023-03-30 10:00:10",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宝龙商业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "万物云"
   },
   {
     "uid": "20972",
@@ -59753,6 +59765,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "宁德时代",
         "time": "2026-04-13"

@@ -20,6 +20,11 @@
     "attend_count": 1,
     "attend_records": [
       {
+        "time": "2026-04-14",
+        "meet_title": "华住（01179.HK，HTHT.US）2025年第四季度业绩电话会",
+        "duration": 4
+      },
+      {
         "time": "2026-03-24",
         "meet_title": "华住（01179.HK，HTHT.US）2025年第四季度业绩电话会",
         "duration": 9
@@ -8623,7 +8628,7 @@
     "name": "管宇强",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "董事",
     "department": "",
     "last_interaction_time": "2026-03-18 09:03:17",
@@ -11593,6 +11598,14 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-15"
+      },
       {
         "company": "三只松鼠",
         "time": "2026-03-19"
@@ -19285,6 +19298,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "宁德时代",
         "time": "2026-04-13"
@@ -34567,6 +34584,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-13"
       },
@@ -38141,7 +38162,7 @@
     "name": "李宇宁",
     "org_name": "上海联新资本管理有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "执行董事",
     "department": "",
     "last_interaction_time": "2024-11-25 10:50:52",
@@ -51989,6 +52010,69 @@
     "special_companies": "小米集团-W"
   },
   {
+    "uid": "348273",
+    "name": "余紀瑤",
+    "org_name": "瑞士银行香港分行",
+    "org_type": "境外银行",
+    "cert_type": "机构投资者",
+    "position": "分析员",
+    "department": "全球投资银行部",
+    "last_interaction_time": "2023-08-25 09:07:20",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华住集团-S",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "华住（01179.HK，HTHT.US）2023年第二季度及中期业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-25",
+        "meet_title": "华住（01179.HK，HTHT.US）2023年第二季度及中期业绩电话会",
+        "duration": 22
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华住集团-S",
+        "time": "2023-08-23"
+      },
+      {
+        "company": "保利置业集团",
+        "time": "2023-08-08"
+      },
+      {
+        "company": "万豪国际酒店",
+        "time": "2023-08-02"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2023-08-02"
+      },
+      {
+        "company": "龙湖集团",
+        "time": "2023-08-02"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2023-08-02"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-08-02"
+      },
+      {
+        "company": "碧桂园",
+        "time": "2023-08-02"
+      }
+    ],
+    "special_companies": "保利置业集团,新世界发展,碧桂园,碧桂园服务,绿城中国,雅生活服务"
+  },
+  {
     "uid": "505117",
     "name": "Keung hon Kwan",
     "org_name": "耀佳金融集团有限公司",
@@ -52070,69 +52154,6 @@
       }
     ],
     "special_companies": "万物云,中国交建,百果园集团"
-  },
-  {
-    "uid": "348273",
-    "name": "余紀瑤",
-    "org_name": "瑞士银行香港分行",
-    "org_type": "境外银行",
-    "cert_type": "机构投资者",
-    "position": "分析员",
-    "department": "全球投资银行部",
-    "last_interaction_time": "2023-08-25 09:07:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华住集团-S",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-23",
-        "meet_title": "华住（01179.HK，HTHT.US）2023年第二季度及中期业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-25",
-        "meet_title": "华住（01179.HK，HTHT.US）2023年第二季度及中期业绩电话会",
-        "duration": 22
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "华住集团-S",
-        "time": "2023-08-23"
-      },
-      {
-        "company": "保利置业集团",
-        "time": "2023-08-08"
-      },
-      {
-        "company": "万豪国际酒店",
-        "time": "2023-08-02"
-      },
-      {
-        "company": "新世界发展",
-        "time": "2023-08-02"
-      },
-      {
-        "company": "龙湖集团",
-        "time": "2023-08-02"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2023-08-02"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2023-08-02"
-      },
-      {
-        "company": "碧桂园",
-        "time": "2023-08-02"
-      }
-    ],
-    "special_companies": "保利置业集团,新世界发展,碧桂园,碧桂园服务,绿城中国,雅生活服务"
   },
   {
     "uid": "336561",
@@ -52423,6 +52444,53 @@
     "special_companies": ""
   },
   {
+    "uid": "582314",
+    "name": "王超",
+    "org_name": "华福证券有限责任公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "商业社服行业研究员",
+    "department": "研究所",
+    "last_interaction_time": "2023-08-25 09:06:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华住集团-S",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "华住（01179.HK，HTHT.US）2023年第二季度及中期业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-25",
+        "meet_title": "华住（01179.HK，HTHT.US）2023年第二季度及中期业绩电话会",
+        "duration": 60
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "复星国际",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "百融智能",
+        "time": "2023-08-22"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2023-08-22"
+      }
+    ],
+    "special_companies": "呷哺呷哺,复星国际"
+  },
+  {
     "uid": "276134",
     "name": "李杨",
     "org_name": "中国人寿富兰克林资产管理有限公司",
@@ -52473,53 +52541,6 @@
       }
     ],
     "special_companies": "比亚迪"
-  },
-  {
-    "uid": "582314",
-    "name": "王超",
-    "org_name": "华福证券有限责任公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "商业社服行业研究员",
-    "department": "研究所",
-    "last_interaction_time": "2023-08-25 09:06:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华住集团-S",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "华住（01179.HK，HTHT.US）2023年第二季度及中期业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-25",
-        "meet_title": "华住（01179.HK，HTHT.US）2023年第二季度及中期业绩电话会",
-        "duration": 60
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "复星国际",
-        "time": "2023-08-22"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-08-22"
-      },
-      {
-        "company": "百融智能",
-        "time": "2023-08-22"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2023-08-22"
-      }
-    ],
-    "special_companies": "呷哺呷哺,复星国际"
   },
   {
     "uid": "335880",
@@ -55443,7 +55464,12 @@
     "attend_count": 1,
     "attend_records": [],
     "is_first_attend": true,
-    "subscribed_companies": [],
+    "subscribed_companies": [
+      {
+        "company": "不同集团",
+        "time": "2026-04-15"
+      }
+    ],
     "special_companies": ""
   },
   {

@@ -4485,7 +4485,7 @@
     "name": "毛卫文",
     "org_name": "上海至璞资产管理合伙企业（有限合伙）",
     "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "研发合伙人",
     "department": "",
     "last_interaction_time": "2026-03-25 21:03:46",
@@ -15049,7 +15049,7 @@
     "name": "管宇强",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "董事",
     "department": "",
     "last_interaction_time": "2026-03-23 21:14:40",
@@ -23385,6 +23385,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "宁德时代",
         "time": "2026-04-13"
       },
@@ -25761,6 +25765,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-15"
+      },
       {
         "company": "特斯拉",
         "time": "2026-01-27"
@@ -41029,6 +41037,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "呷哺呷哺",
         "time": "2025-08-29"
       },
@@ -43046,77 +43058,6 @@
     "special_companies": "碧桂园服务"
   },
   {
-    "uid": "611801",
-    "name": "Jinjia Zheng",
-    "org_name": "Alphahill Capital, LTD",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Equity Analyst",
-    "department": "",
-    "last_interaction_time": "2025-03-20 19:38:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "拼多多",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-03-19",
-        "meet_title": "拼多多（PDD.US）2024年第四季度业绩电话会"
-      },
-      {
-        "time": "2024-08-25",
-        "meet_title": "拼多多（PDD.US）2024年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-03-20",
-        "meet_title": "拼多多（PDD.US）2024年第四季度业绩电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "华住集团-S",
-        "time": "2025-03-19"
-      },
-      {
-        "company": "李宁",
-        "time": "2024-08-23"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "美丽田园",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "百果园集团",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "保利物业",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2024-08-15"
-      }
-    ],
-    "special_companies": "万物云,呷哺呷哺,百果园集团,绿城中国,绿城服务,美丽田园"
-  },
-  {
     "uid": "347034",
     "name": "彭刚",
     "org_name": "中国期货业协会",
@@ -43239,6 +43180,77 @@
       }
     ],
     "special_companies": "中国心连心化肥,协合新能源,和铂医药,招商银行,拼多多,阜博集团"
+  },
+  {
+    "uid": "611801",
+    "name": "Jinjia Zheng",
+    "org_name": "Alphahill Capital, LTD",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Equity Analyst",
+    "department": "",
+    "last_interaction_time": "2025-03-20 19:38:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "拼多多",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-03-19",
+        "meet_title": "拼多多（PDD.US）2024年第四季度业绩电话会"
+      },
+      {
+        "time": "2024-08-25",
+        "meet_title": "拼多多（PDD.US）2024年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-03-20",
+        "meet_title": "拼多多（PDD.US）2024年第四季度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华住集团-S",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "李宁",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "美丽田园",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "百果园集团",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2024-08-15"
+      }
+    ],
+    "special_companies": "万物云,呷哺呷哺,百果园集团,绿城中国,绿城服务,美丽田园"
   },
   {
     "uid": "610611",
@@ -47676,6 +47688,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "保利置业集团",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "保利发展",
+        "time": "2026-04-15"
+      },
+      {
         "company": "汇丰控股",
         "time": "2026-03-24"
       },
@@ -51972,7 +51992,7 @@
     "name": "李宇宁",
     "org_name": "上海联新资本管理有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "执行董事",
     "department": "",
     "last_interaction_time": "2024-11-19 18:17:52",
@@ -55381,6 +55401,36 @@
     "special_companies": ""
   },
   {
+    "uid": "254189",
+    "name": "陈继业",
+    "org_name": "农银汇理基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2024-08-26 19:44:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "拼多多",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-26",
+        "meet_title": "拼多多（PDD.US）2024年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-26",
+        "meet_title": "拼多多（PDD.US）2024年第二季度业绩电话会",
+        "duration": 8
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "282412",
     "name": "盧毅",
     "org_name": "浙商国际金融控股有限公司",
@@ -55565,36 +55615,6 @@
       }
     ],
     "special_companies": "万物云,上海实业控股,保利物业,卓越商企服务,新世界发展,新希望服务,碧桂园,神州控股,粤海置地,英伟达"
-  },
-  {
-    "uid": "254189",
-    "name": "陈继业",
-    "org_name": "农银汇理基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2024-08-26 19:44:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "拼多多",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-26",
-        "meet_title": "拼多多（PDD.US）2024年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-26",
-        "meet_title": "拼多多（PDD.US）2024年第二季度业绩电话会",
-        "duration": 8
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "282346",
@@ -67015,6 +67035,14 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-15"
+      },
+      {
         "company": "三只松鼠",
         "time": "2026-03-19"
       },
@@ -76939,7 +76967,7 @@
     "name": "周波",
     "org_name": "铸山股权投资基金管理(上海)股份有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "高级研究员",
     "department": "",
     "last_interaction_time": "2023-05-30 14:36:18",

@@ -8773,6 +8773,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-13"
       },
@@ -13813,7 +13817,7 @@
     "name": "張同鑫",
     "org_name": "上海国鸣投资管理有限公司",
     "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "副总裁",
     "department": "",
     "last_interaction_time": "2025-03-17 13:32:46",
@@ -15329,6 +15333,14 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "保利置业集团",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "保利发展",
+        "time": "2026-04-15"
+      },
       {
         "company": "汇丰控股",
         "time": "2026-03-24"
@@ -21688,6 +21700,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-15"
+      },
+      {
         "company": "三只松鼠",
         "time": "2026-03-19"
       },
@@ -26848,6 +26868,36 @@
     "special_companies": ""
   },
   {
+    "uid": "425839",
+    "name": "谭姝玥",
+    "org_name": "方圆基金",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "联席行政总裁",
+    "department": "",
+    "last_interaction_time": "2024-03-20 15:00:57",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "招商蛇口",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-18",
+        "meet_title": "招商蛇口（001979.SZ）2023年度业绩发布会暨投资者交流会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-20",
+        "meet_title": "招商蛇口（001979.SZ）2023年度业绩发布会暨投资者交流会",
+        "duration": 36
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "338879",
     "name": "何生",
     "org_name": "广西高卓投资管理有限公司",
@@ -26905,36 +26955,6 @@
       }
     ],
     "special_companies": "建业新生活"
-  },
-  {
-    "uid": "425839",
-    "name": "谭姝玥",
-    "org_name": "方圆基金",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "联席行政总裁",
-    "department": "",
-    "last_interaction_time": "2024-03-20 15:00:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "招商蛇口",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-18",
-        "meet_title": "招商蛇口（001979.SZ）2023年度业绩发布会暨投资者交流会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-20",
-        "meet_title": "招商蛇口（001979.SZ）2023年度业绩发布会暨投资者交流会",
-        "duration": 36
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "349713",
@@ -33417,7 +33437,7 @@
     "name": "管宇强",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "董事",
     "department": "",
     "last_interaction_time": "2023-03-21 16:16:53",
@@ -42116,6 +42136,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "宁德时代",
         "time": "2026-04-13"

@@ -2313,7 +2313,7 @@
     "name": "管宇强",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "董事",
     "department": "",
     "last_interaction_time": "2026-03-23 21:16:44",
@@ -9058,6 +9058,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-13"
@@ -17271,6 +17275,14 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-15"
+      },
+      {
         "company": "三只松鼠",
         "time": "2026-03-19"
       },
@@ -19558,6 +19570,35 @@
     "special_companies": ""
   },
   {
+    "uid": "583504",
+    "name": "陈梦妤",
+    "org_name": "每日经济新闻",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "高级编辑",
+    "department": "",
+    "last_interaction_time": "2026-03-23 09:58:45",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "绿城服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "绿城服务（2869.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "贝壳",
+        "time": "2026-03-16"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "347009",
     "name": "朱音Cara Zhu",
     "org_name": "摩根士丹利",
@@ -19686,35 +19727,6 @@
       }
     ],
     "special_companies": "万物云,招商蛇口,绿城管理控股"
-  },
-  {
-    "uid": "583504",
-    "name": "陈梦妤",
-    "org_name": "每日经济新闻",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "高级编辑",
-    "department": "",
-    "last_interaction_time": "2026-03-23 09:58:45",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "绿城服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-23",
-        "meet_title": "绿城服务（2869.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "贝壳",
-        "time": "2026-03-16"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "335463",
@@ -20789,7 +20801,7 @@
     "name": "Chang YANG",
     "org_name": "三井住友德思私募基金管理(上海)有限公司",
     "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "Analyst",
     "department": "Investment & Research Department",
     "last_interaction_time": "2026-03-23 09:58:32",
@@ -20961,6 +20973,53 @@
     "special_companies": ""
   },
   {
+    "uid": "337112",
+    "name": "张良",
+    "org_name": "上海证券报",
+    "org_type": "一般企业",
+    "cert_type": "媒体",
+    "position": "记者",
+    "department": "上市公司新闻部",
+    "last_interaction_time": "2026-03-23 09:58:23",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "绿城服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "绿城服务（2869.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-23",
+        "meet_title": "绿城服务（2869.HK）2025年度业绩发布会",
+        "duration": 77
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "永升服务",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2024-03-28"
+      }
+    ],
+    "special_companies": "万物云,卓越商企服务"
+  },
+  {
     "uid": "572153",
     "name": "吴梦茹",
     "org_name": "中信建投证券股份有限公司",
@@ -21123,53 +21182,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "337112",
-    "name": "张良",
-    "org_name": "上海证券报",
-    "org_type": "一般企业",
-    "cert_type": "媒体",
-    "position": "记者",
-    "department": "上市公司新闻部",
-    "last_interaction_time": "2026-03-23 09:58:23",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "绿城服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "绿城服务（2869.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-23",
-        "meet_title": "绿城服务（2869.HK）2025年度业绩发布会",
-        "duration": 77
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "永升服务",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2024-03-28"
-      }
-    ],
-    "special_companies": "万物云,卓越商企服务"
   },
   {
     "uid": "282317",
@@ -23820,6 +23832,14 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "保利置业集团",
+        "time": "2026-04-15"
+      },
+      {
+        "company": "保利发展",
+        "time": "2026-04-15"
+      },
       {
         "company": "汇丰控股",
         "time": "2026-03-24"
@@ -36144,49 +36164,6 @@
     "special_companies": "中国电信,药明生物"
   },
   {
-    "uid": "499834",
-    "name": "高峰",
-    "org_name": "广发证券资产管理有限公司",
-    "org_type": "券商资管",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "权益产品部",
-    "last_interaction_time": "2025-08-25 10:32:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "绿城服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "绿城服务（2869.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "绿城服务（2869.HK）2025年中期业绩发布会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "贝壳",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "建发物业",
-        "time": "2024-08-26"
-      }
-    ],
-    "special_companies": "建发物业"
-  },
-  {
     "uid": "576195",
     "name": "梁笑梅",
     "org_name": "中国房地产报",
@@ -36250,6 +36227,49 @@
       }
     ],
     "special_companies": "保利物业,永升服务"
+  },
+  {
+    "uid": "499834",
+    "name": "高峰",
+    "org_name": "广发证券资产管理有限公司",
+    "org_type": "券商资管",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "权益产品部",
+    "last_interaction_time": "2025-08-25 10:32:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "绿城服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "绿城服务（2869.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "绿城服务（2869.HK）2025年中期业绩发布会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "贝壳",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "建发物业",
+        "time": "2024-08-26"
+      }
+    ],
+    "special_companies": "建发物业"
   },
   {
     "uid": "589134",
@@ -38573,110 +38593,6 @@
     "special_companies": "万物云,中国海外宏洋集团,合景悠活,合景泰富集团,宝龙商业,建业地产,建发国际集团,建发物业,招商蛇口,新希望服务,星盛商业,深圳控股,碧桂园,绿城中国,绿城管理控股,绿景中国地产,美的置业,融创服务"
   },
   {
-    "uid": "611460",
-    "name": "滕梓荆",
-    "org_name": "耕霁(上海)投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
-    "position": "-",
-    "department": "-",
-    "last_interaction_time": "2025-08-25 10:30:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "绿城服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-15",
-        "meet_title": "绿城服务（2869.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "绿城服务（2869.HK）2025年中期业绩发布会",
-        "duration": 79
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "493556",
-    "name": "張立",
-    "org_name": "香港偉祺科技公司",
-    "org_type": "一般企业",
-    "cert_type": "媒体",
-    "position": "研究員",
-    "department": "研究部",
-    "last_interaction_time": "2025-08-25 10:30:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "绿城服务",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2025-08-17",
-        "meet_title": "绿城服务（2869.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-21",
-        "meet_title": "绿城服务（2869.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-18",
-        "meet_title": "绿城服务（2869.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-17",
-        "meet_title": "绿城服务（2869.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "绿城服务（2869.HK）2025年中期业绩发布会",
-        "duration": 79
-      },
-      {
-        "time": "2025-03-24",
-        "meet_title": "绿城服务（2869.HK）2024年度业绩发布会",
-        "duration": 89
-      },
-      {
-        "time": "2024-08-26",
-        "meet_title": "绿城服务（2869.HK）2024年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2024-08-26",
-        "meet_title": "绿城服务（2869.HK）2024年中期业绩发布会",
-        "duration": 86
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "京东健康",
-        "time": "2026-03-04"
-      },
-      {
-        "company": "麦当劳",
-        "time": "2025-11-02"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-20"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "438541",
     "name": "王栋",
     "org_name": "香港上海汇丰银行有限公司",
@@ -38786,6 +38702,110 @@
       }
     ],
     "special_companies": "中国海外宏洋集团,保利物业,建发国际集团,碧桂园服务,绿城中国,绿城管理控股,融创服务"
+  },
+  {
+    "uid": "611460",
+    "name": "滕梓荆",
+    "org_name": "耕霁(上海)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "-",
+    "department": "-",
+    "last_interaction_time": "2025-08-25 10:30:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "绿城服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-15",
+        "meet_title": "绿城服务（2869.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "绿城服务（2869.HK）2025年中期业绩发布会",
+        "duration": 79
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "493556",
+    "name": "張立",
+    "org_name": "香港偉祺科技公司",
+    "org_type": "一般企业",
+    "cert_type": "媒体",
+    "position": "研究員",
+    "department": "研究部",
+    "last_interaction_time": "2025-08-25 10:30:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "绿城服务",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2025-08-17",
+        "meet_title": "绿城服务（2869.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-21",
+        "meet_title": "绿城服务（2869.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-18",
+        "meet_title": "绿城服务（2869.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-17",
+        "meet_title": "绿城服务（2869.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "绿城服务（2869.HK）2025年中期业绩发布会",
+        "duration": 79
+      },
+      {
+        "time": "2025-03-24",
+        "meet_title": "绿城服务（2869.HK）2024年度业绩发布会",
+        "duration": 89
+      },
+      {
+        "time": "2024-08-26",
+        "meet_title": "绿城服务（2869.HK）2024年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2024-08-26",
+        "meet_title": "绿城服务（2869.HK）2024年中期业绩发布会",
+        "duration": 86
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "京东健康",
+        "time": "2026-03-04"
+      },
+      {
+        "company": "麦当劳",
+        "time": "2025-11-02"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-20"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "427928",
@@ -51500,6 +51520,40 @@
     "special_companies": "建发物业,思治企业咨询,绿城服务,越秀服务"
   },
   {
+    "uid": "275765",
+    "name": "刘义",
+    "org_name": "长江证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "分析师/地产团队负责人",
+    "department": "",
+    "last_interaction_time": "2025-03-24 10:03:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "绿城服务",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-03-23",
+        "meet_title": "绿城服务（2869.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2023-03-20",
+        "meet_title": "绿城服务（2869.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-24",
+        "meet_title": "绿城服务（2869.HK）2024年度业绩发布会",
+        "duration": 53
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "633108",
     "name": "陈健照",
     "org_name": "国金证券股份有限公司研究所",
@@ -51549,40 +51603,6 @@
       }
     ],
     "special_companies": "绿城管理控股"
-  },
-  {
-    "uid": "275765",
-    "name": "刘义",
-    "org_name": "长江证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "分析师/地产团队负责人",
-    "department": "",
-    "last_interaction_time": "2025-03-24 10:03:28",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "绿城服务",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-03-23",
-        "meet_title": "绿城服务（2869.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2023-03-20",
-        "meet_title": "绿城服务（2869.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-24",
-        "meet_title": "绿城服务（2869.HK）2024年度业绩发布会",
-        "duration": 53
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "440422",
@@ -54590,7 +54610,7 @@
     "name": "李宇宁",
     "org_name": "上海联新资本管理有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "执行董事",
     "department": "",
     "last_interaction_time": "2025-03-24 09:08:19",
@@ -62610,7 +62630,7 @@
     "name": "周波",
     "org_name": "铸山股权投资基金管理(上海)股份有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "高级研究员",
     "department": "",
     "last_interaction_time": "2024-08-26 09:11:24",
@@ -64041,6 +64061,34 @@
     "special_companies": "绿城中国"
   },
   {
+    "uid": "612193",
+    "name": "李垚",
+    "org_name": "中泰证券股份有限公司",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "房地产分析师",
+    "department": "研究所",
+    "last_interaction_time": "2024-08-26 09:00:02",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "绿城服务",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "绿城服务",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-08-22"
+      }
+    ],
+    "special_companies": "碧桂园服务"
+  },
+  {
     "uid": "612265",
     "name": "和志毅",
     "org_name": "美林（亚太）有限公司",
@@ -64074,34 +64122,6 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": "绿城服务"
-  },
-  {
-    "uid": "612193",
-    "name": "李垚",
-    "org_name": "中泰证券股份有限公司",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "房地产分析师",
-    "department": "研究所",
-    "last_interaction_time": "2024-08-26 09:00:02",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "绿城服务",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "绿城服务",
-        "time": "2024-08-26"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2024-08-22"
-      }
-    ],
-    "special_companies": "碧桂园服务"
   },
   {
     "uid": "277630",
@@ -64315,36 +64335,6 @@
     "special_companies": "万物云,呷哺呷哺,百果园集团,绿城中国,绿城服务,美丽田园"
   },
   {
-    "uid": "275939",
-    "name": "汪孟海",
-    "org_name": "富国基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "海外权益投资副总监/基金经理",
-    "department": "",
-    "last_interaction_time": "2024-08-26 08:59:55",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "绿城服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-26",
-        "meet_title": "绿城服务（2869.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-26",
-        "meet_title": "绿城服务（2869.HK）2024年中期业绩发布会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "505349",
     "name": "郭舒洁",
     "org_name": "富国基金管理有限公司",
@@ -64368,6 +64358,36 @@
         "time": "2024-08-26",
         "meet_title": "绿城服务（2869.HK）2024年中期业绩发布会",
         "duration": 61
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "275939",
+    "name": "汪孟海",
+    "org_name": "富国基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "海外权益投资副总监/基金经理",
+    "department": "",
+    "last_interaction_time": "2024-08-26 08:59:55",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "绿城服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-26",
+        "meet_title": "绿城服务（2869.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-26",
+        "meet_title": "绿城服务（2869.HK）2024年中期业绩发布会",
+        "duration": 67
       }
     ],
     "is_first_attend": true,
@@ -67863,6 +67883,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "宁德时代",
         "time": "2026-04-13"
@@ -87936,87 +87960,6 @@
     "special_companies": ""
   },
   {
-    "uid": "573642",
-    "name": "刘国彤",
-    "org_name": "广发证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "研究员",
-    "department": "房地产组",
-    "last_interaction_time": "2023-03-27 10:30:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "绿城服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-19",
-        "meet_title": "绿城服务（2869.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "绿城服务（2869.HK）2022年度业绩发布会",
-        "duration": 88
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2023-03-24"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2023-03-24"
-      },
-      {
-        "company": "中原建业",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2023-03-19"
-      },
-      {
-        "company": "融创服务",
-        "time": "2023-03-19"
-      }
-    ],
-    "special_companies": "绿城服务"
-  },
-  {
-    "uid": "333447",
-    "name": "杨程成",
-    "org_name": "凤凰网房产",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "高级总监",
-    "department": "总编室",
-    "last_interaction_time": "2023-03-27 10:30:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "绿城服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "绿城服务（2869.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "绿城服务（2869.HK）2022年度业绩发布会",
-        "duration": 89
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "495922",
     "name": "李俊波",
     "org_name": "中信证券股份有限公司",
@@ -88120,6 +88063,87 @@
       }
     ],
     "special_companies": "远洋服务"
+  },
+  {
+    "uid": "573642",
+    "name": "刘国彤",
+    "org_name": "广发证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "研究员",
+    "department": "房地产组",
+    "last_interaction_time": "2023-03-27 10:30:20",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "绿城服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-19",
+        "meet_title": "绿城服务（2869.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "绿城服务（2869.HK）2022年度业绩发布会",
+        "duration": 88
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "中原建业",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2023-03-19"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-03-19"
+      }
+    ],
+    "special_companies": "绿城服务"
+  },
+  {
+    "uid": "333447",
+    "name": "杨程成",
+    "org_name": "凤凰网房产",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "高级总监",
+    "department": "总编室",
+    "last_interaction_time": "2023-03-27 10:30:20",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "绿城服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "绿城服务（2869.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "绿城服务（2869.HK）2022年度业绩发布会",
+        "duration": 89
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "334409",
