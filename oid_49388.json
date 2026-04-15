@@ -4700,7 +4700,7 @@
     "name": "毛卫文",
     "org_name": "上海至璞资产管理合伙企业（有限合伙）",
     "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "研发合伙人",
     "department": "",
     "last_interaction_time": "2026-03-19 15:34:32",
@@ -6428,7 +6428,7 @@
     "name": "管宇强",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "董事",
     "department": "",
     "last_interaction_time": "2026-03-17 15:26:35",
@@ -9039,6 +9039,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-13"
@@ -13373,73 +13377,6 @@
     "special_companies": "联邦制药"
   },
   {
-    "uid": "437482",
-    "name": "吴亮",
-    "org_name": "青岛朴存投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资总监",
-    "department": "",
-    "last_interaction_time": "2025-11-17 21:01:07",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "小鹏汽车-W",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-11-17",
-        "meet_title": "小鹏汽车-W（09868.HK，XPEV.US）2025年第三季度业绩电话会"
-      },
-      {
-        "time": "2025-08-13",
-        "meet_title": "小鹏汽车-W（09868.HK，XPEV.US）2025年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-11-17",
-        "meet_title": "小鹏汽车-W（09868.HK，XPEV.US）2025年第三季度业绩电话会",
-        "duration": 86
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "顺丰同城",
-        "time": "2026-01-05"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-11-17"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "小鹏汽车-W",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-05-31"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-03-26"
-      },
-      {
-        "company": "保利物业",
-        "time": "2024-08-19"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2023-07-10"
-      }
-    ],
-    "special_companies": "中粮家佳康"
-  },
-  {
     "uid": "277420",
     "name": "沈嘉婕",
     "org_name": "新宸盛元股权投资基金（深圳）有限公司",
@@ -13511,6 +13448,73 @@
       }
     ],
     "special_companies": "金风科技"
+  },
+  {
+    "uid": "437482",
+    "name": "吴亮",
+    "org_name": "青岛朴存投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资总监",
+    "department": "",
+    "last_interaction_time": "2025-11-17 21:01:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "小鹏汽车-W",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-11-17",
+        "meet_title": "小鹏汽车-W（09868.HK，XPEV.US）2025年第三季度业绩电话会"
+      },
+      {
+        "time": "2025-08-13",
+        "meet_title": "小鹏汽车-W（09868.HK，XPEV.US）2025年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-11-17",
+        "meet_title": "小鹏汽车-W（09868.HK，XPEV.US）2025年第三季度业绩电话会",
+        "duration": 86
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "顺丰同城",
+        "time": "2026-01-05"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-17"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-05-31"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-08-19"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-07-10"
+      }
+    ],
+    "special_companies": "中粮家佳康"
   },
   {
     "uid": "582210",
@@ -26218,7 +26222,7 @@
     "name": "李宇宁",
     "org_name": "上海联新资本管理有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "执行董事",
     "department": "",
     "last_interaction_time": "2025-08-07 18:02:16",
@@ -52884,7 +52888,12 @@
     "attend_count": 1,
     "attend_records": [],
     "is_first_attend": true,
-    "subscribed_companies": [],
+    "subscribed_companies": [
+      {
+        "company": "不同集团",
+        "time": "2026-04-15"
+      }
+    ],
     "special_companies": ""
   },
   {

@@ -1,5 +1,101 @@
 [
   {
+    "uid": "635260",
+    "name": "曹盈盈",
+    "org_name": "广州泽恩投资控股有限公司",
+    "org_type": "财富管理公司",
+    "cert_type": "机构投资者",
+    "position": "合伙人",
+    "department": "",
+    "last_interaction_time": "2026-04-15 10:13:23",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "知乎",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-04-05",
+        "meet_title": "知乎（02390.HK，ZH.US）2025年第四季度及全年财务业绩电话会"
+      },
+      {
+        "time": "2026-01-06",
+        "meet_title": "知乎（02390.HK，ZH.US）2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-04-05",
+        "meet_title": "知乎（02390.HK，ZH.US）2025年第四季度及全年财务业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2026-01-06",
+        "meet_title": "知乎（02390.HK，ZH.US）2025年第三季度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-04-02"
+      },
+      {
+        "company": "美光科技",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "中信证券",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "大位科技",
+        "time": "2026-01-06"
+      },
+      {
+        "company": "晶泰控股",
+        "time": "2026-01-06"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2025-12-05"
+      },
+      {
+        "company": "金风科技",
+        "time": "2025-05-17"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "349211",
     "name": "王婷",
     "org_name": "祖龍娛樂有限公司",
@@ -24,6 +120,11 @@
     "attend_count": 2,
     "attend_records": [
       {
+        "time": "2026-04-14",
+        "meet_title": "知乎（02390.HK，ZH.US）2025年第四季度及全年财务业绩电话会",
+        "duration": 3
+      },
+      {
         "time": "2025-03-28",
         "meet_title": "知乎（02390.HK，ZH.US）2024年第四季度及全年财务业绩电话会",
         "duration": 3
@@ -31,6 +132,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-15"
+      },
       {
         "company": "呷哺呷哺",
         "time": "2025-08-29"
@@ -180,102 +285,6 @@
       {
         "company": "歌尔微电子",
         "time": "2025-10-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "635260",
-    "name": "曹盈盈",
-    "org_name": "广州泽恩投资控股有限公司",
-    "org_type": "财富管理公司",
-    "cert_type": "机构投资者",
-    "position": "合伙人",
-    "department": "",
-    "last_interaction_time": "2026-04-05 20:05:26",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "知乎",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-04-05",
-        "meet_title": "知乎（02390.HK，ZH.US）2025年第四季度及全年财务业绩电话会"
-      },
-      {
-        "time": "2026-01-06",
-        "meet_title": "知乎（02390.HK，ZH.US）2025年第三季度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-04-05",
-        "meet_title": "知乎（02390.HK，ZH.US）2025年第四季度及全年财务业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2026-01-06",
-        "meet_title": "知乎（02390.HK，ZH.US）2025年第三季度业绩电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "台积电",
-        "time": "2026-04-13"
-      },
-      {
-        "company": "工业富联",
-        "time": "2026-04-08"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2026-04-07"
-      },
-      {
-        "company": "博腾股份",
-        "time": "2026-04-02"
-      },
-      {
-        "company": "美光科技",
-        "time": "2026-03-28"
-      },
-      {
-        "company": "比亚迪",
-        "time": "2026-03-28"
-      },
-      {
-        "company": "希迪智驾",
-        "time": "2026-03-28"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2026-03-28"
-      },
-      {
-        "company": "中信证券",
-        "time": "2026-03-28"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2026-03-28"
-      },
-      {
-        "company": "大位科技",
-        "time": "2026-01-06"
-      },
-      {
-        "company": "晶泰控股",
-        "time": "2026-01-06"
-      },
-      {
-        "company": "佛朗斯股份",
-        "time": "2025-12-05"
-      },
-      {
-        "company": "金风科技",
-        "time": "2025-05-17"
       }
     ],
     "special_companies": ""
@@ -3927,7 +3936,7 @@
     "name": "管宇强",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "董事",
     "department": "",
     "last_interaction_time": "2026-03-23 21:12:38",

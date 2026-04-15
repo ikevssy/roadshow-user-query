@@ -1500,41 +1500,6 @@
     "special_companies": ""
   },
   {
-    "uid": "645820",
-    "name": "张嘉瑶",
-    "org_name": "上海飞马旅股权投资中心（有限合伙）",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "法务",
-    "department": "",
-    "last_interaction_time": "2026-03-26 09:00:18",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "元光科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-24",
-        "meet_title": "MetaLight Inc.（02605.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "MetaLight Inc.（02605.HK）2025年度业绩发布会",
-        "duration": 30
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "元光科技",
-        "time": "2026-03-25"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "645646",
     "name": "王峥",
     "org_name": "弘道资本",
@@ -1570,6 +1535,41 @@
         "company": "腾讯控股",
         "time": "2026-03-25"
       },
+      {
+        "company": "元光科技",
+        "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "645820",
+    "name": "张嘉瑶",
+    "org_name": "上海飞马旅股权投资中心（有限合伙）",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "法务",
+    "department": "",
+    "last_interaction_time": "2026-03-26 09:00:18",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "元光科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "MetaLight Inc.（02605.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "MetaLight Inc.（02605.HK）2025年度业绩发布会",
+        "duration": 30
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
       {
         "company": "元光科技",
         "time": "2026-03-25"

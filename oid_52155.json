@@ -15240,6 +15240,30 @@
     "special_companies": "IGG INC,中矿资源,合景悠活,宝龙商业,新城悦服务,永升服务,碧桂园服务,祖龙娱乐,绿景中国地产,金茂服务"
   },
   {
+    "uid": "584328",
+    "name": "方云才",
+    "org_name": "天津瑞奇外科器械股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "CEO",
+    "department": "",
+    "last_interaction_time": "2023-10-11 16:35:01",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "思路迪医药股份",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-10-11",
+        "meet_title": "3D MEDICINES（01244.HK）投資者交流會"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "345822",
     "name": "华挺",
     "org_name": "财通证券股份有限公司研究所",
@@ -15266,30 +15290,6 @@
         "time": "2025-05-28"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "584328",
-    "name": "方云才",
-    "org_name": "天津瑞奇外科器械股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "CEO",
-    "department": "",
-    "last_interaction_time": "2023-10-11 16:35:01",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "思路迪医药股份",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-10-11",
-        "meet_title": "3D MEDICINES（01244.HK）投資者交流會"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -15952,6 +15952,30 @@
     "special_companies": "思路迪医药股份"
   },
   {
+    "uid": "584304",
+    "name": "王怀新",
+    "org_name": "青岛华通创业投资有限责任公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "投资事业部",
+    "last_interaction_time": "2023-10-11 16:29:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "思路迪医药股份",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-10-11",
+        "meet_title": "3D MEDICINES（01244.HK）投資者交流會"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "584227",
     "name": "彭瑶",
     "org_name": "深圳海德复兴资本管理有限公司",
@@ -15985,30 +16009,6 @@
       }
     ],
     "special_companies": "思路迪医药股份"
-  },
-  {
-    "uid": "584304",
-    "name": "王怀新",
-    "org_name": "青岛华通创业投资有限责任公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "投资事业部",
-    "last_interaction_time": "2023-10-11 16:29:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "思路迪医药股份",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-10-11",
-        "meet_title": "3D MEDICINES（01244.HK）投資者交流會"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "584210",
@@ -16415,7 +16415,7 @@
     "name": "管宇强",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
     "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
+    "cert_type": "机构投资者",
     "position": "董事",
     "department": "",
     "last_interaction_time": "2023-10-11 16:25:31",
