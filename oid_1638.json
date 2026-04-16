@@ -1,5 +1,895 @@
 [
   {
+    "uid": "15376",
+    "name": "唐天",
+    "org_name": "博时基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2026-04-16 19:35:48",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "博腾股份",
+    "apply_count": 9,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "博腾股份（300363.SZ）2026年一季报电话会"
+      },
+      {
+        "time": "2026-03-31",
+        "meet_title": "博腾股份（300363.SZ）2025年年报电话会"
+      },
+      {
+        "time": "2025-10-20",
+        "meet_title": "博腾股份（300363.SZ）2025年三季报电话会"
+      },
+      {
+        "time": "2025-08-19",
+        "meet_title": "博腾股份（300363.SZ）2025年半年报电话会"
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "博腾股份（300363.SZ）2024年报电话会"
+      },
+      {
+        "time": "2024-10-22",
+        "meet_title": "博腾股份（300363.SZ）2024年三季报电话会"
+      },
+      {
+        "time": "2024-04-26",
+        "meet_title": "博腾股份（300363.SZ）2023年年报暨2024年一季报电话会"
+      },
+      {
+        "time": "2023-10-30",
+        "meet_title": "博腾股份2023年三季度交流会"
+      },
+      {
+        "time": "2023-08-14",
+        "meet_title": "博腾股份2023年半年度业绩交流会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "博腾股份（300363.SZ）2025年半年报电话会",
+        "duration": 56
+      },
+      {
+        "time": "2024-10-25",
+        "meet_title": "博腾股份（300363.SZ）2024年三季报电话会",
+        "duration": 51
+      },
+      {
+        "time": "2024-08-28",
+        "meet_title": "博腾股份（300363.SZ）2024年中报电话会",
+        "duration": 74
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "华虹公司",
+        "time": "2025-11-06"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-05-23"
+      },
+      {
+        "company": "锦欣生殖",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "名创优品",
+        "time": "2023-11-21"
+      },
+      {
+        "company": "珀莱雅",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "药师帮",
+        "time": "2023-08-16"
+      },
+      {
+        "company": "金山办公",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "药明生物",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2023-03-22"
+      },
+      {
+        "company": "拼多多",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "雾芯科技",
+        "time": "2023-03-10"
+      },
+      {
+        "company": "TCL电子",
+        "time": "2023-03-10"
+      }
+    ],
+    "special_companies": "珀莱雅,药明生物,锦欣生殖"
+  },
+  {
+    "uid": "276920",
+    "name": "边佳璐",
+    "org_name": "杭州军璐投资有限公司",
+    "org_type": "一般企业",
+    "cert_type": "机构投资者",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2026-04-16 15:58:27",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "博腾股份",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "博腾股份（300363.SZ）2026年一季报电话会"
+      },
+      {
+        "time": "2023-08-16",
+        "meet_title": "博腾股份2023年半年度业绩交流会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "石化油服",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国海油",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "平安好医生",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "华润医药",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "美团-W",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "鸿远电子",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "吉利汽车",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "网龙",
+        "time": "2026-04-12"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-12"
+      },
+      {
+        "company": "美光科技",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "苹果",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "微软",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "超威半导体",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "谷歌",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "META",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "HashKey",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "果下科技",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "京东工业",
+        "time": "2026-02-11"
+      },
+      {
+        "company": "博通",
+        "time": "2025-12-09"
+      },
+      {
+        "company": "华海清科",
+        "time": "2025-09-03"
+      },
+      {
+        "company": "雅培",
+        "time": "2025-07-21"
+      },
+      {
+        "company": "思科（中国）",
+        "time": "2025-07-21"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-07-21"
+      },
+      {
+        "company": "高通",
+        "time": "2023-11-02"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2023-08-16"
+      },
+      {
+        "company": "华能国际",
+        "time": "2023-08-10"
+      },
+      {
+        "company": "国联基金",
+        "time": "2023-08-10"
+      },
+      {
+        "company": "中信期货",
+        "time": "2023-07-20"
+      },
+      {
+        "company": "福特",
+        "time": "2023-07-18"
+      },
+      {
+        "company": "特斯拉",
+        "time": "2023-07-18"
+      },
+      {
+        "company": "强生",
+        "time": "2023-07-18"
+      },
+      {
+        "company": "台积电",
+        "time": "2023-07-18"
+      },
+      {
+        "company": "英伟达",
+        "time": "2023-05-29"
+      },
+      {
+        "company": "拓维信息",
+        "time": "2023-05-22"
+      }
+    ],
+    "special_companies": "博腾股份,比亚迪,珀莱雅"
+  },
+  {
+    "uid": "647580",
+    "name": "王雪艳",
+    "org_name": "上海期期投资管理中心(有限合伙)",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "资深投资顾问",
+    "department": "",
+    "last_interaction_time": "2026-04-16 14:56:09",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "博腾股份",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国同辐",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "比亚迪电子",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "石化油服",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "华森制药",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "滴普科技",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "华检医疗",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-15"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "582988",
+    "name": "C.Y. Li",
+    "org_name": "上海银行（香港）有限公司",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "Associate Director",
+    "department": "Greater Bay Area Business Division",
+    "last_interaction_time": "2026-04-16 14:34:55",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "博腾股份",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "博腾股份（300363.SZ）2026年一季报电话会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "鸿远电子",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "协鑫科技",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "子不语",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中金岭南",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集车辆",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集环科",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集安瑞科",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "579239",
+    "name": "刘浩",
+    "org_name": "上海掌赢投资管理有限责任公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2026-04-16 12:10:13",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "博腾股份",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "博腾股份（300363.SZ）2026年一季报电话会"
+      },
+      {
+        "time": "2026-03-31",
+        "meet_title": "博腾股份（300363.SZ）2025年年报电话会"
+      },
+      {
+        "time": "2025-04-21",
+        "meet_title": "博腾股份（300363.SZ）2025年一季报电话会"
+      },
+      {
+        "time": "2024-10-21",
+        "meet_title": "博腾股份（300363.SZ）2024年三季报电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-04-25",
+        "meet_title": "博腾股份（300363.SZ）2025年一季报电话会",
+        "duration": 54
+      },
+      {
+        "time": "2024-10-25",
+        "meet_title": "博腾股份（300363.SZ）2024年三季报电话会",
+        "duration": 13
+      },
+      {
+        "time": "2024-10-25",
+        "meet_title": "博腾股份（300363.SZ）2024年三季报电话会",
+        "duration": 60
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "重庆银行",
+        "time": "2023-04-22"
+      },
+      {
+        "company": "华森制药",
+        "time": "2023-04-22"
+      },
+      {
+        "company": "深高速",
+        "time": "2023-04-22"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2023-04-22"
+      },
+      {
+        "company": "百融智能",
+        "time": "2023-04-22"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2023-04-22"
+      }
+    ],
+    "special_companies": "博腾股份"
+  },
+  {
+    "uid": "495302",
+    "name": "孔维崎",
+    "org_name": "国海证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "医药联席首席分析师",
+    "department": "研究所",
+    "last_interaction_time": "2026-04-16 12:07:14",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "博腾股份",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "博腾股份（300363.SZ）2026年一季报电话会"
+      },
+      {
+        "time": "2023-03-26",
+        "meet_title": "博腾股份2022年报交流会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "博腾股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2025-06-02"
+      }
+    ],
+    "special_companies": "博腾股份"
+  },
+  {
+    "uid": "19352",
+    "name": "马步川",
+    "org_name": "永安财产保险股份有限公司",
+    "org_type": "保险公司",
+    "cert_type": "机构投资者",
+    "position": "权益投资部高级投资经理",
+    "department": "投资管理中心",
+    "last_interaction_time": "2026-04-16 12:06:16",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "博腾股份",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "博腾股份（300363.SZ）2026年一季报电话会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中国海油",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "华润医药",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中信证券",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "国泰海通",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "中国交通建设集团有限公司",
+        "time": "2024-05-06"
+      }
+    ],
+    "special_companies": "中国交通建设集团有限公司"
+  },
+  {
+    "uid": "647458",
+    "name": "王洁",
+    "org_name": "退休",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "退休",
+    "department": "",
+    "last_interaction_time": "2026-04-16 09:48:39",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "博腾股份",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "比亚迪电子",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "华森制药",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "石化油服",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "华检医疗",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "滴普科技",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-10"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "657",
     "name": "顾峰",
     "org_name": "鲸域资产管理（上海）有限公司",
@@ -3139,200 +4029,6 @@
     "special_companies": "华润医疗,协合新能源"
   },
   {
-    "uid": "579239",
-    "name": "刘浩",
-    "org_name": "上海掌赢投资管理有限责任公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "",
-    "last_interaction_time": "2026-03-31 23:07:14",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "博腾股份",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "博腾股份（300363.SZ）2025年年报电话会"
-      },
-      {
-        "time": "2025-04-21",
-        "meet_title": "博腾股份（300363.SZ）2025年一季报电话会"
-      },
-      {
-        "time": "2024-10-21",
-        "meet_title": "博腾股份（300363.SZ）2024年三季报电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-04-25",
-        "meet_title": "博腾股份（300363.SZ）2025年一季报电话会",
-        "duration": 54
-      },
-      {
-        "time": "2024-10-25",
-        "meet_title": "博腾股份（300363.SZ）2024年三季报电话会",
-        "duration": 13
-      },
-      {
-        "time": "2024-10-25",
-        "meet_title": "博腾股份（300363.SZ）2024年三季报电话会",
-        "duration": 60
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "重庆银行",
-        "time": "2023-04-22"
-      },
-      {
-        "company": "华森制药",
-        "time": "2023-04-22"
-      },
-      {
-        "company": "深高速",
-        "time": "2023-04-22"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2023-04-22"
-      },
-      {
-        "company": "百融智能",
-        "time": "2023-04-22"
-      },
-      {
-        "company": "博腾股份",
-        "time": "2023-04-22"
-      }
-    ],
-    "special_companies": "博腾股份"
-  },
-  {
-    "uid": "15376",
-    "name": "唐天",
-    "org_name": "博时基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2026-03-31 19:42:39",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "博腾股份",
-    "apply_count": 8,
-    "apply_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "博腾股份（300363.SZ）2025年年报电话会"
-      },
-      {
-        "time": "2025-10-20",
-        "meet_title": "博腾股份（300363.SZ）2025年三季报电话会"
-      },
-      {
-        "time": "2025-08-19",
-        "meet_title": "博腾股份（300363.SZ）2025年半年报电话会"
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "博腾股份（300363.SZ）2024年报电话会"
-      },
-      {
-        "time": "2024-10-22",
-        "meet_title": "博腾股份（300363.SZ）2024年三季报电话会"
-      },
-      {
-        "time": "2024-04-26",
-        "meet_title": "博腾股份（300363.SZ）2023年年报暨2024年一季报电话会"
-      },
-      {
-        "time": "2023-10-30",
-        "meet_title": "博腾股份2023年三季度交流会"
-      },
-      {
-        "time": "2023-08-14",
-        "meet_title": "博腾股份2023年半年度业绩交流会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "博腾股份（300363.SZ）2025年半年报电话会",
-        "duration": 56
-      },
-      {
-        "time": "2024-10-25",
-        "meet_title": "博腾股份（300363.SZ）2024年三季报电话会",
-        "duration": 51
-      },
-      {
-        "time": "2024-08-28",
-        "meet_title": "博腾股份（300363.SZ）2024年中报电话会",
-        "duration": 74
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "华虹公司",
-        "time": "2025-11-06"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "金山软件",
-        "time": "2025-05-23"
-      },
-      {
-        "company": "锦欣生殖",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "名创优品",
-        "time": "2023-11-21"
-      },
-      {
-        "company": "珀莱雅",
-        "time": "2023-08-30"
-      },
-      {
-        "company": "药师帮",
-        "time": "2023-08-16"
-      },
-      {
-        "company": "金山办公",
-        "time": "2023-03-23"
-      },
-      {
-        "company": "药明生物",
-        "time": "2023-03-23"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2023-03-22"
-      },
-      {
-        "company": "拼多多",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "雾芯科技",
-        "time": "2023-03-10"
-      },
-      {
-        "company": "TCL电子",
-        "time": "2023-03-10"
-      }
-    ],
-    "special_companies": "珀莱雅,药明生物,锦欣生殖"
-  },
-  {
     "uid": "274507",
     "name": "吴慧鋒",
     "org_name": "明大投资有限公司",
@@ -3794,7 +4490,7 @@
         "time": "2025-03-06"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-26"
       },
       {
@@ -4914,7 +5610,7 @@
         "time": "2023-02-03"
       }
     ],
-    "special_companies": "JS环球生活,一品红,万利,世茂服务,东方财富直播厅,东软教育,中信证券,中原建业,中国中冶,中国交通建设集团有限公司,中国光大环境,中国春来教育集团,中国民航信息网络,中国波顿,中国燃气,中国电信,中国电力,中国石墨,中国通信服务,中国通号,中国黄金国际,中广核技,中烟香港,中石化冠德,中粮包装,中粮家佳康,中银香港,中集车辆,丸美生物,乐享集团,九方智投控股,亚信科技,交个朋友控股,亿帆医药,伟仕佳杰,信义光能,先瑞达医疗,兖煤澳大利亚,利群股份,力劲科技,力合微,力鸿检验,加科思,华夏视听教育,华润啤酒,华润电力,卓越教育集团,启明医疗,周大福创建,喜相逢集团,复宏汉霖,天玛智控,天能动力,宏信建发,宜明昂科,小鹏汽车-W,康哲药业,康宁医院,建发国际集团,思治企业咨询,敏华控股,方舟健客,日清食品,明源云,易点云,星盛商业,晶门半导体,望尘科技控股有限公司,杰克股份,极光,欧陆通,比亚迪,民银国际研究部,汇通达网络,波司登,澳洲成峰高教,玄武云,环球新材国际,理士国际,申万宏源,百奥家庭互动,百得利,百果园集团,百融智能,石化油服,碧桂园,神威药业,科笛,粉笔,粤丰环保,粤海置地,纳科诺尔,网龙,罕王黄金,美丽田园,美的置业,联邦制药,艾德韦宣集团,艾美疫苗,英恒科技,药师帮,诺辉健康,路演中,量子之歌,长久股份,长江电力,阜博集团,首惠产业金融,香港中旅"
+    "special_companies": "JS环球生活,一品红,万利,世茂服务,东方财富直播厅,东软教育,中信证券,中原建业,中国中冶,中国交通建设集团有限公司,中国光大环境,中国春来教育集团,中国民航信息网络,中国波顿,中国燃气,中国电信,中国电力,中国石墨,中国通信服务,中国通号,中国黄金国际,中广核技,中烟香港,中石化冠德,中粮包装,中粮家佳康,中银香港,中集车辆,丸美生物,乐享集团,九方智投控股,亚信科技,交个朋友控股,亿帆医药,伟仕佳杰,信义光能,先瑞达医疗,兖煤澳大利亚,利群股份,力劲科技,力合微,力鸿检验,加科思,华夏视听教育,华润啤酒,华润电力,卓越教育集团,启明医疗,周大福创建,喜相逢集团,复宏汉霖,天玛智控,天能动力,宏信建发,宜明昂科,小鹏汽车-W,康哲药业,康宁医院,建发国际集团,敏华控股,方舟健客,日清食品,明源云,易点云,星盛商业,晶门半导体,望尘科技控股有限公司,杰克股份,极光,欧陆通,比亚迪,民银国际研究部,汇通达网络,波司登,澳洲成峰高教,玄武云,环球新材国际,理士国际,申万宏源,百奥家庭互动,百得利,百果园集团,百融智能,石化油服,碧桂园,神威药业,科笛,粉笔,粤丰环保,粤海置地,纳科诺尔,网龙,罕王黄金,美丽田园,美的置业,联邦制药,艾德韦宣集团,艾美疫苗,英恒科技,药师帮,诺辉健康,路演中,量子之歌,长久股份,长江电力,阜博集团,首惠产业金融,香港中旅,香港公司治理公会北京代表处"
   },
   {
     "uid": "339766",
@@ -4987,70 +5683,6 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "19352",
-    "name": "马步川",
-    "org_name": "永安财产保险股份有限公司",
-    "org_type": "保险公司",
-    "cert_type": "机构投资者",
-    "position": "权益投资部高级投资经理",
-    "department": "投资管理中心",
-    "last_interaction_time": "2026-03-30 20:34:29",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "博腾股份",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "绿城服务",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "中广核新能源",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "中国海油",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "华润医药",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "博腾股份",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "中信证券",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "中集集团",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "国泰海通",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "中国交通建设集团有限公司",
-        "time": "2024-05-06"
-      }
-    ],
-    "special_companies": "中国交通建设集团有限公司"
   },
   {
     "uid": "646053",
@@ -7496,7 +8128,7 @@
         "time": "2025-10-20"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-06-25"
       },
       {
@@ -8531,7 +9163,7 @@
         "time": "2026-03-25"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2026-03-23"
       },
       {
@@ -11640,7 +12272,7 @@
         "time": "2025-05-03"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-05-03"
       },
       {
@@ -12420,7 +13052,7 @@
         "time": "2024-10-17"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2024-10-17"
       },
       {
@@ -12789,6 +13421,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
       {
         "company": "中国有色矿业",
         "time": "2026-03-20"
@@ -14024,7 +14660,7 @@
         "time": "2025-11-24"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-10-27"
       },
       {
@@ -14040,7 +14676,7 @@
         "time": "2025-02-08"
       }
     ],
-    "special_companies": "思治企业咨询,维亚生物"
+    "special_companies": "维亚生物,香港公司治理公会北京代表处"
   },
   {
     "uid": "6126",
@@ -14530,7 +15166,7 @@
         "time": "2025-05-14"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-26"
       },
       {
@@ -14542,7 +15178,7 @@
         "time": "2024-10-28"
       }
     ],
-    "special_companies": "思治企业咨询"
+    "special_companies": "香港公司治理公会北京代表处"
   },
   {
     "uid": "40190",
@@ -21863,7 +22499,7 @@
         "time": "2025-07-18"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-06-09"
       },
       {
@@ -23439,6 +24075,49 @@
     "special_companies": "神州控股"
   },
   {
+    "uid": "346878",
+    "name": "崔少煜",
+    "org_name": "中泰证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "医药行业分析师",
+    "department": "",
+    "last_interaction_time": "2023-10-30 19:30:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "博腾股份",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2023-10-29",
+        "meet_title": "博腾股份2023年三季度交流会"
+      },
+      {
+        "time": "2023-08-20",
+        "meet_title": "博腾股份2023年半年度业绩交流会"
+      },
+      {
+        "time": "2023-03-25",
+        "meet_title": "博腾股份2022年报交流会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2023-10-30",
+        "meet_title": "博腾股份2023年三季度交流会",
+        "duration": 60
+      },
+      {
+        "time": "2023-03-26",
+        "meet_title": "博腾股份2022年报交流会",
+        "duration": 79
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "药明生物"
+  },
+  {
     "uid": "495445",
     "name": "杨一腾",
     "org_name": "杭州凯昇投资管理有限公司",
@@ -23503,49 +24182,6 @@
       }
     ],
     "special_companies": "博腾股份"
-  },
-  {
-    "uid": "346878",
-    "name": "崔少煜",
-    "org_name": "中泰证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "医药行业分析师",
-    "department": "",
-    "last_interaction_time": "2023-10-30 19:30:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "博腾股份",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2023-10-29",
-        "meet_title": "博腾股份2023年三季度交流会"
-      },
-      {
-        "time": "2023-08-20",
-        "meet_title": "博腾股份2023年半年度业绩交流会"
-      },
-      {
-        "time": "2023-03-25",
-        "meet_title": "博腾股份2022年报交流会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2023-10-30",
-        "meet_title": "博腾股份2023年三季度交流会",
-        "duration": 60
-      },
-      {
-        "time": "2023-03-26",
-        "meet_title": "博腾股份2022年报交流会",
-        "duration": 79
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "药明生物"
   },
   {
     "uid": "277217",
@@ -26779,7 +27415,7 @@
         "time": "2025-02-13"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-13"
       },
       {
@@ -27563,148 +28199,7 @@
         "time": "2023-02-21"
       }
     ],
-    "special_companies": "21世纪教育,万物云,世茂服务,东方证券,中信证券,中化化肥,中国中药,中国交建,中国光大绿色环保,中国动向,中国天瑞水泥,中国太保,中国建筑,中国建筑国际,中国心连心化肥,中国春来教育集团,中国燃气,中国船舶租赁,中国通信服务,中广核技,中广核新能源,中烟香港,中粮包装,中集安瑞科,中集车辆,云康集团,亚信科技,交个朋友控股,亿胜生物科技,众安在线,众安集团,优趣汇控股,伟仕佳杰,佛朗斯股份,信义光能,信義玻璃,光大证券,冠盛股份,力劲科技,华森制药,华润医药,协合新能源,卓越教育集团,博腾股份,呷哺呷哺,复星国际,宏信建发,宜明昂科,小米集团-W,小鹏汽车-W,康基医疗,康宁医院,康臣药业,建发国际集团,建发物业,心玮医疗,思治企业咨询,拼多多,敏华控股,新城发展,新希望服务,新鸿基公司,明源云,朝聚眼科,森松国际,沛嘉医疗,海南矿业,湾区发展,玄武云,畅捷通,百果园集团,神州控股,绿城管理控股,网龙,罕王黄金,联易融科技,联邦制药,艾美疫苗,英伟达,药师帮,融创服务,贝康医疗,迈富时,远东宏信,金科服务,阜博集团,零跑汽车,顺丰同城"
-  },
-  {
-    "uid": "276920",
-    "name": "边佳璐",
-    "org_name": "杭州军璐投资有限公司",
-    "org_type": "一般企业",
-    "cert_type": "机构投资者",
-    "position": "总经理",
-    "department": "",
-    "last_interaction_time": "2023-08-16 11:55:51",
-    "last_interaction_behavior": "特关",
-    "interaction_company": "博腾股份",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-16",
-        "meet_title": "博腾股份2023年半年度业绩交流会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "网龙",
-        "time": "2026-04-12"
-      },
-      {
-        "company": "工业富联",
-        "time": "2026-04-12"
-      },
-      {
-        "company": "美光科技",
-        "time": "2026-02-11"
-      },
-      {
-        "company": "苹果",
-        "time": "2026-02-11"
-      },
-      {
-        "company": "微软",
-        "time": "2026-02-11"
-      },
-      {
-        "company": "超威半导体",
-        "time": "2026-02-11"
-      },
-      {
-        "company": "谷歌",
-        "time": "2026-02-11"
-      },
-      {
-        "company": "META",
-        "time": "2026-02-11"
-      },
-      {
-        "company": "歌尔微电子",
-        "time": "2026-02-11"
-      },
-      {
-        "company": "HashKey",
-        "time": "2026-02-11"
-      },
-      {
-        "company": "希迪智驾",
-        "time": "2026-02-11"
-      },
-      {
-        "company": "果下科技",
-        "time": "2026-02-11"
-      },
-      {
-        "company": "京东工业",
-        "time": "2026-02-11"
-      },
-      {
-        "company": "博通",
-        "time": "2025-12-09"
-      },
-      {
-        "company": "华海清科",
-        "time": "2025-09-03"
-      },
-      {
-        "company": "雅培",
-        "time": "2025-07-21"
-      },
-      {
-        "company": "思科（中国）",
-        "time": "2025-07-21"
-      },
-      {
-        "company": "金山软件",
-        "time": "2025-07-21"
-      },
-      {
-        "company": "高通",
-        "time": "2023-11-02"
-      },
-      {
-        "company": "博腾股份",
-        "time": "2023-08-16"
-      },
-      {
-        "company": "华能国际",
-        "time": "2023-08-10"
-      },
-      {
-        "company": "国联基金",
-        "time": "2023-08-10"
-      },
-      {
-        "company": "中信期货",
-        "time": "2023-07-20"
-      },
-      {
-        "company": "福特",
-        "time": "2023-07-18"
-      },
-      {
-        "company": "特斯拉",
-        "time": "2023-07-18"
-      },
-      {
-        "company": "强生",
-        "time": "2023-07-18"
-      },
-      {
-        "company": "台积电",
-        "time": "2023-07-18"
-      },
-      {
-        "company": "英伟达",
-        "time": "2023-05-29"
-      },
-      {
-        "company": "拓维信息",
-        "time": "2023-05-22"
-      }
-    ],
-    "special_companies": "博腾股份,比亚迪,珀莱雅"
+    "special_companies": "21世纪教育,万物云,世茂服务,东方证券,中信证券,中化化肥,中国中药,中国交建,中国光大绿色环保,中国动向,中国天瑞水泥,中国太保,中国建筑,中国建筑国际,中国心连心化肥,中国春来教育集团,中国燃气,中国船舶租赁,中国通信服务,中广核技,中广核新能源,中烟香港,中粮包装,中集安瑞科,中集车辆,云康集团,亚信科技,交个朋友控股,亿胜生物科技,众安在线,众安集团,优趣汇控股,伟仕佳杰,佛朗斯股份,信义光能,信義玻璃,光大证券,冠盛股份,力劲科技,华森制药,华润医药,协合新能源,卓越教育集团,博腾股份,呷哺呷哺,复星国际,宏信建发,宜明昂科,小米集团-W,小鹏汽车-W,康基医疗,康宁医院,康臣药业,建发国际集团,建发物业,心玮医疗,拼多多,敏华控股,新城发展,新希望服务,新鸿基公司,明源云,朝聚眼科,森松国际,沛嘉医疗,海南矿业,湾区发展,玄武云,畅捷通,百果园集团,神州控股,绿城管理控股,网龙,罕王黄金,联易融科技,联邦制药,艾美疫苗,英伟达,药师帮,融创服务,贝康医疗,迈富时,远东宏信,金科服务,阜博集团,零跑汽车,顺丰同城,香港公司治理公会北京代表处"
   },
   {
     "uid": "492405",
@@ -28863,35 +29358,6 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "495302",
-    "name": "孔维崎",
-    "org_name": "国海证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "医药联席首席分析师",
-    "department": "研究所",
-    "last_interaction_time": "2023-05-17 15:08:19",
-    "last_interaction_behavior": "特关",
-    "interaction_company": "博腾股份",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-26",
-        "meet_title": "博腾股份2022年报交流会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中国同辐",
-        "time": "2025-06-02"
-      }
-    ],
-    "special_companies": "博腾股份"
   },
   {
     "uid": "577158",

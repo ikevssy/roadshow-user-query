@@ -81,6 +81,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
+      {
         "company": "绿城服务",
         "time": "2026-03-30"
       },
@@ -2211,7 +2215,7 @@
         "time": "2025-03-06"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-26"
       },
       {
@@ -3331,7 +3335,7 @@
         "time": "2023-02-03"
       }
     ],
-    "special_companies": "JS环球生活,一品红,万利,世茂服务,东方财富直播厅,东软教育,中信证券,中原建业,中国中冶,中国交通建设集团有限公司,中国光大环境,中国春来教育集团,中国民航信息网络,中国波顿,中国燃气,中国电信,中国电力,中国石墨,中国通信服务,中国通号,中国黄金国际,中广核技,中烟香港,中石化冠德,中粮包装,中粮家佳康,中银香港,中集车辆,丸美生物,乐享集团,九方智投控股,亚信科技,交个朋友控股,亿帆医药,伟仕佳杰,信义光能,先瑞达医疗,兖煤澳大利亚,利群股份,力劲科技,力合微,力鸿检验,加科思,华夏视听教育,华润啤酒,华润电力,卓越教育集团,启明医疗,周大福创建,喜相逢集团,复宏汉霖,天玛智控,天能动力,宏信建发,宜明昂科,小鹏汽车-W,康哲药业,康宁医院,建发国际集团,思治企业咨询,敏华控股,方舟健客,日清食品,明源云,易点云,星盛商业,晶门半导体,望尘科技控股有限公司,杰克股份,极光,欧陆通,比亚迪,民银国际研究部,汇通达网络,波司登,澳洲成峰高教,玄武云,环球新材国际,理士国际,申万宏源,百奥家庭互动,百得利,百果园集团,百融智能,石化油服,碧桂园,神威药业,科笛,粉笔,粤丰环保,粤海置地,纳科诺尔,网龙,罕王黄金,美丽田园,美的置业,联邦制药,艾德韦宣集团,艾美疫苗,英恒科技,药师帮,诺辉健康,路演中,量子之歌,长久股份,长江电力,阜博集团,首惠产业金融,香港中旅"
+    "special_companies": "JS环球生活,一品红,万利,世茂服务,东方财富直播厅,东软教育,中信证券,中原建业,中国中冶,中国交通建设集团有限公司,中国光大环境,中国春来教育集团,中国民航信息网络,中国波顿,中国燃气,中国电信,中国电力,中国石墨,中国通信服务,中国通号,中国黄金国际,中广核技,中烟香港,中石化冠德,中粮包装,中粮家佳康,中银香港,中集车辆,丸美生物,乐享集团,九方智投控股,亚信科技,交个朋友控股,亿帆医药,伟仕佳杰,信义光能,先瑞达医疗,兖煤澳大利亚,利群股份,力劲科技,力合微,力鸿检验,加科思,华夏视听教育,华润啤酒,华润电力,卓越教育集团,启明医疗,周大福创建,喜相逢集团,复宏汉霖,天玛智控,天能动力,宏信建发,宜明昂科,小鹏汽车-W,康哲药业,康宁医院,建发国际集团,敏华控股,方舟健客,日清食品,明源云,易点云,星盛商业,晶门半导体,望尘科技控股有限公司,杰克股份,极光,欧陆通,比亚迪,民银国际研究部,汇通达网络,波司登,澳洲成峰高教,玄武云,环球新材国际,理士国际,申万宏源,百奥家庭互动,百得利,百果园集团,百融智能,石化油服,碧桂园,神威药业,科笛,粉笔,粤丰环保,粤海置地,纳科诺尔,网龙,罕王黄金,美丽田园,美的置业,联邦制药,艾德韦宣集团,艾美疫苗,英恒科技,药师帮,诺辉健康,路演中,量子之歌,长久股份,长江电力,阜博集团,首惠产业金融,香港中旅,香港公司治理公会北京代表处"
   },
   {
     "uid": "646555",
@@ -5468,45 +5472,6 @@
     "special_companies": ""
   },
   {
-    "uid": "573255",
-    "name": "Victoria Xu",
-    "org_name": "中信里昂资产管理有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Analyst",
-    "department": "",
-    "last_interaction_time": "2026-03-27 15:00:47",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集集团",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-16",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会"
-      },
-      {
-        "time": "2023-03-14",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2022年年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会",
-        "duration": 78
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中集集团",
-        "time": "2026-03-26"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "270518",
     "name": "杜中明",
     "org_name": "中信保诚资产管理有限责任公司",
@@ -5543,6 +5508,45 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "573255",
+    "name": "Victoria Xu",
+    "org_name": "中信里昂资产管理有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Analyst",
+    "department": "",
+    "last_interaction_time": "2026-03-27 15:00:47",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集集团",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-16",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会"
+      },
+      {
+        "time": "2023-03-14",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2022年年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2025年年度业绩发布会",
+        "duration": 78
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中集集团",
+        "time": "2026-03-26"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -5865,6 +5869,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-09"
@@ -14988,7 +14996,7 @@
         "time": "2026-03-25"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2026-03-23"
       },
       {
@@ -16551,6 +16559,31 @@
     "special_companies": ""
   },
   {
+    "uid": "345538",
+    "name": "韩晓娜",
+    "org_name": "中国国际海运集装箱(集团)股份有限公司",
+    "org_type": null,
+    "cert_type": "上市公司",
+    "position": "投资者关系经理",
+    "department": "董事会秘书处",
+    "last_interaction_time": "2025-08-28 15:31:18",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集集团",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "中集集团2025年中期业绩说明会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "637772",
     "name": "耿一丹",
     "org_name": "摩根大通公司",
@@ -16583,31 +16616,6 @@
         "time": "2025-08-27"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "345538",
-    "name": "韩晓娜",
-    "org_name": "中国国际海运集装箱(集团)股份有限公司",
-    "org_type": null,
-    "cert_type": "上市公司",
-    "position": "投资者关系经理",
-    "department": "董事会秘书处",
-    "last_interaction_time": "2025-08-28 15:31:18",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集集团",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "中集集团2025年中期业绩说明会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -16948,7 +16956,7 @@
         "time": "2024-10-17"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2024-10-17"
       },
       {
@@ -17496,6 +17504,36 @@
     "special_companies": ""
   },
   {
+    "uid": "573827",
+    "name": "王安亚",
+    "org_name": "東騰創新投資股份有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "个人",
+    "position": "總經理",
+    "department": "",
+    "last_interaction_time": "2025-08-28 15:29:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "中集集团2025年中期业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "中集集团2025年中期业绩说明会",
+        "duration": 78
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "430285",
     "name": "吴洋",
     "org_name": "招商证券股份有限公司",
@@ -17542,36 +17580,6 @@
         "time": "2025-08-28"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "573827",
-    "name": "王安亚",
-    "org_name": "東騰創新投資股份有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "个人",
-    "position": "總經理",
-    "department": "",
-    "last_interaction_time": "2025-08-28 15:29:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "中集集团2025年中期业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "中集集团2025年中期业绩说明会",
-        "duration": 78
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -18782,11 +18790,11 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-10"
       }
     ],
-    "special_companies": "思治企业咨询"
+    "special_companies": "香港公司治理公会北京代表处"
   },
   {
     "uid": "576396",
@@ -19841,7 +19849,7 @@
         "time": "2025-08-11"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-04-29"
       },
       {
@@ -20118,11 +20126,11 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-12"
       }
     ],
-    "special_companies": "思治企业咨询"
+    "special_companies": "香港公司治理公会北京代表处"
   },
   {
     "uid": "580690",
@@ -22958,7 +22966,7 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-06-10"
       },
       {
@@ -25619,7 +25627,7 @@
         "time": "2025-03-18"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-03-18"
       },
       {
@@ -25643,7 +25651,7 @@
         "time": "2023-03-23"
       }
     ],
-    "special_companies": "中国船舶租赁,康基医疗,思治企业咨询,汇通达网络,联邦制药,艾美疫苗,连连数字"
+    "special_companies": "中国船舶租赁,康基医疗,汇通达网络,联邦制药,艾美疫苗,连连数字,香港公司治理公会北京代表处"
   },
   {
     "uid": "631751",
@@ -27893,6 +27901,41 @@
     "special_companies": ""
   },
   {
+    "uid": "337367",
+    "name": "梁勤之",
+    "org_name": "国联基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "研究部",
+    "last_interaction_time": "2024-03-28 16:16:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-28",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会",
+        "duration": 3
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会",
+        "duration": 73
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "608585",
     "name": "邵禹豪",
     "org_name": "江海证券有限公司",
@@ -27970,41 +28013,6 @@
       }
     ],
     "special_companies": "华森制药,药师帮"
-  },
-  {
-    "uid": "337367",
-    "name": "梁勤之",
-    "org_name": "国联基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "研究部",
-    "last_interaction_time": "2024-03-28 16:16:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-28",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会",
-        "duration": 3
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会",
-        "duration": 73
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "607456",
@@ -30046,39 +30054,6 @@
     "special_companies": "万物云,中国人寿,中国电信,新鸿基公司,明源云"
   },
   {
-    "uid": "263545",
-    "name": "张贝贝",
-    "org_name": "星展银行（中国）有限公司",
-    "org_type": "银行",
-    "cert_type": "卖方分析师",
-    "position": "助理副总裁|分析师",
-    "department": "研究部",
-    "last_interaction_time": "2024-03-28 15:50:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集集团",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-25",
-        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "京东物流",
-        "time": "2023-05-11"
-      },
-      {
-        "company": "顺丰同城",
-        "time": "2023-02-15"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "434635",
     "name": "程艺新",
     "org_name": "深圳市路演中网络科技有限公司",
@@ -30126,6 +30101,39 @@
       }
     ],
     "special_companies": "天齐锂业"
+  },
+  {
+    "uid": "263545",
+    "name": "张贝贝",
+    "org_name": "星展银行（中国）有限公司",
+    "org_type": "银行",
+    "cert_type": "卖方分析师",
+    "position": "助理副总裁|分析师",
+    "department": "研究部",
+    "last_interaction_time": "2024-03-28 15:50:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集集团",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-25",
+        "meet_title": "中集集团（000039.SZ,02039.HK）2023年年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "京东物流",
+        "time": "2023-05-11"
+      },
+      {
+        "company": "顺丰同城",
+        "time": "2023-02-15"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "576916",
@@ -31201,7 +31209,7 @@
         "time": "2025-07-18"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-06-09"
       },
       {
@@ -32295,7 +32303,7 @@
         "time": "2025-02-13"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-13"
       },
       {
@@ -33079,7 +33087,7 @@
         "time": "2023-02-21"
       }
     ],
-    "special_companies": "21世纪教育,万物云,世茂服务,东方证券,中信证券,中化化肥,中国中药,中国交建,中国光大绿色环保,中国动向,中国天瑞水泥,中国太保,中国建筑,中国建筑国际,中国心连心化肥,中国春来教育集团,中国燃气,中国船舶租赁,中国通信服务,中广核技,中广核新能源,中烟香港,中粮包装,中集安瑞科,中集车辆,云康集团,亚信科技,交个朋友控股,亿胜生物科技,众安在线,众安集团,优趣汇控股,伟仕佳杰,佛朗斯股份,信义光能,信義玻璃,光大证券,冠盛股份,力劲科技,华森制药,华润医药,协合新能源,卓越教育集团,博腾股份,呷哺呷哺,复星国际,宏信建发,宜明昂科,小米集团-W,小鹏汽车-W,康基医疗,康宁医院,康臣药业,建发国际集团,建发物业,心玮医疗,思治企业咨询,拼多多,敏华控股,新城发展,新希望服务,新鸿基公司,明源云,朝聚眼科,森松国际,沛嘉医疗,海南矿业,湾区发展,玄武云,畅捷通,百果园集团,神州控股,绿城管理控股,网龙,罕王黄金,联易融科技,联邦制药,艾美疫苗,英伟达,药师帮,融创服务,贝康医疗,迈富时,远东宏信,金科服务,阜博集团,零跑汽车,顺丰同城"
+    "special_companies": "21世纪教育,万物云,世茂服务,东方证券,中信证券,中化化肥,中国中药,中国交建,中国光大绿色环保,中国动向,中国天瑞水泥,中国太保,中国建筑,中国建筑国际,中国心连心化肥,中国春来教育集团,中国燃气,中国船舶租赁,中国通信服务,中广核技,中广核新能源,中烟香港,中粮包装,中集安瑞科,中集车辆,云康集团,亚信科技,交个朋友控股,亿胜生物科技,众安在线,众安集团,优趣汇控股,伟仕佳杰,佛朗斯股份,信义光能,信義玻璃,光大证券,冠盛股份,力劲科技,华森制药,华润医药,协合新能源,卓越教育集团,博腾股份,呷哺呷哺,复星国际,宏信建发,宜明昂科,小米集团-W,小鹏汽车-W,康基医疗,康宁医院,康臣药业,建发国际集团,建发物业,心玮医疗,拼多多,敏华控股,新城发展,新希望服务,新鸿基公司,明源云,朝聚眼科,森松国际,沛嘉医疗,海南矿业,湾区发展,玄武云,畅捷通,百果园集团,神州控股,绿城管理控股,网龙,罕王黄金,联易融科技,联邦制药,艾美疫苗,英伟达,药师帮,融创服务,贝康医疗,迈富时,远东宏信,金科服务,阜博集团,零跑汽车,顺丰同城,香港公司治理公会北京代表处"
   },
   {
     "uid": "607715",
@@ -35647,7 +35655,7 @@
         "time": "2025-06-12"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-26"
       },
       {
@@ -35747,7 +35755,7 @@
         "time": "2023-03-02"
       }
     ],
-    "special_companies": "万物云,中海物业,合景悠活,复星国际,思治企业咨询,新世界发展,新希望服务,星盛商业,融创服务,越秀服务,金科服务,长江电力"
+    "special_companies": "万物云,中海物业,合景悠活,复星国际,新世界发展,新希望服务,星盛商业,融创服务,越秀服务,金科服务,长江电力,香港公司治理公会北京代表处"
   },
   {
     "uid": "250375",
@@ -35996,6 +36004,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
       {
         "company": "中国有色矿业",
         "time": "2026-03-20"
@@ -41105,6 +41117,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
       {
         "company": "中信银行",
         "time": "2025-08-28"

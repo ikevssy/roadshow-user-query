@@ -1,5 +1,828 @@
 [
   {
+    "uid": "647609",
+    "name": "王萍",
+    "org_name": "浙工商院",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "副教授",
+    "department": "",
+    "last_interaction_time": "2026-04-16 18:25:39",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国建筑",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "上海专场 | 中国建筑2025年年度业绩推介会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "612198",
+    "name": "乔玉龙",
+    "org_name": "深圳市翊禾文化有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2026-04-16 16:17:45",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国建筑",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "中国建筑（601668.SH）2025年年度业绩说明会"
+      },
+      {
+        "time": "2026-04-16",
+        "meet_title": "深圳专场 | 中国建筑2025年年度业绩推介会"
+      },
+      {
+        "time": "2025-04-18",
+        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
+      },
+      {
+        "time": "2024-09-02",
+        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-04-21",
+        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会",
+        "duration": 59
+      },
+      {
+        "time": "2024-09-02",
+        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会",
+        "duration": 59
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "招商蛇口",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2024-09-02"
+      },
+      {
+        "company": "中国海外发展",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2024-08-26"
+      }
+    ],
+    "special_companies": "中国建筑,建发国际集团,招商蛇口,绿城中国"
+  },
+  {
+    "uid": "647580",
+    "name": "王雪艳",
+    "org_name": "上海期期投资管理中心(有限合伙)",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "资深投资顾问",
+    "department": "",
+    "last_interaction_time": "2026-04-16 14:56:09",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "中国建筑",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国同辐",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "比亚迪电子",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "石化油服",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "华森制药",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "滴普科技",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "华检医疗",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-15"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "431918",
+    "name": "史国财",
+    "org_name": "仁桥(北京)资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "高级研究员",
+    "department": "",
+    "last_interaction_time": "2026-04-16 14:45:25",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国建筑",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "中国建筑（601668.SH）2025年年度业绩说明会"
+      },
+      {
+        "time": "2025-08-27",
+        "meet_title": "中国建筑（601668.SH）2025年半年度业绩说明会"
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会"
+      },
+      {
+        "time": "2023-04-18",
+        "meet_title": "中国建筑（601668.SH）2022年度业绩说明会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-08-29",
+        "meet_title": "中国建筑（601668.SH）2025年半年度业绩说明会",
+        "duration": 26
+      },
+      {
+        "time": "2023-04-18",
+        "meet_title": "中国建筑（601668.SH）2022年度业绩说明会",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国再保险",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "伟仕佳杰",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "爱康医疗",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "招商银行",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-03-22"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "中信证券",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "国泰君安国际",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "中国平安",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-03-20"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "思派健康",
+        "time": "2024-12-03"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-08-20"
+      },
+      {
+        "company": "中国人保",
+        "time": "2023-11-10"
+      },
+      {
+        "company": "建发物业",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-28"
+      }
+    ],
+    "special_companies": "万物云,中信证券,中海物业,保利物业,国泰君安国际,建发国际集团,建发物业,思派健康,滨江服务,绿城服务,绿城管理控股"
+  },
+  {
+    "uid": "582988",
+    "name": "C.Y. Li",
+    "org_name": "上海银行（香港）有限公司",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "Associate Director",
+    "department": "Greater Bay Area Business Division",
+    "last_interaction_time": "2026-04-16 14:33:00",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国建筑",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "中国建筑（601668.SH）2025年年度业绩说明会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "鸿远电子",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "五谷磨房",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "协鑫科技",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "子不语",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中金岭南",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集车辆",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集环科",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集安瑞科",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "中集集团",
+        "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "632333",
+    "name": "郑秋晨",
+    "org_name": "长江证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "建筑行业分析师",
+    "department": "研究所",
+    "last_interaction_time": "2026-04-16 11:59:37",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国建筑",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "上海专场 | 中国建筑2025年年度业绩推介会"
+      },
+      {
+        "time": "2025-09-11",
+        "meet_title": "上海专场 | 中国建筑2025年半年度业绩推介会"
+      },
+      {
+        "time": "2025-08-28",
+        "meet_title": "中国建筑（601668.SH）2025年半年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-29",
+        "meet_title": "中国建筑（601668.SH）2025年半年度业绩说明会",
+        "duration": 70
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "498809",
+    "name": "曹恒宇",
+    "org_name": "中信建投证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "研究员",
+    "department": "研究发展部",
+    "last_interaction_time": "2026-04-16 11:59:28",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国建筑",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "上海专场 | 中国建筑2025年年度业绩推介会"
+      },
+      {
+        "time": "2025-09-07",
+        "meet_title": "上海专场 | 中国建筑2025年半年度业绩推介会"
+      },
+      {
+        "time": "2025-09-07",
+        "meet_title": "深圳专场 | 中国建筑2025年半年度业绩推介会"
+      },
+      {
+        "time": "2024-04-18",
+        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-29",
+        "meet_title": "中国建筑（601668.SH）2025年半年度业绩说明会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "中国中冶"
+  },
+  {
+    "uid": "647458",
+    "name": "王洁",
+    "org_name": "退休",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "退休",
+    "department": "",
+    "last_interaction_time": "2026-04-16 09:48:39",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "中国建筑",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "比亚迪电子",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "华森制药",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "石化油服",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "华检医疗",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "银诺医药",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "滴普科技",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-10"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "426562",
+    "name": "孙瑞",
+    "org_name": "中加基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "信用研究员",
+    "department": "固定收益部",
+    "last_interaction_time": "2026-04-16 09:47:29",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国建筑",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "中国建筑（601668.SH）2025年年度业绩说明会"
+      },
+      {
+        "time": "2025-08-29",
+        "meet_title": "中国建筑（601668.SH）2025年半年度业绩说明会"
+      },
+      {
+        "time": "2025-04-15",
+        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国交建",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-03-31"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2024-09-03"
+      },
+      {
+        "company": "万科A",
+        "time": "2024-08-29"
+      },
+      {
+        "company": "美的置业",
+        "time": "2024-08-17"
+      },
+      {
+        "company": "越秀地产",
+        "time": "2024-03-29"
+      },
+      {
+        "company": "龙湖集团",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "保利发展",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "中国金茂",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "中国海外发展",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "华润置地",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2024-03-22"
+      }
+    ],
+    "special_companies": "中国海外宏洋集团,保利发展,复星国际,建发国际集团,招商蛇口,绿城中国,越秀地产"
+  },
+  {
+    "uid": "338117",
+    "name": "Tung Hon",
+    "org_name": "Harbourside Investment Partners",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Director, Investment Manager",
+    "department": "",
+    "last_interaction_time": "2026-04-16 08:57:07",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国建筑",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "中国建筑（601668.SH）2025年年度业绩说明会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国国航",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "商汤-W",
+        "time": "2025-08-28"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "9952",
     "name": "李国辰",
     "org_name": "海南飞恒私募基金管理有限公司",
@@ -792,37 +1615,13 @@
     "special_companies": "国银金租"
   },
   {
-    "uid": "647609",
-    "name": "王萍",
-    "org_name": "浙工商院",
-    "org_type": null,
-    "cert_type": "个人",
-    "position": "副教授",
-    "department": null,
-    "last_interaction_time": "2026-04-15 20:21:43",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "中国建筑",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-04-15",
-        "meet_title": "中国建筑（601668.SH）2025年年度业绩说明会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "647607",
     "name": "贺王娟",
-    "org_name": "中国证监会指定披露上市公司信息报纸",
-    "org_type": null,
+    "org_name": "证券日报",
+    "org_type": "财经媒体",
     "cert_type": "媒体",
     "position": "记者",
-    "department": null,
+    "department": "",
     "last_interaction_time": "2026-04-15 19:01:31",
     "last_interaction_behavior": "报名",
     "interaction_company": "中国建筑",
@@ -2790,7 +3589,7 @@
         "time": "2024-10-17"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2024-10-17"
       },
       {
@@ -6211,7 +7010,7 @@
         "time": "2026-03-25"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2026-03-23"
       },
       {
@@ -6726,40 +7525,6 @@
     "special_companies": ""
   },
   {
-    "uid": "632333",
-    "name": "郑秋晨",
-    "org_name": "长江证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "建筑行业分析师",
-    "department": "研究所",
-    "last_interaction_time": "2025-09-11 20:36:49",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "中国建筑",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-09-11",
-        "meet_title": "上海专场 | 中国建筑2025年半年度业绩推介会"
-      },
-      {
-        "time": "2025-08-28",
-        "meet_title": "中国建筑（601668.SH）2025年半年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-29",
-        "meet_title": "中国建筑（601668.SH）2025年半年度业绩说明会",
-        "duration": 70
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "632260",
     "name": "黄梦可",
     "org_name": "耕霁(上海)投资管理有限公司",
@@ -6902,44 +7667,6 @@
       }
     ],
     "special_companies": "万物云,新鸿基公司,比亚迪,路演中"
-  },
-  {
-    "uid": "498809",
-    "name": "曹恒宇",
-    "org_name": "中信建投证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "研究员",
-    "department": "研究发展部",
-    "last_interaction_time": "2025-09-07 20:16:11",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "中国建筑",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2025-09-07",
-        "meet_title": "上海专场 | 中国建筑2025年半年度业绩推介会"
-      },
-      {
-        "time": "2025-09-07",
-        "meet_title": "深圳专场 | 中国建筑2025年半年度业绩推介会"
-      },
-      {
-        "time": "2024-04-18",
-        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-29",
-        "meet_title": "中国建筑（601668.SH）2025年半年度业绩说明会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "中国中冶"
   },
   {
     "uid": "333756",
@@ -9316,7 +10043,7 @@
         "time": "2025-03-06"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-26"
       },
       {
@@ -10436,7 +11163,7 @@
         "time": "2023-02-03"
       }
     ],
-    "special_companies": "JS环球生活,一品红,万利,世茂服务,东方财富直播厅,东软教育,中信证券,中原建业,中国中冶,中国交通建设集团有限公司,中国光大环境,中国春来教育集团,中国民航信息网络,中国波顿,中国燃气,中国电信,中国电力,中国石墨,中国通信服务,中国通号,中国黄金国际,中广核技,中烟香港,中石化冠德,中粮包装,中粮家佳康,中银香港,中集车辆,丸美生物,乐享集团,九方智投控股,亚信科技,交个朋友控股,亿帆医药,伟仕佳杰,信义光能,先瑞达医疗,兖煤澳大利亚,利群股份,力劲科技,力合微,力鸿检验,加科思,华夏视听教育,华润啤酒,华润电力,卓越教育集团,启明医疗,周大福创建,喜相逢集团,复宏汉霖,天玛智控,天能动力,宏信建发,宜明昂科,小鹏汽车-W,康哲药业,康宁医院,建发国际集团,思治企业咨询,敏华控股,方舟健客,日清食品,明源云,易点云,星盛商业,晶门半导体,望尘科技控股有限公司,杰克股份,极光,欧陆通,比亚迪,民银国际研究部,汇通达网络,波司登,澳洲成峰高教,玄武云,环球新材国际,理士国际,申万宏源,百奥家庭互动,百得利,百果园集团,百融智能,石化油服,碧桂园,神威药业,科笛,粉笔,粤丰环保,粤海置地,纳科诺尔,网龙,罕王黄金,美丽田园,美的置业,联邦制药,艾德韦宣集团,艾美疫苗,英恒科技,药师帮,诺辉健康,路演中,量子之歌,长久股份,长江电力,阜博集团,首惠产业金融,香港中旅"
+    "special_companies": "JS环球生活,一品红,万利,世茂服务,东方财富直播厅,东软教育,中信证券,中原建业,中国中冶,中国交通建设集团有限公司,中国光大环境,中国春来教育集团,中国民航信息网络,中国波顿,中国燃气,中国电信,中国电力,中国石墨,中国通信服务,中国通号,中国黄金国际,中广核技,中烟香港,中石化冠德,中粮包装,中粮家佳康,中银香港,中集车辆,丸美生物,乐享集团,九方智投控股,亚信科技,交个朋友控股,亿帆医药,伟仕佳杰,信义光能,先瑞达医疗,兖煤澳大利亚,利群股份,力劲科技,力合微,力鸿检验,加科思,华夏视听教育,华润啤酒,华润电力,卓越教育集团,启明医疗,周大福创建,喜相逢集团,复宏汉霖,天玛智控,天能动力,宏信建发,宜明昂科,小鹏汽车-W,康哲药业,康宁医院,建发国际集团,敏华控股,方舟健客,日清食品,明源云,易点云,星盛商业,晶门半导体,望尘科技控股有限公司,杰克股份,极光,欧陆通,比亚迪,民银国际研究部,汇通达网络,波司登,澳洲成峰高教,玄武云,环球新材国际,理士国际,申万宏源,百奥家庭互动,百得利,百果园集团,百融智能,石化油服,碧桂园,神威药业,科笛,粉笔,粤丰环保,粤海置地,纳科诺尔,网龙,罕王黄金,美丽田园,美的置业,联邦制药,艾德韦宣集团,艾美疫苗,英恒科技,药师帮,诺辉健康,路演中,量子之歌,长久股份,长江电力,阜博集团,首惠产业金融,香港中旅,香港公司治理公会北京代表处"
   },
   {
     "uid": "507554",
@@ -12955,154 +13682,6 @@
     "special_companies": ""
   },
   {
-    "uid": "431918",
-    "name": "史国财",
-    "org_name": "仁桥(北京)资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "高级研究员",
-    "department": "",
-    "last_interaction_time": "2025-08-29 15:02:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国建筑",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "中国建筑（601668.SH）2025年半年度业绩说明会"
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会"
-      },
-      {
-        "time": "2023-04-18",
-        "meet_title": "中国建筑（601668.SH）2022年度业绩说明会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-08-29",
-        "meet_title": "中国建筑（601668.SH）2025年半年度业绩说明会",
-        "duration": 26
-      },
-      {
-        "time": "2023-04-18",
-        "meet_title": "中国建筑（601668.SH）2022年度业绩说明会",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中国再保险",
-        "time": "2025-09-01"
-      },
-      {
-        "company": "拼多多",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "伟仕佳杰",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "新鸿基公司",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "富途控股",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "爱康医疗",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "招商银行",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-03-24"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-03-22"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-03-20"
-      },
-      {
-        "company": "中信证券",
-        "time": "2025-03-20"
-      },
-      {
-        "company": "国泰君安国际",
-        "time": "2025-03-20"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-03-20"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-03-20"
-      },
-      {
-        "company": "中国平安",
-        "time": "2025-03-20"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-03-20"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-03-19"
-      },
-      {
-        "company": "思派健康",
-        "time": "2024-12-03"
-      },
-      {
-        "company": "保利物业",
-        "time": "2024-08-20"
-      },
-      {
-        "company": "中国人保",
-        "time": "2023-11-10"
-      },
-      {
-        "company": "建发物业",
-        "time": "2023-08-29"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-03-28"
-      }
-    ],
-    "special_companies": "万物云,中信证券,中海物业,保利物业,国泰君安国际,建发国际集团,建发物业,思派健康,滨江服务,绿城服务,绿城管理控股"
-  },
-  {
     "uid": "507125",
     "name": "倪树奎",
     "org_name": "中外运普菲斯冷链物流有限公司",
@@ -14051,91 +14630,6 @@
     "special_companies": "华润医药,宜明昂科,碧桂园服务,英伟达,药师帮"
   },
   {
-    "uid": "426562",
-    "name": "孙瑞",
-    "org_name": "中加基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "信用研究员",
-    "department": "固定收益部",
-    "last_interaction_time": "2025-08-29 09:23:25",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "中国建筑",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-08-29",
-        "meet_title": "中国建筑（601668.SH）2025年半年度业绩说明会"
-      },
-      {
-        "time": "2025-04-15",
-        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中国交建",
-        "time": "2026-04-01"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-03-31"
-      },
-      {
-        "company": "中国建筑",
-        "time": "2024-09-03"
-      },
-      {
-        "company": "万科A",
-        "time": "2024-08-29"
-      },
-      {
-        "company": "美的置业",
-        "time": "2024-08-17"
-      },
-      {
-        "company": "越秀地产",
-        "time": "2024-03-29"
-      },
-      {
-        "company": "龙湖集团",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "保利发展",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "招商蛇口",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "中国金茂",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "中国海外发展",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "华润置地",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2024-03-22"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2024-03-22"
-      }
-    ],
-    "special_companies": "中国海外宏洋集团,保利发展,复星国际,建发国际集团,招商蛇口,绿城中国,越秀地产"
-  },
-  {
     "uid": "9485",
     "name": "阮如江",
     "org_name": "深圳康桥资产管理有限公司",
@@ -15042,7 +15536,7 @@
         "time": "2025-04-22"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2024-10-11"
       },
       {
@@ -15062,7 +15556,7 @@
         "time": "2023-04-10"
       }
     ],
-    "special_companies": "中国中冶,中国太保,中国建筑,中国民航信息网络,中国石油,中煤能源,思治企业咨询"
+    "special_companies": "中国中冶,中国太保,中国建筑,中国民航信息网络,中国石油,中煤能源,香港公司治理公会北京代表处"
   },
   {
     "uid": "285003",
@@ -16498,7 +16992,7 @@
         "time": "2025-07-18"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-06-09"
       },
       {
@@ -17333,7 +17827,7 @@
         "time": "2025-05-03"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-05-03"
       },
       {
@@ -18610,66 +19104,6 @@
     "special_companies": "中国建筑"
   },
   {
-    "uid": "612198",
-    "name": "乔玉龙",
-    "org_name": "深圳市翊禾文化有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "总经理",
-    "department": "",
-    "last_interaction_time": "2025-04-21 17:06:15",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国建筑",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-04-18",
-        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
-      },
-      {
-        "time": "2024-09-02",
-        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-04-21",
-        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会",
-        "duration": 59
-      },
-      {
-        "time": "2024-09-02",
-        "meet_title": "中国建筑（601668.SH）2024年半年度业绩说明会",
-        "duration": 59
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "招商蛇口",
-        "time": "2025-03-18"
-      },
-      {
-        "company": "中国建筑",
-        "time": "2024-09-02"
-      },
-      {
-        "company": "中国海外发展",
-        "time": "2024-08-26"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2024-08-26"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2024-08-26"
-      }
-    ],
-    "special_companies": "中国建筑,建发国际集团,招商蛇口,绿城中国"
-  },
-  {
     "uid": "492397",
     "name": "周朋",
     "org_name": "武汉山水私募基金有限公司",
@@ -19134,45 +19568,6 @@
     "special_companies": ""
   },
   {
-    "uid": "633749",
-    "name": "王炳旭",
-    "org_name": "中原信托有限公司",
-    "org_type": "信托公司",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "固有业务部",
-    "last_interaction_time": "2025-04-21 16:00:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国建筑",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-04-14",
-        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-04-21",
-        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会",
-        "duration": 37
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中集集团",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "中国太保",
-        "time": "2025-03-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "430206",
     "name": "王金琳",
     "org_name": "摩根士丹利亚洲有限公司",
@@ -19210,6 +19605,45 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": "中国交建"
+  },
+  {
+    "uid": "633749",
+    "name": "王炳旭",
+    "org_name": "中原信托有限公司",
+    "org_type": "信托公司",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "固有业务部",
+    "last_interaction_time": "2025-04-21 16:00:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国建筑",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-04-14",
+        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-04-21",
+        "meet_title": "中国建筑（601668.SH）2024年度业绩说明会",
+        "duration": 37
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中集集团",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-03-27"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "251659",
@@ -20106,6 +20540,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
       {
         "company": "中国有色矿业",
         "time": "2026-03-20"
@@ -24675,7 +25113,7 @@
         "time": "2025-02-13"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-13"
       },
       {
@@ -25459,7 +25897,7 @@
         "time": "2023-02-21"
       }
     ],
-    "special_companies": "21世纪教育,万物云,世茂服务,东方证券,中信证券,中化化肥,中国中药,中国交建,中国光大绿色环保,中国动向,中国天瑞水泥,中国太保,中国建筑,中国建筑国际,中国心连心化肥,中国春来教育集团,中国燃气,中国船舶租赁,中国通信服务,中广核技,中广核新能源,中烟香港,中粮包装,中集安瑞科,中集车辆,云康集团,亚信科技,交个朋友控股,亿胜生物科技,众安在线,众安集团,优趣汇控股,伟仕佳杰,佛朗斯股份,信义光能,信義玻璃,光大证券,冠盛股份,力劲科技,华森制药,华润医药,协合新能源,卓越教育集团,博腾股份,呷哺呷哺,复星国际,宏信建发,宜明昂科,小米集团-W,小鹏汽车-W,康基医疗,康宁医院,康臣药业,建发国际集团,建发物业,心玮医疗,思治企业咨询,拼多多,敏华控股,新城发展,新希望服务,新鸿基公司,明源云,朝聚眼科,森松国际,沛嘉医疗,海南矿业,湾区发展,玄武云,畅捷通,百果园集团,神州控股,绿城管理控股,网龙,罕王黄金,联易融科技,联邦制药,艾美疫苗,英伟达,药师帮,融创服务,贝康医疗,迈富时,远东宏信,金科服务,阜博集团,零跑汽车,顺丰同城"
+    "special_companies": "21世纪教育,万物云,世茂服务,东方证券,中信证券,中化化肥,中国中药,中国交建,中国光大绿色环保,中国动向,中国天瑞水泥,中国太保,中国建筑,中国建筑国际,中国心连心化肥,中国春来教育集团,中国燃气,中国船舶租赁,中国通信服务,中广核技,中广核新能源,中烟香港,中粮包装,中集安瑞科,中集车辆,云康集团,亚信科技,交个朋友控股,亿胜生物科技,众安在线,众安集团,优趣汇控股,伟仕佳杰,佛朗斯股份,信义光能,信義玻璃,光大证券,冠盛股份,力劲科技,华森制药,华润医药,协合新能源,卓越教育集团,博腾股份,呷哺呷哺,复星国际,宏信建发,宜明昂科,小米集团-W,小鹏汽车-W,康基医疗,康宁医院,康臣药业,建发国际集团,建发物业,心玮医疗,拼多多,敏华控股,新城发展,新希望服务,新鸿基公司,明源云,朝聚眼科,森松国际,沛嘉医疗,海南矿业,湾区发展,玄武云,畅捷通,百果园集团,神州控股,绿城管理控股,网龙,罕王黄金,联易融科技,联邦制药,艾美疫苗,英伟达,药师帮,融创服务,贝康医疗,迈富时,远东宏信,金科服务,阜博集团,零跑汽车,顺丰同城,香港公司治理公会北京代表处"
   },
   {
     "uid": "573679",
@@ -25796,7 +26234,7 @@
         "time": "2025-03-11"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-25"
       },
       {
@@ -25836,7 +26274,7 @@
         "time": "2024-08-15"
       }
     ],
-    "special_companies": "思治企业咨询,新世界发展"
+    "special_companies": "新世界发展,香港公司治理公会北京代表处"
   },
   {
     "uid": "493556",
@@ -29227,6 +29665,61 @@
     "special_companies": ""
   },
   {
+    "uid": "506536",
+    "name": "李润泽",
+    "org_name": "青岛金光紫金创业投资管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资部经理",
+    "department": "",
+    "last_interaction_time": "2024-04-19 15:57:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国建筑",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-04-19",
+        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会"
+      },
+      {
+        "time": "2023-12-12",
+        "meet_title": "中国建筑（601668.SH）线上交流会｜\"2023上市公司路演大会•第五季\""
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-04-19",
+        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会",
+        "duration": 48
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国电力",
+        "time": "2024-07-05"
+      },
+      {
+        "company": "金力永磁",
+        "time": "2024-07-05"
+      },
+      {
+        "company": "ST易事特",
+        "time": "2024-07-05"
+      },
+      {
+        "company": "国元国际",
+        "time": "2023-11-13"
+      },
+      {
+        "company": "招商银行",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": "ST易事特,国元国际,金力永磁"
+  },
+  {
     "uid": "502628",
     "name": "宋震標",
     "org_name": "君临资本有限公司",
@@ -29380,61 +29873,6 @@
       }
     ],
     "special_companies": "中国人寿,光大证券"
-  },
-  {
-    "uid": "506536",
-    "name": "李润泽",
-    "org_name": "青岛金光紫金创业投资管理有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资部经理",
-    "department": "",
-    "last_interaction_time": "2024-04-19 15:57:19",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国建筑",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-04-19",
-        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会"
-      },
-      {
-        "time": "2023-12-12",
-        "meet_title": "中国建筑（601668.SH）线上交流会｜\"2023上市公司路演大会•第五季\""
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-04-19",
-        "meet_title": "中国建筑（601668.SH）2023年度业绩说明会",
-        "duration": 48
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国电力",
-        "time": "2024-07-05"
-      },
-      {
-        "company": "金力永磁",
-        "time": "2024-07-05"
-      },
-      {
-        "company": "ST易事特",
-        "time": "2024-07-05"
-      },
-      {
-        "company": "国元国际",
-        "time": "2023-11-13"
-      },
-      {
-        "company": "招商银行",
-        "time": "2023-03-27"
-      }
-    ],
-    "special_companies": "ST易事特,国元国际,金力永磁"
   },
   {
     "uid": "606568",
@@ -35464,7 +35902,7 @@
         "time": "2025-08-18"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2024-10-10"
       },
       {
@@ -35476,7 +35914,7 @@
         "time": "2023-02-16"
       }
     ],
-    "special_companies": "思治企业咨询"
+    "special_companies": "香港公司治理公会北京代表处"
   },
   {
     "uid": "425345",
@@ -40927,6 +41365,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
+      {
         "company": "中信银行",
         "time": "2025-08-28"
       },
@@ -42041,7 +42483,7 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-04-08"
       },
       {
@@ -42049,7 +42491,7 @@
         "time": "2024-01-12"
       }
     ],
-    "special_companies": "思治企业咨询,香港公司治理公会"
+    "special_companies": "香港公司治理公会,香港公司治理公会北京代表处"
   },
   {
     "uid": "577158",

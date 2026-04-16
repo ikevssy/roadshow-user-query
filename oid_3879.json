@@ -1,5 +1,29 @@
 [
   {
+    "uid": "647504",
+    "name": "执照",
+    "org_name": "庆沃农资",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "统一社会信用代码",
+    "department": "F#*rdbu#h+)",
+    "last_interaction_time": "2026-04-16 17:36:48",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "联邦制药",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "联邦制药（03933.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "582321",
     "name": "张久建",
     "org_name": "永新投资",
@@ -401,30 +425,6 @@
       }
     ],
     "special_companies": "联邦制药"
-  },
-  {
-    "uid": "647504",
-    "name": "陽名",
-    "org_name": "统一社会信用代码",
-    "org_type": null,
-    "cert_type": "个人",
-    "position": "匿类",
-    "department": null,
-    "last_interaction_time": "2026-04-15 23:31:31",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "联邦制药",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-04-15",
-        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "250216",
@@ -3223,6 +3223,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-09"
       },
@@ -5780,7 +5784,7 @@
         "time": "2025-03-06"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-26"
       },
       {
@@ -6900,7 +6904,7 @@
         "time": "2023-02-03"
       }
     ],
-    "special_companies": "JS环球生活,一品红,万利,世茂服务,东方财富直播厅,东软教育,中信证券,中原建业,中国中冶,中国交通建设集团有限公司,中国光大环境,中国春来教育集团,中国民航信息网络,中国波顿,中国燃气,中国电信,中国电力,中国石墨,中国通信服务,中国通号,中国黄金国际,中广核技,中烟香港,中石化冠德,中粮包装,中粮家佳康,中银香港,中集车辆,丸美生物,乐享集团,九方智投控股,亚信科技,交个朋友控股,亿帆医药,伟仕佳杰,信义光能,先瑞达医疗,兖煤澳大利亚,利群股份,力劲科技,力合微,力鸿检验,加科思,华夏视听教育,华润啤酒,华润电力,卓越教育集团,启明医疗,周大福创建,喜相逢集团,复宏汉霖,天玛智控,天能动力,宏信建发,宜明昂科,小鹏汽车-W,康哲药业,康宁医院,建发国际集团,思治企业咨询,敏华控股,方舟健客,日清食品,明源云,易点云,星盛商业,晶门半导体,望尘科技控股有限公司,杰克股份,极光,欧陆通,比亚迪,民银国际研究部,汇通达网络,波司登,澳洲成峰高教,玄武云,环球新材国际,理士国际,申万宏源,百奥家庭互动,百得利,百果园集团,百融智能,石化油服,碧桂园,神威药业,科笛,粉笔,粤丰环保,粤海置地,纳科诺尔,网龙,罕王黄金,美丽田园,美的置业,联邦制药,艾德韦宣集团,艾美疫苗,英恒科技,药师帮,诺辉健康,路演中,量子之歌,长久股份,长江电力,阜博集团,首惠产业金融,香港中旅"
+    "special_companies": "JS环球生活,一品红,万利,世茂服务,东方财富直播厅,东软教育,中信证券,中原建业,中国中冶,中国交通建设集团有限公司,中国光大环境,中国春来教育集团,中国民航信息网络,中国波顿,中国燃气,中国电信,中国电力,中国石墨,中国通信服务,中国通号,中国黄金国际,中广核技,中烟香港,中石化冠德,中粮包装,中粮家佳康,中银香港,中集车辆,丸美生物,乐享集团,九方智投控股,亚信科技,交个朋友控股,亿帆医药,伟仕佳杰,信义光能,先瑞达医疗,兖煤澳大利亚,利群股份,力劲科技,力合微,力鸿检验,加科思,华夏视听教育,华润啤酒,华润电力,卓越教育集团,启明医疗,周大福创建,喜相逢集团,复宏汉霖,天玛智控,天能动力,宏信建发,宜明昂科,小鹏汽车-W,康哲药业,康宁医院,建发国际集团,敏华控股,方舟健客,日清食品,明源云,易点云,星盛商业,晶门半导体,望尘科技控股有限公司,杰克股份,极光,欧陆通,比亚迪,民银国际研究部,汇通达网络,波司登,澳洲成峰高教,玄武云,环球新材国际,理士国际,申万宏源,百奥家庭互动,百得利,百果园集团,百融智能,石化油服,碧桂园,神威药业,科笛,粉笔,粤丰环保,粤海置地,纳科诺尔,网龙,罕王黄金,美丽田园,美的置业,联邦制药,艾德韦宣集团,艾美疫苗,英恒科技,药师帮,诺辉健康,路演中,量子之歌,长久股份,长江电力,阜博集团,首惠产业金融,香港中旅,香港公司治理公会北京代表处"
   },
   {
     "uid": "645836",
@@ -8475,6 +8479,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
       {
         "company": "中国有色矿业",
         "time": "2026-03-20"
@@ -12808,89 +12816,6 @@
     "special_companies": "联邦制药"
   },
   {
-    "uid": "4537",
-    "name": "胡博新",
-    "org_name": "东兴证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "首席医药分析师",
-    "department": "",
-    "last_interaction_time": "2026-03-25 16:00:11",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "联邦制药",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-25",
-        "meet_title": "联邦制药（03933.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-18",
-        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "联邦制药（3933.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "联邦制药（3933.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 5,
-    "attend_records": [
-      {
-        "time": "2026-03-25",
-        "meet_title": "联邦制药（03933.HK）2025年度业绩发布会",
-        "duration": 84
-      },
-      {
-        "time": "2025-08-29",
-        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会",
-        "duration": 88
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "联邦制药（3933.HK）2024年中期业绩发布会",
-        "duration": 80
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "联邦制药（3933.HK）2023年度业绩发布会",
-        "duration": 85
-      },
-      {
-        "time": "2023-08-30",
-        "meet_title": "联邦制药（3933.HK）2023年中期业绩发布会",
-        "duration": 73
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "康臣药业",
-        "time": "2026-03-26"
-      },
-      {
-        "company": "康基医疗",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "维亚生物",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2025-08-18"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "348653",
     "name": "王骞",
     "org_name": "工银资管（全球）有限公司",
@@ -13082,6 +13007,89 @@
     "special_companies": "小米集团-W,小鹏汽车-W,快手-W,百果园集团,网龙,美的置业,腾讯控股,药明生物,路演中"
   },
   {
+    "uid": "4537",
+    "name": "胡博新",
+    "org_name": "东兴证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "首席医药分析师",
+    "department": "",
+    "last_interaction_time": "2026-03-25 16:00:11",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "联邦制药",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "联邦制药（03933.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-18",
+        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "联邦制药（3933.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "联邦制药（3933.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 5,
+    "attend_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "联邦制药（03933.HK）2025年度业绩发布会",
+        "duration": 84
+      },
+      {
+        "time": "2025-08-29",
+        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会",
+        "duration": 88
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "联邦制药（3933.HK）2024年中期业绩发布会",
+        "duration": 80
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "联邦制药（3933.HK）2023年度业绩发布会",
+        "duration": 85
+      },
+      {
+        "time": "2023-08-30",
+        "meet_title": "联邦制药（3933.HK）2023年中期业绩发布会",
+        "duration": 73
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "康臣药业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "康基医疗",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-08-18"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "645979",
     "name": "Leo Chen",
     "org_name": "香港上海汇丰银行有限公司",
@@ -13105,45 +13113,6 @@
         "time": "2026-03-25",
         "meet_title": "联邦制药（03933.HK）2025年度业绩发布会",
         "duration": 31
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "636880",
-    "name": "Gary Chau",
-    "org_name": "敏哲证券有限公司",
-    "org_type": null,
-    "cert_type": "服务机构",
-    "position": "Responsible Officer",
-    "department": "",
-    "last_interaction_time": "2026-03-25 15:59:26",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "联邦制药",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "联邦制药（03933.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-19",
-        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-25",
-        "meet_title": "联邦制药（03933.HK）2025年度业绩发布会",
-        "duration": 66
-      },
-      {
-        "time": "2025-08-29",
-        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会",
-        "duration": 111
       }
     ],
     "is_first_attend": true,
@@ -13202,6 +13171,45 @@
         "time": "2024-03-27",
         "meet_title": "联邦制药（3933.HK）2023年度业绩发布会",
         "duration": 77
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "636880",
+    "name": "Gary Chau",
+    "org_name": "敏哲证券有限公司",
+    "org_type": null,
+    "cert_type": "服务机构",
+    "position": "Responsible Officer",
+    "department": "",
+    "last_interaction_time": "2026-03-25 15:59:26",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "联邦制药",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "联邦制药（03933.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-19",
+        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "联邦制药（03933.HK）2025年度业绩发布会",
+        "duration": 66
+      },
+      {
+        "time": "2025-08-29",
+        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会",
+        "duration": 111
       }
     ],
     "is_first_attend": true,
@@ -18780,6 +18788,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "博腾股份",
+        "time": "2026-04-16"
+      },
+      {
         "company": "中国同辐",
         "time": "2025-06-02"
       }
@@ -18924,13 +18936,13 @@
     "special_companies": ""
   },
   {
-    "uid": "645798",
-    "name": "翟雪",
-    "org_name": "泰康资产管理有限责任公司",
-    "org_type": "保险资产管理公司",
+    "uid": "277182",
+    "name": "刘潇",
+    "org_name": "华安基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
     "cert_type": "机构投资者",
-    "position": "股票研究经理",
-    "department": "研究部",
+    "position": "基金经理",
+    "department": "基金投资部",
     "last_interaction_time": "2026-03-24 20:04:24",
     "last_interaction_behavior": "报名",
     "interaction_company": "联邦制药",
@@ -18948,13 +18960,13 @@
     "special_companies": ""
   },
   {
-    "uid": "277182",
-    "name": "刘潇",
-    "org_name": "华安基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
+    "uid": "645798",
+    "name": "翟雪",
+    "org_name": "泰康资产管理有限责任公司",
+    "org_type": "保险资产管理公司",
     "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "基金投资部",
+    "position": "股票研究经理",
+    "department": "研究部",
     "last_interaction_time": "2026-03-24 20:04:24",
     "last_interaction_behavior": "报名",
     "interaction_company": "联邦制药",
@@ -23074,7 +23086,7 @@
         "time": "2025-05-13"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-05-09"
       }
     ],
@@ -27456,7 +27468,7 @@
         "time": "2026-03-25"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2026-03-23"
       },
       {
@@ -30415,41 +30427,6 @@
     "special_companies": "珀莱雅,联邦制药"
   },
   {
-    "uid": "277363",
-    "name": "Jenny Hu",
-    "org_name": "天元资本有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Portfolio Manager",
-    "department": "",
-    "last_interaction_time": "2025-08-29 15:55:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "联邦制药",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-29",
-        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-29",
-        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会",
-        "duration": 92
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "华润医药",
-        "time": "2023-03-30"
-      }
-    ],
-    "special_companies": "华润医药,药明生物"
-  },
-  {
     "uid": "583609",
     "name": "刘隹川",
     "org_name": "平安银行股份有限公司",
@@ -30546,6 +30523,41 @@
     "special_companies": "联邦制药"
   },
   {
+    "uid": "277363",
+    "name": "Jenny Hu",
+    "org_name": "天元资本有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Portfolio Manager",
+    "department": "",
+    "last_interaction_time": "2025-08-29 15:55:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "联邦制药",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-29",
+        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-29",
+        "meet_title": "联邦制药（03933.HK）2025年中期业绩发布会",
+        "duration": 92
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华润医药",
+        "time": "2023-03-30"
+      }
+    ],
+    "special_companies": "华润医药,药明生物"
+  },
+  {
     "uid": "607961",
     "name": "陈逸飞",
     "org_name": "中信证券股份有限公司研究所",
@@ -30640,6 +30652,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
       {
         "company": "中信银行",
         "time": "2025-08-28"
@@ -38808,7 +38824,7 @@
         "time": "2025-05-06"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-05-06"
       },
       {
@@ -40835,6 +40851,46 @@
     "special_companies": "中国人寿,中国金茂,国证国际证券(香港)研究所,建发国际集团,新希望服务,星盛商业,百融智能"
   },
   {
+    "uid": "633368",
+    "name": "邢志刚",
+    "org_name": "宁波梅山保税港区宽旭投资管理有限公司",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "董事长 创始人",
+    "department": "",
+    "last_interaction_time": "2025-03-25 16:01:02",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "联邦制药",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会",
+        "duration": 75
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "联邦制药",
+        "time": "2025-03-25"
+      }
+    ],
+    "special_companies": "联邦制药"
+  },
+  {
     "uid": "280100",
     "name": "张伟明",
     "org_name": "青骊投资管理(上海)有限公司",
@@ -40874,46 +40930,6 @@
       {
         "company": "联邦制药",
         "time": "2025-03-24"
-      }
-    ],
-    "special_companies": "联邦制药"
-  },
-  {
-    "uid": "633368",
-    "name": "邢志刚",
-    "org_name": "宁波梅山保税港区宽旭投资管理有限公司",
-    "org_type": null,
-    "cert_type": "机构投资者",
-    "position": "董事长 创始人",
-    "department": "",
-    "last_interaction_time": "2025-03-25 16:01:02",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "联邦制药",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "联邦制药（03933.HK）2024年度业绩发布会",
-        "duration": 75
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "联邦制药",
-        "time": "2025-03-25"
       }
     ],
     "special_companies": "联邦制药"
@@ -42844,11 +42860,11 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-09-11"
       }
     ],
-    "special_companies": "丽珠集团,思治企业咨询"
+    "special_companies": "丽珠集团,香港公司治理公会北京代表处"
   },
   {
     "uid": "270177",
@@ -45270,7 +45286,7 @@
         "time": "2025-08-11"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-13"
       },
       {
@@ -45314,7 +45330,7 @@
         "time": "2025-01-21"
       }
     ],
-    "special_companies": "思治企业咨询,艾美疫苗"
+    "special_companies": "艾美疫苗,香港公司治理公会北京代表处"
   },
   {
     "uid": "632887",
@@ -45821,7 +45837,7 @@
         "time": "2025-03-18"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-03-18"
       },
       {
@@ -45845,7 +45861,7 @@
         "time": "2023-03-23"
       }
     ],
-    "special_companies": "中国船舶租赁,康基医疗,思治企业咨询,汇通达网络,联邦制药,艾美疫苗,连连数字"
+    "special_companies": "中国船舶租赁,康基医疗,汇通达网络,联邦制药,艾美疫苗,连连数字,香港公司治理公会北京代表处"
   },
   {
     "uid": "275941",
@@ -48751,7 +48767,7 @@
         "time": "2024-10-17"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2024-10-17"
       },
       {
@@ -51285,36 +51301,6 @@
     "special_companies": "协合新能源,新城控股"
   },
   {
-    "uid": "612576",
-    "name": "WILLIS HU",
-    "org_name": "Sio Capital Management, LLC",
-    "org_type": null,
-    "cert_type": "机构投资者",
-    "position": "RESEARCH ANALYST",
-    "department": "RESEARCH",
-    "last_interaction_time": "2024-08-30 15:31:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "联邦制药",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-27",
-        "meet_title": "联邦制药（3933.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-30",
-        "meet_title": "联邦制药（3933.HK）2024年中期业绩发布会",
-        "duration": 71
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "403663",
     "name": "蔡云平",
     "org_name": "深圳财沣投资有限公司",
@@ -51369,6 +51355,36 @@
         "time": "2023-02-28"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "612576",
+    "name": "WILLIS HU",
+    "org_name": "Sio Capital Management, LLC",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "RESEARCH ANALYST",
+    "department": "RESEARCH",
+    "last_interaction_time": "2024-08-30 15:31:57",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "联邦制药",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-27",
+        "meet_title": "联邦制药（3933.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-30",
+        "meet_title": "联邦制药（3933.HK）2024年中期业绩发布会",
+        "duration": 71
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -55804,7 +55820,7 @@
         "time": "2024-12-16"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2024-10-27"
       },
       {
@@ -56256,7 +56272,7 @@
         "time": "2023-01-08"
       }
     ],
-    "special_companies": "万物云,万物新生（爱回收）,世茂服务,中国圣牧,中国黄金国际,中广核新能源,中集安瑞科,五谷磨房,亚信科技,亿胜生物科技,兖煤澳大利亚,兴科蓉医药,力劲科技,力鸿检验,加科思,华润电力,协合新能源,卓越商企服务,合景悠活,和铂医药,国元国际,国泰君安国际,国证国际证券(香港)研究所,复星国际,宏华集团,康宁医院,思治企业咨询,新世界发展,新城悦服务,星盛商业,映宇宙,晶门半导体,畅捷通,百融智能,移卡,绿城管理控股,英恒科技,融创服务,贝康医疗,远东发展,金茂服务,锦欣生殖"
+    "special_companies": "万物云,万物新生（爱回收）,世茂服务,中国圣牧,中国黄金国际,中广核新能源,中集安瑞科,五谷磨房,亚信科技,亿胜生物科技,兖煤澳大利亚,兴科蓉医药,力劲科技,力鸿检验,加科思,华润电力,协合新能源,卓越商企服务,合景悠活,和铂医药,国元国际,国泰君安国际,国证国际证券(香港)研究所,复星国际,宏华集团,康宁医院,新世界发展,新城悦服务,星盛商业,映宇宙,晶门半导体,畅捷通,百融智能,移卡,绿城管理控股,英恒科技,融创服务,贝康医疗,远东发展,金茂服务,锦欣生殖,香港公司治理公会北京代表处"
   },
   {
     "uid": "447215",
@@ -56425,7 +56441,7 @@
         "time": "2024-10-18"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2024-10-18"
       },
       {
@@ -56445,7 +56461,7 @@
         "time": "2024-06-18"
       }
     ],
-    "special_companies": "思治企业咨询,美的置业"
+    "special_companies": "美的置业,香港公司治理公会北京代表处"
   },
   {
     "uid": "610831",
@@ -65597,7 +65613,7 @@
         "time": "2025-02-13"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-13"
       },
       {
@@ -66381,7 +66397,7 @@
         "time": "2023-02-21"
       }
     ],
-    "special_companies": "21世纪教育,万物云,世茂服务,东方证券,中信证券,中化化肥,中国中药,中国交建,中国光大绿色环保,中国动向,中国天瑞水泥,中国太保,中国建筑,中国建筑国际,中国心连心化肥,中国春来教育集团,中国燃气,中国船舶租赁,中国通信服务,中广核技,中广核新能源,中烟香港,中粮包装,中集安瑞科,中集车辆,云康集团,亚信科技,交个朋友控股,亿胜生物科技,众安在线,众安集团,优趣汇控股,伟仕佳杰,佛朗斯股份,信义光能,信義玻璃,光大证券,冠盛股份,力劲科技,华森制药,华润医药,协合新能源,卓越教育集团,博腾股份,呷哺呷哺,复星国际,宏信建发,宜明昂科,小米集团-W,小鹏汽车-W,康基医疗,康宁医院,康臣药业,建发国际集团,建发物业,心玮医疗,思治企业咨询,拼多多,敏华控股,新城发展,新希望服务,新鸿基公司,明源云,朝聚眼科,森松国际,沛嘉医疗,海南矿业,湾区发展,玄武云,畅捷通,百果园集团,神州控股,绿城管理控股,网龙,罕王黄金,联易融科技,联邦制药,艾美疫苗,英伟达,药师帮,融创服务,贝康医疗,迈富时,远东宏信,金科服务,阜博集团,零跑汽车,顺丰同城"
+    "special_companies": "21世纪教育,万物云,世茂服务,东方证券,中信证券,中化化肥,中国中药,中国交建,中国光大绿色环保,中国动向,中国天瑞水泥,中国太保,中国建筑,中国建筑国际,中国心连心化肥,中国春来教育集团,中国燃气,中国船舶租赁,中国通信服务,中广核技,中广核新能源,中烟香港,中粮包装,中集安瑞科,中集车辆,云康集团,亚信科技,交个朋友控股,亿胜生物科技,众安在线,众安集团,优趣汇控股,伟仕佳杰,佛朗斯股份,信义光能,信義玻璃,光大证券,冠盛股份,力劲科技,华森制药,华润医药,协合新能源,卓越教育集团,博腾股份,呷哺呷哺,复星国际,宏信建发,宜明昂科,小米集团-W,小鹏汽车-W,康基医疗,康宁医院,康臣药业,建发国际集团,建发物业,心玮医疗,拼多多,敏华控股,新城发展,新希望服务,新鸿基公司,明源云,朝聚眼科,森松国际,沛嘉医疗,海南矿业,湾区发展,玄武云,畅捷通,百果园集团,神州控股,绿城管理控股,网龙,罕王黄金,联易融科技,联邦制药,艾美疫苗,英伟达,药师帮,融创服务,贝康医疗,迈富时,远东宏信,金科服务,阜博集团,零跑汽车,顺丰同城,香港公司治理公会北京代表处"
   },
   {
     "uid": "583430",
