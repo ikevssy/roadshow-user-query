@@ -1,5 +1,49 @@
 [
   {
+    "uid": "34576",
+    "name": "卜钒箭",
+    "org_name": "京东金融集团",
+    "org_type": "金融科技软件技术服务",
+    "cert_type": "个人",
+    "position": "高级经理",
+    "department": "众筹业务部",
+    "last_interaction_time": "2026-04-16 14:35:54",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "中伟股份",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "金风科技",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中伟股份",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "牧原股份",
+        "time": "2026-03-09"
+      },
+      {
+        "company": "锦欣生殖",
+        "time": "2025-05-21"
+      },
+      {
+        "company": "神州信息",
+        "time": "2025-05-21"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "576807",
     "name": "周梁",
     "org_name": "物产中大集团投资有限公司",
@@ -2321,7 +2365,7 @@
         "time": "2025-02-25"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2024-10-10"
       },
       {
@@ -2341,6 +2385,6 @@
         "time": "2024-08-19"
       }
     ],
-    "special_companies": "中国建筑,圣贝拉,思治企业咨询,新希望服务,路演中"
+    "special_companies": "中国建筑,圣贝拉,新希望服务,路演中,香港公司治理公会北京代表处"
   }
 ]

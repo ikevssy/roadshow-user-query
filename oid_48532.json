@@ -6454,127 +6454,6 @@
     "special_companies": "万物云,碧桂园服务,绿城服务"
   },
   {
-    "uid": "43892",
-    "name": "何潇",
-    "org_name": "杭州静默资产管理有限公司",
-    "org_type": "未分类",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2025-08-26 10:01:42",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "融创服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-22",
-        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "招商银行",
-        "time": "2026-03-30"
-      },
-      {
-        "company": "IGG INC",
-        "time": "2026-03-26"
-      },
-      {
-        "company": "腾讯音乐",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "星巴克",
-        "time": "2026-01-28"
-      },
-      {
-        "company": "Zoom",
-        "time": "2025-08-27"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "特海国际",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "华润医药",
-        "time": "2025-08-26"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2025-05-15"
-      },
-      {
-        "company": "网易",
-        "time": "2025-05-15"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2024-08-26"
-      },
-      {
-        "company": "国证国际证券(香港)研究所",
-        "time": "2024-04-11"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-03-22"
-      },
-      {
-        "company": "华纳音乐",
-        "time": "2024-02-27"
-      },
-      {
-        "company": "江南布衣",
-        "time": "2024-02-27"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2023-08-25"
-      }
-    ],
-    "special_companies": "国证国际证券(香港)研究所,滨江服务"
-  },
-  {
     "uid": "493247",
     "name": "徐得尊",
     "org_name": "民生证券股份有限公司",
@@ -6754,6 +6633,127 @@
       }
     ],
     "special_companies": "新城悦服务,新希望服务,绿城服务,绿城管理控股"
+  },
+  {
+    "uid": "43892",
+    "name": "何潇",
+    "org_name": "杭州静默资产管理有限公司",
+    "org_type": "未分类",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2025-08-26 10:01:42",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "融创服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-22",
+        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "招商银行",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "IGG INC",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "星巴克",
+        "time": "2026-01-28"
+      },
+      {
+        "company": "Zoom",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "特海国际",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "华润医药",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-05-15"
+      },
+      {
+        "company": "网易",
+        "time": "2025-05-15"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "国证国际证券(香港)研究所",
+        "time": "2024-04-11"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "华纳音乐",
+        "time": "2024-02-27"
+      },
+      {
+        "company": "江南布衣",
+        "time": "2024-02-27"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2023-08-25"
+      }
+    ],
+    "special_companies": "国证国际证券(香港)研究所,滨江服务"
   },
   {
     "uid": "340713",
@@ -7487,93 +7487,6 @@
     "special_companies": "新世界发展"
   },
   {
-    "uid": "282787",
-    "name": "林正衡",
-    "org_name": "华泰证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "房地产高级研究员",
-    "department": "研究所",
-    "last_interaction_time": "2025-08-26 10:01:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "融创服务",
-    "apply_count": 6,
-    "apply_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-20",
-        "meet_title": "融创服务（01516.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-21",
-        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-20",
-        "meet_title": "融创服务（01516.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-21",
-        "meet_title": "融创服务（01516.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-17",
-        "meet_title": "融创服务（01516.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2025-08-26",
-        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会",
-        "duration": 46
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "融创服务（01516.HK）2024年度业绩发布会",
-        "duration": 34
-      },
-      {
-        "time": "2024-08-27",
-        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会",
-        "duration": 45
-      },
-      {
-        "time": "2024-08-27",
-        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会",
-        "duration": 56
-      },
-      {
-        "time": "2023-03-20",
-        "meet_title": "融创服务（01516.HK）2022年度业绩发布会",
-        "duration": 89
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "世茂服务",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-21"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "251671",
     "name": "刘清海",
     "org_name": "东北证券股份有限公司上海证券自营分公司",
@@ -7829,6 +7742,93 @@
       }
     ],
     "special_companies": "中原建业,中国交通建设集团有限公司,中国建筑,中国海外宏洋集团,建发国际集团,建发物业,招商蛇口,新鸿基公司,滨江服务,碧桂园,碧桂园服务,绿城中国,绿城服务,绿城管理控股,越秀地产"
+  },
+  {
+    "uid": "282787",
+    "name": "林正衡",
+    "org_name": "华泰证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "房地产高级研究员",
+    "department": "研究所",
+    "last_interaction_time": "2025-08-26 10:01:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "融创服务",
+    "apply_count": 6,
+    "apply_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-20",
+        "meet_title": "融创服务（01516.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-21",
+        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "融创服务（01516.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-21",
+        "meet_title": "融创服务（01516.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-17",
+        "meet_title": "融创服务（01516.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2025-08-26",
+        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会",
+        "duration": 46
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "融创服务（01516.HK）2024年度业绩发布会",
+        "duration": 34
+      },
+      {
+        "time": "2024-08-27",
+        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会",
+        "duration": 45
+      },
+      {
+        "time": "2024-08-27",
+        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会",
+        "duration": 56
+      },
+      {
+        "time": "2023-03-20",
+        "meet_title": "融创服务（01516.HK）2022年度业绩发布会",
+        "duration": 89
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "世茂服务",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-21"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "437482",
@@ -9841,77 +9841,6 @@
     "special_companies": "万物云,保利物业,信義玻璃"
   },
   {
-    "uid": "285139",
-    "name": "李灿林",
-    "org_name": "广西桥河投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "",
-    "last_interaction_time": "2025-08-26 10:00:59",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "融创服务",
-    "apply_count": 5,
-    "apply_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2024-08-22",
-        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-24",
-        "meet_title": "融创服务（01516.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-20",
-        "meet_title": "融创服务（01516.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-16",
-        "meet_title": "融创服务（01516.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 5,
-    "attend_records": [
-      {
-        "time": "2025-08-26",
-        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会",
-        "duration": 46
-      },
-      {
-        "time": "2024-08-27",
-        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会",
-        "duration": 57
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "融创服务（01516.HK）2023年度业绩发布会",
-        "duration": 49
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "融创服务（01516.HK）2023年中期业绩发布会",
-        "duration": 61
-      },
-      {
-        "time": "2023-03-20",
-        "meet_title": "融创服务（01516.HK）2022年度业绩发布会",
-        "duration": 93
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "敏华控股",
-        "time": "2025-05-11"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "334180",
     "name": "许佳璐",
     "org_name": "中银国际证券股份有限公司",
@@ -10080,6 +10009,77 @@
       }
     ],
     "special_companies": "建发国际集团,新希望服务,滨江服务,美的置业"
+  },
+  {
+    "uid": "285139",
+    "name": "李灿林",
+    "org_name": "广西桥河投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2025-08-26 10:00:59",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "融创服务",
+    "apply_count": 5,
+    "apply_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2024-08-22",
+        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-24",
+        "meet_title": "融创服务（01516.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-20",
+        "meet_title": "融创服务（01516.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-16",
+        "meet_title": "融创服务（01516.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 5,
+    "attend_records": [
+      {
+        "time": "2025-08-26",
+        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会",
+        "duration": 46
+      },
+      {
+        "time": "2024-08-27",
+        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会",
+        "duration": 57
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "融创服务（01516.HK）2023年度业绩发布会",
+        "duration": 49
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "融创服务（01516.HK）2023年中期业绩发布会",
+        "duration": 61
+      },
+      {
+        "time": "2023-03-20",
+        "meet_title": "融创服务（01516.HK）2022年度业绩发布会",
+        "duration": 93
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "敏华控股",
+        "time": "2025-05-11"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "608351",
@@ -10555,95 +10555,6 @@
     "special_companies": "中海物业,保利物业,小米集团-W,建发国际集团,建发物业,拼多多,新城发展,新城控股,碧桂园服务,绿城管理控股,腾讯控股,融创服务,金科服务"
   },
   {
-    "uid": "606071",
-    "name": "陈洋洋",
-    "org_name": "耕霁(上海)投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
-    "position": "助理",
-    "department": "",
-    "last_interaction_time": "2025-08-26 10:00:58",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "融创服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-21",
-        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-26",
-        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会",
-        "duration": 46
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "493556",
-    "name": "張立",
-    "org_name": "香港偉祺科技公司",
-    "org_type": "一般企业",
-    "cert_type": "媒体",
-    "position": "研究員",
-    "department": "研究部",
-    "last_interaction_time": "2025-08-26 10:00:58",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "融创服务",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-21",
-        "meet_title": "融创服务（01516.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-21",
-        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-20",
-        "meet_title": "融创服务（01516.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-26",
-        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会",
-        "duration": 46
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "京东健康",
-        "time": "2026-03-04"
-      },
-      {
-        "company": "麦当劳",
-        "time": "2025-11-02"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-20"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "264985",
     "name": "郭俊炜",
     "org_name": "方圆天成资产管理（深圳）有限公司",
@@ -10849,6 +10760,95 @@
     "special_companies": "万物云,碧桂园服务,药明生物"
   },
   {
+    "uid": "606071",
+    "name": "陈洋洋",
+    "org_name": "耕霁(上海)投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "助理",
+    "department": "",
+    "last_interaction_time": "2025-08-26 10:00:58",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "融创服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-21",
+        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-26",
+        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会",
+        "duration": 46
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "493556",
+    "name": "張立",
+    "org_name": "香港偉祺科技公司",
+    "org_type": "一般企业",
+    "cert_type": "媒体",
+    "position": "研究員",
+    "department": "研究部",
+    "last_interaction_time": "2025-08-26 10:00:58",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "融创服务",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-21",
+        "meet_title": "融创服务（01516.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-21",
+        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "融创服务（01516.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-26",
+        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会",
+        "duration": 46
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "京东健康",
+        "time": "2026-03-04"
+      },
+      {
+        "company": "麦当劳",
+        "time": "2025-11-02"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-20"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "352430",
     "name": "宋子谦",
     "org_name": "中物智库",
@@ -11046,6 +11046,62 @@
     "special_companies": "中国海外宏洋集团,保利物业,建发国际集团,碧桂园服务,绿城中国,绿城管理控股,融创服务"
   },
   {
+    "uid": "434433",
+    "name": "辛恬",
+    "org_name": "广发证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "房地产研究员",
+    "department": "发展研究中心",
+    "last_interaction_time": "2025-08-26 10:00:57",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "融创服务",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-08-21",
+        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "融创服务（01516.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-08-26",
+        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会",
+        "duration": 46
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "融创服务（01516.HK）2023年度业绩发布会",
+        "duration": 50
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "建发物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "美的置业",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "573218",
     "name": "周焱",
     "org_name": "亿翰股份",
@@ -11150,62 +11206,6 @@
       }
     ],
     "special_companies": "合景悠活,新城悦服务,新希望服务,碧桂园服务,融创服务,远洋服务"
-  },
-  {
-    "uid": "434433",
-    "name": "辛恬",
-    "org_name": "广发证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "房地产研究员",
-    "department": "发展研究中心",
-    "last_interaction_time": "2025-08-26 10:00:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "融创服务",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-08-21",
-        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "融创服务（01516.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-08-26",
-        "meet_title": "融创服务（01516.HK）2025年中期业绩发布会",
-        "duration": 46
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "融创服务（01516.HK）2023年度业绩发布会",
-        "duration": 50
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "建发物业",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-03-26"
-      },
-      {
-        "company": "美的置业",
-        "time": "2023-03-27"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "632534",
@@ -14812,7 +14812,7 @@
         "time": "2025-03-06"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-26"
       },
       {
@@ -15932,7 +15932,7 @@
         "time": "2023-02-03"
       }
     ],
-    "special_companies": "JS环球生活,一品红,万利,世茂服务,东方财富直播厅,东软教育,中信证券,中原建业,中国中冶,中国交通建设集团有限公司,中国光大环境,中国春来教育集团,中国民航信息网络,中国波顿,中国燃气,中国电信,中国电力,中国石墨,中国通信服务,中国通号,中国黄金国际,中广核技,中烟香港,中石化冠德,中粮包装,中粮家佳康,中银香港,中集车辆,丸美生物,乐享集团,九方智投控股,亚信科技,交个朋友控股,亿帆医药,伟仕佳杰,信义光能,先瑞达医疗,兖煤澳大利亚,利群股份,力劲科技,力合微,力鸿检验,加科思,华夏视听教育,华润啤酒,华润电力,卓越教育集团,启明医疗,周大福创建,喜相逢集团,复宏汉霖,天玛智控,天能动力,宏信建发,宜明昂科,小鹏汽车-W,康哲药业,康宁医院,建发国际集团,思治企业咨询,敏华控股,方舟健客,日清食品,明源云,易点云,星盛商业,晶门半导体,望尘科技控股有限公司,杰克股份,极光,欧陆通,比亚迪,民银国际研究部,汇通达网络,波司登,澳洲成峰高教,玄武云,环球新材国际,理士国际,申万宏源,百奥家庭互动,百得利,百果园集团,百融智能,石化油服,碧桂园,神威药业,科笛,粉笔,粤丰环保,粤海置地,纳科诺尔,网龙,罕王黄金,美丽田园,美的置业,联邦制药,艾德韦宣集团,艾美疫苗,英恒科技,药师帮,诺辉健康,路演中,量子之歌,长久股份,长江电力,阜博集团,首惠产业金融,香港中旅"
+    "special_companies": "JS环球生活,一品红,万利,世茂服务,东方财富直播厅,东软教育,中信证券,中原建业,中国中冶,中国交通建设集团有限公司,中国光大环境,中国春来教育集团,中国民航信息网络,中国波顿,中国燃气,中国电信,中国电力,中国石墨,中国通信服务,中国通号,中国黄金国际,中广核技,中烟香港,中石化冠德,中粮包装,中粮家佳康,中银香港,中集车辆,丸美生物,乐享集团,九方智投控股,亚信科技,交个朋友控股,亿帆医药,伟仕佳杰,信义光能,先瑞达医疗,兖煤澳大利亚,利群股份,力劲科技,力合微,力鸿检验,加科思,华夏视听教育,华润啤酒,华润电力,卓越教育集团,启明医疗,周大福创建,喜相逢集团,复宏汉霖,天玛智控,天能动力,宏信建发,宜明昂科,小鹏汽车-W,康哲药业,康宁医院,建发国际集团,敏华控股,方舟健客,日清食品,明源云,易点云,星盛商业,晶门半导体,望尘科技控股有限公司,杰克股份,极光,欧陆通,比亚迪,民银国际研究部,汇通达网络,波司登,澳洲成峰高教,玄武云,环球新材国际,理士国际,申万宏源,百奥家庭互动,百得利,百果园集团,百融智能,石化油服,碧桂园,神威药业,科笛,粉笔,粤丰环保,粤海置地,纳科诺尔,网龙,罕王黄金,美丽田园,美的置业,联邦制药,艾德韦宣集团,艾美疫苗,英恒科技,药师帮,诺辉健康,路演中,量子之歌,长久股份,长江电力,阜博集团,首惠产业金融,香港中旅,香港公司治理公会北京代表处"
   },
   {
     "uid": "251680",
@@ -17316,7 +17316,7 @@
         "time": "2024-12-16"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2024-10-27"
       },
       {
@@ -17768,7 +17768,7 @@
         "time": "2023-01-08"
       }
     ],
-    "special_companies": "万物云,万物新生（爱回收）,世茂服务,中国圣牧,中国黄金国际,中广核新能源,中集安瑞科,五谷磨房,亚信科技,亿胜生物科技,兖煤澳大利亚,兴科蓉医药,力劲科技,力鸿检验,加科思,华润电力,协合新能源,卓越商企服务,合景悠活,和铂医药,国元国际,国泰君安国际,国证国际证券(香港)研究所,复星国际,宏华集团,康宁医院,思治企业咨询,新世界发展,新城悦服务,星盛商业,映宇宙,晶门半导体,畅捷通,百融智能,移卡,绿城管理控股,英恒科技,融创服务,贝康医疗,远东发展,金茂服务,锦欣生殖"
+    "special_companies": "万物云,万物新生（爱回收）,世茂服务,中国圣牧,中国黄金国际,中广核新能源,中集安瑞科,五谷磨房,亚信科技,亿胜生物科技,兖煤澳大利亚,兴科蓉医药,力劲科技,力鸿检验,加科思,华润电力,协合新能源,卓越商企服务,合景悠活,和铂医药,国元国际,国泰君安国际,国证国际证券(香港)研究所,复星国际,宏华集团,康宁医院,新世界发展,新城悦服务,星盛商业,映宇宙,晶门半导体,畅捷通,百融智能,移卡,绿城管理控股,英恒科技,融创服务,贝康医疗,远东发展,金茂服务,锦欣生殖,香港公司治理公会北京代表处"
   },
   {
     "uid": "10138",
@@ -24808,6 +24808,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
+      {
         "company": "中国有色矿业",
         "time": "2026-03-20"
       },
@@ -25783,7 +25787,7 @@
         "time": "2024-10-17"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2024-10-17"
       },
       {
@@ -26825,36 +26829,6 @@
     "special_companies": "万物云,中国海外宏洋集团,合景悠活,合景泰富集团,宝龙商业,建业地产,建发国际集团,建发物业,招商蛇口,新希望服务,星盛商业,深圳控股,碧桂园,绿城中国,绿城管理控股,绿景中国地产,美的置业,融创服务"
   },
   {
-    "uid": "348733",
-    "name": "盖文杰",
-    "org_name": "上海光控浦燕股权投资管理有限公司",
-    "org_type": "金融控股集团",
-    "cert_type": "机构投资者",
-    "position": "Vice General Manager",
-    "department": "Everbright Swift",
-    "last_interaction_time": "2025-03-25 10:03:19",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "融创服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "融创服务（01516.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "融创服务（01516.HK）2024年度业绩发布会",
-        "duration": 58
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "495864",
     "name": "李雨襄",
     "org_name": "青岛海月基金管理有限公司",
@@ -27289,6 +27263,36 @@
       }
     ],
     "special_companies": "万物云,上海医药,世茂服务,东方财富直播厅,中广核技,中烟香港,中粮包装,九典制药,交个朋友控股,亿胜生物科技,兖煤澳大利亚,华安医药,华森制药,华润医疗,华润医药,卓越商企服务,国证国际证券(香港)研究所,宏信建发,宝龙商业,广誉远,招商局商业房托,招商蛇口,敏华控股,新希望服务,新鸿基公司,星盛商业,永升服务,江南布衣,海南矿业,深高速,百果园集团,绿城服务,美的集团,老百姓,药师帮,越秀服务,金科服务,雅生活服务,顺丰同城"
+  },
+  {
+    "uid": "348733",
+    "name": "盖文杰",
+    "org_name": "上海光控浦燕股权投资管理有限公司",
+    "org_type": "金融控股集团",
+    "cert_type": "机构投资者",
+    "position": "Vice General Manager",
+    "department": "Everbright Swift",
+    "last_interaction_time": "2025-03-25 10:03:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "融创服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "融创服务（01516.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "融创服务（01516.HK）2024年度业绩发布会",
+        "duration": 58
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "607996",
@@ -29117,6 +29121,59 @@
     "special_companies": "万物云,上海实业控股,建发国际集团,建发物业,招商局商业房托,招商蛇口,新鸿基公司,美的置业"
   },
   {
+    "uid": "279497",
+    "name": "马欣",
+    "org_name": "上海盘京投资管理中心（有限合伙）",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究部分析师",
+    "department": "",
+    "last_interaction_time": "2025-03-25 10:00:52",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "融创服务",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2025-03-24",
+        "meet_title": "融创服务（01516.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-26",
+        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-15",
+        "meet_title": "融创服务（01516.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "融创服务（01516.HK）2024年度业绩发布会",
+        "duration": 56
+      },
+      {
+        "time": "2024-08-27",
+        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会",
+        "duration": 11
+      },
+      {
+        "time": "2023-03-20",
+        "meet_title": "融创服务（01516.HK）2022年度业绩发布会",
+        "duration": 7
+      },
+      {
+        "time": "2023-03-20",
+        "meet_title": "融创服务（01516.HK）2022年度业绩发布会",
+        "duration": 87
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "335771",
     "name": "朱霏霏",
     "org_name": "中信里昂证券有限公司",
@@ -29170,59 +29227,6 @@
         "time": "2025-08-15"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "279497",
-    "name": "马欣",
-    "org_name": "上海盘京投资管理中心（有限合伙）",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究部分析师",
-    "department": "",
-    "last_interaction_time": "2025-03-25 10:00:52",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "融创服务",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2025-03-24",
-        "meet_title": "融创服务（01516.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-26",
-        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-15",
-        "meet_title": "融创服务（01516.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "融创服务（01516.HK）2024年度业绩发布会",
-        "duration": 56
-      },
-      {
-        "time": "2024-08-27",
-        "meet_title": "融创服务（01516.HK）2024年中期业绩发布会",
-        "duration": 11
-      },
-      {
-        "time": "2023-03-20",
-        "meet_title": "融创服务（01516.HK）2022年度业绩发布会",
-        "duration": 7
-      },
-      {
-        "time": "2023-03-20",
-        "meet_title": "融创服务（01516.HK）2022年度业绩发布会",
-        "duration": 87
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -32818,7 +32822,7 @@
         "time": "2025-08-11"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-04-29"
       },
       {
@@ -34703,7 +34707,7 @@
         "time": "2025-03-18"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-03-18"
       },
       {
@@ -34727,7 +34731,7 @@
         "time": "2023-03-23"
       }
     ],
-    "special_companies": "中国船舶租赁,康基医疗,思治企业咨询,汇通达网络,联邦制药,艾美疫苗,连连数字"
+    "special_companies": "中国船舶租赁,康基医疗,汇通达网络,联邦制药,艾美疫苗,连连数字,香港公司治理公会北京代表处"
   },
   {
     "uid": "40190",
@@ -38478,6 +38482,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
       {
         "company": "中信银行",
         "time": "2025-08-28"
@@ -45400,6 +45408,50 @@
     "special_companies": "复星国际,建业地产"
   },
   {
+    "uid": "252881",
+    "name": "林聪",
+    "org_name": "国开泰富基金管理有限责任公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "投资部",
+    "last_interaction_time": "2024-03-26 10:02:20",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "融创服务",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-24",
+        "meet_title": "融创服务（01516.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-03-20",
+        "meet_title": "融创服务（01516.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-26",
+        "meet_title": "融创服务（01516.HK）2023年度业绩发布会",
+        "duration": 7
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "融创服务（01516.HK）2023年度业绩发布会",
+        "duration": 50
+      },
+      {
+        "time": "2023-03-20",
+        "meet_title": "融创服务（01516.HK）2022年度业绩发布会",
+        "duration": 96
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "融创中国,融创服务"
+  },
+  {
     "uid": "337265",
     "name": "王思翰",
     "org_name": "Oscar and Partners Capital, LTD",
@@ -45446,50 +45498,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "252881",
-    "name": "林聪",
-    "org_name": "国开泰富基金管理有限责任公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "投资部",
-    "last_interaction_time": "2024-03-26 10:02:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "融创服务",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-24",
-        "meet_title": "融创服务（01516.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-03-20",
-        "meet_title": "融创服务（01516.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-26",
-        "meet_title": "融创服务（01516.HK）2023年度业绩发布会",
-        "duration": 7
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "融创服务（01516.HK）2023年度业绩发布会",
-        "duration": 50
-      },
-      {
-        "time": "2023-03-20",
-        "meet_title": "融创服务（01516.HK）2022年度业绩发布会",
-        "duration": 96
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "融创中国,融创服务"
   },
   {
     "uid": "591201",
@@ -45632,36 +45640,6 @@
     "special_companies": "世茂服务,保利物业,绿城中国,融创服务"
   },
   {
-    "uid": "607665",
-    "name": "许瀚宁",
-    "org_name": "兴业证券经济与金融研究院",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "海外地产分析师",
-    "department": "",
-    "last_interaction_time": "2024-03-26 10:02:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "融创服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-25",
-        "meet_title": "融创服务（01516.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-26",
-        "meet_title": "融创服务（01516.HK）2023年度业绩发布会",
-        "duration": 51
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "332857",
     "name": "梁展嘉",
     "org_name": "瑞士银行",
@@ -45685,6 +45663,36 @@
         "time": "2024-03-26",
         "meet_title": "融创服务（01516.HK）2023年度业绩发布会",
         "duration": 27
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "607665",
+    "name": "许瀚宁",
+    "org_name": "兴业证券经济与金融研究院",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "海外地产分析师",
+    "department": "",
+    "last_interaction_time": "2024-03-26 10:02:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "融创服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-25",
+        "meet_title": "融创服务（01516.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-26",
+        "meet_title": "融创服务（01516.HK）2023年度业绩发布会",
+        "duration": 51
       }
     ],
     "is_first_attend": true,
@@ -45754,7 +45762,7 @@
         "time": "2025-06-12"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-26"
       },
       {
@@ -45854,7 +45862,7 @@
         "time": "2023-03-02"
       }
     ],
-    "special_companies": "万物云,中海物业,合景悠活,复星国际,思治企业咨询,新世界发展,新希望服务,星盛商业,融创服务,越秀服务,金科服务,长江电力"
+    "special_companies": "万物云,中海物业,合景悠活,复星国际,新世界发展,新希望服务,星盛商业,融创服务,越秀服务,金科服务,长江电力,香港公司治理公会北京代表处"
   },
   {
     "uid": "334854",
@@ -50614,6 +50622,122 @@
     "special_companies": "中国电信,华虹公司,卓越教育集团,宏信建发,小米集团-W,小鹏汽车-W,百果园集团,粉笔,药明生物"
   },
   {
+    "uid": "436977",
+    "name": "王祎馨",
+    "org_name": "兴证全球基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "研究部",
+    "last_interaction_time": "2023-08-22 10:35:11",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "融创服务",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-08-20",
+        "meet_title": "融创服务（01516.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-16",
+        "meet_title": "融创服务（01516.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "融创服务（01516.HK）2023年中期业绩发布会",
+        "duration": 11
+      },
+      {
+        "time": "2023-03-20",
+        "meet_title": "融创服务（01516.HK）2022年度业绩发布会",
+        "duration": 96
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "建发物业",
+        "time": "2023-08-26"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2023-08-26"
+      },
+      {
+        "company": "贝壳",
+        "time": "2023-05-18"
+      },
+      {
+        "company": "美的置业",
+        "time": "2023-04-24"
+      },
+      {
+        "company": "保利置业集团",
+        "time": "2023-04-11"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-03-31"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-03-16"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "保利物业",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "中海物业",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "新城悦服务",
+        "time": "2023-03-13"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2023-03-13"
+      }
+    ],
+    "special_companies": "万物云,建业新生活,招商蛇口,碧桂园,碧桂园服务,绿城服务,美的置业,越秀服务,金科服务,金茂服务,雅生活服务"
+  },
+  {
     "uid": "273355",
     "name": "Oscar Leung",
     "org_name": "Ample Capital Technology Ltd",
@@ -50734,7 +50858,7 @@
         "time": "2025-02-13"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-02-13"
       },
       {
@@ -51518,123 +51642,7 @@
         "time": "2023-02-21"
       }
     ],
-    "special_companies": "21世纪教育,万物云,世茂服务,东方证券,中信证券,中化化肥,中国中药,中国交建,中国光大绿色环保,中国动向,中国天瑞水泥,中国太保,中国建筑,中国建筑国际,中国心连心化肥,中国春来教育集团,中国燃气,中国船舶租赁,中国通信服务,中广核技,中广核新能源,中烟香港,中粮包装,中集安瑞科,中集车辆,云康集团,亚信科技,交个朋友控股,亿胜生物科技,众安在线,众安集团,优趣汇控股,伟仕佳杰,佛朗斯股份,信义光能,信義玻璃,光大证券,冠盛股份,力劲科技,华森制药,华润医药,协合新能源,卓越教育集团,博腾股份,呷哺呷哺,复星国际,宏信建发,宜明昂科,小米集团-W,小鹏汽车-W,康基医疗,康宁医院,康臣药业,建发国际集团,建发物业,心玮医疗,思治企业咨询,拼多多,敏华控股,新城发展,新希望服务,新鸿基公司,明源云,朝聚眼科,森松国际,沛嘉医疗,海南矿业,湾区发展,玄武云,畅捷通,百果园集团,神州控股,绿城管理控股,网龙,罕王黄金,联易融科技,联邦制药,艾美疫苗,英伟达,药师帮,融创服务,贝康医疗,迈富时,远东宏信,金科服务,阜博集团,零跑汽车,顺丰同城"
-  },
-  {
-    "uid": "436977",
-    "name": "王祎馨",
-    "org_name": "兴证全球基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "研究部",
-    "last_interaction_time": "2023-08-22 10:35:11",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "融创服务",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-08-20",
-        "meet_title": "融创服务（01516.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-16",
-        "meet_title": "融创服务（01516.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "融创服务（01516.HK）2023年中期业绩发布会",
-        "duration": 11
-      },
-      {
-        "time": "2023-03-20",
-        "meet_title": "融创服务（01516.HK）2022年度业绩发布会",
-        "duration": 96
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "新鸿基公司",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "建发物业",
-        "time": "2023-08-26"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2023-08-26"
-      },
-      {
-        "company": "贝壳",
-        "time": "2023-05-18"
-      },
-      {
-        "company": "美的置业",
-        "time": "2023-04-24"
-      },
-      {
-        "company": "保利置业集团",
-        "time": "2023-04-11"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-03-31"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "融创服务",
-        "time": "2023-03-16"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2023-03-13"
-      },
-      {
-        "company": "合景悠活",
-        "time": "2023-03-13"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2023-03-13"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2023-03-13"
-      },
-      {
-        "company": "保利物业",
-        "time": "2023-03-13"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2023-03-13"
-      },
-      {
-        "company": "中海物业",
-        "time": "2023-03-13"
-      },
-      {
-        "company": "新城悦服务",
-        "time": "2023-03-13"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2023-03-13"
-      }
-    ],
-    "special_companies": "万物云,建业新生活,招商蛇口,碧桂园,碧桂园服务,绿城服务,美的置业,越秀服务,金科服务,金茂服务,雅生活服务"
+    "special_companies": "21世纪教育,万物云,世茂服务,东方证券,中信证券,中化化肥,中国中药,中国交建,中国光大绿色环保,中国动向,中国天瑞水泥,中国太保,中国建筑,中国建筑国际,中国心连心化肥,中国春来教育集团,中国燃气,中国船舶租赁,中国通信服务,中广核技,中广核新能源,中烟香港,中粮包装,中集安瑞科,中集车辆,云康集团,亚信科技,交个朋友控股,亿胜生物科技,众安在线,众安集团,优趣汇控股,伟仕佳杰,佛朗斯股份,信义光能,信義玻璃,光大证券,冠盛股份,力劲科技,华森制药,华润医药,协合新能源,卓越教育集团,博腾股份,呷哺呷哺,复星国际,宏信建发,宜明昂科,小米集团-W,小鹏汽车-W,康基医疗,康宁医院,康臣药业,建发国际集团,建发物业,心玮医疗,拼多多,敏华控股,新城发展,新希望服务,新鸿基公司,明源云,朝聚眼科,森松国际,沛嘉医疗,海南矿业,湾区发展,玄武云,畅捷通,百果园集团,神州控股,绿城管理控股,网龙,罕王黄金,联易融科技,联邦制药,艾美疫苗,英伟达,药师帮,融创服务,贝康医疗,迈富时,远东宏信,金科服务,阜博集团,零跑汽车,顺丰同城,香港公司治理公会北京代表处"
   },
   {
     "uid": "17605",
@@ -52824,11 +52832,11 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2024-10-14"
       }
     ],
-    "special_companies": "思治企业咨询,香港公司治理公会"
+    "special_companies": "香港公司治理公会,香港公司治理公会北京代表处"
   },
   {
     "uid": "582280",
@@ -53317,7 +53325,7 @@
         "time": "2025-07-18"
       },
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2025-06-09"
       },
       {
@@ -62237,11 +62245,11 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
-        "company": "思治企业咨询",
+        "company": "香港公司治理公会北京代表处",
         "time": "2024-10-14"
       }
     ],
-    "special_companies": "思治企业咨询"
+    "special_companies": "香港公司治理公会北京代表处"
   },
   {
     "uid": "497111",
