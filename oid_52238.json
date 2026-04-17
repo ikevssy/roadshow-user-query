@@ -7013,45 +7013,6 @@
     "special_companies": ""
   },
   {
-    "uid": "343156",
-    "name": "靳璐瑜",
-    "org_name": "兴业证券经济与金融研究院",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "房地产首席分析师",
-    "department": "",
-    "last_interaction_time": "2026-03-27 14:57:04",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "建发物业",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-25",
-        "meet_title": "建发物业（02156.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-03-24",
-        "meet_title": "建发物业（02156.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "建发物业（02156.HK）2025年度业绩发布会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2026-03-30"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "424543",
     "name": "和美知",
     "org_name": "四寿不动产投资管理有限公司",
@@ -7114,6 +7075,45 @@
       }
     ],
     "special_companies": "保利物业"
+  },
+  {
+    "uid": "343156",
+    "name": "靳璐瑜",
+    "org_name": "兴业证券经济与金融研究院",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "房地产首席分析师",
+    "department": "",
+    "last_interaction_time": "2026-03-27 14:57:04",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "建发物业",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "建发物业（02156.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-03-24",
+        "meet_title": "建发物业（02156.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "建发物业（02156.HK）2025年度业绩发布会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2026-03-30"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "607047",
@@ -7256,6 +7256,69 @@
     "special_companies": "万物云,建发国际集团,新城控股,绿城服务,绿城管理控股"
   },
   {
+    "uid": "493693",
+    "name": "周一",
+    "org_name": "香港偉祺科技公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "研究助理",
+    "department": "研究部",
+    "last_interaction_time": "2026-03-27 14:57:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "建发物业",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-21",
+        "meet_title": "建发物业（02156.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-23",
+        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "建发物业（02156.HK）2023年全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "建发物业（02156.HK）2025年度业绩发布会",
+        "duration": 61
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "比亚迪",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "开市客",
+        "time": "2026-03-03"
+      },
+      {
+        "company": "京东物流",
+        "time": "2025-11-13"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "285435",
     "name": "田海鹏",
     "org_name": "北京展宏资产管理有限公司",
@@ -7380,69 +7443,6 @@
       {
         "company": "建发国际集团",
         "time": "2023-08-25"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "493693",
-    "name": "周一",
-    "org_name": "香港偉祺科技公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "研究助理",
-    "department": "研究部",
-    "last_interaction_time": "2026-03-27 14:57:03",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "建发物业",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-21",
-        "meet_title": "建发物业（02156.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-23",
-        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-20",
-        "meet_title": "建发物业（02156.HK）2023年全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "建发物业（02156.HK）2025年度业绩发布会",
-        "duration": 61
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "比亚迪",
-        "time": "2026-04-01"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2026-03-26"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "开市客",
-        "time": "2026-03-03"
-      },
-      {
-        "company": "京东物流",
-        "time": "2025-11-13"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-25"
       }
     ],
     "special_companies": ""
@@ -9797,6 +9797,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2026-04-17"
+      },
       {
         "company": "博腾股份",
         "time": "2026-04-01"
@@ -20774,6 +20778,62 @@
     "special_companies": "建发国际集团,碧桂园服务,绿城中国,绿城服务,绿城管理控股"
   },
   {
+    "uid": "250212",
+    "name": "趙恬恬",
+    "org_name": "上海金历投资有限公司",
+    "org_type": "实业投资",
+    "cert_type": "个人",
+    "position": "研究总监",
+    "department": "",
+    "last_interaction_time": "2025-08-25 14:34:26",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "建发物业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中微公司",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "新城发展",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "新城控股",
+        "time": "2023-08-31"
+      },
+      {
+        "company": "金地集团",
+        "time": "2023-08-28"
+      },
+      {
+        "company": "合景泰富集团",
+        "time": "2023-03-31"
+      }
+    ],
+    "special_companies": "合景泰富集团,招商蛇口,新城发展,新城控股,绿城中国"
+  },
+  {
     "uid": "637304",
     "name": "杨添伟",
     "org_name": "深圳市龙岗金融投资控股有限公司",
@@ -20851,62 +20911,6 @@
       }
     ],
     "special_companies": "中广核新能源"
-  },
-  {
-    "uid": "250212",
-    "name": "趙恬恬",
-    "org_name": "上海金历投资有限公司",
-    "org_type": "实业投资",
-    "cert_type": "个人",
-    "position": "研究总监",
-    "department": "",
-    "last_interaction_time": "2025-08-25 14:34:26",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "建发物业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中微公司",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "新城发展",
-        "time": "2024-03-22"
-      },
-      {
-        "company": "新城控股",
-        "time": "2023-08-31"
-      },
-      {
-        "company": "金地集团",
-        "time": "2023-08-28"
-      },
-      {
-        "company": "合景泰富集团",
-        "time": "2023-03-31"
-      }
-    ],
-    "special_companies": "合景泰富集团,招商蛇口,新城发展,新城控股,绿城中国"
   },
   {
     "uid": "581417",
@@ -23099,45 +23103,6 @@
     "special_companies": "金茂服务"
   },
   {
-    "uid": "637409",
-    "name": "王玮齡",
-    "org_name": "建发房地产集团有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "財務总监",
-    "department": "",
-    "last_interaction_time": "2025-08-25 14:32:09",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "建发物业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-23",
-        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会",
-        "duration": 50
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-23"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "273611",
     "name": "陈鹏",
     "org_name": "上海申银万国证券研究所有限公司",
@@ -23237,6 +23202,45 @@
       {
         "company": "万物云",
         "time": "2025-08-13"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "637409",
+    "name": "王玮齡",
+    "org_name": "建发房地产集团有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "財務总监",
+    "department": "",
+    "last_interaction_time": "2025-08-25 14:32:09",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "建发物业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-23",
+        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会",
+        "duration": 50
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-23"
       }
     ],
     "special_companies": ""
@@ -23838,83 +23842,6 @@
     "special_companies": "金风科技"
   },
   {
-    "uid": "334020",
-    "name": "费琴",
-    "org_name": "海鹰中国动态基金",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "",
-    "last_interaction_time": "2025-08-25 14:32:01",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "建发物业",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2025-08-21",
-        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-24",
-        "meet_title": "建发物业（02156.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-20",
-        "meet_title": "建发物业（02156.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会",
-        "duration": 54
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-28",
-        "meet_title": "建发物业（02156.HK）2024年度业绩发布会",
-        "duration": 53
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-03-28"
-      },
-      {
-        "company": "保利物业",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-03-14"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2023-08-26"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2023-03-15"
-      }
-    ],
-    "special_companies": "万物云,中国海外宏洋集团,建发国际集团,建发物业,招商蛇口,碧桂园,美的置业,越秀地产"
-  },
-  {
     "uid": "434540",
     "name": "师亮",
     "org_name": "天风证券股份有限公司研究所",
@@ -24043,6 +23970,83 @@
       }
     ],
     "special_companies": "万物云,新希望服务,永升服务,绿城服务,绿城管理控股,金科服务,金茂服务,雅生活服务"
+  },
+  {
+    "uid": "334020",
+    "name": "费琴",
+    "org_name": "海鹰中国动态基金",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2025-08-25 14:32:01",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "建发物业",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2025-08-21",
+        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-24",
+        "meet_title": "建发物业（02156.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-20",
+        "meet_title": "建发物业（02156.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会",
+        "duration": 54
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "建发物业（02156.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-03-28",
+        "meet_title": "建发物业（02156.HK）2024年度业绩发布会",
+        "duration": 53
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-03-14"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2023-08-26"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2023-03-15"
+      }
+    ],
+    "special_companies": "万物云,中国海外宏洋集团,建发国际集团,建发物业,招商蛇口,碧桂园,美的置业,越秀地产"
   },
   {
     "uid": "424514",
@@ -32944,57 +32948,6 @@
     "special_companies": "卓越教育集团,贝泰妮"
   },
   {
-    "uid": "432466",
-    "name": "俞悦",
-    "org_name": "信达证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "博士",
-    "department": "研究开发中心",
-    "last_interaction_time": "2025-03-28 13:29:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "建发物业",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2025-03-24",
-        "meet_title": "建发物业（02156.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-23",
-        "meet_title": "建发物业（02156.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2023-08-25",
-        "meet_title": "建发物业（02156.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-28",
-        "meet_title": "建发物业（02156.HK）2024年度业绩发布会",
-        "duration": 58
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国海外发展",
-        "time": "2023-04-24"
-      },
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2023-04-24"
-      },
-      {
-        "company": "中原建业",
-        "time": "2023-03-21"
-      }
-    ],
-    "special_companies": "美的置业"
-  },
-  {
     "uid": "581434",
     "name": "苏奇文",
     "org_name": "深圳市卓越投资控股有限公司",
@@ -33089,6 +33042,57 @@
       }
     ],
     "special_companies": "呷哺呷哺,绿城管理控股"
+  },
+  {
+    "uid": "432466",
+    "name": "俞悦",
+    "org_name": "信达证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "博士",
+    "department": "研究开发中心",
+    "last_interaction_time": "2025-03-28 13:29:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "建发物业",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2025-03-24",
+        "meet_title": "建发物业（02156.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-23",
+        "meet_title": "建发物业（02156.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2023-08-25",
+        "meet_title": "建发物业（02156.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-28",
+        "meet_title": "建发物业（02156.HK）2024年度业绩发布会",
+        "duration": 58
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国海外发展",
+        "time": "2023-04-24"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2023-04-24"
+      },
+      {
+        "company": "中原建业",
+        "time": "2023-03-21"
+      }
+    ],
+    "special_companies": "美的置业"
   },
   {
     "uid": "425810",

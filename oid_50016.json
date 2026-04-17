@@ -3884,38 +3884,6 @@
     "special_companies": ""
   },
   {
-    "uid": "506297",
-    "name": "张宇晴",
-    "org_name": "本营国际有限公司",
-    "org_type": "金融科技软件技术服务",
-    "cert_type": "媒体",
-    "position": "分析师",
-    "department": "",
-    "last_interaction_time": "2026-03-10 15:00:07",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宏信建发",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-10",
-        "meet_title": "宏信建发（9930.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2024-07-10",
-        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-02-26",
-        "meet_title": "宏信建发（9930.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "632429",
     "name": "袁英杰",
     "org_name": "中国银行股份有限公司上海市分行",
@@ -3966,6 +3934,38 @@
         "time": "2025-03-06"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "506297",
+    "name": "张宇晴",
+    "org_name": "本营国际有限公司",
+    "org_type": "金融科技软件技术服务",
+    "cert_type": "媒体",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2026-03-10 15:00:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宏信建发",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-10",
+        "meet_title": "宏信建发（9930.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2024-07-10",
+        "meet_title": "宏信建发（9930.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-02-26",
+        "meet_title": "宏信建发（9930.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -4875,45 +4875,6 @@
     "special_companies": "中国光大环境,中国动向,建发国际集团,建发物业,江南布衣"
   },
   {
-    "uid": "433088",
-    "name": "吴晓霞",
-    "org_name": "广发银行股份有限公司上海分行",
-    "org_type": "银行",
-    "cert_type": "机构投资者",
-    "position": "客户经理",
-    "department": "普陀支行",
-    "last_interaction_time": "2026-03-10 14:58:23",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宏信建发",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-03",
-        "meet_title": "宏信建发（9930.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-10",
-        "meet_title": "宏信建发（9930.HK）2025年度业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "宏信建发",
-        "time": "2026-03-09"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2023-03-15"
-      }
-    ],
-    "special_companies": "远东宏信"
-  },
-  {
     "uid": "436029",
     "name": "郑煜",
     "org_name": "中信证券资产管理（香港）有限公司",
@@ -4967,6 +4928,45 @@
       }
     ],
     "special_companies": "贵州茅台"
+  },
+  {
+    "uid": "433088",
+    "name": "吴晓霞",
+    "org_name": "广发银行股份有限公司上海分行",
+    "org_type": "银行",
+    "cert_type": "机构投资者",
+    "position": "客户经理",
+    "department": "普陀支行",
+    "last_interaction_time": "2026-03-10 14:58:23",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宏信建发",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-03",
+        "meet_title": "宏信建发（9930.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-10",
+        "meet_title": "宏信建发（9930.HK）2025年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "宏信建发",
+        "time": "2026-03-09"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2023-03-15"
+      }
+    ],
+    "special_companies": "远东宏信"
   },
   {
     "uid": "504991",

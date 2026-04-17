@@ -18,7 +18,13 @@
       }
     ],
     "attend_count": 1,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "金山云（KC.US）2025年第一季度业绩电话会",
+        "duration": 0
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
@@ -7309,6 +7315,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-17"
+      },
       {
         "company": "协鑫科技",
         "time": "2026-03-24"

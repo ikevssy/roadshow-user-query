@@ -22727,12 +22727,12 @@
     "special_companies": ""
   },
   {
-    "uid": "352430",
-    "name": "宋子谦",
-    "org_name": "中物智库",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "高级研究员",
+    "uid": "433647",
+    "name": "郑晓君",
+    "org_name": "方圆天成资产管理（深圳）有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
     "department": "",
     "last_interaction_time": "2023-03-21 10:36:45",
     "last_interaction_behavior": "参会",
@@ -22740,7 +22740,7 @@
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-15",
+        "time": "2023-03-17",
         "meet_title": "中原建业（9982.HK）2022年全年业绩发布会"
       }
     ],
@@ -22749,57 +22749,12 @@
       {
         "time": "2023-03-21",
         "meet_title": "中原建业（9982.HK）2022年全年业绩发布会",
-        "duration": 80
+        "duration": 81
       }
     ],
     "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "合景悠活",
-        "time": "2025-08-28"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-03-28"
-      },
-      {
-        "company": "万国数据服务",
-        "time": "2023-03-15"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-03-06"
-      }
-    ],
-    "special_companies": "万物云,世茂服务,保利物业,卓越商企服务,合景悠活,新城悦服务,易居企业控股,碧桂园,碧桂园服务,绿城中国,绿城服务,融创服务,金科服务"
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "280305",
@@ -22901,12 +22856,12 @@
     "special_companies": "中国海外宏洋集团,新鸿基公司,美的置业"
   },
   {
-    "uid": "433647",
-    "name": "郑晓君",
-    "org_name": "方圆天成资产管理（深圳）有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
+    "uid": "352430",
+    "name": "宋子谦",
+    "org_name": "中物智库",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "高级研究员",
     "department": "",
     "last_interaction_time": "2023-03-21 10:36:45",
     "last_interaction_behavior": "参会",
@@ -22914,7 +22869,7 @@
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-17",
+        "time": "2023-03-15",
         "meet_title": "中原建业（9982.HK）2022年全年业绩发布会"
       }
     ],
@@ -22923,12 +22878,57 @@
       {
         "time": "2023-03-21",
         "meet_title": "中原建业（9982.HK）2022年全年业绩发布会",
-        "duration": 81
+        "duration": 80
       }
     ],
     "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
+    "subscribed_companies": [
+      {
+        "company": "合景悠活",
+        "time": "2025-08-28"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2023-03-15"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-03-06"
+      }
+    ],
+    "special_companies": "万物云,世茂服务,保利物业,卓越商企服务,合景悠活,新城悦服务,易居企业控股,碧桂园,碧桂园服务,绿城中国,绿城服务,融创服务,金科服务"
   },
   {
     "uid": "434550",

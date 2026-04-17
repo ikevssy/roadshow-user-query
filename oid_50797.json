@@ -14931,6 +14931,43 @@
     "special_companies": ""
   },
   {
+    "uid": "494874",
+    "name": "赵瑞瑶",
+    "org_name": "海通国际证券集团有限公司",
+    "org_type": "证券公司",
+    "cert_type": "服务机构",
+    "position": "Assistant Analyst",
+    "department": "Corporate Finance 企业融资部",
+    "last_interaction_time": "2025-08-21 17:00:59",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "名创优品",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "名创优品（09896.HK，MNSO.US）2025年第二季度业绩电话会"
+      },
+      {
+        "time": "2025-03-21",
+        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "名创优品",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-03-23"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "386348",
     "name": "吴典",
     "org_name": "国际金融报",
@@ -15006,14 +15043,14 @@
     "special_companies": "华熙生物,卓越商企服务"
   },
   {
-    "uid": "494874",
-    "name": "赵瑞瑶",
-    "org_name": "海通国际证券集团有限公司",
-    "org_type": "证券公司",
-    "cert_type": "服务机构",
-    "position": "Assistant Analyst",
-    "department": "Corporate Finance 企业融资部",
-    "last_interaction_time": "2025-08-21 17:00:59",
+    "uid": "283910",
+    "name": "周梓霖",
+    "org_name": "Infinity Asset Management, LTD (Hong Kong)",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "首席投資官",
+    "department": "資產管理",
+    "last_interaction_time": "2025-08-21 17:00:58",
     "last_interaction_behavior": "参会",
     "interaction_company": "名创优品",
     "apply_count": 2,
@@ -15023,21 +15060,35 @@
         "meet_title": "名创优品（09896.HK，MNSO.US）2025年第二季度业绩电话会"
       },
       {
-        "time": "2025-03-21",
-        "meet_title": "名创优品（09896.HK，MNSO.US）2024年第四季度业绩电话会"
+        "time": "2024-08-30",
+        "meet_title": "名创优品（MNSO.US）2024年第二季度业绩电话会"
       }
     ],
-    "attend_count": 1,
-    "attend_records": [],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-08-30",
+        "meet_title": "名创优品（MNSO.US）2024年第二季度业绩电话会",
+        "duration": 0
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "名创优品",
-        "time": "2025-08-20"
+        "company": "比亚迪",
+        "time": "2026-03-31"
       },
       {
-        "company": "呷哺呷哺",
-        "time": "2023-03-23"
+        "company": "保利物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "神州控股",
+        "time": "2025-09-05"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-08-29"
       }
     ],
     "special_companies": ""
@@ -15440,57 +15491,6 @@
       }
     ],
     "special_companies": "万物云,世茂服务,中信证券,保利发展,保利物业,呷哺呷哺,小米集团-W,建发物业,招商蛇口,招商银行,新城发展,新城悦服务,新城控股,新希望服务,易居企业控股,比亚迪,永升服务,滨江服务,申万宏源,碧桂园,碧桂园服务,绿城中国,绿城服务,绿城管理控股,美的置业,融创中国,融创服务,越秀地产,金茂服务,雅生活服务,顺丰同城"
-  },
-  {
-    "uid": "283910",
-    "name": "周梓霖",
-    "org_name": "Infinity Asset Management, LTD (Hong Kong)",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "首席投資官",
-    "department": "資產管理",
-    "last_interaction_time": "2025-08-21 17:00:58",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "名创优品",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "名创优品（09896.HK，MNSO.US）2025年第二季度业绩电话会"
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "名创优品（MNSO.US）2024年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-08-30",
-        "meet_title": "名创优品（MNSO.US）2024年第二季度业绩电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "比亚迪",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "保利物业",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "神州控股",
-        "time": "2025-09-05"
-      },
-      {
-        "company": "联邦制药",
-        "time": "2025-08-29"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "606815",
@@ -20140,6 +20140,10 @@
     "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2026-04-17"
+      },
       {
         "company": "博腾股份",
         "time": "2026-04-01"
@@ -30710,6 +30714,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-17"
+      },
       {
         "company": "协鑫科技",
         "time": "2026-03-24"
@@ -51282,16 +51290,16 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "香港投资者关系协会",
+        "time": "2026-04-17"
+      },
+      {
         "company": "有赞",
         "time": "2024-11-17"
       },
       {
         "company": "远东宏信",
         "time": "2024-11-12"
-      },
-      {
-        "company": "捷利交易宝",
-        "time": "2024-11-08"
       },
       {
         "company": "香港公司治理公会北京代表处",
@@ -51330,27 +51338,11 @@
         "time": "2023-11-28"
       },
       {
-        "company": "华润医药",
-        "time": "2023-08-28"
-      },
-      {
         "company": "小米集团-W",
         "time": "2023-08-28"
       },
       {
-        "company": "五谷磨房",
-        "time": "2023-08-21"
-      },
-      {
         "company": "比亚迪",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "李宁",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "联想集团",
         "time": "2023-08-21"
       },
       {
@@ -51370,14 +51362,6 @@
         "time": "2023-08-21"
       },
       {
-        "company": "锦欣生殖",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "中集车辆",
-        "time": "2023-08-21"
-      },
-      {
         "company": "万物新生（爱回收）",
         "time": "2023-08-21"
       },
@@ -51394,19 +51378,7 @@
         "time": "2023-08-21"
       },
       {
-        "company": "呷哺呷哺",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "平安好医生",
-        "time": "2023-08-21"
-      },
-      {
         "company": "万物云",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "云米科技",
         "time": "2023-08-21"
       },
       {
@@ -51422,27 +51394,11 @@
         "time": "2023-08-21"
       },
       {
-        "company": "湾区发展",
-        "time": "2023-08-21"
-      },
-      {
         "company": "瑞声科技",
         "time": "2023-08-21"
       },
       {
         "company": "药明生物",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "逸仙控股",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "爱奇艺",
         "time": "2023-08-21"
       },
       {
@@ -51454,27 +51410,15 @@
         "time": "2023-08-21"
       },
       {
-        "company": "招商局商业房托",
-        "time": "2023-03-17"
-      },
-      {
         "company": "腾讯音乐",
         "time": "2023-03-17"
       },
       {
         "company": "BOSS直聘",
         "time": "2023-03-17"
-      },
-      {
-        "company": "国泰海通证券研究所",
-        "time": "2023-02-13"
-      },
-      {
-        "company": "中金公司",
-        "time": "2023-02-07"
       }
     ],
-    "special_companies": "21世纪教育,万物云,万物新生（爱回收）,中集车辆,五谷磨房,华润医疗,华润医药,呷哺呷哺,复星国际,奈雪的茶,小米集团-W,星盛商业,有赞,波司登,湾区发展,百果园集团,英伟达,药明生物,赢家时尚,远东宏信,顺丰同城,香港公司治理公会北京代表处"
+    "special_companies": "21世纪教育,万物云,万物新生（爱回收）,复星国际,奈雪的茶,小米集团-W,星盛商业,有赞,波司登,百果园集团,英伟达,药明生物,赢家时尚,远东宏信,顺丰同城,香港公司治理公会北京代表处"
   },
   {
     "uid": "7584",
