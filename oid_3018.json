@@ -1,61 +1,85 @@
 [
   {
-    "uid": "648014",
-    "name": "高宇",
-    "org_name": "成都流形科技有限公司",
-    "org_type": null,
-    "cert_type": "个人",
-    "position": "总监",
-    "department": null,
-    "last_interaction_time": "2026-04-16 17:46:51",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "腾讯控股",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-04-16",
-        "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "646780",
-    "name": "段川钰",
-    "org_name": "四川超凡知识产权服务股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "证券事务代表",
-    "department": "",
-    "last_interaction_time": "2026-04-16 11:16:56",
+    "uid": "494040",
+    "name": "吴小征",
+    "org_name": "国联证券（香港）有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "执行董事",
+    "department": "固定收益",
+    "last_interaction_time": "2026-04-17 10:54:16",
     "last_interaction_behavior": "参会",
     "interaction_company": "腾讯控股",
-    "apply_count": 1,
+    "apply_count": 2,
     "apply_records": [
       {
-        "time": "2026-04-16",
+        "time": "2026-03-18",
         "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会"
+      },
+      {
+        "time": "2025-05-12",
+        "meet_title": "腾讯控股（00700.HK）2025年第一季度业绩电话会"
       }
     ],
-    "attend_count": 1,
-    "attend_records": [],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-28",
+        "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2026-03-18",
+        "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会",
+        "duration": 1
+      },
+      {
+        "time": "2025-05-14",
+        "meet_title": "腾讯控股（00700.HK）2025年第一季度业绩电话会",
+        "duration": 68
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "腾讯音乐",
-        "time": "2026-04-16"
+        "company": "拼多多",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "美光科技",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "知乎",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "快手-W",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "微博-SW",
+        "time": "2026-03-18"
+      },
+      {
+        "company": "联想集团",
+        "time": "2025-05-22"
       },
       {
         "company": "腾讯控股",
-        "time": "2026-03-30"
+        "time": "2025-05-12"
       },
       {
-        "company": "康臣药业",
-        "time": "2026-03-30"
+        "company": "京东集团-SW",
+        "time": "2025-05-12"
       }
     ],
     "special_companies": ""
@@ -68,7 +92,7 @@
     "cert_type": "上市公司",
     "position": "高级经理",
     "department": "投资者关系及资本市场部",
-    "last_interaction_time": "2026-04-16 08:49:15",
+    "last_interaction_time": "2026-04-17 08:41:18",
     "last_interaction_behavior": "参会",
     "interaction_company": "腾讯控股",
     "apply_count": 3,
@@ -88,6 +112,11 @@
     ],
     "attend_count": 3,
     "attend_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会",
+        "duration": 1
+      },
       {
         "time": "2026-04-15",
         "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会",
@@ -149,6 +178,49 @@
       }
     ],
     "special_companies": "IGG INC"
+  },
+  {
+    "uid": "646780",
+    "name": "段川钰",
+    "org_name": "四川超凡知识产权服务股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "证券事务代表",
+    "department": "",
+    "last_interaction_time": "2026-04-16 11:16:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "腾讯控股",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会",
+        "duration": 4
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "腾讯音乐",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2026-03-30"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "343413",
@@ -3574,91 +3646,6 @@
       }
     ],
     "special_companies": "百融智能"
-  },
-  {
-    "uid": "494040",
-    "name": "吴小征",
-    "org_name": "国联证券（香港）有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "执行董事",
-    "department": "固定收益",
-    "last_interaction_time": "2026-03-28 19:37:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "腾讯控股",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-18",
-        "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会"
-      },
-      {
-        "time": "2025-05-12",
-        "meet_title": "腾讯控股（00700.HK）2025年第一季度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-28",
-        "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2026-03-18",
-        "meet_title": "腾讯控股（00700.HK）2025年第四季度及全年业绩电话会",
-        "duration": 1
-      },
-      {
-        "time": "2025-05-14",
-        "meet_title": "腾讯控股（00700.HK）2025年第一季度业绩电话会",
-        "duration": 68
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "拼多多",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "美光科技",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "知乎",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "快手-W",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "微博-SW",
-        "time": "2026-03-18"
-      },
-      {
-        "company": "联想集团",
-        "time": "2025-05-22"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-05-12"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2025-05-12"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "440499",
@@ -14574,6 +14561,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-17"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-16"
@@ -31476,6 +31467,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2026-04-17"
+      },
       {
         "company": "博腾股份",
         "time": "2026-04-01"
@@ -52832,6 +52827,122 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "工业富联",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "中国电信",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "中国交建",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "石化油服",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "比亚迪电子",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "华森制药",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "滴普科技",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "不同集团",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2026-04-17"
+      },
+      {
+        "company": "华检医疗",
+        "time": "2026-04-17"
+      },
+      {
         "company": "中银香港",
         "time": "2025-07-18"
       },
@@ -57584,6 +57695,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-17"
+      },
       {
         "company": "协鑫科技",
         "time": "2026-03-24"
@@ -76940,16 +77055,16 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "香港投资者关系协会",
+        "time": "2026-04-17"
+      },
+      {
         "company": "有赞",
         "time": "2024-11-17"
       },
       {
         "company": "远东宏信",
         "time": "2024-11-12"
-      },
-      {
-        "company": "捷利交易宝",
-        "time": "2024-11-08"
       },
       {
         "company": "香港公司治理公会北京代表处",
@@ -76988,27 +77103,11 @@
         "time": "2023-11-28"
       },
       {
-        "company": "华润医药",
-        "time": "2023-08-28"
-      },
-      {
         "company": "小米集团-W",
         "time": "2023-08-28"
       },
       {
-        "company": "五谷磨房",
-        "time": "2023-08-21"
-      },
-      {
         "company": "比亚迪",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "李宁",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "联想集团",
         "time": "2023-08-21"
       },
       {
@@ -77028,14 +77127,6 @@
         "time": "2023-08-21"
       },
       {
-        "company": "锦欣生殖",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "中集车辆",
-        "time": "2023-08-21"
-      },
-      {
         "company": "万物新生（爱回收）",
         "time": "2023-08-21"
       },
@@ -77052,19 +77143,7 @@
         "time": "2023-08-21"
       },
       {
-        "company": "呷哺呷哺",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "平安好医生",
-        "time": "2023-08-21"
-      },
-      {
         "company": "万物云",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "云米科技",
         "time": "2023-08-21"
       },
       {
@@ -77080,27 +77159,11 @@
         "time": "2023-08-21"
       },
       {
-        "company": "湾区发展",
-        "time": "2023-08-21"
-      },
-      {
         "company": "瑞声科技",
         "time": "2023-08-21"
       },
       {
         "company": "药明生物",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "逸仙控股",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "爱奇艺",
         "time": "2023-08-21"
       },
       {
@@ -77112,27 +77175,15 @@
         "time": "2023-08-21"
       },
       {
-        "company": "招商局商业房托",
-        "time": "2023-03-17"
-      },
-      {
         "company": "腾讯音乐",
         "time": "2023-03-17"
       },
       {
         "company": "BOSS直聘",
         "time": "2023-03-17"
-      },
-      {
-        "company": "国泰海通证券研究所",
-        "time": "2023-02-13"
-      },
-      {
-        "company": "中金公司",
-        "time": "2023-02-07"
       }
     ],
-    "special_companies": "21世纪教育,万物云,万物新生（爱回收）,中集车辆,五谷磨房,华润医疗,华润医药,呷哺呷哺,复星国际,奈雪的茶,小米集团-W,星盛商业,有赞,波司登,湾区发展,百果园集团,英伟达,药明生物,赢家时尚,远东宏信,顺丰同城,香港公司治理公会北京代表处"
+    "special_companies": "21世纪教育,万物云,万物新生（爱回收）,复星国际,奈雪的茶,小米集团-W,星盛商业,有赞,波司登,百果园集团,英伟达,药明生物,赢家时尚,远东宏信,顺丰同城,香港公司治理公会北京代表处"
   },
   {
     "uid": "285168",

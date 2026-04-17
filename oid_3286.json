@@ -6258,6 +6258,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国建筑",
+        "time": "2026-04-17"
+      },
+      {
         "company": "博腾股份",
         "time": "2026-04-01"
       },
@@ -7783,61 +7787,6 @@
     "special_companies": ""
   },
   {
-    "uid": "505931",
-    "name": "吴昊龙",
-    "org_name": "深圳市国晖投资有限公司",
-    "org_type": "其他私募投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "",
-    "last_interaction_time": "2026-03-17 16:29:48",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "恒安国际",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-17",
-        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-17",
-        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会",
-        "duration": 48
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "恒安国际",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "唯品会",
-        "time": "2025-11-20"
-      },
-      {
-        "company": "华虹公司",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "华能国际",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2024-05-16"
-      },
-      {
-        "company": "通用电气",
-        "time": "2024-01-23"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "645350",
     "name": "邹煜莹",
     "org_name": "中国国际金融股份有限公司",
@@ -7951,20 +7900,20 @@
     "special_companies": ""
   },
   {
-    "uid": "341089",
-    "name": "曾慧诗",
-    "org_name": "深圳市黑匣子速记有限公司",
-    "org_type": "一般企业",
-    "cert_type": "服务机构",
-    "position": "经理",
+    "uid": "505931",
+    "name": "吴昊龙",
+    "org_name": "深圳市国晖投资有限公司",
+    "org_type": "其他私募投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
     "department": "",
-    "last_interaction_time": "2026-03-17 16:29:47",
+    "last_interaction_time": "2026-03-17 16:29:48",
     "last_interaction_behavior": "参会",
     "interaction_company": "恒安国际",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2026-03-12",
+        "time": "2026-03-17",
         "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会"
       }
     ],
@@ -7979,31 +7928,31 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "银诺医药",
-        "time": "2026-03-24"
+        "company": "恒安国际",
+        "time": "2026-03-17"
       },
       {
-        "company": "宏信建发",
-        "time": "2026-03-10"
+        "company": "唯品会",
+        "time": "2025-11-20"
       },
       {
-        "company": "金科服务",
-        "time": "2024-03-28"
+        "company": "华虹公司",
+        "time": "2025-08-07"
       },
       {
-        "company": "思路迪医药股份",
-        "time": "2024-03-12"
+        "company": "华能国际",
+        "time": "2025-08-06"
       },
       {
-        "company": "合景悠活",
-        "time": "2023-08-30"
+        "company": "京东集团-SW",
+        "time": "2024-05-16"
       },
       {
-        "company": "建发物业",
-        "time": "2023-08-29"
+        "company": "通用电气",
+        "time": "2024-01-23"
       }
     ],
-    "special_companies": "中信证券,合景悠活,建发物业,远东宏信"
+    "special_companies": ""
   },
   {
     "uid": "581267",
@@ -8187,6 +8136,61 @@
       }
     ],
     "special_companies": "协合新能源,粤海置地"
+  },
+  {
+    "uid": "341089",
+    "name": "曾慧诗",
+    "org_name": "深圳市黑匣子速记有限公司",
+    "org_type": "一般企业",
+    "cert_type": "服务机构",
+    "position": "经理",
+    "department": "",
+    "last_interaction_time": "2026-03-17 16:29:47",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "恒安国际",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-12",
+        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-17",
+        "meet_title": "恒安国际（1044.HK）2025年全年业绩公布投资者推介会",
+        "duration": 48
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "银诺医药",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2026-03-10"
+      },
+      {
+        "company": "金科服务",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2024-03-12"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2023-08-30"
+      },
+      {
+        "company": "建发物业",
+        "time": "2023-08-29"
+      }
+    ],
+    "special_companies": "中信证券,合景悠活,建发物业,远东宏信"
   },
   {
     "uid": "645389",

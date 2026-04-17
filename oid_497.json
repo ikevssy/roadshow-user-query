@@ -1477,6 +1477,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国建筑",
+        "time": "2026-04-17"
+      },
+      {
         "company": "博腾股份",
         "time": "2026-04-01"
       },
@@ -4494,30 +4498,6 @@
     "special_companies": ""
   },
   {
-    "uid": "582063",
-    "name": "武博文",
-    "org_name": "汇百川基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "资深研究员",
-    "department": "研究部",
-    "last_interaction_time": "2024-05-23 13:30:18",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华润三九",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-05-17",
-        "meet_title": "华润三九（000999.SZ）投资者推介会｜华安医药 x 路演中"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "496823",
     "name": "何方圆",
     "org_name": "无锡汇蠡投资管理中心（有限合伙）",
@@ -4543,6 +4523,30 @@
         "duration": 47
       }
     ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "582063",
+    "name": "武博文",
+    "org_name": "汇百川基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "资深研究员",
+    "department": "研究部",
+    "last_interaction_time": "2024-05-23 13:30:18",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华润三九",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-05-17",
+        "meet_title": "华润三九（000999.SZ）投资者推介会｜华安医药 x 路演中"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""

@@ -23309,6 +23309,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国建筑",
+        "time": "2026-04-17"
+      },
+      {
         "company": "博腾股份",
         "time": "2026-04-01"
       },
@@ -27552,16 +27556,16 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "香港投资者关系协会",
+        "time": "2026-04-17"
+      },
+      {
         "company": "有赞",
         "time": "2024-11-17"
       },
       {
         "company": "远东宏信",
         "time": "2024-11-12"
-      },
-      {
-        "company": "捷利交易宝",
-        "time": "2024-11-08"
       },
       {
         "company": "香港公司治理公会北京代表处",
@@ -27600,27 +27604,11 @@
         "time": "2023-11-28"
       },
       {
-        "company": "华润医药",
-        "time": "2023-08-28"
-      },
-      {
         "company": "小米集团-W",
         "time": "2023-08-28"
       },
       {
-        "company": "五谷磨房",
-        "time": "2023-08-21"
-      },
-      {
         "company": "比亚迪",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "李宁",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "联想集团",
         "time": "2023-08-21"
       },
       {
@@ -27640,14 +27628,6 @@
         "time": "2023-08-21"
       },
       {
-        "company": "锦欣生殖",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "中集车辆",
-        "time": "2023-08-21"
-      },
-      {
         "company": "万物新生（爱回收）",
         "time": "2023-08-21"
       },
@@ -27664,19 +27644,7 @@
         "time": "2023-08-21"
       },
       {
-        "company": "呷哺呷哺",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "平安好医生",
-        "time": "2023-08-21"
-      },
-      {
         "company": "万物云",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "云米科技",
         "time": "2023-08-21"
       },
       {
@@ -27692,27 +27660,11 @@
         "time": "2023-08-21"
       },
       {
-        "company": "湾区发展",
-        "time": "2023-08-21"
-      },
-      {
         "company": "瑞声科技",
         "time": "2023-08-21"
       },
       {
         "company": "药明生物",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "逸仙控股",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "爱奇艺",
         "time": "2023-08-21"
       },
       {
@@ -27724,27 +27676,15 @@
         "time": "2023-08-21"
       },
       {
-        "company": "招商局商业房托",
-        "time": "2023-03-17"
-      },
-      {
         "company": "腾讯音乐",
         "time": "2023-03-17"
       },
       {
         "company": "BOSS直聘",
         "time": "2023-03-17"
-      },
-      {
-        "company": "国泰海通证券研究所",
-        "time": "2023-02-13"
-      },
-      {
-        "company": "中金公司",
-        "time": "2023-02-07"
       }
     ],
-    "special_companies": "21世纪教育,万物云,万物新生（爱回收）,中集车辆,五谷磨房,华润医疗,华润医药,呷哺呷哺,复星国际,奈雪的茶,小米集团-W,星盛商业,有赞,波司登,湾区发展,百果园集团,英伟达,药明生物,赢家时尚,远东宏信,顺丰同城,香港公司治理公会北京代表处"
+    "special_companies": "21世纪教育,万物云,万物新生（爱回收）,复星国际,奈雪的茶,小米集团-W,星盛商业,有赞,波司登,百果园集团,英伟达,药明生物,赢家时尚,远东宏信,顺丰同城,香港公司治理公会北京代表处"
   },
   {
     "uid": "613144",
@@ -32326,6 +32266,36 @@
     "special_companies": ""
   },
   {
+    "uid": "333447",
+    "name": "杨程成",
+    "org_name": "凤凰网房产",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "高级总监",
+    "department": "总编室",
+    "last_interaction_time": "2024-08-29 10:00:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "复星国际",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-28",
+        "meet_title": "复星国际（0656.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-29",
+        "meet_title": "复星国际（0656.HK）2024年中期业绩发布会",
+        "duration": 99
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "612616",
     "name": "孙瑜",
     "org_name": "上海复星医药(集团)股份有限公司",
@@ -32369,36 +32339,6 @@
       }
     ],
     "special_companies": "复星国际"
-  },
-  {
-    "uid": "333447",
-    "name": "杨程成",
-    "org_name": "凤凰网房产",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "高级总监",
-    "department": "总编室",
-    "last_interaction_time": "2024-08-29 10:00:19",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "复星国际",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-28",
-        "meet_title": "复星国际（0656.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-29",
-        "meet_title": "复星国际（0656.HK）2024年中期业绩发布会",
-        "duration": 99
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "4656",
