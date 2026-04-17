@@ -7,7 +7,7 @@
     "cert_type": "机构投资者",
     "position": "主管 资深研究员",
     "department": "研究中心",
-    "last_interaction_time": "2026-04-16 17:19:33",
+    "last_interaction_time": "2026-04-17 20:01:59",
     "last_interaction_behavior": "参会",
     "interaction_company": "吉利汽车",
     "apply_count": 7,
@@ -43,6 +43,11 @@
     ],
     "attend_count": 7,
     "attend_records": [
+      {
+        "time": "2026-04-16",
+        "meet_title": "吉利汽车（00175.HK）2025年全年业绩发布会",
+        "duration": 75
+      },
       {
         "time": "2026-03-25",
         "meet_title": "吉利汽车（00175.HK）2025年全年业绩发布会",
@@ -5168,6 +5173,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2026-04-17"
+      },
       {
         "company": "博腾股份",
         "time": "2026-04-01"
@@ -32146,6 +32155,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-17"
+      },
+      {
         "company": "协鑫科技",
         "time": "2026-03-24"
       },
@@ -33407,35 +33420,6 @@
     "special_companies": ""
   },
   {
-    "uid": "579601",
-    "name": "陈雪",
-    "org_name": "上海牛乎资产管理有限公司",
-    "org_type": "财富管理公司",
-    "cert_type": "缺少分类",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-11-06 10:30:03",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "吉利汽车",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-11-04",
-        "meet_title": "吉利汽车（00175.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "慧择控股",
-        "time": "2023-11-03"
-      }
-    ],
-    "special_companies": "神州控股"
-  },
-  {
     "uid": "265568",
     "name": "顾宝成",
     "org_name": "上海度势投资有限公司",
@@ -33475,6 +33459,35 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "579601",
+    "name": "陈雪",
+    "org_name": "上海牛乎资产管理有限公司",
+    "org_type": "财富管理公司",
+    "cert_type": "缺少分类",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-11-06 10:30:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "吉利汽车",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-11-04",
+        "meet_title": "吉利汽车（00175.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "慧择控股",
+        "time": "2023-11-03"
+      }
+    ],
+    "special_companies": "神州控股"
   },
   {
     "uid": "430572",

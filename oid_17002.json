@@ -2,9 +2,9 @@
   {
     "uid": "648019",
     "name": "宋星昊",
-    "org_name": "深圳中集天达控股有限公司",
-    "org_type": null,
-    "cert_type": "个人",
+    "org_name": "中集天达控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "机构投资者",
     "position": "战略投资经理",
     "department": "管理发展部",
     "last_interaction_time": "2026-04-16 18:36:22",
@@ -5559,6 +5559,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-17"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-16"
@@ -43374,77 +43378,6 @@
     "special_companies": "碧桂园服务"
   },
   {
-    "uid": "611801",
-    "name": "Jinjia Zheng",
-    "org_name": "Alphahill Capital, LTD",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Equity Analyst",
-    "department": "",
-    "last_interaction_time": "2025-03-20 19:38:40",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "拼多多",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-03-19",
-        "meet_title": "拼多多（PDD.US）2024年第四季度业绩电话会"
-      },
-      {
-        "time": "2024-08-25",
-        "meet_title": "拼多多（PDD.US）2024年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-03-20",
-        "meet_title": "拼多多（PDD.US）2024年第四季度业绩电话会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "华住集团-S",
-        "time": "2025-03-19"
-      },
-      {
-        "company": "李宁",
-        "time": "2024-08-23"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "美丽田园",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "百果园集团",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "保利物业",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2024-08-15"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2024-08-15"
-      }
-    ],
-    "special_companies": "万物云,呷哺呷哺,百果园集团,绿城中国,绿城服务,美丽田园"
-  },
-  {
     "uid": "347034",
     "name": "彭刚",
     "org_name": "中国期货业协会",
@@ -43569,6 +43502,77 @@
     "special_companies": "中国心连心化肥,协合新能源,和铂医药,招商银行,拼多多,阜博集团"
   },
   {
+    "uid": "611801",
+    "name": "Jinjia Zheng",
+    "org_name": "Alphahill Capital, LTD",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Equity Analyst",
+    "department": "",
+    "last_interaction_time": "2025-03-20 19:38:40",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "拼多多",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-03-19",
+        "meet_title": "拼多多（PDD.US）2024年第四季度业绩电话会"
+      },
+      {
+        "time": "2024-08-25",
+        "meet_title": "拼多多（PDD.US）2024年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-03-20",
+        "meet_title": "拼多多（PDD.US）2024年第四季度业绩电话会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华住集团-S",
+        "time": "2025-03-19"
+      },
+      {
+        "company": "李宁",
+        "time": "2024-08-23"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "美丽田园",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "百果园集团",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2024-08-15"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2024-08-15"
+      }
+    ],
+    "special_companies": "万物云,呷哺呷哺,百果园集团,绿城中国,绿城服务,美丽田园"
+  },
+  {
     "uid": "610611",
     "name": "周书冬",
     "org_name": "深圳征途私募证券投资基金管理有限公司",
@@ -43601,6 +43605,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2026-04-17"
+      },
       {
         "company": "博腾股份",
         "time": "2026-04-01"
@@ -52568,6 +52576,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-17"
+      },
+      {
         "company": "协鑫科技",
         "time": "2026-03-24"
       },
@@ -53398,16 +53410,16 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "香港投资者关系协会",
+        "time": "2026-04-17"
+      },
+      {
         "company": "有赞",
         "time": "2024-11-17"
       },
       {
         "company": "远东宏信",
         "time": "2024-11-12"
-      },
-      {
-        "company": "捷利交易宝",
-        "time": "2024-11-08"
       },
       {
         "company": "香港公司治理公会北京代表处",
@@ -53446,27 +53458,11 @@
         "time": "2023-11-28"
       },
       {
-        "company": "华润医药",
-        "time": "2023-08-28"
-      },
-      {
         "company": "小米集团-W",
         "time": "2023-08-28"
       },
       {
-        "company": "五谷磨房",
-        "time": "2023-08-21"
-      },
-      {
         "company": "比亚迪",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "李宁",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "联想集团",
         "time": "2023-08-21"
       },
       {
@@ -53486,14 +53482,6 @@
         "time": "2023-08-21"
       },
       {
-        "company": "锦欣生殖",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "中集车辆",
-        "time": "2023-08-21"
-      },
-      {
         "company": "万物新生（爱回收）",
         "time": "2023-08-21"
       },
@@ -53510,19 +53498,7 @@
         "time": "2023-08-21"
       },
       {
-        "company": "呷哺呷哺",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "平安好医生",
-        "time": "2023-08-21"
-      },
-      {
         "company": "万物云",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "云米科技",
         "time": "2023-08-21"
       },
       {
@@ -53538,27 +53514,11 @@
         "time": "2023-08-21"
       },
       {
-        "company": "湾区发展",
-        "time": "2023-08-21"
-      },
-      {
         "company": "瑞声科技",
         "time": "2023-08-21"
       },
       {
         "company": "药明生物",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "逸仙控股",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "爱奇艺",
         "time": "2023-08-21"
       },
       {
@@ -53570,27 +53530,15 @@
         "time": "2023-08-21"
       },
       {
-        "company": "招商局商业房托",
-        "time": "2023-03-17"
-      },
-      {
         "company": "腾讯音乐",
         "time": "2023-03-17"
       },
       {
         "company": "BOSS直聘",
         "time": "2023-03-17"
-      },
-      {
-        "company": "国泰海通证券研究所",
-        "time": "2023-02-13"
-      },
-      {
-        "company": "中金公司",
-        "time": "2023-02-07"
       }
     ],
-    "special_companies": "21世纪教育,万物云,万物新生（爱回收）,中集车辆,五谷磨房,华润医疗,华润医药,呷哺呷哺,复星国际,奈雪的茶,小米集团-W,星盛商业,有赞,波司登,湾区发展,百果园集团,英伟达,药明生物,赢家时尚,远东宏信,顺丰同城,香港公司治理公会北京代表处"
+    "special_companies": "21世纪教育,万物云,万物新生（爱回收）,复星国际,奈雪的茶,小米集团-W,星盛商业,有赞,波司登,百果园集团,英伟达,药明生物,赢家时尚,远东宏信,顺丰同城,香港公司治理公会北京代表处"
   },
   {
     "uid": "3075",

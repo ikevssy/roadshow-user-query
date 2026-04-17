@@ -15648,6 +15648,41 @@
     "special_companies": "万物云,中国交建,农夫山泉,合景悠活,宝龙商业,建发物业,招商银行,新希望服务,星盛商业,永升服务,碧桂园,绿城中国,绿城管理控股,融创服务,路演中,金茂服务,雅生活服务"
   },
   {
+    "uid": "18301",
+    "name": "James Lu",
+    "org_name": "Dragon China Capital Co.,Ltd",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Managing Director",
+    "department": "",
+    "last_interaction_time": "2024-08-28 10:00:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宝龙商业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-28",
+        "meet_title": "宝龙商业（9909.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-28",
+        "meet_title": "宝龙商业（9909.HK）2024年中期业绩发布会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "融创服务",
+        "time": "2024-08-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "607047",
     "name": "刘张驰",
     "org_name": "东北证券股份有限公司上海证券自营分公司",
@@ -15745,41 +15780,6 @@
       }
     ],
     "special_companies": "万物云,建发国际集团,新城控股,绿城服务,绿城管理控股"
-  },
-  {
-    "uid": "18301",
-    "name": "James Lu",
-    "org_name": "Dragon China Capital Co.,Ltd",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Managing Director",
-    "department": "",
-    "last_interaction_time": "2024-08-28 10:00:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宝龙商业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-28",
-        "meet_title": "宝龙商业（9909.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-28",
-        "meet_title": "宝龙商业（9909.HK）2024年中期业绩发布会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "融创服务",
-        "time": "2024-08-27"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "336011",
@@ -16085,59 +16085,6 @@
     "special_companies": ""
   },
   {
-    "uid": "505628",
-    "name": "唐乔",
-    "org_name": "宝龙地产控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "总监",
-    "department": "资产管理中心",
-    "last_interaction_time": "2024-08-28 10:00:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宝龙商业",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2024-08-27",
-        "meet_title": "宝龙商业（9909.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-25",
-        "meet_title": "宝龙商业（9909.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2024-08-28",
-        "meet_title": "宝龙商业（9909.HK）2024年中期业绩发布会",
-        "duration": 54
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "宝龙商业（9909.HK）2023年度业绩发布会",
-        "duration": 36
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
-        "duration": 32
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
-        "duration": 22
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "宝龙地产"
-  },
-  {
     "uid": "14530",
     "name": "高超",
     "org_name": "温州维度投资管理有限公司",
@@ -16207,6 +16154,59 @@
       }
     ],
     "special_companies": "万物云,绿城服务"
+  },
+  {
+    "uid": "505628",
+    "name": "唐乔",
+    "org_name": "宝龙地产控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "总监",
+    "department": "资产管理中心",
+    "last_interaction_time": "2024-08-28 10:00:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宝龙商业",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2024-08-27",
+        "meet_title": "宝龙商业（9909.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-25",
+        "meet_title": "宝龙商业（9909.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2024-08-28",
+        "meet_title": "宝龙商业（9909.HK）2024年中期业绩发布会",
+        "duration": 54
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "宝龙商业（9909.HK）2023年度业绩发布会",
+        "duration": 36
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
+        "duration": 32
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
+        "duration": 22
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "宝龙地产"
   },
   {
     "uid": "279437",
@@ -49644,6 +49644,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-17"
+      },
+      {
         "company": "协鑫科技",
         "time": "2026-03-24"
       },
@@ -56954,6 +56958,36 @@
     "special_companies": "中国人寿"
   },
   {
+    "uid": "492924",
+    "name": "何信",
+    "org_name": "富国基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "资深研究员",
+    "department": "",
+    "last_interaction_time": "2023-03-30 10:01:06",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宝龙商业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
+        "duration": 54
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "424606",
     "name": "龙妍抒",
     "org_name": "招银国际融资有限公司",
@@ -56996,36 +57030,6 @@
       }
     ],
     "special_companies": "宝龙商业"
-  },
-  {
-    "uid": "492924",
-    "name": "何信",
-    "org_name": "富国基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "资深研究员",
-    "department": "",
-    "last_interaction_time": "2023-03-30 10:01:06",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宝龙商业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "500434",
@@ -57097,36 +57101,6 @@
     "special_companies": "新世界发展,远东发展"
   },
   {
-    "uid": "573693",
-    "name": "贾烜洲",
-    "org_name": "申万宏源证券有限公司",
-    "org_type": "证券公司",
-    "cert_type": "缺少分类",
-    "position": "实习生",
-    "department": "房地产组",
-    "last_interaction_time": "2023-03-30 10:00:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宝龙商业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "577364",
     "name": "Aro Ding",
     "org_name": "LBS Communications Consulting Limited",
@@ -57150,6 +57124,36 @@
         "time": "2023-03-30",
         "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
         "duration": 56
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "573693",
+    "name": "贾烜洲",
+    "org_name": "申万宏源证券有限公司",
+    "org_type": "证券公司",
+    "cert_type": "缺少分类",
+    "position": "实习生",
+    "department": "房地产组",
+    "last_interaction_time": "2023-03-30 10:00:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宝龙商业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-28",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
+        "duration": 55
       }
     ],
     "is_first_attend": true,
@@ -57185,6 +57189,41 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": "世茂服务"
+  },
+  {
+    "uid": "270166",
+    "name": "郭一辰",
+    "org_name": "大华继显(香港)有限公司",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "和國消費品行業研究主管",
+    "department": "",
+    "last_interaction_time": "2023-03-30 10:00:10",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "宝龙商业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
+        "duration": 55
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": "万物云"
   },
   {
     "uid": "502770",
@@ -57268,41 +57307,6 @@
       }
     ],
     "special_companies": "中国人寿,小米集团-W,绿城中国,美的置业,阿里巴巴-W"
-  },
-  {
-    "uid": "270166",
-    "name": "郭一辰",
-    "org_name": "大华继显(香港)有限公司",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "和國消費品行業研究主管",
-    "department": "",
-    "last_interaction_time": "2023-03-30 10:00:10",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "宝龙商业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "宝龙商业（9909.HK）2022年度业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": "万物云"
   },
   {
     "uid": "20972",

@@ -2,9 +2,9 @@
   {
     "uid": "648019",
     "name": "宋星昊",
-    "org_name": "深圳中集天达控股有限公司",
-    "org_type": null,
-    "cert_type": "个人",
+    "org_name": "中集天达控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "机构投资者",
     "position": "战略投资经理",
     "department": "管理发展部",
     "last_interaction_time": "2026-04-16 18:18:32",
@@ -7076,79 +7076,6 @@
     "special_companies": ""
   },
   {
-    "uid": "505493",
-    "name": "John Wong",
-    "org_name": "BloombergSen Investment Partners, Inc.",
-    "org_type": "财经数据服务",
-    "cert_type": "个人",
-    "position": "-",
-    "department": "",
-    "last_interaction_time": "2026-04-02 09:30:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "雅生活服务",
-    "apply_count": 6,
-    "apply_records": [
-      {
-        "time": "2026-04-01",
-        "meet_title": "雅生活服务（03319.HK）2025年度业绩投资者推介会"
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "雅生活服务（03319.HK）2024年度业绩投资者推介会"
-      },
-      {
-        "time": "2024-08-20",
-        "meet_title": "雅生活服务（03319.HK）2024年中期业绩投资者推介会"
-      },
-      {
-        "time": "2024-03-20",
-        "meet_title": "雅生活服务（03319.HK）2023全年业绩投资者推介会"
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "雅生活服务（03319.HK）2023年中期业绩投资者推介会"
-      },
-      {
-        "time": "2023-03-21",
-        "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-04-02",
-        "meet_title": "雅生活服务（03319.HK）2025年度业绩投资者推介会",
-        "duration": 65
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "雅生活服务（03319.HK）2024年度业绩投资者推介会",
-        "duration": 75
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "雅生活服务（03319.HK）2023全年业绩投资者推介会",
-        "duration": 33
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "万物云",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-04"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "327102",
     "name": "Joann Fang",
     "org_name": "iPR奥美公关",
@@ -7231,6 +7158,79 @@
       }
     ],
     "special_companies": "雅生活服务"
+  },
+  {
+    "uid": "505493",
+    "name": "John Wong",
+    "org_name": "BloombergSen Investment Partners, Inc.",
+    "org_type": "财经数据服务",
+    "cert_type": "个人",
+    "position": "-",
+    "department": "",
+    "last_interaction_time": "2026-04-02 09:30:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "雅生活服务",
+    "apply_count": 6,
+    "apply_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "雅生活服务（03319.HK）2025年度业绩投资者推介会"
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "雅生活服务（03319.HK）2024年度业绩投资者推介会"
+      },
+      {
+        "time": "2024-08-20",
+        "meet_title": "雅生活服务（03319.HK）2024年中期业绩投资者推介会"
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "雅生活服务（03319.HK）2023全年业绩投资者推介会"
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "雅生活服务（03319.HK）2023年中期业绩投资者推介会"
+      },
+      {
+        "time": "2023-03-21",
+        "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-04-02",
+        "meet_title": "雅生活服务（03319.HK）2025年度业绩投资者推介会",
+        "duration": 65
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "雅生活服务（03319.HK）2024年度业绩投资者推介会",
+        "duration": 75
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "雅生活服务（03319.HK）2023全年业绩投资者推介会",
+        "duration": 33
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "万物云",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-04"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "493247",
@@ -63959,6 +63959,36 @@
     "special_companies": ""
   },
   {
+    "uid": "426555",
+    "name": "邵予鑫",
+    "org_name": "上海小熙投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "行政运营",
+    "department": "综合部",
+    "last_interaction_time": "2023-03-29 09:01:00",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "雅生活服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会",
+        "duration": 110
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "333489",
     "name": "凤来仪",
     "org_name": "歌斐资产管理有限公司",
@@ -64146,36 +64176,6 @@
     "special_companies": ""
   },
   {
-    "uid": "426555",
-    "name": "邵予鑫",
-    "org_name": "上海小熙投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
-    "position": "行政运营",
-    "department": "综合部",
-    "last_interaction_time": "2023-03-29 09:01:00",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "雅生活服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会",
-        "duration": 110
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "493258",
     "name": "黄华敏",
     "org_name": "广州穗财投资管理有限公司",
@@ -64236,45 +64236,6 @@
     "special_companies": ""
   },
   {
-    "uid": "573424",
-    "name": "白学松",
-    "org_name": "东吴证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "房地产行业分析师",
-    "department": "研究所",
-    "last_interaction_time": "2023-03-29 09:00:52",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "雅生活服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-23",
-        "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会",
-        "duration": 110
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "保利物业",
-        "time": "2023-03-30"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2023-03-27"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "505214",
     "name": "李昀嘉",
     "org_name": "招银国际金融有限公司",
@@ -64312,6 +64273,45 @@
       }
     ],
     "special_companies": "绿城服务"
+  },
+  {
+    "uid": "573424",
+    "name": "白学松",
+    "org_name": "东吴证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "房地产行业分析师",
+    "department": "研究所",
+    "last_interaction_time": "2023-03-29 09:00:52",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "雅生活服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-23",
+        "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会",
+        "duration": 110
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "保利物业",
+        "time": "2023-03-30"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "440101",
@@ -64404,20 +64404,20 @@
     "special_companies": "万物云,中国海外宏洋集团,保利物业,建发国际集团,碧桂园,绿城中国,绿城管理控股"
   },
   {
-    "uid": "335486",
-    "name": "Andy Chua",
-    "org_name": "中信信惠国际资本有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "联席总监-基金管理",
-    "department": "",
+    "uid": "573257",
+    "name": "曹凌霁",
+    "org_name": "第一上海证券有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析師",
+    "department": "研究部",
     "last_interaction_time": "2023-03-29 09:00:48",
     "last_interaction_behavior": "参会",
     "interaction_company": "雅生活服务",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-20",
+        "time": "2023-03-28",
         "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会"
       }
     ],
@@ -64426,14 +64426,18 @@
       {
         "time": "2023-03-29",
         "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会",
-        "duration": 110
+        "duration": 29
       }
     ],
-    "is_first_attend": false,
+    "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "中国人寿",
-        "time": "2023-05-09"
+        "company": "中芯国际",
+        "time": "2023-07-26"
+      },
+      {
+        "company": "华虹公司",
+        "time": "2023-07-26"
       }
     ],
     "special_companies": ""
@@ -64557,20 +64561,20 @@
     "special_companies": "远洋服务"
   },
   {
-    "uid": "573257",
-    "name": "曹凌霁",
-    "org_name": "第一上海证券有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "分析師",
-    "department": "研究部",
+    "uid": "335486",
+    "name": "Andy Chua",
+    "org_name": "中信信惠国际资本有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "联席总监-基金管理",
+    "department": "",
     "last_interaction_time": "2023-03-29 09:00:48",
     "last_interaction_behavior": "参会",
     "interaction_company": "雅生活服务",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-28",
+        "time": "2023-03-20",
         "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会"
       }
     ],
@@ -64579,18 +64583,14 @@
       {
         "time": "2023-03-29",
         "meet_title": "雅生活服务（03319.HK）2022全年业绩投资者推介会",
-        "duration": 29
+        "duration": 110
       }
     ],
-    "is_first_attend": true,
+    "is_first_attend": false,
     "subscribed_companies": [
       {
-        "company": "中芯国际",
-        "time": "2023-07-26"
-      },
-      {
-        "company": "华虹公司",
-        "time": "2023-07-26"
+        "company": "中国人寿",
+        "time": "2023-05-09"
       }
     ],
     "special_companies": ""

@@ -12244,6 +12244,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国建筑",
+        "time": "2026-04-17"
+      },
+      {
         "company": "博腾股份",
         "time": "2026-04-01"
       },
@@ -32187,36 +32191,6 @@
     "special_companies": "华润医疗"
   },
   {
-    "uid": "440744",
-    "name": "刘锡源",
-    "org_name": "富国基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "行业研究员",
-    "department": "海外权益投资部",
-    "last_interaction_time": "2024-08-27 10:00:50",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华润医疗",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-27",
-        "meet_title": "华润医疗（01515.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-27",
-        "meet_title": "华润医疗（01515.HK）2024年中期业绩发布会",
-        "duration": 55
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "426555",
     "name": "邵予鑫",
     "org_name": "上海小熙投资管理有限公司",
@@ -32249,6 +32223,36 @@
         "time": "2024-03-20",
         "meet_title": "华润医疗（01515.HK）2023年度业绩发布会",
         "duration": 62
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "440744",
+    "name": "刘锡源",
+    "org_name": "富国基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "行业研究员",
+    "department": "海外权益投资部",
+    "last_interaction_time": "2024-08-27 10:00:50",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华润医疗",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-27",
+        "meet_title": "华润医疗（01515.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-27",
+        "meet_title": "华润医疗（01515.HK）2024年中期业绩发布会",
+        "duration": 55
       }
     ],
     "is_first_attend": true,
@@ -34303,6 +34307,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-17"
+      },
       {
         "company": "协鑫科技",
         "time": "2026-03-24"
@@ -41921,30 +41929,6 @@
     "special_companies": "华润医疗,华润医药,复星医药,敏华控股,新城发展,新城控股,福寿园"
   },
   {
-    "uid": "441393",
-    "name": "赵相林",
-    "org_name": "深圳市路演中网络科技有限公司",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "运营",
-    "department": "",
-    "last_interaction_time": "2024-03-20 10:01:44",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "华润医疗",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-20",
-        "meet_title": "华润医疗（01515.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "333619",
     "name": "吳效宇",
     "org_name": "信银（香港）资本有限公司",
@@ -42036,6 +42020,30 @@
       }
     ],
     "special_companies": "亿胜生物科技,华润医疗,和铂医药,宜明昂科,康哲药业,康基医疗,思路迪医药股份,联邦制药,艾美疫苗,药师帮,药明生物,贝康医疗,锦欣生殖"
+  },
+  {
+    "uid": "441393",
+    "name": "赵相林",
+    "org_name": "深圳市路演中网络科技有限公司",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "运营",
+    "department": "",
+    "last_interaction_time": "2024-03-20 10:01:44",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "华润医疗",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-20",
+        "meet_title": "华润医疗（01515.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "607050",
@@ -43072,6 +43080,41 @@
     "special_companies": ""
   },
   {
+    "uid": "606802",
+    "name": "Samantha Lam",
+    "org_name": "高观投资有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Analyst",
+    "department": "",
+    "last_interaction_time": "2024-03-20 10:00:27",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华润医疗",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-08",
+        "meet_title": "华润医疗（01515.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-20",
+        "meet_title": "华润医疗（01515.HK）2023年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "华润医疗（01515.HK）2023年度业绩发布会",
+        "duration": 69
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "504018",
     "name": "黄日浩",
     "org_name": "混沌天成资产管理(上海)有限公司",
@@ -43114,41 +43157,6 @@
       }
     ],
     "special_companies": "华熙生物,药明生物"
-  },
-  {
-    "uid": "606802",
-    "name": "Samantha Lam",
-    "org_name": "高观投资有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Analyst",
-    "department": "",
-    "last_interaction_time": "2024-03-20 10:00:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华润医疗",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-08",
-        "meet_title": "华润医疗（01515.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-20",
-        "meet_title": "华润医疗（01515.HK）2023年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2024-03-20",
-        "meet_title": "华润医疗（01515.HK）2023年度业绩发布会",
-        "duration": 69
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "19314",
@@ -47360,16 +47368,16 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "香港投资者关系协会",
+        "time": "2026-04-17"
+      },
+      {
         "company": "有赞",
         "time": "2024-11-17"
       },
       {
         "company": "远东宏信",
         "time": "2024-11-12"
-      },
-      {
-        "company": "捷利交易宝",
-        "time": "2024-11-08"
       },
       {
         "company": "香港公司治理公会北京代表处",
@@ -47408,27 +47416,11 @@
         "time": "2023-11-28"
       },
       {
-        "company": "华润医药",
-        "time": "2023-08-28"
-      },
-      {
         "company": "小米集团-W",
         "time": "2023-08-28"
       },
       {
-        "company": "五谷磨房",
-        "time": "2023-08-21"
-      },
-      {
         "company": "比亚迪",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "李宁",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "联想集团",
         "time": "2023-08-21"
       },
       {
@@ -47448,14 +47440,6 @@
         "time": "2023-08-21"
       },
       {
-        "company": "锦欣生殖",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "中集车辆",
-        "time": "2023-08-21"
-      },
-      {
         "company": "万物新生（爱回收）",
         "time": "2023-08-21"
       },
@@ -47472,19 +47456,7 @@
         "time": "2023-08-21"
       },
       {
-        "company": "呷哺呷哺",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "平安好医生",
-        "time": "2023-08-21"
-      },
-      {
         "company": "万物云",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "云米科技",
         "time": "2023-08-21"
       },
       {
@@ -47500,27 +47472,11 @@
         "time": "2023-08-21"
       },
       {
-        "company": "湾区发展",
-        "time": "2023-08-21"
-      },
-      {
         "company": "瑞声科技",
         "time": "2023-08-21"
       },
       {
         "company": "药明生物",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "逸仙控股",
-        "time": "2023-08-21"
-      },
-      {
-        "company": "爱奇艺",
         "time": "2023-08-21"
       },
       {
@@ -47532,27 +47488,15 @@
         "time": "2023-08-21"
       },
       {
-        "company": "招商局商业房托",
-        "time": "2023-03-17"
-      },
-      {
         "company": "腾讯音乐",
         "time": "2023-03-17"
       },
       {
         "company": "BOSS直聘",
         "time": "2023-03-17"
-      },
-      {
-        "company": "国泰海通证券研究所",
-        "time": "2023-02-13"
-      },
-      {
-        "company": "中金公司",
-        "time": "2023-02-07"
       }
     ],
-    "special_companies": "21世纪教育,万物云,万物新生（爱回收）,中集车辆,五谷磨房,华润医疗,华润医药,呷哺呷哺,复星国际,奈雪的茶,小米集团-W,星盛商业,有赞,波司登,湾区发展,百果园集团,英伟达,药明生物,赢家时尚,远东宏信,顺丰同城,香港公司治理公会北京代表处"
+    "special_companies": "21世纪教育,万物云,万物新生（爱回收）,复星国际,奈雪的茶,小米集团-W,星盛商业,有赞,波司登,百果园集团,英伟达,药明生物,赢家时尚,远东宏信,顺丰同城,香港公司治理公会北京代表处"
   },
   {
     "uid": "338451",
@@ -49057,6 +49001,54 @@
     "special_companies": "华润医疗,华润医药"
   },
   {
+    "uid": "334961",
+    "name": "黄成扬",
+    "org_name": "泰康资产管理有限责任公司",
+    "org_type": "保险资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "总监",
+    "department": "公募事业部一权益投资团队",
+    "last_interaction_time": "2023-08-23 10:01:31",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "华润医疗",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-08-16",
+        "meet_title": "华润医疗（01515.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-28",
+        "meet_title": "华润医疗（01515.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "华润医疗（01515.HK）2023年中期业绩发布会",
+        "duration": 86
+      },
+      {
+        "time": "2023-03-29",
+        "meet_title": "华润医疗（01515.HK）2022年度业绩发布会",
+        "duration": 64
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华润医疗",
+        "time": "2023-08-23"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-03-20"
+      }
+    ],
+    "special_companies": "华润医疗,绿城管理控股"
+  },
+  {
     "uid": "571937",
     "name": "程大可",
     "org_name": "瑞尔集团有限公司",
@@ -49114,54 +49106,6 @@
       }
     ],
     "special_companies": "华润医疗,呷哺呷哺,百果园集团,药明生物"
-  },
-  {
-    "uid": "334961",
-    "name": "黄成扬",
-    "org_name": "泰康资产管理有限责任公司",
-    "org_type": "保险资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "总监",
-    "department": "公募事业部一权益投资团队",
-    "last_interaction_time": "2023-08-23 10:01:31",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "华润医疗",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-08-16",
-        "meet_title": "华润医疗（01515.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-28",
-        "meet_title": "华润医疗（01515.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-08-23",
-        "meet_title": "华润医疗（01515.HK）2023年中期业绩发布会",
-        "duration": 86
-      },
-      {
-        "time": "2023-03-29",
-        "meet_title": "华润医疗（01515.HK）2022年度业绩发布会",
-        "duration": 64
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "华润医疗",
-        "time": "2023-08-23"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2023-03-20"
-      }
-    ],
-    "special_companies": "华润医疗,绿城管理控股"
   },
   {
     "uid": "351299",
@@ -59156,36 +59100,6 @@
     "special_companies": ""
   },
   {
-    "uid": "436574",
-    "name": "金靓竹",
-    "org_name": "清池资本（香港）有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "个人",
-    "position": "",
-    "department": "",
-    "last_interaction_time": "2023-03-29 10:00:47",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "华润医疗",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-20",
-        "meet_title": "华润医疗（01515.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "华润医疗（01515.HK）2022年度业绩发布会",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "577068",
     "name": "李嘉冕",
     "org_name": "博裕资本有限公司",
@@ -59221,12 +59135,12 @@
     "special_companies": ""
   },
   {
-    "uid": "503289",
-    "name": "王帅",
-    "org_name": "晨曦（深圳）私募证券投资基金管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "分析师",
+    "uid": "436574",
+    "name": "金靓竹",
+    "org_name": "清池资本（香港）有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "个人",
+    "position": "",
     "department": "",
     "last_interaction_time": "2023-03-29 10:00:47",
     "last_interaction_behavior": "参会",
@@ -59234,7 +59148,7 @@
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-21",
+        "time": "2023-03-20",
         "meet_title": "华润医疗（01515.HK）2022年度业绩发布会"
       }
     ],
@@ -59243,7 +59157,7 @@
       {
         "time": "2023-03-29",
         "meet_title": "华润医疗（01515.HK）2022年度业绩发布会",
-        "duration": 64
+        "duration": 62
       }
     ],
     "is_first_attend": true,
@@ -59265,6 +59179,36 @@
     "apply_records": [
       {
         "time": "2023-03-28",
+        "meet_title": "华润医疗（01515.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "华润医疗（01515.HK）2022年度业绩发布会",
+        "duration": 64
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "503289",
+    "name": "王帅",
+    "org_name": "晨曦（深圳）私募证券投资基金管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "",
+    "last_interaction_time": "2023-03-29 10:00:47",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "华润医疗",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-21",
         "meet_title": "华润医疗（01515.HK）2022年度业绩发布会"
       }
     ],
