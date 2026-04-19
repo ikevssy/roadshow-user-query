@@ -1,5 +1,189 @@
 [
   {
+    "uid": "578487",
+    "name": "李晓豪",
+    "org_name": "中国国际金融股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析员",
+    "department": "研究部",
+    "last_interaction_time": "2026-04-19 19:16:39",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "保利发展",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-19"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2026-03-23"
+      }
+    ],
+    "special_companies": "中南建设"
+  },
+  {
+    "uid": "492897",
+    "name": "方鹏",
+    "org_name": "国联民生证券",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "Analyst in Real Estate Industry",
+    "department": "Research Department",
+    "last_interaction_time": "2026-04-19 18:50:30",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "保利发展",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-19"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-02-27"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-03-28"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2024-03-22"
+      }
+    ],
+    "special_companies": "万物云,中国海外宏洋集团,保利物业,建发国际集团,碧桂园,绿城中国,绿城管理控股"
+  },
+  {
+    "uid": "432240",
+    "name": "胡栋亮",
+    "org_name": "苏州合瑞投资咨询有限责任公司",
+    "org_type": "财务顾问机构",
+    "cert_type": "服务机构",
+    "position": "总经理",
+    "department": "",
+    "last_interaction_time": "2026-04-19 18:28:41",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "保利发展",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-19"
+      },
+      {
+        "company": "新城控股",
+        "time": "2025-03-31"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-03-31"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": "中南建设,绿城中国"
+  },
+  {
+    "uid": "350342",
+    "name": "宋志达",
+    "org_name": "中国国际金融股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析师",
+    "department": "研究部",
+    "last_interaction_time": "2026-04-19 18:22:56",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "保利发展",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-19"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "427391",
+    "name": "黄浩庭",
+    "org_name": "中海物业集团有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "分析师",
+    "department": "企划部",
+    "last_interaction_time": "2026-04-18 14:33:43",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "保利发展",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-03-24"
+      }
+    ],
+    "special_companies": "中海物业"
+  },
+  {
     "uid": "638361",
     "name": "谢培基",
     "org_name": "广州盈侨企业管理咨询有限公司",

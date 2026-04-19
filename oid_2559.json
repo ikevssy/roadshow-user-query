@@ -13,7 +13,13 @@
     "apply_count": 0,
     "apply_records": [],
     "attend_count": 1,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-17",
+        "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会",
+        "duration": 0
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
@@ -41,7 +47,13 @@
     "apply_count": 0,
     "apply_records": [],
     "attend_count": 1,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-17",
+        "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会",
+        "duration": 1
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
@@ -60,7 +72,13 @@
     "apply_count": 0,
     "apply_records": [],
     "attend_count": 1,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-17",
+        "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会",
+        "duration": 0
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
@@ -391,7 +409,13 @@
     "apply_count": 0,
     "apply_records": [],
     "attend_count": 1,
-    "attend_records": [],
+    "attend_records": [
+      {
+        "time": "2026-04-17",
+        "meet_title": "中国交建（601800.SH，1800.HK）2025年度业绩发布会",
+        "duration": 0
+      }
+    ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
@@ -3351,6 +3375,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
       {
         "company": "银诺医药",
         "time": "2026-04-14"
@@ -14344,36 +14372,6 @@
     "special_companies": ""
   },
   {
-    "uid": "493164",
-    "name": "王龙",
-    "org_name": "长城证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "建筑材料研究员",
-    "department": "产业金融研究院",
-    "last_interaction_time": "2025-03-31 15:01:06",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国交建",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-31",
-        "meet_title": "中国交建（601800.SH，1800.HK）2024年度业绩发布会",
-        "duration": 84
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国交建",
-        "time": "2025-03-31"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "449170",
     "name": "吴钰洁",
     "org_name": "光大证券股份有限公司研究所",
@@ -14675,6 +14673,36 @@
       {
         "company": "万国数据服务",
         "time": "2023-03-15"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "493164",
+    "name": "王龙",
+    "org_name": "长城证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "建筑材料研究员",
+    "department": "产业金融研究院",
+    "last_interaction_time": "2025-03-31 15:01:06",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国交建",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-31",
+        "meet_title": "中国交建（601800.SH，1800.HK）2024年度业绩发布会",
+        "duration": 84
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国交建",
+        "time": "2025-03-31"
       }
     ],
     "special_companies": ""

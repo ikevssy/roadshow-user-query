@@ -3146,6 +3146,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "英国石油",
+        "time": "2026-04-18"
+      },
+      {
+        "company": "协鑫科技",
+        "time": "2026-04-18"
+      },
+      {
         "company": "滴普科技",
         "time": "2026-03-25"
       },
@@ -5709,6 +5717,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "香港公司治理公会北京代表处",
+        "time": "2026-04-19"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-19"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-11"
       },
@@ -6347,6 +6363,65 @@
     "special_companies": ""
   },
   {
+    "uid": "338624",
+    "name": "郭朝勤",
+    "org_name": "福州远望投资管理有限公司",
+    "org_type": "财务顾问机构",
+    "cert_type": "个人",
+    "position": "投资总监",
+    "department": "",
+    "last_interaction_time": "2026-03-25 15:11:57",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国有色矿业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-22",
+        "meet_title": "中国有色矿业（1258.HK）2025年度业绩说明会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "中国有色矿业（1258.HK）2025年度业绩说明会",
+        "duration": 5
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-22"
+      },
+      {
+        "company": "拼多多",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "药师帮",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-03-19"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2023-03-19"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-03-19"
+      }
+    ],
+    "special_companies": "卓越商企服务,宝龙商业,融创服务"
+  },
+  {
     "uid": "437619",
     "name": "刘健豪",
     "org_name": "宁波万坤投资管理合伙企业(有限合伙)",
@@ -6432,65 +6507,6 @@
       }
     ],
     "special_companies": "保利物业"
-  },
-  {
-    "uid": "338624",
-    "name": "郭朝勤",
-    "org_name": "福州远望投资管理有限公司",
-    "org_type": "财务顾问机构",
-    "cert_type": "个人",
-    "position": "投资总监",
-    "department": "",
-    "last_interaction_time": "2026-03-25 15:11:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国有色矿业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-22",
-        "meet_title": "中国有色矿业（1258.HK）2025年度业绩说明会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-25",
-        "meet_title": "中国有色矿业（1258.HK）2025年度业绩说明会",
-        "duration": 5
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国有色矿业",
-        "time": "2026-03-22"
-      },
-      {
-        "company": "拼多多",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "药师帮",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2023-03-19"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2023-03-19"
-      },
-      {
-        "company": "融创服务",
-        "time": "2023-03-19"
-      }
-    ],
-    "special_companies": "卓越商企服务,宝龙商业,融创服务"
   },
   {
     "uid": "33065",
@@ -8095,6 +8111,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
       {
         "company": "中海物业",
         "time": "2026-03-23"

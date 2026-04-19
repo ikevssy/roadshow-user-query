@@ -21690,6 +21690,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
+      {
         "company": "银诺医药",
         "time": "2026-04-14"
       },
@@ -39980,6 +39984,43 @@
     "special_companies": "华润医药"
   },
   {
+    "uid": "496483",
+    "name": "黄嘉敏",
+    "org_name": "蓝鲸财经",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "房产记者",
+    "department": "房产",
+    "last_interaction_time": "2024-03-22 12:27:58",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "中国平安",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-22",
+        "meet_title": "中国平安（601318.SH，02318.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "万物云",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "中南建设",
+        "time": "2023-04-25"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": "中南建设,碧桂园服务,美的置业"
+  },
+  {
     "uid": "347734",
     "name": "卢福红",
     "org_name": "深圳市安际资产管理有限公司",
@@ -40037,43 +40078,6 @@
       }
     ],
     "special_companies": "宝龙商业,星盛商业,绿城中国"
-  },
-  {
-    "uid": "496483",
-    "name": "黄嘉敏",
-    "org_name": "蓝鲸财经",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "房产记者",
-    "department": "房产",
-    "last_interaction_time": "2024-03-22 12:27:58",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "中国平安",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-22",
-        "meet_title": "中国平安（601318.SH，02318.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "万物云",
-        "time": "2024-03-22"
-      },
-      {
-        "company": "中南建设",
-        "time": "2023-04-25"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": "中南建设,碧桂园服务,美的置业"
   },
   {
     "uid": "579684",
