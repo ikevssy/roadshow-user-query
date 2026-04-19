@@ -2790,6 +2790,69 @@
     "special_companies": "中国电信,药明生物"
   },
   {
+    "uid": "267834",
+    "name": "肖尉",
+    "org_name": "上海金舆资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2026-03-31 17:02:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "保利物业（06049.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-03-20",
+        "meet_title": "保利物业（06049.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "保利物业（06049.HK）2025年度业绩发布会",
+        "duration": 15
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "保利物业",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "永升服务",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-18"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "637297",
     "name": "Timothy Ng",
     "org_name": "Spread-it",
@@ -2872,69 +2935,6 @@
       {
         "company": "绿城服务",
         "time": "2025-08-22"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "267834",
-    "name": "肖尉",
-    "org_name": "上海金舆资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-31 17:02:21",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-24",
-        "meet_title": "保利物业（06049.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-03-20",
-        "meet_title": "保利物业（06049.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "保利物业（06049.HK）2025年度业绩发布会",
-        "duration": 15
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "保利物业",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "永升服务",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-18"
       }
     ],
     "special_companies": ""
@@ -9648,6 +9648,68 @@
     "special_companies": ""
   },
   {
+    "uid": "503674",
+    "name": "胡耀文",
+    "org_name": "开源证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "地产建筑分析师",
+    "department": "研究所",
+    "last_interaction_time": "2026-03-31 16:30:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "保利物业（06049.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-20",
+        "meet_title": "保利物业（06049.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-15",
+        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "保利物业（06049.HK）2025年度业绩发布会",
+        "duration": 48
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会",
+        "duration": 35
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "保利物业（06049.HK）2024年度业绩发布会",
+        "duration": 70
+      },
+      {
+        "time": "2024-08-20",
+        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会",
+        "duration": 112
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "贝壳",
+        "time": "2023-03-16"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "573668",
     "name": "曾佳敏",
     "org_name": "国泰君安证券股份有限公司研究所",
@@ -9857,68 +9919,6 @@
     "special_companies": "万物云,保利物业,宝龙商业,建发国际集团,招商蛇口,新城悦服务,新城控股,碧桂园服务,绿城服务,绿城管理控股,绿景中国地产,美的置业,越秀地产"
   },
   {
-    "uid": "503674",
-    "name": "胡耀文",
-    "org_name": "开源证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "地产建筑分析师",
-    "department": "研究所",
-    "last_interaction_time": "2026-03-31 16:30:21",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "保利物业（06049.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-20",
-        "meet_title": "保利物业（06049.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-15",
-        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "保利物业（06049.HK）2025年度业绩发布会",
-        "duration": 48
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会",
-        "duration": 35
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "保利物业（06049.HK）2024年度业绩发布会",
-        "duration": 70
-      },
-      {
-        "time": "2024-08-20",
-        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会",
-        "duration": 112
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "贝壳",
-        "time": "2023-03-16"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "339168",
     "name": "赵晓",
     "org_name": "前方基金管理有限公司",
@@ -10091,6 +10091,30 @@
     "special_companies": "万物云,中国中冶,中国太保,中国建筑,中国海外宏洋集团,中国电信,中国通信服务,中海物业,保利发展,绿城服务"
   },
   {
+    "uid": "497048",
+    "name": "Qi Wen",
+    "org_name": "Jefferies",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "vice president equity research healthcare",
+    "department": "",
+    "last_interaction_time": "2026-03-31 16:30:08",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "保利物业（06049.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": "百融智能,罕王黄金,联邦制药"
+  },
+  {
     "uid": "282778",
     "name": "李心圆",
     "org_name": "花旗环球金融亚洲有限公司",
@@ -10205,30 +10229,6 @@
     "special_companies": "万物云,世茂服务,保利物业,卓越商企服务,建业新生活,招商蛇口,新城悦服务,新希望服务,滨江服务,碧桂园服务,金茂服务"
   },
   {
-    "uid": "497048",
-    "name": "Qi Wen",
-    "org_name": "Jefferies",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "vice president equity research healthcare",
-    "department": "",
-    "last_interaction_time": "2026-03-31 16:30:08",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "保利物业（06049.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "百融智能,罕王黄金,联邦制药"
-  },
-  {
     "uid": "334180",
     "name": "许佳璐",
     "org_name": "中银国际证券股份有限公司",
@@ -10320,6 +10320,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-19"
+      },
       {
         "company": "世茂服务",
         "time": "2026-03-27"
@@ -12935,6 +12939,41 @@
     "special_companies": ""
   },
   {
+    "uid": "646098",
+    "name": "唐韩",
+    "org_name": "深圳和泽资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "投资部",
+    "last_interaction_time": "2026-03-31 16:27:18",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "保利物业（06049.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "保利物业（06049.HK）2025年度业绩发布会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "保利物业",
+        "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "577645",
     "name": "曾见乔",
     "org_name": "信达证券股份有限公司",
@@ -13141,41 +13180,6 @@
     "special_companies": "万物云,建发国际集团,绿城中国,绿城管理控股"
   },
   {
-    "uid": "646098",
-    "name": "唐韩",
-    "org_name": "深圳和泽资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "投资部",
-    "last_interaction_time": "2026-03-31 16:27:18",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "保利物业（06049.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "保利物业（06049.HK）2025年度业绩发布会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "保利物业",
-        "time": "2026-03-25"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "645757",
     "name": "卫卞豪",
     "org_name": "上海申银万国证券研究所有限公司",
@@ -13333,6 +13337,49 @@
     "special_companies": ""
   },
   {
+    "uid": "611943",
+    "name": "赖欣",
+    "org_name": "深圳前海珞珈方圆资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2026-03-31 16:27:12",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "保利物业（06049.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "保利物业（06049.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-19",
+        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "保利物业（06049.HK）2025年度业绩发布会",
+        "duration": 79
+      },
+      {
+        "time": "2024-08-20",
+        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会",
+        "duration": 110
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "636818",
     "name": "王伟贤",
     "org_name": "Weighted CAPITAL",
@@ -13399,49 +13446,6 @@
         "time": "2025-08-19"
       }
     ],
-    "special_companies": ""
-  },
-  {
-    "uid": "611943",
-    "name": "赖欣",
-    "org_name": "深圳前海珞珈方圆资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "",
-    "last_interaction_time": "2026-03-31 16:27:12",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "保利物业（06049.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "保利物业（06049.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-19",
-        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "保利物业（06049.HK）2025年度业绩发布会",
-        "duration": 79
-      },
-      {
-        "time": "2024-08-20",
-        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会",
-        "duration": 110
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -30644,6 +30648,75 @@
     "special_companies": "碧桂园服务"
   },
   {
+    "uid": "42901",
+    "name": "顾伟",
+    "org_name": "淳厚基金管理有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "权益投资部",
+    "last_interaction_time": "2025-08-25 16:59:20",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 5,
+    "apply_records": [
+      {
+        "time": "2025-08-21",
+        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "保利物业（06049.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-19",
+        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-24",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会",
+        "duration": 8
+      },
+      {
+        "time": "2024-08-20",
+        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会",
+        "duration": 48
+      },
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
+        "duration": 91
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中海物业",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "融创中国",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": "绿城服务"
+  },
+  {
     "uid": "426727",
     "name": "赵钧",
     "org_name": "哈曼（中国）投资有限公司",
@@ -30741,75 +30814,6 @@
       }
     ],
     "special_companies": "中国电信,中粮家佳康,联邦制药"
-  },
-  {
-    "uid": "42901",
-    "name": "顾伟",
-    "org_name": "淳厚基金管理有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "权益投资部",
-    "last_interaction_time": "2025-08-25 16:59:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 5,
-    "apply_records": [
-      {
-        "time": "2025-08-21",
-        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "保利物业（06049.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-19",
-        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-24",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会",
-        "duration": 8
-      },
-      {
-        "time": "2024-08-20",
-        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会",
-        "duration": 48
-      },
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
-        "duration": 91
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中海物业",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "融创中国",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2023-03-27"
-      }
-    ],
-    "special_companies": "绿城服务"
   },
   {
     "uid": "274497",
@@ -32943,41 +32947,6 @@
     "special_companies": ""
   },
   {
-    "uid": "347495",
-    "name": "Jackson Hui",
-    "org_name": "Capital International  Investors",
-    "org_type": "财经公关服务",
-    "cert_type": "个人",
-    "position": "investment analyst",
-    "department": "",
-    "last_interaction_time": "2025-08-25 16:29:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会",
-        "duration": 10
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "保利物业（06049.HK）2024年度业绩发布会",
-        "duration": 72
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "502350",
     "name": "朱代国",
     "org_name": "皓峪资本",
@@ -33052,6 +33021,41 @@
       }
     ],
     "special_companies": "中国电力,百融智能"
+  },
+  {
+    "uid": "347495",
+    "name": "Jackson Hui",
+    "org_name": "Capital International  Investors",
+    "org_type": "财经公关服务",
+    "cert_type": "个人",
+    "position": "investment analyst",
+    "department": "",
+    "last_interaction_time": "2025-08-25 16:29:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会",
+        "duration": 10
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "保利物业（06049.HK）2024年度业绩发布会",
+        "duration": 72
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "427928",
@@ -33305,6 +33309,151 @@
     "special_companies": ""
   },
   {
+    "uid": "506735",
+    "name": "沈宸昊",
+    "org_name": "大华继显投资咨询（上海）有限公司",
+    "org_type": "投资银行",
+    "cert_type": "个人",
+    "position": "助理分析員",
+    "department": "研究部",
+    "last_interaction_time": "2025-08-25 16:29:23",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 6,
+    "apply_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-24",
+        "meet_title": "保利物业（06049.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-15",
+        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "保利物业（06049.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-15",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-20",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 6,
+    "attend_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会",
+        "duration": 63
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "保利物业（06049.HK）2024年度业绩发布会",
+        "duration": 4
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "保利物业（06049.HK）2024年度业绩发布会",
+        "duration": 73
+      },
+      {
+        "time": "2024-08-20",
+        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会",
+        "duration": 6
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
+        "duration": 5
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
+        "duration": 97
+      },
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
+        "duration": 3
+      },
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
+        "duration": 22
+      },
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
+        "duration": 90
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "越秀地产",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "中海物业",
+        "time": "2024-03-20"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-03-15"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-08-24"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2023-04-12"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "永升服务",
+        "time": "2023-03-23"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-03-20"
+      },
+      {
+        "company": "保利物业",
+        "time": "2023-03-20"
+      }
+    ],
+    "special_companies": "中国建筑,保利物业,永升服务,碧桂园服务,绿城服务,绿城管理控股,融创服务"
+  },
+  {
     "uid": "335275",
     "name": "陈颖",
     "org_name": "华泰证券股份有限公司",
@@ -33476,151 +33625,6 @@
       }
     ],
     "special_companies": "万物云,中国海外宏洋集团,合景悠活,合景泰富集团,宝龙商业,建业地产,建发国际集团,建发物业,招商蛇口,新希望服务,星盛商业,深圳控股,碧桂园,绿城中国,绿城管理控股,绿景中国地产,美的置业,融创服务"
-  },
-  {
-    "uid": "506735",
-    "name": "沈宸昊",
-    "org_name": "大华继显投资咨询（上海）有限公司",
-    "org_type": "投资银行",
-    "cert_type": "个人",
-    "position": "助理分析員",
-    "department": "研究部",
-    "last_interaction_time": "2025-08-25 16:29:23",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 6,
-    "apply_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-24",
-        "meet_title": "保利物业（06049.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-15",
-        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-20",
-        "meet_title": "保利物业（06049.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-15",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-20",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 6,
-    "attend_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会",
-        "duration": 63
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "保利物业（06049.HK）2024年度业绩发布会",
-        "duration": 4
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "保利物业（06049.HK）2024年度业绩发布会",
-        "duration": 73
-      },
-      {
-        "time": "2024-08-20",
-        "meet_title": "保利物业（06049.HK）2024年中期业绩发布会",
-        "duration": 6
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
-        "duration": 5
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
-        "duration": 97
-      },
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
-        "duration": 3
-      },
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
-        "duration": 22
-      },
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
-        "duration": 90
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "越秀地产",
-        "time": "2025-03-24"
-      },
-      {
-        "company": "中海物业",
-        "time": "2024-03-20"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2024-03-15"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-08-24"
-      },
-      {
-        "company": "中国建筑",
-        "time": "2023-04-12"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2023-03-24"
-      },
-      {
-        "company": "永升服务",
-        "time": "2023-03-23"
-      },
-      {
-        "company": "融创服务",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2023-03-20"
-      },
-      {
-        "company": "保利物业",
-        "time": "2023-03-20"
-      }
-    ],
-    "special_companies": "中国建筑,保利物业,永升服务,碧桂园服务,绿城服务,绿城管理控股,融创服务"
   },
   {
     "uid": "493364",
@@ -35027,101 +35031,6 @@
     "special_companies": ""
   },
   {
-    "uid": "632534",
-    "name": "王彧森",
-    "org_name": "中信证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "高级经理",
-    "department": "研究部",
-    "last_interaction_time": "2025-08-25 16:28:10",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-08-22",
-        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-31",
-        "meet_title": "保利物业（06049.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会",
-        "duration": 64
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "新希望服务",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "美的置业",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-22"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "434693",
     "name": "李佳璠",
     "org_name": "中国国际金融股份有限公司",
@@ -35215,6 +35124,101 @@
       }
     ],
     "special_companies": "保利物业"
+  },
+  {
+    "uid": "632534",
+    "name": "王彧森",
+    "org_name": "中信证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "高级经理",
+    "department": "研究部",
+    "last_interaction_time": "2025-08-25 16:28:10",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-08-22",
+        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-31",
+        "meet_title": "保利物业（06049.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "保利物业（06049.HK）2025年中期业绩发布会",
+        "duration": 64
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "新希望服务",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "美的置业",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-22"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "633430",
@@ -68822,59 +68826,6 @@
     "special_companies": ""
   },
   {
-    "uid": "502400",
-    "name": "李一鸣",
-    "org_name": "武汉经开投资有限公司",
-    "org_type": "国家/政府投资平台",
-    "cert_type": "机构投资者",
-    "position": "投资员",
-    "department": "战略投资部",
-    "last_interaction_time": "2024-03-27 10:05:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2024-03-26",
-        "meet_title": "保利物业（06049.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-10-21",
-        "meet_title": "保利物业（06049.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
-      },
-      {
-        "time": "2023-03-17",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
-        "duration": 71
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会",
-        "duration": 83
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "美团-W",
-        "time": "2023-10-21"
-      }
-    ],
-    "special_companies": "中粮家佳康,保利物业,卓越商企服务,绿城管理控股"
-  },
-  {
     "uid": "12119",
     "name": "刘忠政",
     "org_name": "北京诚盛投资管理有限公司",
@@ -69124,6 +69075,59 @@
     "special_companies": "万物新生（爱回收）,中粮包装,中粮家佳康,五谷磨房,亿胜生物科技,华虹公司,康基医疗,星盛商业,森松国际,湾区发展,锦欣生殖"
   },
   {
+    "uid": "502400",
+    "name": "李一鸣",
+    "org_name": "武汉经开投资有限公司",
+    "org_type": "国家/政府投资平台",
+    "cert_type": "机构投资者",
+    "position": "投资员",
+    "department": "战略投资部",
+    "last_interaction_time": "2024-03-27 10:05:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2024-03-26",
+        "meet_title": "保利物业（06049.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-10-21",
+        "meet_title": "保利物业（06049.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
+      },
+      {
+        "time": "2023-03-17",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
+        "duration": 71
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会",
+        "duration": 83
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "美团-W",
+        "time": "2023-10-21"
+      }
+    ],
+    "special_companies": "中粮家佳康,保利物业,卓越商企服务,绿城管理控股"
+  },
+  {
     "uid": "7688",
     "name": "陈浩",
     "org_name": "瓴仁投资",
@@ -69225,6 +69229,49 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "332911",
+    "name": "于小雨",
+    "org_name": "上海亿翰商务咨询股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "服务机构",
+    "position": "研究总监",
+    "department": "",
+    "last_interaction_time": "2024-03-27 10:04:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "保利物业（06049.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-03-20",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
+        "duration": 92
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "建发国际集团",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "美的置业",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": "招商蛇口,绿城中国,美的置业"
   },
   {
     "uid": "279520",
@@ -69406,49 +69453,6 @@
       }
     ],
     "special_companies": "万物云,世茂服务,保利物业,信义光能,卓越商企服务,合景悠活,宝龙商业,建发物业,新希望服务,滨江服务,碧桂园服务,绿城中国,绿城服务,越秀服务,金科服务,金茂服务,雅生活服务"
-  },
-  {
-    "uid": "332911",
-    "name": "于小雨",
-    "org_name": "上海亿翰商务咨询股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "服务机构",
-    "position": "研究总监",
-    "department": "",
-    "last_interaction_time": "2024-03-27 10:04:28",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "保利物业（06049.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-03-20",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
-        "duration": 92
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "建发国际集团",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "美的置业",
-        "time": "2023-03-27"
-      }
-    ],
-    "special_companies": "招商蛇口,绿城中国,美的置业"
   },
   {
     "uid": "338099",
@@ -69871,6 +69875,59 @@
     "special_companies": "IGG INC,保利物业,华润医药,卓越商企服务,国证国际证券(香港)研究所,宝龙商业,康哲药业,康臣药业,建发国际集团,新城悦服务,新希望服务,滨江服务,碧桂园服务,绿城服务,绿城管理控股,罕王黄金,越秀服务,路演中,远洋服务,雅生活服务"
   },
   {
+    "uid": "334940",
+    "name": "Chloe Liu",
+    "org_name": "Morgan Stanley ASIA LIMITED",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "",
+    "department": "International commerce centre",
+    "last_interaction_time": "2024-03-27 10:01:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2024-03-20",
+        "meet_title": "保利物业（06049.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-22",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
+        "duration": 95
+      },
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
+        "duration": 6
+      },
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
+        "duration": 18
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会",
+        "duration": 86
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "276134",
     "name": "李杨",
     "org_name": "中国人寿富兰克林资产管理有限公司",
@@ -69935,59 +69992,6 @@
       }
     ],
     "special_companies": "比亚迪"
-  },
-  {
-    "uid": "334940",
-    "name": "Chloe Liu",
-    "org_name": "Morgan Stanley ASIA LIMITED",
-    "org_type": null,
-    "cert_type": "个人",
-    "position": "",
-    "department": "International commerce centre",
-    "last_interaction_time": "2024-03-27 10:01:28",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2024-03-20",
-        "meet_title": "保利物业（06049.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-22",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
-        "duration": 95
-      },
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
-        "duration": 6
-      },
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
-        "duration": 18
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会",
-        "duration": 86
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "574391",
@@ -70672,36 +70676,6 @@
     "special_companies": ""
   },
   {
-    "uid": "350011",
-    "name": "刘国斌",
-    "org_name": "方圆天成资产管理（深圳）有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "硏究员",
-    "department": "投研部",
-    "last_interaction_time": "2024-03-27 09:58:46",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "保利物业（06049.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
-        "duration": 98
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "538845",
     "name": "李志伟",
     "org_name": "厦门骅逸永兴资产管理有限公司",
@@ -70976,6 +70950,36 @@
       }
     ],
     "special_companies": "中国船舶租赁,保利物业,美的置业"
+  },
+  {
+    "uid": "350011",
+    "name": "刘国斌",
+    "org_name": "方圆天成资产管理（深圳）有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "硏究员",
+    "department": "投研部",
+    "last_interaction_time": "2024-03-27 09:58:46",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "保利物业（06049.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "保利物业（06049.HK）2023年度业绩发布会",
+        "duration": 98
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "572497",
@@ -80972,36 +80976,6 @@
     "special_companies": "万物云,中金公司研究所,保利物业,建发国际集团,招商蛇口,新世界发展,绿城中国,融创服务,越秀地产,金茂服务"
   },
   {
-    "uid": "270381",
-    "name": "庄达",
-    "org_name": "上海重阳投资管理股份有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "基金经理",
-    "department": "",
-    "last_interaction_time": "2023-08-23 10:00:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-22",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
-        "duration": 88
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "426783",
     "name": "朱成凯",
     "org_name": "光大证券股份有限公司",
@@ -81028,6 +81002,36 @@
       }
     ],
     "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "270381",
+    "name": "庄达",
+    "org_name": "上海重阳投资管理股份有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "基金经理",
+    "department": "",
+    "last_interaction_time": "2023-08-23 10:00:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-22",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
+        "duration": 88
+      }
+    ],
+    "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
   },
@@ -81332,6 +81336,41 @@
     "special_companies": "万物云,启明医疗,绿城服务,药明生物"
   },
   {
+    "uid": "282594",
+    "name": "李明斯",
+    "org_name": "中信建投证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "资产管理部",
+    "last_interaction_time": "2023-08-23 10:00:30",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-16",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
+        "duration": 91
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "金科服务",
+        "time": "2023-08-16"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "277054",
     "name": "赖寒",
     "org_name": "江苏银创资本管理有限公司",
@@ -81409,71 +81448,6 @@
     "special_companies": "万物云"
   },
   {
-    "uid": "282594",
-    "name": "李明斯",
-    "org_name": "中信建投证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "资产管理部",
-    "last_interaction_time": "2023-08-23 10:00:30",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-16",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
-        "duration": 91
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "金科服务",
-        "time": "2023-08-16"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "503225",
-    "name": "何欣冉",
-    "org_name": "南方基金管理股份有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "分析师",
-    "department": "权益研究部",
-    "last_interaction_time": "2023-08-23 10:00:28",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
-        "duration": 58
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "332858",
     "name": "黄存晨",
     "org_name": "中信里昂证券有限公司",
@@ -81514,6 +81488,36 @@
     "special_companies": "万物云"
   },
   {
+    "uid": "503225",
+    "name": "何欣冉",
+    "org_name": "南方基金管理股份有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "分析师",
+    "department": "权益研究部",
+    "last_interaction_time": "2023-08-23 10:00:28",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
+        "duration": 58
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "415396",
     "name": "欧阳喆",
     "org_name": "广发证券股份有限公司",
@@ -81551,89 +81555,6 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": "世茂服务"
-  },
-  {
-    "uid": "434939",
-    "name": "王靖",
-    "org_name": "北京大合众邦投资管理有限公司",
-    "org_type": "财富管理公司",
-    "cert_type": "个人",
-    "position": "项目经理",
-    "department": "",
-    "last_interaction_time": "2023-08-23 10:00:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-21",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
-        "duration": 86
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "碧桂园服务",
-        "time": "2023-08-29"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "576487",
-    "name": "张文森",
-    "org_name": "深圳佳岳私募证券基金管理有限公司",
-    "org_type": null,
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-08-23 10:00:27",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-08-21",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-08-23",
-        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
-        "duration": 68
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会",
-        "duration": 93
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "582338",
@@ -81727,6 +81648,89 @@
         "time": "2023-03-21"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "434939",
+    "name": "王靖",
+    "org_name": "北京大合众邦投资管理有限公司",
+    "org_type": "财富管理公司",
+    "cert_type": "个人",
+    "position": "项目经理",
+    "department": "",
+    "last_interaction_time": "2023-08-23 10:00:27",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-21",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
+        "duration": 86
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "碧桂园服务",
+        "time": "2023-08-29"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "576487",
+    "name": "张文森",
+    "org_name": "深圳佳岳私募证券基金管理有限公司",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-08-23 10:00:27",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-08-21",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "保利物业（06049.HK）2023年中期业绩发布会",
+        "duration": 68
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会",
+        "duration": 93
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -89847,36 +89851,6 @@
     "special_companies": "新希望服务"
   },
   {
-    "uid": "251464",
-    "name": "方炜",
-    "org_name": "浙江元葵资产管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "股票研究员",
-    "department": "研究部",
-    "last_interaction_time": "2023-03-30 09:59:12",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "保利物业",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-30",
-        "meet_title": "保利物业（06049.HK）2022年度业绩发布会",
-        "duration": 95
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "573257",
     "name": "曹凌霁",
     "org_name": "第一上海证券有限公司",
@@ -89916,20 +89890,20 @@
     "special_companies": ""
   },
   {
-    "uid": "42748",
-    "name": "张梦甜",
-    "org_name": "中泰证券（上海）资产管理有限公司",
-    "org_type": "券商资管",
+    "uid": "251464",
+    "name": "方炜",
+    "org_name": "浙江元葵资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
     "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "权益投资部",
-    "last_interaction_time": "2023-03-30 09:59:11",
+    "position": "股票研究员",
+    "department": "研究部",
+    "last_interaction_time": "2023-03-30 09:59:12",
     "last_interaction_behavior": "参会",
     "interaction_company": "保利物业",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-30",
+        "time": "2023-03-29",
         "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
       }
     ],
@@ -89938,16 +89912,11 @@
       {
         "time": "2023-03-30",
         "meet_title": "保利物业（06049.HK）2022年度业绩发布会",
-        "duration": 0
+        "duration": 95
       }
     ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "伊利股份",
-        "time": "2023-08-29"
-      }
-    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -89985,6 +89954,41 @@
       {
         "company": "绿城服务",
         "time": "2023-03-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "42748",
+    "name": "张梦甜",
+    "org_name": "中泰证券（上海）资产管理有限公司",
+    "org_type": "券商资管",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "权益投资部",
+    "last_interaction_time": "2023-03-30 09:59:11",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "保利物业",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-30",
+        "meet_title": "保利物业（06049.HK）2022年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "伊利股份",
+        "time": "2023-08-29"
       }
     ],
     "special_companies": ""

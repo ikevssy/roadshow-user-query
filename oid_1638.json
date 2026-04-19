@@ -19951,54 +19951,6 @@
     "special_companies": ""
   },
   {
-    "uid": "340143",
-    "name": "Queenie Jin",
-    "org_name": "SCRIPTS Asia Limited",
-    "org_type": "其他研究机构",
-    "cert_type": "服务机构",
-    "position": "Corporate Partnership Manager",
-    "department": "",
-    "last_interaction_time": "2024-08-28 15:00:43",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "博腾股份",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-28",
-        "meet_title": "博腾股份（300363.SZ）2024年中报电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-28",
-        "meet_title": "博腾股份（300363.SZ）2024年中报电话会",
-        "duration": 0
-      },
-      {
-        "time": "2024-08-28",
-        "meet_title": "博腾股份（300363.SZ）2024年中报电话会",
-        "duration": 79
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "民生银行",
-        "time": "2025-10-31"
-      },
-      {
-        "company": "瑞声科技",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2025-08-18"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "279438",
     "name": "张加",
     "org_name": "北京聚创造创业投资管理有限公司",
@@ -20069,6 +20021,54 @@
       }
     ],
     "special_companies": "加科思,和铂医药,复宏汉霖,康基医疗,归创通桥,诺诚健华"
+  },
+  {
+    "uid": "340143",
+    "name": "Queenie Jin",
+    "org_name": "SCRIPTS Asia Limited",
+    "org_type": "其他研究机构",
+    "cert_type": "服务机构",
+    "position": "Corporate Partnership Manager",
+    "department": "",
+    "last_interaction_time": "2024-08-28 15:00:43",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "博腾股份",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-28",
+        "meet_title": "博腾股份（300363.SZ）2024年中报电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-28",
+        "meet_title": "博腾股份（300363.SZ）2024年中报电话会",
+        "duration": 0
+      },
+      {
+        "time": "2024-08-28",
+        "meet_title": "博腾股份（300363.SZ）2024年中报电话会",
+        "duration": 79
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "民生银行",
+        "time": "2025-10-31"
+      },
+      {
+        "company": "瑞声科技",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-18"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "434647",

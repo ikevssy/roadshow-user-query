@@ -22727,36 +22727,6 @@
     "special_companies": "万物云,中国海外宏洋集团,华润医疗,卓越商企服务,新城悦服务,新城控股,碧桂园服务,绿城中国,绿城服务,联邦制药,雅生活服务"
   },
   {
-    "uid": "273428",
-    "name": "Frankie Law",
-    "org_name": "Integrated Asset Management Limited",
-    "org_type": "境外资产管理公司",
-    "cert_type": "缺少分类",
-    "position": "PORTFOLIO MGR",
-    "department": "Investment",
-    "last_interaction_time": "2023-04-03 13:31:46",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新城发展",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-31",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-03",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "265389",
     "name": "王飞",
     "org_name": "上海昊青资产管理有限公司",
@@ -22979,6 +22949,36 @@
       }
     ],
     "special_companies": "万物云,中国通信服务,保利物业,信義玻璃,协合新能源,宝龙商业,新城发展,新城悦服务,星盛商业,比亚迪,比亚迪电子,滨江服务,碧桂园,碧桂园服务,绿城中国,联邦制药,融创服务,雅生活服务"
+  },
+  {
+    "uid": "273428",
+    "name": "Frankie Law",
+    "org_name": "Integrated Asset Management Limited",
+    "org_type": "境外资产管理公司",
+    "cert_type": "缺少分类",
+    "position": "PORTFOLIO MGR",
+    "department": "Investment",
+    "last_interaction_time": "2023-04-03 13:31:46",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新城发展",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-31",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-03",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
+        "duration": 56
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "284092",
@@ -24039,50 +24039,6 @@
     "special_companies": ""
   },
   {
-    "uid": "338739",
-    "name": "LuoHao",
-    "org_name": "Nine masts Captial Limited",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Portfolio Management",
-    "department": "",
-    "last_interaction_time": "2023-04-03 13:30:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新城发展",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-29",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-03",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2023-04-03",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
-        "duration": 58
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "爱奇艺",
-        "time": "2023-11-29"
-      },
-      {
-        "company": "融创中国",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "493247",
     "name": "徐得尊",
     "org_name": "民生证券股份有限公司",
@@ -24212,6 +24168,50 @@
       }
     ],
     "special_companies": "新城悦服务,新希望服务,绿城服务,绿城管理控股"
+  },
+  {
+    "uid": "338739",
+    "name": "LuoHao",
+    "org_name": "Nine masts Captial Limited",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Portfolio Management",
+    "department": "",
+    "last_interaction_time": "2023-04-03 13:30:57",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新城发展",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-29",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-03",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2023-04-03",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
+        "duration": 58
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "爱奇艺",
+        "time": "2023-11-29"
+      },
+      {
+        "company": "融创中国",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "285139",
@@ -24411,50 +24411,6 @@
     "special_companies": "万物云,保利物业,建业地产,绿城服务,绿城管理控股,雅生活服务"
   },
   {
-    "uid": "267972",
-    "name": "李薇",
-    "org_name": "高盛(中国)证券有限责任公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "执行董事",
-    "department": "上海浦东新区世纪大道证券营业部",
-    "last_interaction_time": "2023-04-03 13:30:50",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新城发展",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-03",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
-        "duration": 4
-      },
-      {
-        "time": "2023-04-03",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "世茂服务",
-        "time": "2023-09-01"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-08-29"
-      }
-    ],
-    "special_companies": "绿城管理控股,融创服务"
-  },
-  {
     "uid": "335539",
     "name": "萧滋正",
     "org_name": "深圳海之源投资管理有限公司",
@@ -24522,20 +24478,20 @@
     "special_companies": "中国建筑,中粮家佳康,中集集团,宝龙商业,百果园集团,美的置业"
   },
   {
-    "uid": "490605",
-    "name": "葛一然",
-    "org_name": "国泰君安证券(香港)有限公司",
+    "uid": "267972",
+    "name": "李薇",
+    "org_name": "高盛(中国)证券有限责任公司",
     "org_type": "证券公司",
-    "cert_type": "机构投资者",
-    "position": "高级副總裁",
-    "department": "固定收益 · 外區及大宗商品",
-    "last_interaction_time": "2023-04-03 13:30:49",
+    "cert_type": "卖方分析师",
+    "position": "执行董事",
+    "department": "上海浦东新区世纪大道证券营业部",
+    "last_interaction_time": "2023-04-03 13:30:50",
     "last_interaction_behavior": "参会",
     "interaction_company": "新城发展",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-04-03",
+        "time": "2023-03-28",
         "meet_title": "新城发展（01030.HK）2022年度业绩发布会"
       }
     ],
@@ -24544,17 +24500,26 @@
       {
         "time": "2023-04-03",
         "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
+        "duration": 4
+      },
+      {
+        "time": "2023-04-03",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
         "duration": 57
       }
     ],
-    "is_first_attend": true,
+    "is_first_attend": false,
     "subscribed_companies": [
       {
-        "company": "绿城中国",
-        "time": "2024-08-19"
+        "company": "世茂服务",
+        "time": "2023-09-01"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-08-29"
       }
     ],
-    "special_companies": ""
+    "special_companies": "绿城管理控股,融创服务"
   },
   {
     "uid": "338879",
@@ -24721,6 +24686,41 @@
       }
     ],
     "special_companies": "万物云,中国海外宏洋集团,保利物业,招商蛇口,新城悦服务,永升服务,碧桂园,碧桂园服务,金茂服务"
+  },
+  {
+    "uid": "490605",
+    "name": "葛一然",
+    "org_name": "国泰君安证券(香港)有限公司",
+    "org_type": "证券公司",
+    "cert_type": "机构投资者",
+    "position": "高级副總裁",
+    "department": "固定收益 · 外區及大宗商品",
+    "last_interaction_time": "2023-04-03 13:30:49",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新城发展",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-03",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-03",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2024-08-19"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "284575",
@@ -24908,6 +24908,50 @@
     "special_companies": "万物云,中国人寿,中国电信,新鸿基公司,明源云"
   },
   {
+    "uid": "284574",
+    "name": "钟锦松",
+    "org_name": "广州市龙智投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "投资总监",
+    "department": "",
+    "last_interaction_time": "2023-04-03 13:30:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新城发展",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-04-02",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-03",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2023-04-03",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "复星国际",
+        "time": "2023-08-31"
+      },
+      {
+        "company": "建业地产",
+        "time": "2023-04-03"
+      }
+    ],
+    "special_companies": "复星国际,建业地产"
+  },
+  {
     "uid": "333226",
     "name": "孙鑫",
     "org_name": "广州穗财投资管理有限公司",
@@ -24985,50 +25029,6 @@
       }
     ],
     "special_companies": "招商蛇口,绿城中国,美的置业"
-  },
-  {
-    "uid": "284574",
-    "name": "钟锦松",
-    "org_name": "广州市龙智投资管理有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "投资总监",
-    "department": "",
-    "last_interaction_time": "2023-04-03 13:30:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新城发展",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-04-02",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-03",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2023-04-03",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "复星国际",
-        "time": "2023-08-31"
-      },
-      {
-        "company": "建业地产",
-        "time": "2023-04-03"
-      }
-    ],
-    "special_companies": "复星国际,建业地产"
   },
   {
     "uid": "282951",
@@ -25121,6 +25121,53 @@
     "special_companies": "新世界发展,碧桂园,绿城中国"
   },
   {
+    "uid": "438077",
+    "name": "張瑞盈",
+    "org_name": "瑞士信贷银行股份有限公司香港分行",
+    "org_type": "投资银行",
+    "cert_type": "机构投资者",
+    "position": "副總裁",
+    "department": "",
+    "last_interaction_time": "2023-04-03 13:30:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新城发展",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-28",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-03",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "越秀地产",
+        "time": "2023-08-25"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2023-03-28"
+      },
+      {
+        "company": "美的置业",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "联合资信评估股份有限公司",
+        "time": "2023-02-22"
+      }
+    ],
+    "special_companies": "绿城中国,美的置业"
+  },
+  {
     "uid": "276604",
     "name": "周健鋒",
     "org_name": "中泰金融国际有限公司研究所",
@@ -25158,6 +25205,41 @@
       }
     ],
     "special_companies": "碧桂园服务,绿城中国"
+  },
+  {
+    "uid": "273753",
+    "name": "徐超",
+    "org_name": "太平洋证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "银行与房地产首席分析师",
+    "department": "研究院",
+    "last_interaction_time": "2023-04-03 13:30:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新城发展",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-28",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-04-03",
+        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
+        "duration": 57
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2023-04-25"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "496270",
@@ -25374,88 +25456,6 @@
       {
         "company": "万国数据服务",
         "time": "2023-03-15"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "438077",
-    "name": "張瑞盈",
-    "org_name": "瑞士信贷银行股份有限公司香港分行",
-    "org_type": "投资银行",
-    "cert_type": "机构投资者",
-    "position": "副總裁",
-    "department": "",
-    "last_interaction_time": "2023-04-03 13:30:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新城发展",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-03",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "越秀地产",
-        "time": "2023-08-25"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2023-03-28"
-      },
-      {
-        "company": "美的置业",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "联合资信评估股份有限公司",
-        "time": "2023-02-22"
-      }
-    ],
-    "special_companies": "绿城中国,美的置业"
-  },
-  {
-    "uid": "273753",
-    "name": "徐超",
-    "org_name": "太平洋证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "银行与房地产首席分析师",
-    "department": "研究院",
-    "last_interaction_time": "2023-04-03 13:30:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新城发展",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-04-03",
-        "meet_title": "新城发展（01030.HK）2022年度业绩发布会",
-        "duration": 57
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2023-04-25"
       }
     ],
     "special_companies": ""
