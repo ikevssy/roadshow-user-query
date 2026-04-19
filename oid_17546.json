@@ -7261,6 +7261,43 @@
     "special_companies": ""
   },
   {
+    "uid": "576949",
+    "name": "李璐",
+    "org_name": "Regents Capital, LTD",
+    "org_type": "境外资产管理公司",
+    "cert_type": "个人",
+    "position": "Assistant Analyst",
+    "department": "",
+    "last_interaction_time": "2023-08-24 10:00:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集车辆",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-08-23",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国船舶租赁",
+        "time": "2023-08-24"
+      },
+      {
+        "company": "新鸿基公司",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2023-03-29"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "430880",
     "name": "王扬帆",
     "org_name": "深圳市哲灵投资管理有限公司",
@@ -7299,43 +7336,6 @@
       }
     ],
     "special_companies": "中集车辆"
-  },
-  {
-    "uid": "576949",
-    "name": "李璐",
-    "org_name": "Regents Capital, LTD",
-    "org_type": "境外资产管理公司",
-    "cert_type": "个人",
-    "position": "Assistant Analyst",
-    "department": "",
-    "last_interaction_time": "2023-08-24 10:00:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集车辆",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-08-23",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国船舶租赁",
-        "time": "2023-08-24"
-      },
-      {
-        "company": "新鸿基公司",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "比亚迪",
-        "time": "2023-03-29"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "576785",
@@ -7636,6 +7636,50 @@
     "special_companies": "中集车辆"
   },
   {
+    "uid": "345608",
+    "name": "冯丽扬",
+    "org_name": "北京康曼德资本管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "个人",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-08-24 09:59:41",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集车辆",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-08-24",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会"
+      },
+      {
+        "time": "2023-03-28",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-08-24",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会",
+        "duration": 1
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会",
+        "duration": 63
+      },
+      {
+        "time": "2023-03-28",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
+        "duration": 7
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "1450",
     "name": "盧超",
     "org_name": "理成(开曼)资产管理有限公司",
@@ -7886,50 +7930,6 @@
       }
     ],
     "special_companies": "呷哺呷哺,国证国际证券(香港)研究所,沛嘉医疗,滨江服务"
-  },
-  {
-    "uid": "345608",
-    "name": "冯丽扬",
-    "org_name": "北京康曼德资本管理有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-08-24 09:59:41",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集车辆",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-08-24",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会"
-      },
-      {
-        "time": "2023-03-28",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-08-24",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会",
-        "duration": 1
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2023年中期业绩发布会",
-        "duration": 63
-      },
-      {
-        "time": "2023-03-28",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
-        "duration": 7
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "425168",
@@ -21947,6 +21947,36 @@
     "special_companies": ""
   },
   {
+    "uid": "497805",
+    "name": "邓晨亮",
+    "org_name": "正心谷资本",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "资深研究员",
+    "department": "",
+    "last_interaction_time": "2023-03-28 09:31:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中集车辆",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-22",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-28",
+        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
+        "duration": 29
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "573296",
     "name": "Lilian Chen",
     "org_name": "瑞士银行有限公司",
@@ -21982,20 +22012,20 @@
     "special_companies": "中集车辆"
   },
   {
-    "uid": "497805",
-    "name": "邓晨亮",
-    "org_name": "正心谷资本",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "资深研究员",
-    "department": "",
-    "last_interaction_time": "2023-03-28 09:31:17",
+    "uid": "335163",
+    "name": "谢鹏",
+    "org_name": "张家港中集圣达因低温装备有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "客户经理",
+    "department": "客户服务中心",
+    "last_interaction_time": "2023-03-28 09:31:16",
     "last_interaction_behavior": "参会",
     "interaction_company": "中集车辆",
     "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-03-22",
+        "time": "2023-03-25",
         "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
       }
     ],
@@ -22004,12 +22034,12 @@
       {
         "time": "2023-03-28",
         "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
-        "duration": 29
+        "duration": 2
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [],
-    "special_companies": ""
+    "special_companies": "中集集团"
   },
   {
     "uid": "426778",
@@ -22121,36 +22151,6 @@
       }
     ],
     "special_companies": "中国动向,中国同辐,中国燃气,中广核矿业,力劲科技,新世界发展"
-  },
-  {
-    "uid": "335163",
-    "name": "谢鹏",
-    "org_name": "张家港中集圣达因低温装备有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "客户经理",
-    "department": "客户服务中心",
-    "last_interaction_time": "2023-03-28 09:31:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中集车辆",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-25",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-28",
-        "meet_title": "中集车辆（301039.SZ/1839.HK）2022年度业绩发布会",
-        "duration": 2
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": "中集集团"
   },
   {
     "uid": "337325",

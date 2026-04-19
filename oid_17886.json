@@ -3184,6 +3184,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "保利发展",
+        "time": "2026-04-19"
+      },
+      {
         "company": "世茂服务",
         "time": "2026-03-27"
       },
@@ -39844,6 +39848,36 @@
     "special_companies": "新世界发展"
   },
   {
+    "uid": "613574",
+    "name": "林爾諾",
+    "org_name": "BFAM合伙(香港)有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Junior Portfolio Manager",
+    "department": "",
+    "last_interaction_time": "2024-10-16 11:00:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新世界发展",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-10-14",
+        "meet_title": "新世界发展有限公司（17.HK）管理层非交易路演"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-10-16",
+        "meet_title": "新世界发展有限公司（17.HK）管理层非交易路演",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "440370",
     "name": "高朕逸",
     "org_name": "摩根大通证券（亚太）有限公司",
@@ -39950,36 +39984,6 @@
       }
     ],
     "special_companies": "保利物业,新城悦服务,绿城中国"
-  },
-  {
-    "uid": "613574",
-    "name": "林爾諾",
-    "org_name": "BFAM合伙(香港)有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Junior Portfolio Manager",
-    "department": "",
-    "last_interaction_time": "2024-10-16 11:00:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新世界发展",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-10-14",
-        "meet_title": "新世界发展有限公司（17.HK）管理层非交易路演"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-10-16",
-        "meet_title": "新世界发展有限公司（17.HK）管理层非交易路演",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
   },
   {
     "uid": "335410",
@@ -42873,40 +42877,6 @@
     "special_companies": ""
   },
   {
-    "uid": "507449",
-    "name": "张美英",
-    "org_name": "新世界中国",
-    "org_type": null,
-    "cert_type": "个人",
-    "position": "出纳",
-    "department": "财务部",
-    "last_interaction_time": "2024-09-26 17:59:38",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新世界发展",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-09-26",
-        "meet_title": "新世界发展有限公司（17.HK）2024财政年度中期业绩发布会"
-      },
-      {
-        "time": "2024-09-25",
-        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-09-26",
-        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会",
-        "duration": 60
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "613320",
     "name": "Yan Yuting",
     "org_name": "中国建设银行股份有限公司",
@@ -42935,6 +42905,40 @@
         "time": "2024-09-26",
         "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会",
         "duration": 58
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "507449",
+    "name": "张美英",
+    "org_name": "新世界中国",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "出纳",
+    "department": "财务部",
+    "last_interaction_time": "2024-09-26 17:59:38",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新世界发展",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-09-26",
+        "meet_title": "新世界发展有限公司（17.HK）2024财政年度中期业绩发布会"
+      },
+      {
+        "time": "2024-09-25",
+        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-09-26",
+        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会",
+        "duration": 60
       }
     ],
     "is_first_attend": true,
@@ -43013,6 +43017,71 @@
         "time": "2024-09-26",
         "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会",
         "duration": 54
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "278641",
+    "name": "苏祎",
+    "org_name": "新世界百货中国有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "助理總經理",
+    "department": "企業事務部",
+    "last_interaction_time": "2024-09-26 17:59:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新世界发展",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-09-19",
+        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-09-26",
+        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会",
+        "duration": 24
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "合景悠活",
+        "time": "2025-08-28"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "613361",
+    "name": "Huihui Zhu",
+    "org_name": "K11 Concepts Limited",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "AM",
+    "department": "",
+    "last_interaction_time": "2024-09-26 17:59:33",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新世界发展",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-09-26",
+        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-09-26",
+        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会",
+        "duration": 14
       }
     ],
     "is_first_attend": true,
@@ -43138,71 +43207,6 @@
       }
     ],
     "special_companies": "卓越商企服务,建发国际集团,新世界发展,绿城管理控股"
-  },
-  {
-    "uid": "613361",
-    "name": "Huihui Zhu",
-    "org_name": "K11 Concepts Limited",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "AM",
-    "department": "",
-    "last_interaction_time": "2024-09-26 17:59:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新世界发展",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-09-26",
-        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-09-26",
-        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会",
-        "duration": 14
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "278641",
-    "name": "苏祎",
-    "org_name": "新世界百货中国有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "助理總經理",
-    "department": "企業事務部",
-    "last_interaction_time": "2024-09-26 17:59:33",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新世界发展",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-09-19",
-        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-09-26",
-        "meet_title": "新世界发展有限公司（17.HK）2024财政年度业绩发布会",
-        "duration": 24
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "合景悠活",
-        "time": "2025-08-28"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "572468",
