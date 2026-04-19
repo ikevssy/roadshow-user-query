@@ -3578,6 +3578,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "保利发展",
+        "time": "2026-04-19"
+      },
+      {
         "company": "世茂服务",
         "time": "2026-03-27"
       },
@@ -4449,6 +4453,219 @@
     "special_companies": ""
   },
   {
+    "uid": "496065",
+    "name": "钟志斌",
+    "org_name": "北京泽淳永联投资管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "个人",
+    "position": "合伙人",
+    "department": "上市物企市值管理. 物企成本管控. 物企供应链金融",
+    "last_interaction_time": "2026-03-27 10:00:02",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "卓越商企服务",
+    "apply_count": 7,
+    "apply_records": [
+      {
+        "time": "2026-03-20",
+        "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-15",
+        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2024-08-22",
+        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-10-21",
+        "meet_title": "卓越商企服务（06989.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
+      },
+      {
+        "time": "2023-08-25",
+        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议"
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "卓越商企服务（6989.HK）2022年度业绩发布投资者及分析师会议"
+      }
+    ],
+    "attend_count": 6,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会",
+        "duration": 47
+      },
+      {
+        "time": "2024-08-29",
+        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会",
+        "duration": 8
+      },
+      {
+        "time": "2024-03-30",
+        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会",
+        "duration": 36
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会",
+        "duration": 4
+      },
+      {
+        "time": "2023-10-27",
+        "meet_title": "卓越商企服务（06989.HK）线上交流会｜\"2023上市公司路演大会•第五季\"",
+        "duration": 5
+      },
+      {
+        "time": "2023-09-02",
+        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议",
+        "duration": 1
+      },
+      {
+        "time": "2023-04-06",
+        "meet_title": "卓越商企服务（6989.HK）2022年度业绩发布投资者及分析师会议",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "建发物业",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "国锐生活",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "国证国际证券(香港)研究所",
+        "time": "2023-10-31"
+      },
+      {
+        "company": "捷利交易宝",
+        "time": "2023-10-27"
+      },
+      {
+        "company": "星悦康旅",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "金融街物业",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "正荣服务",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "德信服务集团",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "佳源服务",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "弘阳服务",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "佳兆业美好",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "远洋服务",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "银城生活服务",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "永升服务",
+        "time": "2023-08-17"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2023-03-31"
+      },
+      {
+        "company": "建业新生活",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "保利物业",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "新城悦服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "星盛商业",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-27"
+      }
+    ],
+    "special_companies": "保利物业,合景悠活,国证国际证券(香港)研究所,宝龙商业,建业新生活,捷利交易宝,新希望服务,滨江服务,碧桂园服务,绿城服务"
+  },
+  {
     "uid": "548275",
     "name": "徐青",
     "org_name": "天风证券股份有限公司研究所",
@@ -4739,244 +4956,6 @@
     "special_companies": "万物云,永升服务,碧桂园服务,融创服务"
   },
   {
-    "uid": "496065",
-    "name": "钟志斌",
-    "org_name": "北京泽淳永联投资管理有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
-    "position": "合伙人",
-    "department": "上市物企市值管理. 物企成本管控. 物企供应链金融",
-    "last_interaction_time": "2026-03-27 10:00:02",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "卓越商企服务",
-    "apply_count": 7,
-    "apply_records": [
-      {
-        "time": "2026-03-20",
-        "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-15",
-        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2024-08-22",
-        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-20",
-        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-10-21",
-        "meet_title": "卓越商企服务（06989.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
-      },
-      {
-        "time": "2023-08-25",
-        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议"
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "卓越商企服务（6989.HK）2022年度业绩发布投资者及分析师会议"
-      }
-    ],
-    "attend_count": 6,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会",
-        "duration": 47
-      },
-      {
-        "time": "2024-08-29",
-        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会",
-        "duration": 8
-      },
-      {
-        "time": "2024-03-30",
-        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会",
-        "duration": 36
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会",
-        "duration": 4
-      },
-      {
-        "time": "2023-10-27",
-        "meet_title": "卓越商企服务（06989.HK）线上交流会｜\"2023上市公司路演大会•第五季\"",
-        "duration": 5
-      },
-      {
-        "time": "2023-09-02",
-        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议",
-        "duration": 1
-      },
-      {
-        "time": "2023-04-06",
-        "meet_title": "卓越商企服务（6989.HK）2022年度业绩发布投资者及分析师会议",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "建发物业",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "中海物业",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "国锐生活",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "国证国际证券(香港)研究所",
-        "time": "2023-10-31"
-      },
-      {
-        "company": "捷利交易宝",
-        "time": "2023-10-27"
-      },
-      {
-        "company": "星悦康旅",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "金融街物业",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "正荣服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "德信服务集团",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "佳源服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "弘阳服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "佳兆业美好",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "远洋服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "银城生活服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "融创服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "永升服务",
-        "time": "2023-08-17"
-      },
-      {
-        "company": "合景悠活",
-        "time": "2023-03-31"
-      },
-      {
-        "company": "建业新生活",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "保利物业",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "宝龙商业",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "新城悦服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "星盛商业",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "金科服务",
-        "time": "2023-03-27"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-03-27"
-      }
-    ],
-    "special_companies": "保利物业,合景悠活,国证国际证券(香港)研究所,宝龙商业,建业新生活,捷利交易宝,新希望服务,滨江服务,碧桂园服务,绿城服务"
-  },
-  {
-    "uid": "646296",
-    "name": "王奕婕",
-    "org_name": "卓越商企服务",
-    "org_type": null,
-    "cert_type": "上市公司",
-    "position": "财务报表主管",
-    "department": "财务部",
-    "last_interaction_time": "2026-03-27 10:00:01",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "卓越商企服务",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会",
-        "duration": 46
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "426996",
     "name": "黃金土",
     "org_name": "广州观点信息资讯服务有限公司",
@@ -5000,6 +4979,31 @@
         "time": "2026-03-27",
         "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会",
         "duration": 47
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "646296",
+    "name": "王奕婕",
+    "org_name": "卓越商企服务",
+    "org_type": null,
+    "cert_type": "上市公司",
+    "position": "财务报表主管",
+    "department": "财务部",
+    "last_interaction_time": "2026-03-27 10:00:01",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "卓越商企服务",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会",
+        "duration": 46
       }
     ],
     "is_first_attend": true,
@@ -15439,6 +15443,63 @@
     "special_companies": ""
   },
   {
+    "uid": "581468",
+    "name": "郭俊炜",
+    "org_name": "方圆天成资产管理（深圳）有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2025-08-27 10:28:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "卓越商企服务",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2025-08-26",
+        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2024-08-26",
+        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-21",
+        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-08-29",
+        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
+        "duration": 55
+      },
+      {
+        "time": "2024-08-29",
+        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会",
+        "duration": 70
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会",
+        "duration": 70
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "新鸿基公司",
+        "time": "2023-08-03"
+      }
+    ],
+    "special_companies": "世茂服务"
+  },
+  {
     "uid": "607362",
     "name": "鲁仁浩",
     "org_name": "知新资产管理有限公司",
@@ -15512,63 +15573,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "581468",
-    "name": "郭俊炜",
-    "org_name": "方圆天成资产管理（深圳）有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2025-08-27 10:28:03",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "卓越商企服务",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2025-08-26",
-        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2024-08-26",
-        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-21",
-        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-08-29",
-        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
-        "duration": 55
-      },
-      {
-        "time": "2024-08-29",
-        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会",
-        "duration": 70
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会",
-        "duration": 70
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "新鸿基公司",
-        "time": "2023-08-03"
-      }
-    ],
-    "special_companies": "世茂服务"
   },
   {
     "uid": "636943",
@@ -40210,6 +40214,50 @@
     "special_companies": "国证国际证券(香港)研究所,路演中"
   },
   {
+    "uid": "574197",
+    "name": "苏柏玮",
+    "org_name": "Oscar and Partners Capital, LTD",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2023-10-27 14:30:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "卓越商企服务",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-10-24",
+        "meet_title": "卓越商企服务（06989.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
+      },
+      {
+        "time": "2023-09-06",
+        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2023-10-27",
+        "meet_title": "卓越商企服务（06989.HK）线上交流会｜\"2023上市公司路演大会•第五季\"",
+        "duration": 45
+      },
+      {
+        "time": "2023-09-06",
+        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议",
+        "duration": 24
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "罕王黄金",
+        "time": "2025-08-15"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "573202",
     "name": "陈钰文",
     "org_name": "国元咨询服务（深圳）有限公司",
@@ -40352,50 +40400,6 @@
       }
     ],
     "special_companies": "万物云,世茂服务,保利物业,卓越商企服务,合景悠活,宝龙商业,建业新生活,建发物业,新城悦服务,星盛商业,永升服务,滨江服务,碧桂园服务,绿城服务,融创服务,越秀服务,金茂服务,雅生活服务"
-  },
-  {
-    "uid": "574197",
-    "name": "苏柏玮",
-    "org_name": "Oscar and Partners Capital, LTD",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2023-10-27 14:30:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "卓越商企服务",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-10-24",
-        "meet_title": "卓越商企服务（06989.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
-      },
-      {
-        "time": "2023-09-06",
-        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2023-10-27",
-        "meet_title": "卓越商企服务（06989.HK）线上交流会｜\"2023上市公司路演大会•第五季\"",
-        "duration": 45
-      },
-      {
-        "time": "2023-09-06",
-        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩发布投资者及分析师会议",
-        "duration": 24
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "罕王黄金",
-        "time": "2025-08-15"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "432029",

@@ -2073,41 +2073,6 @@
     "special_companies": "万物云,万物新生（爱回收）,中国通信服务,中广核新能源,中粮包装,中粮家佳康,保利物业,信义光能,信義玻璃,华润医疗,华润电力,协合新能源,宝龙商业,康臣药业,建发物业,招商银行,深圳控股,滨江服务,碧桂园服务,绿城中国,绿城服务,美的置业,联邦制药,融创服务"
   },
   {
-    "uid": "636429",
-    "name": "常洪雨",
-    "org_name": "上海申银万国证券研究所有限公司",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "分析师",
-    "department": "能源环保研究部",
-    "last_interaction_time": "2026-04-01 10:05:48",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中广核新能源",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-24",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-04-01",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
-        "duration": 49
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中广核新能源",
-        "time": "2025-08-11"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "559706",
     "name": "宋燕华",
     "org_name": "深圳易度新能源有限责任公司",
@@ -2166,6 +2131,41 @@
       }
     ],
     "special_companies": "中广核新能源,协合新能源"
+  },
+  {
+    "uid": "636429",
+    "name": "常洪雨",
+    "org_name": "上海申银万国证券研究所有限公司",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "分析师",
+    "department": "能源环保研究部",
+    "last_interaction_time": "2026-04-01 10:05:48",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中广核新能源",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
+        "duration": 49
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中广核新能源",
+        "time": "2025-08-11"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "274507",
@@ -6942,72 +6942,6 @@
     "special_companies": ""
   },
   {
-    "uid": "608336",
-    "name": "卢湘雪",
-    "org_name": "招商证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "环保公用事业行业研究助理",
-    "department": "研究发展中心",
-    "last_interaction_time": "2026-04-01 10:00:07",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中广核新能源",
-    "apply_count": 5,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-20",
-        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-12",
-        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-17",
-        "meet_title": "中广核新能源（1811.HK）2024年中期业绩发布会"
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "中广核新能源（1811.HK）2023年度业绩发布会"
-      }
-    ],
-    "attend_count": 5,
-    "attend_records": [
-      {
-        "time": "2026-04-01",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
-        "duration": 55
-      },
-      {
-        "time": "2025-08-20",
-        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会",
-        "duration": 57
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会",
-        "duration": 62
-      },
-      {
-        "time": "2024-08-21",
-        "meet_title": "中广核新能源（1811.HK）2024年中期业绩发布会",
-        "duration": 53
-      },
-      {
-        "time": "2024-03-27",
-        "meet_title": "中广核新能源（1811.HK）2023年度业绩发布会",
-        "duration": 15
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "437426",
     "name": "张贺",
     "org_name": "华澳国际信托有限公司",
@@ -7222,6 +7156,72 @@
       }
     ],
     "special_companies": "万物云,中信证券,中南建设,宏信建发,招商银行,易居企业控股,浙商银行,碧桂园,远东宏信——资金部"
+  },
+  {
+    "uid": "608336",
+    "name": "卢湘雪",
+    "org_name": "招商证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "环保公用事业行业研究助理",
+    "department": "研究发展中心",
+    "last_interaction_time": "2026-04-01 10:00:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中广核新能源",
+    "apply_count": 5,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-20",
+        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-12",
+        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-17",
+        "meet_title": "中广核新能源（1811.HK）2024年中期业绩发布会"
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "中广核新能源（1811.HK）2023年度业绩发布会"
+      }
+    ],
+    "attend_count": 5,
+    "attend_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
+        "duration": 55
+      },
+      {
+        "time": "2025-08-20",
+        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会",
+        "duration": 57
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会",
+        "duration": 62
+      },
+      {
+        "time": "2024-08-21",
+        "meet_title": "中广核新能源（1811.HK）2024年中期业绩发布会",
+        "duration": 53
+      },
+      {
+        "time": "2024-03-27",
+        "meet_title": "中广核新能源（1811.HK）2023年度业绩发布会",
+        "duration": 15
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "633455",
@@ -7461,126 +7461,6 @@
     "special_companies": ""
   },
   {
-    "uid": "283465",
-    "name": "XU QING LIANG",
-    "org_name": "中国太平保险控股有限公司",
-    "org_type": "保险公司",
-    "cert_type": "个人",
-    "position": "",
-    "department": "",
-    "last_interaction_time": "2026-04-01 09:59:54",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中广核新能源",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-14",
-        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-20",
-        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-04-01",
-        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
-        "duration": 55
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会",
-        "duration": 60
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国海外宏洋集团",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2026-03-13"
-      },
-      {
-        "company": "新天绿色能源",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中国移动",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "友邦保险",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "中广核新能源",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "中国海油",
-        "time": "2025-04-06"
-      },
-      {
-        "company": "长安汽车",
-        "time": "2025-04-06"
-      },
-      {
-        "company": "建设银行",
-        "time": "2025-04-06"
-      },
-      {
-        "company": "农业银行",
-        "time": "2025-04-04"
-      },
-      {
-        "company": "北京能源国际",
-        "time": "2024-08-31"
-      },
-      {
-        "company": "京能清洁能源",
-        "time": "2024-08-31"
-      },
-      {
-        "company": "大唐新能源",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "中国平安",
-        "time": "2024-04-08"
-      },
-      {
-        "company": "招商银行",
-        "time": "2024-04-08"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2024-04-08"
-      },
-      {
-        "company": "中国人保",
-        "time": "2024-04-08"
-      }
-    ],
-    "special_companies": "中国人保,中国人寿,中国太保,大唐新能源,招商银行"
-  },
-  {
     "uid": "645469",
     "name": "徐佳",
     "org_name": "杭州荣泽石资产管理有限公司",
@@ -7701,6 +7581,126 @@
       }
     ],
     "special_companies": "华住集团-S"
+  },
+  {
+    "uid": "283465",
+    "name": "XU QING LIANG",
+    "org_name": "中国太平保险控股有限公司",
+    "org_type": "保险公司",
+    "cert_type": "个人",
+    "position": "",
+    "department": "",
+    "last_interaction_time": "2026-04-01 09:59:54",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中广核新能源",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-14",
+        "meet_title": "中广核新能源（1811.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-20",
+        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-04-01",
+        "meet_title": "中广核新能源（1811.HK）2025年度业绩发布会",
+        "duration": 55
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "中广核新能源（1811.HK）2024年度业绩发布会",
+        "duration": 60
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "新天绿色能源",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中国移动",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "友邦保险",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "中国海油",
+        "time": "2025-04-06"
+      },
+      {
+        "company": "长安汽车",
+        "time": "2025-04-06"
+      },
+      {
+        "company": "建设银行",
+        "time": "2025-04-06"
+      },
+      {
+        "company": "农业银行",
+        "time": "2025-04-04"
+      },
+      {
+        "company": "北京能源国际",
+        "time": "2024-08-31"
+      },
+      {
+        "company": "京能清洁能源",
+        "time": "2024-08-31"
+      },
+      {
+        "company": "大唐新能源",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "中国平安",
+        "time": "2024-04-08"
+      },
+      {
+        "company": "招商银行",
+        "time": "2024-04-08"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2024-04-08"
+      },
+      {
+        "company": "中国人保",
+        "time": "2024-04-08"
+      }
+    ],
+    "special_companies": "中国人保,中国人寿,中国太保,大唐新能源,招商银行"
   },
   {
     "uid": "633490",

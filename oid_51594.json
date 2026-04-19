@@ -11969,41 +11969,6 @@
     "special_companies": "香港公司治理公会北京代表处"
   },
   {
-    "uid": "638404",
-    "name": "张光艳",
-    "org_name": "中化化肥控股有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "董事",
-    "department": "",
-    "last_interaction_time": "2025-09-23 20:01:05",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "香港公司治理公会北京代表处",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-09-23",
-        "meet_title": "港股上市公司董事培训示范公开课：第六讲 高效运作的审计委员会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-09-23",
-        "meet_title": "港股上市公司董事培训示范公开课：第六讲 高效运作的审计委员会",
-        "duration": 0
-      },
-      {
-        "time": "2025-09-23",
-        "meet_title": "港股上市公司董事培训示范公开课：第六讲 高效运作的审计委员会",
-        "duration": 54
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "606071",
     "name": "陈洋洋",
     "org_name": "耕霁(上海)投资管理有限公司",
@@ -12081,6 +12046,41 @@
         "time": "2024-10-14",
         "meet_title": "【香港公司治理公会】最新法律与监管趋势对境内上市公司治理的影响",
         "duration": 100
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "638404",
+    "name": "张光艳",
+    "org_name": "中化化肥控股有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "董事",
+    "department": "",
+    "last_interaction_time": "2025-09-23 20:01:05",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "香港公司治理公会北京代表处",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-09-23",
+        "meet_title": "港股上市公司董事培训示范公开课：第六讲 高效运作的审计委员会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-09-23",
+        "meet_title": "港股上市公司董事培训示范公开课：第六讲 高效运作的审计委员会",
+        "duration": 0
+      },
+      {
+        "time": "2025-09-23",
+        "meet_title": "港股上市公司董事培训示范公开课：第六讲 高效运作的审计委员会",
+        "duration": 54
       }
     ],
     "is_first_attend": true,
@@ -38180,36 +38180,6 @@
     "special_companies": ""
   },
   {
-    "uid": "613762",
-    "name": "刘晨",
-    "org_name": "兖矿能源集团股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "上市公司",
-    "position": "投资者关系经理",
-    "department": "董事会秘书处",
-    "last_interaction_time": "2024-10-29 13:59:38",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "香港公司治理公会北京代表处",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-10-28",
-        "meet_title": "【香港公司治理公会】企业可持续发展趋势与MSCI ESG评级方法论讲座"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-10-29",
-        "meet_title": "【香港公司治理公会】企业可持续发展趋势与MSCI ESG评级方法论讲座",
-        "duration": 174
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "613716",
     "name": "王瑶",
     "org_name": "中国农业银行股份有限公司",
@@ -38252,6 +38222,36 @@
       }
     ],
     "special_companies": "香港公司治理公会北京代表处"
+  },
+  {
+    "uid": "613762",
+    "name": "刘晨",
+    "org_name": "兖矿能源集团股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "投资者关系经理",
+    "department": "董事会秘书处",
+    "last_interaction_time": "2024-10-29 13:59:38",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "香港公司治理公会北京代表处",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-10-28",
+        "meet_title": "【香港公司治理公会】企业可持续发展趋势与MSCI ESG评级方法论讲座"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-10-29",
+        "meet_title": "【香港公司治理公会】企业可持续发展趋势与MSCI ESG评级方法论讲座",
+        "duration": 174
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "440995",
