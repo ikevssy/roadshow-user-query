@@ -7,8 +7,8 @@
     "cert_type": "机构投资者",
     "position": "团队经理",
     "department": "",
-    "last_interaction_time": "2026-04-04 17:03:45",
-    "last_interaction_behavior": "报名",
+    "last_interaction_time": "2026-04-19 20:25:32",
+    "last_interaction_behavior": "参会",
     "interaction_company": "浙商银行",
     "apply_count": 1,
     "apply_records": [
@@ -17,10 +17,15 @@
         "meet_title": "浙商银行（601916.SH，02016 .HK）2025年度业绩说明会"
       }
     ],
-    "attend_count": 0,
+    "attend_count": 1,
     "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "浙商银行",
+        "time": "2026-04-19"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -2666,6 +2671,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "保利发展",
+        "time": "2026-04-19"
+      },
+      {
         "company": "绿城中国",
         "time": "2026-03-25"
       },
@@ -2796,6 +2805,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
       {
         "company": "银诺医药",
         "time": "2026-04-14"

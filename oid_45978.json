@@ -1,5 +1,172 @@
 [
   {
+    "uid": "285205",
+    "name": "黎明",
+    "org_name": "北京银行股份有限公司",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "资深投资顾问",
+    "department": "长沙分行私人银行中心",
+    "last_interaction_time": "2026-04-19 11:24:19",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "滨江服务",
+    "apply_count": 7,
+    "apply_records": [
+      {
+        "time": "2026-03-13",
+        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会"
+      },
+      {
+        "time": "2025-08-11",
+        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会"
+      },
+      {
+        "time": "2025-03-10",
+        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会"
+      },
+      {
+        "time": "2024-08-20",
+        "meet_title": "滨江服务2024年中期业绩线上推介会"
+      },
+      {
+        "time": "2024-03-18",
+        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会"
+      },
+      {
+        "time": "2023-08-16",
+        "meet_title": "滨江服务2023年中期业绩线上推介会"
+      },
+      {
+        "time": "2023-03-21",
+        "meet_title": "滨江服务2022年度业绩线上推介会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-22",
+        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会",
+        "duration": 32
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
+        "duration": 28
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "泡泡玛特",
+        "time": "2026-04-01"
+      },
+      {
+        "company": "美团-W",
+        "time": "2026-03-27"
+      },
+      {
+        "company": "中原建业",
+        "time": "2026-03-26"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "IGG INC",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "九方智投控股",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "卓越教育集团",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-05-23"
+      },
+      {
+        "company": "开市客",
+        "time": "2025-05-23"
+      },
+      {
+        "company": "理想汽车-w",
+        "time": "2025-05-23"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2025-05-19"
+      },
+      {
+        "company": "小牛电动",
+        "time": "2025-05-19"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2024-08-14"
+      },
+      {
+        "company": "伯克希尔-哈撒韦",
+        "time": "2024-05-04"
+      },
+      {
+        "company": "锦欣生殖",
+        "time": "2024-03-28"
+      }
+    ],
+    "special_companies": "拼多多,腾讯控股,锦欣生殖"
+  },
+  {
+    "uid": "646114",
+    "name": "陆灿",
+    "org_name": "珠海鸣则投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2026-04-18 10:49:32",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "滨江服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-18",
+        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-18",
+        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "613190",
     "name": "饶斌",
     "org_name": "马鞍山粤美金属制品科技有限公司",
@@ -6419,143 +6586,6 @@
       }
     ],
     "special_companies": "东吴证券研究所,中国建筑,头豹研究院,小鹏汽车-W,绿城中国"
-  },
-  {
-    "uid": "285205",
-    "name": "黎明",
-    "org_name": "北京银行股份有限公司",
-    "org_type": "银行",
-    "cert_type": "个人",
-    "position": "资深投资顾问",
-    "department": "长沙分行私人银行中心",
-    "last_interaction_time": "2026-03-26 17:57:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "滨江服务",
-    "apply_count": 7,
-    "apply_records": [
-      {
-        "time": "2026-03-13",
-        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会"
-      },
-      {
-        "time": "2025-08-11",
-        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会"
-      },
-      {
-        "time": "2025-03-10",
-        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会"
-      },
-      {
-        "time": "2024-08-20",
-        "meet_title": "滨江服务2024年中期业绩线上推介会"
-      },
-      {
-        "time": "2024-03-18",
-        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会"
-      },
-      {
-        "time": "2023-08-16",
-        "meet_title": "滨江服务2023年中期业绩线上推介会"
-      },
-      {
-        "time": "2023-03-21",
-        "meet_title": "滨江服务2022年度业绩线上推介会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-22",
-        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会",
-        "duration": 32
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
-        "duration": 28
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "泡泡玛特",
-        "time": "2026-04-01"
-      },
-      {
-        "company": "美团-W",
-        "time": "2026-03-27"
-      },
-      {
-        "company": "中原建业",
-        "time": "2026-03-26"
-      },
-      {
-        "company": "腾讯音乐",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "IGG INC",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "九方智投控股",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "卓越教育集团",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "拼多多",
-        "time": "2025-05-23"
-      },
-      {
-        "company": "开市客",
-        "time": "2025-05-23"
-      },
-      {
-        "company": "理想汽车-w",
-        "time": "2025-05-23"
-      },
-      {
-        "company": "中国同辐",
-        "time": "2025-05-19"
-      },
-      {
-        "company": "小牛电动",
-        "time": "2025-05-19"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-03-18"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2024-08-14"
-      },
-      {
-        "company": "伯克希尔-哈撒韦",
-        "time": "2024-05-04"
-      },
-      {
-        "company": "锦欣生殖",
-        "time": "2024-03-28"
-      }
-    ],
-    "special_companies": "拼多多,腾讯控股,锦欣生殖"
   },
   {
     "uid": "633428",
@@ -14995,6 +15025,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
+      {
         "company": "中海物业",
         "time": "2026-03-23"
       },
@@ -15386,6 +15420,41 @@
     "special_companies": "卓越商企服务,宝龙商业,新希望服务,星盛商业"
   },
   {
+    "uid": "645278",
+    "name": "张凯",
+    "org_name": "上海东方财富证券投资咨询有限公司",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "房地产行业研究员",
+    "department": "研究所",
+    "last_interaction_time": "2026-03-26 10:00:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "滨江服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-13",
+        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
+        "duration": 50
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "滨江服务",
+        "time": "2026-03-13"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "581068",
     "name": "陈文婧",
     "org_name": "浦银安盛基金管理有限公司",
@@ -15519,41 +15588,6 @@
     "special_companies": "万物云,永升服务,碧桂园服务,融创服务"
   },
   {
-    "uid": "645278",
-    "name": "张凯",
-    "org_name": "上海东方财富证券投资咨询有限公司",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "房地产行业研究员",
-    "department": "研究所",
-    "last_interaction_time": "2026-03-26 10:00:24",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "滨江服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-13",
-        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
-        "duration": 50
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "滨江服务",
-        "time": "2026-03-13"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "608893",
     "name": "崔俊凯",
     "org_name": "蓝石资产管理有限公司",
@@ -15673,100 +15707,6 @@
       }
     ],
     "special_companies": "万物云,复星国际,新城控股,新鸿基公司,滨江服务,碧桂园服务,绿城服务,绿城管理控股,金茂服务"
-  },
-  {
-    "uid": "283928",
-    "name": "严晟乐",
-    "org_name": "Regents Capital, LTD",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Analyst",
-    "department": "Investment",
-    "last_interaction_time": "2026-03-26 10:00:21",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "滨江服务",
-    "apply_count": 6,
-    "apply_records": [
-      {
-        "time": "2026-03-24",
-        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会"
-      },
-      {
-        "time": "2025-08-22",
-        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会"
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会"
-      },
-      {
-        "time": "2024-08-28",
-        "meet_title": "滨江服务2024年中期业绩线上推介会"
-      },
-      {
-        "time": "2024-03-20",
-        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会"
-      },
-      {
-        "time": "2023-03-23",
-        "meet_title": "滨江服务2022年度业绩线上推介会"
-      }
-    ],
-    "attend_count": 5,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
-        "duration": 35
-      },
-      {
-        "time": "2025-08-22",
-        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会",
-        "duration": 57
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "滨江服务2024年中期业绩线上推介会",
-        "duration": 7
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "滨江服务2024年中期业绩线上推介会",
-        "duration": 1
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "滨江服务2024年中期业绩线上推介会",
-        "duration": 61
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
-        "duration": 2
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
-        "duration": 61
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "绿城管理控股",
-        "time": "2024-03-22"
-      },
-      {
-        "company": "九毛九",
-        "time": "2023-05-11"
-      }
-    ],
-    "special_companies": "九毛九,敏华控股,绿城管理控股"
   },
   {
     "uid": "548275",
@@ -15948,6 +15888,100 @@
     "special_companies": "众安集团,合景悠活,新城悦服务,新希望服务,星盛商业,永升服务,滨江服务,碧桂园服务,金科服务"
   },
   {
+    "uid": "283928",
+    "name": "严晟乐",
+    "org_name": "Regents Capital, LTD",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Analyst",
+    "department": "Investment",
+    "last_interaction_time": "2026-03-26 10:00:21",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "滨江服务",
+    "apply_count": 6,
+    "apply_records": [
+      {
+        "time": "2026-03-24",
+        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会"
+      },
+      {
+        "time": "2025-08-22",
+        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会"
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会"
+      },
+      {
+        "time": "2024-08-28",
+        "meet_title": "滨江服务2024年中期业绩线上推介会"
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会"
+      },
+      {
+        "time": "2023-03-23",
+        "meet_title": "滨江服务2022年度业绩线上推介会"
+      }
+    ],
+    "attend_count": 5,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
+        "duration": 35
+      },
+      {
+        "time": "2025-08-22",
+        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会",
+        "duration": 0
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会",
+        "duration": 57
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "滨江服务2024年中期业绩线上推介会",
+        "duration": 7
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "滨江服务2024年中期业绩线上推介会",
+        "duration": 1
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "滨江服务2024年中期业绩线上推介会",
+        "duration": 61
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
+        "duration": 2
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
+        "duration": 61
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "绿城管理控股",
+        "time": "2024-03-22"
+      },
+      {
+        "company": "九毛九",
+        "time": "2023-05-11"
+      }
+    ],
+    "special_companies": "九毛九,敏华控股,绿城管理控股"
+  },
+  {
     "uid": "578504",
     "name": "姜好幸",
     "org_name": "东吴证券股份有限公司",
@@ -16055,6 +16089,210 @@
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
+  },
+  {
+    "uid": "264985",
+    "name": "郭俊炜",
+    "org_name": "方圆天成资产管理（深圳）有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2026-03-26 10:00:18",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "滨江服务",
+    "apply_count": 7,
+    "apply_records": [
+      {
+        "time": "2026-03-13",
+        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会"
+      },
+      {
+        "time": "2025-08-11",
+        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会"
+      },
+      {
+        "time": "2025-03-12",
+        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会"
+      },
+      {
+        "time": "2024-08-20",
+        "meet_title": "滨江服务2024年中期业绩线上推介会"
+      },
+      {
+        "time": "2024-03-18",
+        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会"
+      },
+      {
+        "time": "2023-08-16",
+        "meet_title": "滨江服务2023年中期业绩线上推介会"
+      },
+      {
+        "time": "2023-03-21",
+        "meet_title": "滨江服务2022年度业绩线上推介会"
+      }
+    ],
+    "attend_count": 6,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
+        "duration": 0
+      },
+      {
+        "time": "2026-03-26",
+        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
+        "duration": 52
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会",
+        "duration": 17
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会",
+        "duration": 46
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "滨江服务2024年中期业绩线上推介会",
+        "duration": 61
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
+        "duration": 28
+      },
+      {
+        "time": "2023-08-25",
+        "meet_title": "滨江服务2023年中期业绩线上推介会",
+        "duration": 42
+      },
+      {
+        "time": "2023-08-25",
+        "meet_title": "滨江服务2023年中期业绩线上推介会",
+        "duration": 42
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "滨江服务2022年度业绩线上推介会",
+        "duration": 5
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "滨江服务2022年度业绩线上推介会",
+        "duration": 59
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-22"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-07"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-03-07"
+      },
+      {
+        "company": "MiniMax",
+        "time": "2026-03-02"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2025-08-24"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "华润医药",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-17"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-17"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-17"
+      },
+      {
+        "company": "华住集团-S",
+        "time": "2025-08-17"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "朝聚眼科",
+        "time": "2025-03-17"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "建发物业",
+        "time": "2023-08-30"
+      }
+    ],
+    "special_companies": "万物云,碧桂园服务,药明生物"
   },
   {
     "uid": "503674",
@@ -16274,210 +16512,6 @@
     "special_companies": ""
   },
   {
-    "uid": "264985",
-    "name": "郭俊炜",
-    "org_name": "方圆天成资产管理（深圳）有限公司",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-26 10:00:18",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "滨江服务",
-    "apply_count": 7,
-    "apply_records": [
-      {
-        "time": "2026-03-13",
-        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会"
-      },
-      {
-        "time": "2025-08-11",
-        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会"
-      },
-      {
-        "time": "2025-03-12",
-        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会"
-      },
-      {
-        "time": "2024-08-20",
-        "meet_title": "滨江服务2024年中期业绩线上推介会"
-      },
-      {
-        "time": "2024-03-18",
-        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会"
-      },
-      {
-        "time": "2023-08-16",
-        "meet_title": "滨江服务2023年中期业绩线上推介会"
-      },
-      {
-        "time": "2023-03-21",
-        "meet_title": "滨江服务2022年度业绩线上推介会"
-      }
-    ],
-    "attend_count": 6,
-    "attend_records": [
-      {
-        "time": "2026-03-26",
-        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
-        "duration": 0
-      },
-      {
-        "time": "2026-03-26",
-        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
-        "duration": 52
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会",
-        "duration": 17
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会",
-        "duration": 46
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "滨江服务2024年中期业绩线上推介会",
-        "duration": 61
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
-        "duration": 28
-      },
-      {
-        "time": "2023-08-25",
-        "meet_title": "滨江服务2023年中期业绩线上推介会",
-        "duration": 42
-      },
-      {
-        "time": "2023-08-25",
-        "meet_title": "滨江服务2023年中期业绩线上推介会",
-        "duration": 42
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "滨江服务2022年度业绩线上推介会",
-        "duration": 5
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "滨江服务2022年度业绩线上推介会",
-        "duration": 59
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "中国有色矿业",
-        "time": "2026-03-25"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2026-03-22"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2026-03-07"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2026-03-07"
-      },
-      {
-        "company": "MiniMax",
-        "time": "2026-03-02"
-      },
-      {
-        "company": "合景悠活",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2025-08-24"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "华润医药",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-08-17"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-17"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-17"
-      },
-      {
-        "company": "华住集团-S",
-        "time": "2025-08-17"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-11"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-11"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-11"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-11"
-      },
-      {
-        "company": "朝聚眼科",
-        "time": "2025-03-17"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "建发物业",
-        "time": "2023-08-30"
-      }
-    ],
-    "special_companies": "万物云,碧桂园服务,药明生物"
-  },
-  {
     "uid": "633583",
     "name": "徐大龍",
     "org_name": "长风资产管理有限公司",
@@ -16513,20 +16547,20 @@
     "special_companies": ""
   },
   {
-    "uid": "435761",
-    "name": "刘慧婷",
-    "org_name": "中国国际金融股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "卖方分析师",
-    "position": "分析员",
-    "department": "财富服务中心",
+    "uid": "424658",
+    "name": "宋雲喆",
+    "org_name": "中信建投（国际）资产管理有限公司",
+    "org_type": "券商资管",
+    "cert_type": "机构投资者",
+    "position": "投資經理",
+    "department": "",
     "last_interaction_time": "2026-03-26 10:00:17",
     "last_interaction_behavior": "参会",
     "interaction_company": "滨江服务",
-    "apply_count": 4,
+    "apply_count": 6,
     "apply_records": [
       {
-        "time": "2026-03-19",
+        "time": "2026-03-15",
         "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会"
       },
       {
@@ -16534,31 +16568,87 @@
         "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会"
       },
       {
-        "time": "2025-03-26",
+        "time": "2025-03-13",
         "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会"
       },
       {
         "time": "2024-08-21",
         "meet_title": "滨江服务2024年中期业绩线上推介会"
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会"
+      },
+      {
+        "time": "2023-03-27",
+        "meet_title": "滨江服务2022年度业绩线上推介会"
       }
     ],
-    "attend_count": 2,
+    "attend_count": 6,
     "attend_records": [
       {
         "time": "2026-03-26",
         "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
-        "duration": 50
+        "duration": 51
       },
       {
         "time": "2025-08-22",
         "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会",
-        "duration": 51
+        "duration": 58
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会",
+        "duration": 59
+      },
+      {
+        "time": "2024-08-30",
+        "meet_title": "滨江服务2024年中期业绩线上推介会",
+        "duration": 60
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
+        "duration": 12
+      },
+      {
+        "time": "2024-03-26",
+        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
+        "duration": 49
       }
     ],
-    "is_first_attend": true,
+    "is_first_attend": false,
     "subscribed_companies": [
       {
-        "company": "中国海外发展",
+        "company": "绿城管理控股",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "建发物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "保利物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "中海物业",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-03-24"
+      },
+      {
+        "company": "龙湖集团",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "碧桂园服务",
         "time": "2026-03-23"
       },
       {
@@ -16566,15 +16656,27 @@
         "time": "2026-03-23"
       },
       {
-        "company": "新鸿基地产",
-        "time": "2026-03-19"
+        "company": "滨江服务",
+        "time": "2026-03-23"
       },
       {
-        "company": "建发物业",
+        "company": "绿城服务",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "万物云",
+        "time": "2026-03-23"
+      },
+      {
+        "company": "绿城中国",
         "time": "2025-08-25"
       },
       {
-        "company": "融创服务",
+        "company": "招商蛇口",
         "time": "2025-08-25"
       },
       {
@@ -16582,51 +16684,15 @@
         "time": "2025-08-25"
       },
       {
-        "company": "绿城管理控股",
-        "time": "2025-08-18"
+        "company": "阿里巴巴-W",
+        "time": "2025-05-15"
       },
       {
-        "company": "绿城服务",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "美的置业",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-03-26"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2024-08-26"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2024-08-21"
-      },
-      {
-        "company": "越秀服务",
-        "time": "2024-08-20"
+        "company": "新世界发展",
+        "time": "2023-11-14"
       }
     ],
-    "special_companies": "万物云,中海物业,绿城中国"
+    "special_companies": "卓越商企服务"
   },
   {
     "uid": "606480",
@@ -16833,20 +16899,20 @@
     "special_companies": "万物云,保利发展,保利物业,建发国际集团,建发物业,滨江服务,绿城中国,绿城服务,绿城管理控股,金科服务"
   },
   {
-    "uid": "424658",
-    "name": "宋雲喆",
-    "org_name": "中信建投（国际）资产管理有限公司",
-    "org_type": "券商资管",
-    "cert_type": "机构投资者",
-    "position": "投資經理",
-    "department": "",
+    "uid": "435761",
+    "name": "刘慧婷",
+    "org_name": "中国国际金融股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析员",
+    "department": "财富服务中心",
     "last_interaction_time": "2026-03-26 10:00:17",
     "last_interaction_behavior": "参会",
     "interaction_company": "滨江服务",
-    "apply_count": 6,
+    "apply_count": 4,
     "apply_records": [
       {
-        "time": "2026-03-15",
+        "time": "2026-03-19",
         "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会"
       },
       {
@@ -16854,87 +16920,31 @@
         "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会"
       },
       {
-        "time": "2025-03-13",
+        "time": "2025-03-26",
         "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会"
       },
       {
         "time": "2024-08-21",
         "meet_title": "滨江服务2024年中期业绩线上推介会"
-      },
-      {
-        "time": "2024-03-20",
-        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会"
-      },
-      {
-        "time": "2023-03-27",
-        "meet_title": "滨江服务2022年度业绩线上推介会"
       }
     ],
-    "attend_count": 6,
+    "attend_count": 2,
     "attend_records": [
       {
         "time": "2026-03-26",
         "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
-        "duration": 51
+        "duration": 50
       },
       {
         "time": "2025-08-22",
         "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会",
-        "duration": 58
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会",
-        "duration": 59
-      },
-      {
-        "time": "2024-08-30",
-        "meet_title": "滨江服务2024年中期业绩线上推介会",
-        "duration": 60
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
-        "duration": 12
-      },
-      {
-        "time": "2024-03-26",
-        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
-        "duration": 49
+        "duration": 51
       }
     ],
-    "is_first_attend": false,
+    "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "绿城管理控股",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "建发物业",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "宏信建发",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "保利物业",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "中海物业",
-        "time": "2026-03-31"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2026-03-24"
-      },
-      {
-        "company": "龙湖集团",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "碧桂园服务",
+        "company": "中国海外发展",
         "time": "2026-03-23"
       },
       {
@@ -16942,27 +16952,15 @@
         "time": "2026-03-23"
       },
       {
-        "company": "滨江服务",
-        "time": "2026-03-23"
+        "company": "新鸿基地产",
+        "time": "2026-03-19"
       },
       {
-        "company": "绿城服务",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "贝壳",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "万物云",
-        "time": "2026-03-23"
-      },
-      {
-        "company": "绿城中国",
+        "company": "建发物业",
         "time": "2025-08-25"
       },
       {
-        "company": "招商蛇口",
+        "company": "融创服务",
         "time": "2025-08-25"
       },
       {
@@ -16970,54 +16968,51 @@
         "time": "2025-08-25"
       },
       {
-        "company": "阿里巴巴-W",
-        "time": "2025-05-15"
+        "company": "绿城管理控股",
+        "time": "2025-08-18"
       },
       {
-        "company": "新世界发展",
-        "time": "2023-11-14"
-      }
-    ],
-    "special_companies": "卓越商企服务"
-  },
-  {
-    "uid": "583428",
-    "name": "李金泽",
-    "org_name": "富达国际（香港）有限公司",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "股票研究员",
-    "department": "",
-    "last_interaction_time": "2026-03-26 10:00:16",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "滨江服务",
-    "apply_count": 1,
-    "apply_records": [
+        "company": "绿城服务",
+        "time": "2025-08-18"
+      },
       {
-        "time": "2026-03-25",
-        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
+        "company": "贝壳",
+        "time": "2025-08-18"
+      },
       {
-        "time": "2026-03-26",
-        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
-        "duration": 50
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
+        "company": "美的置业",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-08-21"
+      },
       {
         "company": "滨江服务",
-        "time": "2026-03-25"
+        "time": "2024-08-21"
       },
       {
         "company": "世茂服务",
-        "time": "2026-03-25"
+        "time": "2024-08-21"
+      },
+      {
+        "company": "越秀服务",
+        "time": "2024-08-20"
       }
     ],
-    "special_companies": ""
+    "special_companies": "万物云,中海物业,绿城中国"
   },
   {
     "uid": "334180",
@@ -17306,6 +17301,45 @@
       }
     ],
     "special_companies": "万物云,世茂服务,保利物业,卓越商企服务,建业新生活,招商蛇口,新城悦服务,新希望服务,滨江服务,碧桂园服务,金茂服务"
+  },
+  {
+    "uid": "583428",
+    "name": "李金泽",
+    "org_name": "富达国际（香港）有限公司",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "股票研究员",
+    "department": "",
+    "last_interaction_time": "2026-03-26 10:00:16",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "滨江服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-26",
+        "meet_title": "滨江服务（3316.HK）2025年度业绩线上推介会",
+        "duration": 50
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "滨江服务",
+        "time": "2026-03-25"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2026-03-25"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "335463",
@@ -20441,6 +20475,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-19"
+      },
       {
         "company": "绿城中国",
         "time": "2026-03-25"
@@ -39186,96 +39224,6 @@
     "special_companies": "协鑫科技,卓越教育集团"
   },
   {
-    "uid": "607660",
-    "name": "胡正维",
-    "org_name": "广发证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2025-08-22 10:01:56",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "滨江服务",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2025-08-21",
-        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会"
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-08-22",
-        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会",
-        "duration": 57
-      },
-      {
-        "time": "2025-03-26",
-        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会",
-        "duration": 28
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "493692",
-    "name": "江英杰",
-    "org_name": "香港伟祺科技公司",
-    "org_type": null,
-    "cert_type": "机构投资者",
-    "position": "研究助理",
-    "department": "-",
-    "last_interaction_time": "2025-08-22 10:01:56",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "滨江服务",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2025-08-12",
-        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会"
-      },
-      {
-        "time": "2025-03-11",
-        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会"
-      },
-      {
-        "time": "2024-08-22",
-        "meet_title": "滨江服务2024年中期业绩线上推介会"
-      },
-      {
-        "time": "2024-03-20",
-        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-22",
-        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会",
-        "duration": 58
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-22"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "349603",
     "name": "刘河维",
     "org_name": "嘉实基金管理有限公司",
@@ -39383,6 +39331,96 @@
       {
         "company": "美的置业",
         "time": "2025-08-18"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "607660",
+    "name": "胡正维",
+    "org_name": "广发证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2025-08-22 10:01:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "滨江服务",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2025-08-21",
+        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会"
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-08-22",
+        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会",
+        "duration": 57
+      },
+      {
+        "time": "2025-03-26",
+        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会",
+        "duration": 28
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "493692",
+    "name": "江英杰",
+    "org_name": "香港伟祺科技公司",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "研究助理",
+    "department": "-",
+    "last_interaction_time": "2025-08-22 10:01:56",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "滨江服务",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2025-08-12",
+        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会"
+      },
+      {
+        "time": "2025-03-11",
+        "meet_title": "滨江服务（3316.HK）2024年度业绩线上推介会"
+      },
+      {
+        "time": "2024-08-22",
+        "meet_title": "滨江服务2024年中期业绩线上推介会"
+      },
+      {
+        "time": "2024-03-20",
+        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-22",
+        "meet_title": "滨江服务（3316.HK）2025年中期业绩线上推介会",
+        "duration": 58
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-22"
       }
     ],
     "special_companies": ""
@@ -64643,36 +64681,6 @@
     "special_companies": "万物云,上海实业控股,保利物业,卓越商企服务,新世界发展,新希望服务,碧桂园,神州控股,粤海置地,英伟达"
   },
   {
-    "uid": "591201",
-    "name": "王石頭",
-    "org_name": "青岛双木投资管理有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "机构投资者",
-    "position": "研究员",
-    "department": "",
-    "last_interaction_time": "2024-03-26 09:32:32",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "滨江服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-03-26",
-        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-26",
-        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
-        "duration": 29
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "333046",
     "name": "盧逸安",
     "org_name": "金翼资本管理有限公司",
@@ -64717,6 +64725,36 @@
         "time": "2023-07-13"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "591201",
+    "name": "王石頭",
+    "org_name": "青岛双木投资管理有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2024-03-26 09:32:32",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "滨江服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-03-26",
+        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-26",
+        "meet_title": "滨江服务（3316.HK）2023年度业绩线上推介会",
+        "duration": 29
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -74232,40 +74270,6 @@
     "special_companies": "东软教育,中广核新能源,协合新能源"
   },
   {
-    "uid": "335146",
-    "name": "曾捷",
-    "org_name": "广州穗财投资管理有限公司",
-    "org_type": "其他私募投资基金管理人(未备案)",
-    "cert_type": "缺少分类",
-    "position": "研究助理",
-    "department": "",
-    "last_interaction_time": "2023-08-25 17:30:53",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "滨江服务",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2023-08-16",
-        "meet_title": "滨江服务2023年中期业绩线上推介会"
-      },
-      {
-        "time": "2023-03-23",
-        "meet_title": "滨江服务2022年度业绩线上推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-08-25",
-        "meet_title": "滨江服务2023年中期业绩线上推介会",
-        "duration": 42
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "581343",
     "name": "苏之烨",
     "org_name": "兴业证券经济与金融研究院",
@@ -74334,6 +74338,40 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": "建业新生活,招商局商业房托"
+  },
+  {
+    "uid": "335146",
+    "name": "曾捷",
+    "org_name": "广州穗财投资管理有限公司",
+    "org_type": "其他私募投资基金管理人(未备案)",
+    "cert_type": "缺少分类",
+    "position": "研究助理",
+    "department": "",
+    "last_interaction_time": "2023-08-25 17:30:53",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "滨江服务",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2023-08-16",
+        "meet_title": "滨江服务2023年中期业绩线上推介会"
+      },
+      {
+        "time": "2023-03-23",
+        "meet_title": "滨江服务2022年度业绩线上推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-08-25",
+        "meet_title": "滨江服务2023年中期业绩线上推介会",
+        "duration": 42
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "496940",
@@ -80634,36 +80672,6 @@
     "special_companies": ""
   },
   {
-    "uid": "339545",
-    "name": "刘璐",
-    "org_name": "华泰证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "高级研究员",
-    "department": "研究所",
-    "last_interaction_time": "2023-03-27 09:31:37",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "滨江服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "滨江服务2022年度业绩线上推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2023-03-27",
-        "meet_title": "滨江服务2022年度业绩线上推介会",
-        "duration": 63
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "285139",
     "name": "李灿林",
     "org_name": "广西桥河投资管理有限公司",
@@ -80696,6 +80704,36 @@
         "time": "2025-05-11"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "339545",
+    "name": "刘璐",
+    "org_name": "华泰证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "高级研究员",
+    "department": "研究所",
+    "last_interaction_time": "2023-03-27 09:31:37",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "滨江服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "滨江服务2022年度业绩线上推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2023-03-27",
+        "meet_title": "滨江服务2022年度业绩线上推介会",
+        "duration": 63
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {

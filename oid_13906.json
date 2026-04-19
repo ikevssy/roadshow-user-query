@@ -6336,6 +6336,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
+      {
         "company": "中海物业",
         "time": "2026-03-23"
       },
@@ -6725,6 +6729,14 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "香港公司治理公会北京代表处",
+        "time": "2026-04-19"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-19"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-11"
@@ -7419,6 +7431,50 @@
     "special_companies": ""
   },
   {
+    "uid": "351532",
+    "name": "薛岚语",
+    "org_name": "华润医疗控股有限公司",
+    "org_type": null,
+    "cert_type": "上市公司",
+    "position": "财务部高级经理",
+    "department": "财务部",
+    "last_interaction_time": "2024-08-28 15:07:29",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "环球医疗",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-27",
+        "meet_title": "环球医疗（2666.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-28",
+        "meet_title": "环球医疗（2666.HK）2024年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2024-08-28",
+        "meet_title": "环球医疗（2666.HK）2024年中期业绩发布会",
+        "duration": 58
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "华润医疗",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "环球医疗",
+        "time": "2024-08-27"
+      }
+    ],
+    "special_companies": "华润医疗"
+  },
+  {
     "uid": "429994",
     "name": "刘州",
     "org_name": "深圳市吉川创新发展有限公司",
@@ -7494,14 +7550,14 @@
     "special_companies": "华润医疗,华润医药,复星医药,敏华控股,新城发展,新城控股,福寿园"
   },
   {
-    "uid": "351532",
-    "name": "薛岚语",
-    "org_name": "华润医疗控股有限公司",
-    "org_type": null,
-    "cert_type": "上市公司",
-    "position": "财务部高级经理",
-    "department": "财务部",
-    "last_interaction_time": "2024-08-28 15:07:29",
+    "uid": "501942",
+    "name": "朱磊",
+    "org_name": "香港中财金融投资有限公司",
+    "org_type": "境外投资公司",
+    "cert_type": "个人",
+    "position": "特许金融分析师/总监",
+    "department": "研究部",
+    "last_interaction_time": "2024-08-28 15:07:25",
     "last_interaction_behavior": "参会",
     "interaction_company": "环球医疗",
     "apply_count": 1,
@@ -7516,26 +7572,25 @@
       {
         "time": "2024-08-28",
         "meet_title": "环球医疗（2666.HK）2024年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2024-08-28",
-        "meet_title": "环球医疗（2666.HK）2024年中期业绩发布会",
-        "duration": 58
+        "duration": 76
       }
     ],
     "is_first_attend": true,
     "subscribed_companies": [
       {
-        "company": "华润医疗",
-        "time": "2025-08-27"
+        "company": "中国神华",
+        "time": "2024-09-02"
       },
       {
         "company": "环球医疗",
-        "time": "2024-08-27"
+        "time": "2024-08-28"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2024-03-20"
       }
     ],
-    "special_companies": "华润医疗"
+    "special_companies": ""
   },
   {
     "uid": "351288",
@@ -7761,49 +7816,6 @@
       }
     ],
     "special_companies": "协合新能源,宝龙商业,药明生物,融创服务"
-  },
-  {
-    "uid": "501942",
-    "name": "朱磊",
-    "org_name": "香港中财金融投资有限公司",
-    "org_type": "境外投资公司",
-    "cert_type": "个人",
-    "position": "特许金融分析师/总监",
-    "department": "研究部",
-    "last_interaction_time": "2024-08-28 15:07:25",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "环球医疗",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-27",
-        "meet_title": "环球医疗（2666.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-28",
-        "meet_title": "环球医疗（2666.HK）2024年中期业绩发布会",
-        "duration": 76
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国神华",
-        "time": "2024-09-02"
-      },
-      {
-        "company": "环球医疗",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2024-03-20"
-      }
-    ],
-    "special_companies": ""
   },
   {
     "uid": "283563",

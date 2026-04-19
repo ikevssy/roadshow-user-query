@@ -14206,6 +14206,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
+      {
         "company": "银诺医药",
         "time": "2026-04-14"
       },
@@ -75645,6 +75649,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
+      {
         "company": "中海物业",
         "time": "2026-03-23"
       },
@@ -76318,6 +76326,59 @@
     "special_companies": "碧桂园服务"
   },
   {
+    "uid": "333758",
+    "name": "姜渭清",
+    "org_name": "FS Partners",
+    "org_type": "未分类",
+    "cert_type": "机构投资者",
+    "position": "合伙人",
+    "department": "",
+    "last_interaction_time": "2024-03-22 19:01:57",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美团-W",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-20",
+        "meet_title": "美团点评（03690.HK）2023年第四季度及全年财务业绩电话会"
+      },
+      {
+        "time": "2023-08-23",
+        "meet_title": "美团点评（03690.HK）2023年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-22",
+        "meet_title": "美团点评（03690.HK）2023年第四季度及全年财务业绩电话会",
+        "duration": 3
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "美团点评（03690.HK）2023年第二季度业绩电话会",
+        "duration": 0
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "美团点评（03690.HK）2023年第二季度业绩电话会",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "百融智能",
+        "time": "2023-08-23"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2023-04-02"
+      }
+    ],
+    "special_companies": "百融智能,阜博集团"
+  },
+  {
     "uid": "272632",
     "name": "卢红梅",
     "org_name": "国元证券（香港）有限公司",
@@ -76637,59 +76698,6 @@
       }
     ],
     "special_companies": "21世纪教育,万物云,东曜药业,中国太保,中广核新能源,中粮家佳康,九毛九,医脉通,华夏视听教育,华润医疗,华润医药,卓越教育集团,周黑鸭,呷哺呷哺,四环医药,国元国际,国证国际证券(香港)研究所,宝龙商业,康哲药业,康臣药业,敏华控股,新鸿基公司,日清食品,明源云,永升服务,浦林成山,深高速,玄武云,环球医疗,百融智能,维亚生物,联邦制药,英恒科技,赢家时尚,雅生活服务,顺丰同城"
-  },
-  {
-    "uid": "333758",
-    "name": "姜渭清",
-    "org_name": "FS Partners",
-    "org_type": "未分类",
-    "cert_type": "机构投资者",
-    "position": "合伙人",
-    "department": "",
-    "last_interaction_time": "2024-03-22 19:01:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "美团-W",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-20",
-        "meet_title": "美团点评（03690.HK）2023年第四季度及全年财务业绩电话会"
-      },
-      {
-        "time": "2023-08-23",
-        "meet_title": "美团点评（03690.HK）2023年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-22",
-        "meet_title": "美团点评（03690.HK）2023年第四季度及全年财务业绩电话会",
-        "duration": 3
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "美团点评（03690.HK）2023年第二季度业绩电话会",
-        "duration": 0
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "美团点评（03690.HK）2023年第二季度业绩电话会",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "百融智能",
-        "time": "2023-08-23"
-      },
-      {
-        "company": "阜博集团",
-        "time": "2023-04-02"
-      }
-    ],
-    "special_companies": "百融智能,阜博集团"
   },
   {
     "uid": "439269",

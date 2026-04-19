@@ -1,5 +1,52 @@
 [
   {
+    "uid": "270799",
+    "name": "杜锷",
+    "org_name": "广东汇创投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "高级分析师",
+    "department": "",
+    "last_interaction_time": "2026-04-18 10:14:13",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "江南布衣",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-18",
+        "meet_title": "江南布衣（3306.HK）2025/26财年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-18",
+        "meet_title": "江南布衣（3306.HK）2025/26财年中期业绩发布会",
+        "duration": 29
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国民航信息网络",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "联邦制药",
+        "time": "2025-10-13"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2025-09-19"
+      },
+      {
+        "company": "招商基金",
+        "time": "2023-03-19"
+      }
+    ],
+    "special_companies": "比亚迪,越秀地产"
+  },
+  {
     "uid": "647361",
     "name": "田静",
     "org_name": "个人投资者",
@@ -14506,6 +14553,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
       {
         "company": "银诺医药",
         "time": "2026-04-14"

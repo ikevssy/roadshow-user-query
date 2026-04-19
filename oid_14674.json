@@ -1261,12 +1261,7 @@
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "佳鑫国际资源",
-        "time": "2026-03-26"
-      }
-    ],
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -6875,53 +6870,6 @@
     "special_companies": ""
   },
   {
-    "uid": "336082",
-    "name": "黎銘豊",
-    "org_name": "V Moxie Capital Limited",
-    "org_type": "境外资产管理公司",
-    "cert_type": "机构投资者",
-    "position": "Managing Director",
-    "department": "Investment",
-    "last_interaction_time": "2025-08-28 09:28:22",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "IGG INC",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "IGG INC（00799.HK）2025年度中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "IGG INC（00799.HK）2025年度中期业绩发布会",
-        "duration": 53
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "呷哺呷哺",
-        "time": "2023-08-28"
-      },
-      {
-        "company": "阜博集团",
-        "time": "2023-04-02"
-      },
-      {
-        "company": "华润医疗",
-        "time": "2023-03-29"
-      },
-      {
-        "company": "百融智能",
-        "time": "2023-03-24"
-      }
-    ],
-    "special_companies": "呷哺呷哺"
-  },
-  {
     "uid": "637695",
     "name": "佟明辉",
     "org_name": "第一创业投资管理有限公司",
@@ -6994,6 +6942,53 @@
       }
     ],
     "special_companies": ""
+  },
+  {
+    "uid": "336082",
+    "name": "黎銘豊",
+    "org_name": "V Moxie Capital Limited",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "Managing Director",
+    "department": "Investment",
+    "last_interaction_time": "2025-08-28 09:28:22",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "IGG INC",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "IGG INC（00799.HK）2025年度中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "IGG INC（00799.HK）2025年度中期业绩发布会",
+        "duration": 53
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "呷哺呷哺",
+        "time": "2023-08-28"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2023-04-02"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "百融智能",
+        "time": "2023-03-24"
+      }
+    ],
+    "special_companies": "呷哺呷哺"
   },
   {
     "uid": "586412",
@@ -12037,6 +12032,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
+      {
         "company": "中海物业",
         "time": "2026-03-23"
       },
@@ -16693,6 +16692,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
       {
         "company": "银诺医药",
         "time": "2026-04-14"

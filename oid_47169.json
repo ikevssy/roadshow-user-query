@@ -11675,36 +11675,6 @@
     "special_companies": "联邦制药"
   },
   {
-    "uid": "611456",
-    "name": "杨萱",
-    "org_name": "GNJAPITAL",
-    "org_type": "私募证券投资基金管理人",
-    "cert_type": "个人",
-    "position": "-",
-    "department": "-",
-    "last_interaction_time": "2024-08-09 09:30:20",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "礼来",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2024-08-08",
-        "meet_title": "礼来（LLY.US）2024年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-08-09",
-        "meet_title": "礼来（LLY.US）2024年第二季度业绩电话会",
-        "duration": 67
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "283010",
     "name": "欧阳舒凡",
     "org_name": "第一上海创业投资管理（深圳）有限公司",
@@ -11806,6 +11776,36 @@
       }
     ],
     "special_companies": "加科思,华润医药,博腾股份,国元国际,珀莱雅,神威药业,药师帮,贝康医疗,阜博集团"
+  },
+  {
+    "uid": "611456",
+    "name": "杨萱",
+    "org_name": "GNJAPITAL",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "个人",
+    "position": "-",
+    "department": "-",
+    "last_interaction_time": "2024-08-09 09:30:20",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "礼来",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2024-08-08",
+        "meet_title": "礼来（LLY.US）2024年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-08-09",
+        "meet_title": "礼来（LLY.US）2024年第二季度业绩电话会",
+        "duration": 67
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "13369",
