@@ -1,5 +1,29 @@
 [
   {
+    "uid": "648077",
+    "name": "董先生",
+    "org_name": "PeterValue",
+    "org_type": null,
+    "cert_type": "个人",
+    "position": "个人投资者",
+    "department": null,
+    "last_interaction_time": "2026-04-18 21:20:13",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "理想汽车-w",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-18",
+        "meet_title": "理想汽车（02015.HK，LI.US）2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "251640",
     "name": "张德强",
     "org_name": "广东冠丰资产管理有限公司",
@@ -51636,6 +51660,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
       {
         "company": "银诺医药",
         "time": "2026-04-14"

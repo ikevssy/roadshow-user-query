@@ -5639,6 +5639,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "香港公司治理公会北京代表处",
+        "time": "2026-04-19"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-19"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-11"
       },
@@ -6924,65 +6932,6 @@
     "special_companies": "中国民航信息网络"
   },
   {
-    "uid": "634582",
-    "name": "陈杨",
-    "org_name": "北京安迪科电子有限责任公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "辐射安全主管",
-    "department": "",
-    "last_interaction_time": "2026-03-30 10:30:10",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国同辐",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-12",
-        "meet_title": "中国同辐股份有限公司2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-14",
-        "meet_title": "中国同辐股份有限公司2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 3,
-    "attend_records": [
-      {
-        "time": "2026-03-30",
-        "meet_title": "中国同辐股份有限公司2025年度业绩发布会",
-        "duration": 82
-      },
-      {
-        "time": "2025-08-29",
-        "meet_title": "中国同辐股份有限公司2025年中期业绩发布会",
-        "duration": 87
-      },
-      {
-        "time": "2025-08-29",
-        "meet_title": "中国同辐股份有限公司2025年中期业绩发布会",
-        "duration": 2
-      },
-      {
-        "time": "2025-04-22",
-        "meet_title": "中国同辐股份有限公司2024年度业绩发布会",
-        "duration": 76
-      },
-      {
-        "time": "2025-04-22",
-        "meet_title": "中国同辐股份有限公司2024年度业绩发布会",
-        "duration": 0
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "中国同辐",
-        "time": "2025-06-23"
-      }
-    ],
-    "special_companies": "中国同辐"
-  },
-  {
     "uid": "497048",
     "name": "Qi Wen",
     "org_name": "Jefferies",
@@ -7061,6 +7010,65 @@
       }
     ],
     "special_companies": "康臣药业,思派健康"
+  },
+  {
+    "uid": "634582",
+    "name": "陈杨",
+    "org_name": "北京安迪科电子有限责任公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "辐射安全主管",
+    "department": "",
+    "last_interaction_time": "2026-03-30 10:30:10",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国同辐",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-12",
+        "meet_title": "中国同辐股份有限公司2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-14",
+        "meet_title": "中国同辐股份有限公司2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 3,
+    "attend_records": [
+      {
+        "time": "2026-03-30",
+        "meet_title": "中国同辐股份有限公司2025年度业绩发布会",
+        "duration": 82
+      },
+      {
+        "time": "2025-08-29",
+        "meet_title": "中国同辐股份有限公司2025年中期业绩发布会",
+        "duration": 87
+      },
+      {
+        "time": "2025-08-29",
+        "meet_title": "中国同辐股份有限公司2025年中期业绩发布会",
+        "duration": 2
+      },
+      {
+        "time": "2025-04-22",
+        "meet_title": "中国同辐股份有限公司2024年度业绩发布会",
+        "duration": 76
+      },
+      {
+        "time": "2025-04-22",
+        "meet_title": "中国同辐股份有限公司2024年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国同辐",
+        "time": "2025-06-23"
+      }
+    ],
+    "special_companies": "中国同辐"
   },
   {
     "uid": "646671",

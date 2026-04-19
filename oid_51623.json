@@ -1,5 +1,35 @@
 [
   {
+    "uid": "646114",
+    "name": "陆灿",
+    "org_name": "珠海鸣则投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2026-04-18 10:48:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "贝康医疗",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-18",
+        "meet_title": "贝康医疗（2170.HK）2025年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-04-18",
+        "meet_title": "贝康医疗（2170.HK）2025年度业绩发布会",
+        "duration": 0
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "636641",
     "name": "刘思东",
     "org_name": "广州明曦投资管理有限公司",
@@ -13072,36 +13102,6 @@
     "special_companies": ""
   },
   {
-    "uid": "633780",
-    "name": "马思钊",
-    "org_name": "道远资本管理(北京)有限公司",
-    "org_type": "私募股权/创业投资基金管理人",
-    "cert_type": "个人",
-    "position": "资产管理高级经理",
-    "department": "",
-    "last_interaction_time": "2025-03-31 10:31:17",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "贝康医疗",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-27",
-        "meet_title": "贝康医疗（2170.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-31",
-        "meet_title": "贝康医疗（2170.HK）2024年度业绩发布会",
-        "duration": 41
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "634235",
     "name": "胡德恩",
     "org_name": "永丰金证券（亚洲）有限公司",
@@ -13125,6 +13125,36 @@
         "time": "2025-03-31",
         "meet_title": "贝康医疗（2170.HK）2024年度业绩发布会",
         "duration": 57
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "633780",
+    "name": "马思钊",
+    "org_name": "道远资本管理(北京)有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "个人",
+    "position": "资产管理高级经理",
+    "department": "",
+    "last_interaction_time": "2025-03-31 10:31:17",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "贝康医疗",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-27",
+        "meet_title": "贝康医疗（2170.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-31",
+        "meet_title": "贝康医疗（2170.HK）2024年度业绩发布会",
+        "duration": 41
       }
     ],
     "is_first_attend": true,

@@ -340,6 +340,11 @@
     "attend_count": 3,
     "attend_records": [
       {
+        "time": "2026-04-17",
+        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会",
+        "duration": 19
+      },
+      {
         "time": "2026-04-01",
         "meet_title": "新希望服务（3658.HK）2024年度业绩发布会",
         "duration": 1
@@ -6674,6 +6679,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "香港公司治理公会北京代表处",
+        "time": "2026-04-19"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-19"
+      },
+      {
         "company": "工业富联",
         "time": "2026-04-11"
       },
@@ -7392,49 +7405,6 @@
     "special_companies": ""
   },
   {
-    "uid": "573427",
-    "name": "刘凌霄",
-    "org_name": "金融公关(香港)有限公司",
-    "org_type": "财经公关服务",
-    "cert_type": "服务机构",
-    "position": "高级客户主任",
-    "department": "",
-    "last_interaction_time": "2026-03-31 16:00:51",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新希望服务",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2026-03-18",
-        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-12-15",
-        "meet_title": "新希望服务（3658.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "新希望服务（3658.HK）2024年度业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-31",
-        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会",
-        "duration": 45
-      },
-      {
-        "time": "2025-03-25",
-        "meet_title": "新希望服务（3658.HK）2024年度业绩发布会",
-        "duration": 59
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "16501",
     "name": "李昊原",
     "org_name": "中国银河证券股份有限公司",
@@ -7476,6 +7446,49 @@
         "time": "2025-03-26"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "573427",
+    "name": "刘凌霄",
+    "org_name": "金融公关(香港)有限公司",
+    "org_type": "财经公关服务",
+    "cert_type": "服务机构",
+    "position": "高级客户主任",
+    "department": "",
+    "last_interaction_time": "2026-03-31 16:00:51",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新希望服务",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-03-18",
+        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-12-15",
+        "meet_title": "新希望服务（3658.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "新希望服务（3658.HK）2024年度业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-31",
+        "meet_title": "新希望服务（3658.HK）2025年度业绩发布会",
+        "duration": 45
+      },
+      {
+        "time": "2025-03-25",
+        "meet_title": "新希望服务（3658.HK）2024年度业绩发布会",
+        "duration": 59
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {
@@ -29820,6 +29833,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
+      {
         "company": "中海物业",
         "time": "2026-03-23"
       },
@@ -41978,40 +41995,6 @@
     "special_companies": "建发国际集团,滨江服务,金茂服务"
   },
   {
-    "uid": "502998",
-    "name": "钟培源",
-    "org_name": "山西证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "个人",
-    "position": "高级运营经理",
-    "department": "金融机构部",
-    "last_interaction_time": "2024-03-26 16:00:06",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "新希望服务",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-26",
-        "meet_title": "新希望服务（3658.HK）2023年度业绩发布会"
-      },
-      {
-        "time": "2023-10-23",
-        "meet_title": "新希望服务（03658.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2024-03-26",
-        "meet_title": "新希望服务（3658.HK）2023年度业绩发布会",
-        "duration": 62
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "579591",
     "name": "郭秋莲",
     "org_name": "上海牛乎资产管理有限公司",
@@ -42079,6 +42062,40 @@
       }
     ],
     "special_companies": "友谊时光"
+  },
+  {
+    "uid": "502998",
+    "name": "钟培源",
+    "org_name": "山西证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "个人",
+    "position": "高级运营经理",
+    "department": "金融机构部",
+    "last_interaction_time": "2024-03-26 16:00:06",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "新希望服务",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-26",
+        "meet_title": "新希望服务（3658.HK）2023年度业绩发布会"
+      },
+      {
+        "time": "2023-10-23",
+        "meet_title": "新希望服务（03658.HK）线上交流会｜\"2023上市公司路演大会•第五季\""
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2024-03-26",
+        "meet_title": "新希望服务（3658.HK）2023年度业绩发布会",
+        "duration": 62
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "265392",

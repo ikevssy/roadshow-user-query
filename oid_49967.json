@@ -1,5 +1,34 @@
 [
   {
+    "uid": "645593",
+    "name": "姚锦灏",
+    "org_name": "Golden Pine Asset Management, LTD",
+    "org_type": "境外资产管理公司",
+    "cert_type": "机构投资者",
+    "position": "交易员",
+    "department": "",
+    "last_interaction_time": "2026-04-18 15:37:01",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "泡泡玛特",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-18",
+        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2026-03-19"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "276920",
     "name": "边佳璐",
     "org_name": "杭州军璐投资有限公司",
@@ -28806,6 +28835,61 @@
     "special_companies": ""
   },
   {
+    "uid": "334773",
+    "name": "Ethan XIE",
+    "org_name": "毅恒资本",
+    "org_type": "实业投资",
+    "cert_type": "个人",
+    "position": "Partner",
+    "department": "",
+    "last_interaction_time": "2025-08-20 10:01:01",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "泡泡玛特",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会",
+        "duration": 78
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "周黑鸭",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-08-16"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-20"
+      }
+    ],
+    "special_companies": "VESYNC,绿城服务,雅生活服务"
+  },
+  {
     "uid": "339695",
     "name": "张永林",
     "org_name": "新华汇富资产管理有限公司",
@@ -28877,61 +28961,6 @@
     "is_first_attend": false,
     "subscribed_companies": [],
     "special_companies": ""
-  },
-  {
-    "uid": "334773",
-    "name": "Ethan XIE",
-    "org_name": "毅恒资本",
-    "org_type": "实业投资",
-    "cert_type": "个人",
-    "position": "Partner",
-    "department": "",
-    "last_interaction_time": "2025-08-20 10:01:01",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "泡泡玛特",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会",
-        "duration": 78
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "周黑鸭",
-        "time": "2024-08-26"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2023-08-16"
-      },
-      {
-        "company": "万物云",
-        "time": "2023-03-20"
-      }
-    ],
-    "special_companies": "VESYNC,绿城服务,雅生活服务"
   },
   {
     "uid": "282875",
@@ -53127,6 +53156,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
       {
         "company": "银诺医药",
         "time": "2026-04-14"

@@ -317,6 +317,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
+      {
         "company": "银诺医药",
         "time": "2026-04-14"
       },
@@ -2853,6 +2857,14 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "香港公司治理公会北京代表处",
+        "time": "2026-04-19"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-19"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-11"
@@ -15565,69 +15577,6 @@
     "special_companies": ""
   },
   {
-    "uid": "336814",
-    "name": "欧阳建平",
-    "org_name": "西南证券股份有限公司",
-    "org_type": "证券公司",
-    "cert_type": "个人",
-    "position": "业务经理",
-    "department": "",
-    "last_interaction_time": "2025-03-28 14:29:53",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-25",
-        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-28",
-        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
-        "duration": 43
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "绿城中国",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "贝壳",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2026-03-16"
-      },
-      {
-        "company": "国银金租",
-        "time": "2025-04-27"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-03-26"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2025-03-25"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "581383",
     "name": "王会晋",
     "org_name": "大华继显私人有限公司",
@@ -15751,6 +15700,69 @@
       }
     ],
     "special_companies": "万物云,中国动向,中石化冠德,中集集团,信義玻璃,协合新能源,小米集团-W,康哲药业,百果园集团,百融智能,美的置业,联邦制药,药师帮,贝康医疗,金风科技,雅生活服务"
+  },
+  {
+    "uid": "336814",
+    "name": "欧阳建平",
+    "org_name": "西南证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "个人",
+    "position": "业务经理",
+    "department": "",
+    "last_interaction_time": "2025-03-28 14:29:53",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-25",
+        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-28",
+        "meet_title": "中国船舶租赁（3877.HK）2024全年业绩发布会",
+        "duration": 43
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "绿城中国",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "贝壳",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2026-03-16"
+      },
+      {
+        "company": "国银金租",
+        "time": "2025-04-27"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-03-26"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2025-03-25"
+      }
+    ],
+    "special_companies": ""
   },
   {
     "uid": "632889",
@@ -28863,6 +28875,10 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
+      {
         "company": "中海物业",
         "time": "2026-03-23"
       },
@@ -31852,45 +31868,6 @@
     "special_companies": "中国船舶租赁,保利物业,美的置业"
   },
   {
-    "uid": "503939",
-    "name": "郑爽",
-    "org_name": "惠誉（北京）信用评级有限公司上海分公司",
-    "org_type": "评级服务机构",
-    "cert_type": "个人",
-    "position": "高级分析师",
-    "department": "非银金融机构评级",
-    "last_interaction_time": "2024-03-27 16:01:44",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "中国船舶租赁",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2024-03-25",
-        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会"
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2024-03-27",
-        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
-        "duration": 85
-      },
-      {
-        "time": "2023-08-24",
-        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会",
-        "duration": 71
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
     "uid": "272826",
     "name": "丁璨",
     "org_name": "辰杉资管",
@@ -31932,6 +31909,45 @@
         "time": "2023-05-10"
       }
     ],
+    "special_companies": ""
+  },
+  {
+    "uid": "503939",
+    "name": "郑爽",
+    "org_name": "惠誉（北京）信用评级有限公司上海分公司",
+    "org_type": "评级服务机构",
+    "cert_type": "个人",
+    "position": "高级分析师",
+    "department": "非银金融机构评级",
+    "last_interaction_time": "2024-03-27 16:01:44",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "中国船舶租赁",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2024-03-25",
+        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会"
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2024-03-27",
+        "meet_title": "中国船舶租赁（3877.HK）2023全年业绩发布会",
+        "duration": 85
+      },
+      {
+        "time": "2023-08-24",
+        "meet_title": "中国船舶租赁（3877.HK）2023年中期业绩发布会",
+        "duration": 71
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [],
     "special_companies": ""
   },
   {

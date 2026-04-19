@@ -4449,6 +4449,185 @@
     "special_companies": ""
   },
   {
+    "uid": "548275",
+    "name": "徐青",
+    "org_name": "天风证券股份有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "个人",
+    "position": "高级销售经理",
+    "department": "销售交易部",
+    "last_interaction_time": "2026-03-27 10:00:02",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "卓越商企服务",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-03-18",
+        "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-06",
+        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-03-20",
+        "meet_title": "卓越商企服务（6989.HK）2024年度业绩发布会"
+      },
+      {
+        "time": "2024-08-21",
+        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会"
+      }
+    ],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会",
+        "duration": 46
+      },
+      {
+        "time": "2025-08-27",
+        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-27",
+        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-03-27",
+        "meet_title": "卓越商企服务（6989.HK）2024年度业绩发布会",
+        "duration": 50
+      },
+      {
+        "time": "2024-08-29",
+        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会",
+        "duration": 68
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "建发物业",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "保利物业",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-08"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "龙湖集团",
+        "time": "2025-07-21"
+      },
+      {
+        "company": "越秀服务",
+        "time": "2024-10-09"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "华科智能投资",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "光大证券",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "中信证券",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "海通证券",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "侨银股份",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "永升服务",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "融创服务",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "世茂服务",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "金科服务",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "新城悦服务",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "众安集团",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "星盛商业",
+        "time": "2024-06-19"
+      },
+      {
+        "company": "神州控股",
+        "time": "2024-06-18"
+      },
+      {
+        "company": "赢家时尚",
+        "time": "2024-06-18"
+      }
+    ],
+    "special_companies": "众安集团,合景悠活,新城悦服务,新希望服务,星盛商业,永升服务,滨江服务,碧桂园服务,金科服务"
+  },
+  {
     "uid": "581068",
     "name": "陈文婧",
     "org_name": "浦银安盛基金管理有限公司",
@@ -4773,183 +4952,29 @@
     "special_companies": "保利物业,合景悠活,国证国际证券(香港)研究所,宝龙商业,建业新生活,捷利交易宝,新希望服务,滨江服务,碧桂园服务,绿城服务"
   },
   {
-    "uid": "548275",
-    "name": "徐青",
-    "org_name": "天风证券股份有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "个人",
-    "position": "高级销售经理",
-    "department": "销售交易部",
-    "last_interaction_time": "2026-03-27 10:00:02",
+    "uid": "646296",
+    "name": "王奕婕",
+    "org_name": "卓越商企服务",
+    "org_type": null,
+    "cert_type": "上市公司",
+    "position": "财务报表主管",
+    "department": "财务部",
+    "last_interaction_time": "2026-03-27 10:00:01",
     "last_interaction_behavior": "参会",
     "interaction_company": "卓越商企服务",
-    "apply_count": 4,
-    "apply_records": [
-      {
-        "time": "2026-03-18",
-        "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-06",
-        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-03-20",
-        "meet_title": "卓越商企服务（6989.HK）2024年度业绩发布会"
-      },
-      {
-        "time": "2024-08-21",
-        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会"
-      }
-    ],
-    "attend_count": 4,
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
     "attend_records": [
       {
         "time": "2026-03-27",
         "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会",
         "duration": 46
-      },
-      {
-        "time": "2025-08-27",
-        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-27",
-        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-03-27",
-        "meet_title": "卓越商企服务（6989.HK）2024年度业绩发布会",
-        "duration": 50
-      },
-      {
-        "time": "2024-08-29",
-        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会",
-        "duration": 68
       }
     ],
     "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "建发物业",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "保利物业",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "雅生活服务",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-15"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-08"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "龙湖集团",
-        "time": "2025-07-21"
-      },
-      {
-        "company": "越秀服务",
-        "time": "2024-10-09"
-      },
-      {
-        "company": "湾区发展",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "华科智能投资",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "光大证券",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "中信证券",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "海通证券",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "侨银股份",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "永升服务",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "合景悠活",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "融创服务",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "世茂服务",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "金科服务",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "新希望服务",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "新城悦服务",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "众安集团",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "星盛商业",
-        "time": "2024-06-19"
-      },
-      {
-        "company": "神州控股",
-        "time": "2024-06-18"
-      },
-      {
-        "company": "赢家时尚",
-        "time": "2024-06-18"
-      }
-    ],
-    "special_companies": "众安集团,合景悠活,新城悦服务,新希望服务,星盛商业,永升服务,滨江服务,碧桂园服务,金科服务"
+    "subscribed_companies": [],
+    "special_companies": ""
   },
   {
     "uid": "426996",
@@ -4975,31 +5000,6 @@
         "time": "2026-03-27",
         "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会",
         "duration": 47
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "646296",
-    "name": "王奕婕",
-    "org_name": "卓越商企服务",
-    "org_type": null,
-    "cert_type": "上市公司",
-    "position": "财务报表主管",
-    "department": "财务部",
-    "last_interaction_time": "2026-03-27 10:00:01",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "卓越商企服务",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "卓越商企服务（6989.HK）2025年度业绩发布会",
-        "duration": 46
       }
     ],
     "is_first_attend": true,
@@ -15439,41 +15439,6 @@
     "special_companies": ""
   },
   {
-    "uid": "272707",
-    "name": "贝荣辉",
-    "org_name": "深圳格隆汇信息科技有限公司",
-    "org_type": "财经媒体",
-    "cert_type": "服务机构",
-    "position": "项目经理",
-    "department": "商务中心",
-    "last_interaction_time": "2025-08-27 10:28:03",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "卓越商企服务",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-22",
-        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-27",
-        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
-        "duration": 56
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-24"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "607362",
     "name": "鲁仁浩",
     "org_name": "知新资产管理有限公司",
@@ -15509,6 +15474,41 @@
       {
         "company": "卓越商企服务",
         "time": "2025-08-26"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "272707",
+    "name": "贝荣辉",
+    "org_name": "深圳格隆汇信息科技有限公司",
+    "org_type": "财经媒体",
+    "cert_type": "服务机构",
+    "position": "项目经理",
+    "department": "商务中心",
+    "last_interaction_time": "2025-08-27 10:28:03",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "卓越商企服务",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-22",
+        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-27",
+        "meet_title": "卓越商企服务（6989.HK）2025年中期业绩发布会",
+        "duration": 56
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-24"
       }
     ],
     "special_companies": ""
@@ -16187,6 +16187,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-18"
+      },
       {
         "company": "贝壳",
         "time": "2025-08-26"
@@ -17170,6 +17174,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-19"
+      },
+      {
         "company": "中海物业",
         "time": "2026-03-23"
       },
@@ -17443,6 +17451,14 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "香港公司治理公会北京代表处",
+        "time": "2026-04-19"
+      },
+      {
+        "company": "中国建筑",
+        "time": "2026-04-19"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-11"
@@ -31496,55 +31512,6 @@
     "special_companies": "金茂服务"
   },
   {
-    "uid": "341373",
-    "name": "张增艳",
-    "org_name": "中国互联网新闻中心",
-    "org_type": "财经媒体",
-    "cert_type": "媒体",
-    "position": "记者",
-    "department": "财经中心",
-    "last_interaction_time": "2024-08-29 10:29:46",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "卓越商企服务",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 4,
-    "attend_records": [
-      {
-        "time": "2024-08-29",
-        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会",
-        "duration": 62
-      },
-      {
-        "time": "2024-03-28",
-        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会",
-        "duration": 68
-      },
-      {
-        "time": "2023-08-30",
-        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩媒体发布会",
-        "duration": 39
-      },
-      {
-        "time": "2023-03-28",
-        "meet_title": "卓越商企服务（6989.HK）2022年度业绩媒体发布会",
-        "duration": 51
-      }
-    ],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "卓越商企服务",
-        "time": "2024-03-28"
-      },
-      {
-        "company": "万物云",
-        "time": "2024-03-22"
-      }
-    ],
-    "special_companies": "万物云"
-  },
-  {
     "uid": "585838",
     "name": "武非凡",
     "org_name": "深圳市路演中网络科技有限公司",
@@ -31616,6 +31583,55 @@
       }
     ],
     "special_companies": "中国人寿,中国电信,亿胜生物科技,康臣药业,心玮医疗,思路迪医药股份,玄武云,药师帮,路演中,远东发展,金风科技"
+  },
+  {
+    "uid": "341373",
+    "name": "张增艳",
+    "org_name": "中国互联网新闻中心",
+    "org_type": "财经媒体",
+    "cert_type": "媒体",
+    "position": "记者",
+    "department": "财经中心",
+    "last_interaction_time": "2024-08-29 10:29:46",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "卓越商企服务",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 4,
+    "attend_records": [
+      {
+        "time": "2024-08-29",
+        "meet_title": "卓越商企服务（6989.HK）2024年中期业绩发布会",
+        "duration": 62
+      },
+      {
+        "time": "2024-03-28",
+        "meet_title": "卓越商企服务（6989.HK）2023年度业绩发布会",
+        "duration": 68
+      },
+      {
+        "time": "2023-08-30",
+        "meet_title": "卓越商企服务（6989.HK）2023年中期业绩媒体发布会",
+        "duration": 39
+      },
+      {
+        "time": "2023-03-28",
+        "meet_title": "卓越商企服务（6989.HK）2022年度业绩媒体发布会",
+        "duration": 51
+      }
+    ],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "卓越商企服务",
+        "time": "2024-03-28"
+      },
+      {
+        "company": "万物云",
+        "time": "2024-03-22"
+      }
+    ],
+    "special_companies": "万物云"
   },
   {
     "uid": "346874",
