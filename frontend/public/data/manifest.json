@@ -1,6 +1,6 @@
 {
-  "update_time": "2026-04-20 20:33:15",
-  "companies_count": 52674,
+  "update_time": "2026-04-21 01:33:24",
+  "companies_count": 52675,
   "data_start_time": "2023-01-01",
   "synced_companies": 2161,
   "release_tags": [
@@ -55,7 +55,7 @@
       "oid": 3685,
       "cn_short_name": "金风科技",
       "filename": "oid_3685.json",
-      "user_count": 1274,
+      "user_count": 1275,
       "release_batch": 1
     },
     {
@@ -510,7 +510,7 @@
       "oid": 2543,
       "cn_short_name": "中国建筑",
       "filename": "oid_2543.json",
-      "user_count": 479,
+      "user_count": 481,
       "release_batch": 1
     },
     {
@@ -685,7 +685,7 @@
       "oid": 3015,
       "cn_short_name": "中国民航信息网络",
       "filename": "oid_3015.json",
-      "user_count": 365,
+      "user_count": 366,
       "release_batch": 1
     },
     {
@@ -1077,7 +1077,7 @@
       "oid": 3668,
       "cn_short_name": "中国黄金国际",
       "filename": "oid_3668.json",
-      "user_count": 225,
+      "user_count": 226,
       "release_batch": 1
     },
     {
@@ -2733,6 +2733,13 @@
       "release_batch": 2
     },
     {
+      "oid": 54173,
+      "cn_short_name": "固生堂",
+      "filename": "oid_54173.json",
+      "user_count": 62,
+      "release_batch": 3
+    },
+    {
       "oid": 20,
       "cn_short_name": "安踏体育",
       "filename": "oid_20.json",
@@ -2745,13 +2752,6 @@
       "filename": "oid_17815.json",
       "user_count": 62,
       "release_batch": 2
-    },
-    {
-      "oid": 54173,
-      "cn_short_name": "固生堂",
-      "filename": "oid_54173.json",
-      "user_count": 62,
-      "release_batch": 3
     },
     {
       "oid": 55916,
@@ -6205,6 +6205,13 @@
       "release_batch": 1
     },
     {
+      "oid": 53643,
+      "cn_short_name": "世纪互联",
+      "filename": "oid_53643.json",
+      "user_count": 15,
+      "release_batch": 3
+    },
+    {
       "oid": 54609,
       "cn_short_name": "莱纳建筑",
       "filename": "oid_54609.json",
@@ -6273,13 +6280,6 @@
       "filename": "oid_3696.json",
       "user_count": 14,
       "release_batch": 1
-    },
-    {
-      "oid": 53643,
-      "cn_short_name": "世纪互联",
-      "filename": "oid_53643.json",
-      "user_count": 14,
-      "release_batch": 3
     },
     {
       "oid": 54378,
