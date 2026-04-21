@@ -1,5 +1,329 @@
 [
   {
+    "uid": "333670",
+    "name": "孙钟涟",
+    "org_name": "兴业证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "分析师",
+    "department": "港股地产",
+    "last_interaction_time": "2026-04-20 19:11:47",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "保利发展",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "建发国际集团",
+        "time": "2024-08-26"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-08-20"
+      }
+    ],
+    "special_companies": "保利物业,建发国际集团"
+  },
+  {
+    "uid": "440094",
+    "name": "赵亚星",
+    "org_name": "招商银行股份有限公司",
+    "org_type": "银行",
+    "cert_type": "个人",
+    "position": "战略客户经理",
+    "department": "广州分行房地产金融部",
+    "last_interaction_time": "2026-04-20 15:19:29",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "保利发展",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-20"
+      }
+    ],
+    "special_companies": "新世界发展"
+  },
+  {
+    "uid": "494628",
+    "name": "翟苏宁",
+    "org_name": "东方财富证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "地产行业高级分析师",
+    "department": "研究所",
+    "last_interaction_time": "2026-04-20 13:24:33",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "保利发展",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "保利置业集团",
+        "time": "2023-08-29"
+      },
+      {
+        "company": "网易",
+        "time": "2023-08-25"
+      },
+      {
+        "company": "华润置地",
+        "time": "2023-03-29"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "中国海外宏洋集团",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "金科服务",
+        "time": "2023-03-24"
+      },
+      {
+        "company": "新城控股",
+        "time": "2023-03-24"
+      }
+    ],
+    "special_companies": "美的置业"
+  },
+  {
+    "uid": "606560",
+    "name": "苏华立",
+    "org_name": "上海睿郡资产管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "研究员",
+    "department": "",
+    "last_interaction_time": "2026-04-20 10:41:20",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "保利发展",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2026-03-29"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-26"
+      },
+      {
+        "company": "信義玻璃",
+        "time": "2025-08-04"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-03-24"
+      },
+      {
+        "company": "保利物业",
+        "time": "2024-08-20"
+      },
+      {
+        "company": "宏信建发",
+        "time": "2024-08-08"
+      }
+    ],
+    "special_companies": "保利物业,宏信建发,碧桂园服务"
+  },
+  {
+    "uid": "504711",
+    "name": "宋江伟",
+    "org_name": "深圳市华润资本股权投资有限公司",
+    "org_type": "私募股权/创业投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "高级经理",
+    "department": "广州分部",
+    "last_interaction_time": "2026-04-20 09:38:02",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "保利发展",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "佳兆业美好",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "远洋服务",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "金融街物业",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "银城生活服务",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "越秀服务",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "中交地产",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "Sun Communities",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "正荣服务",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "弘阳服务",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "德信服务集团",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "招商蛇口",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-03-18"
+      },
+      {
+        "company": "雅生活服务",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2024-08-21"
+      },
+      {
+        "company": "伯克希尔-哈撒韦",
+        "time": "2024-04-29"
+      },
+      {
+        "company": "中国交通建设集团有限公司",
+        "time": "2023-10-27"
+      },
+      {
+        "company": "华润置地",
+        "time": "2023-08-28"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2023-08-25"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2023-08-25"
+      },
+      {
+        "company": "星盛商业",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "保利物业",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "中海物业",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "理想汽车-w",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "宝龙商业",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "万物云",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "建业新生活",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "融创服务",
+        "time": "2023-08-21"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2023-08-16"
+      }
+    ],
+    "special_companies": "万物云,中国交通建设集团有限公司,中海物业,保利物业,卓越商企服务,合景悠活,宝龙商业,建业新生活,招商蛇口,滨江服务,碧桂园服务,绿城服务,远洋服务,雅生活服务"
+  },
+  {
     "uid": "334180",
     "name": "许佳璐",
     "org_name": "中银国际证券股份有限公司",

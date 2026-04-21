@@ -1,5 +1,45 @@
 [
   {
+    "uid": "440524",
+    "name": "王泽雷",
+    "org_name": "长城证券股份有限公司",
+    "org_type": "证券公司",
+    "cert_type": "卖方分析师",
+    "position": "能源转型研究中心研究员",
+    "department": "华能产业金融研究院",
+    "last_interaction_time": "2026-04-20 14:59:46",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "中国电力",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "中国电力",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "金杯电工",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "长江电力",
+        "time": "2023-05-08"
+      },
+      {
+        "company": "中天科技",
+        "time": "2023-03-09"
+      }
+    ],
+    "special_companies": "中广核新能源,长江电力"
+  },
+  {
     "uid": "596974",
     "name": "曾湘",
     "org_name": "协合新能源集团有限公司",
@@ -3914,6 +3954,10 @@
     "is_first_attend": false,
     "subscribed_companies": [
       {
+        "company": "中国黄金国际",
+        "time": "2026-04-20"
+      },
+      {
         "company": "台积电",
         "time": "2026-04-16"
       },
@@ -6044,10 +6088,6 @@
       },
       {
         "company": "搜狐",
-        "time": "2023-11-13"
-      },
-      {
-        "company": "艾美疫苗",
         "time": "2023-11-13"
       },
       {
@@ -10048,6 +10088,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2026-04-20"
+      },
       {
         "company": "台积电",
         "time": "2026-04-16"
