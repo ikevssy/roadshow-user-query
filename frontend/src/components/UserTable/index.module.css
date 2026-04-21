@@ -163,16 +163,17 @@
 /* 表格容器 */
 .tableWrapper {
   flex: 1;
-  overflow: hidden;
+  overflow: visible;
   display: flex;
   flex-direction: column;
   min-height: 0;
   border-radius: var(--radius-md);
+  padding-bottom: var(--space-md);
 }
 
 .tableWrapper :global(.ant-table-wrapper) {
   flex: 1;
-  overflow: hidden;
+  overflow: visible;
   min-height: 0;
 }
 

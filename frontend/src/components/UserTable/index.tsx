@@ -364,9 +364,13 @@ export function UserTable({ onViewDetail, onBack }: UserTableProps) {
             value={quickFilter.companyOid}
             onChange={(value) => setQuickFilter({ companyOid: value })}
             size="small"
-            style={{ width: 150 }}
+            style={{ width: 200 }}
             placeholder="选择公司"
             allowClear
+            showSearch
+            filterOption={(input, option) =>
+              String(option?.children ?? '').toLowerCase().includes(input.toLowerCase())
+            }
           >
             {selectedCompanies.map((c) => (
               <Select.Option key={c!.oid} value={c!.oid}>{c!.cn_short_name}</Select.Option>

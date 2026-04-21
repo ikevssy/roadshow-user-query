@@ -57,8 +57,13 @@ function App() {
             selectedKeys={[currentPage]}
             items={menuItems}
             onClick={({ key }) => setCurrentPage(key as PageType)}
-            style={{ border: 'none', background: 'transparent' }}
+            style={{ border: 'none', background: 'transparent', lineHeight: '64px' }}
           />
+        </div>
+        <div className="header-right">
+          {manifest?.update_time && (
+            <span className="header-update-time">更新：{manifest.update_time}</span>
+          )}
         </div>
       </Header>
       
