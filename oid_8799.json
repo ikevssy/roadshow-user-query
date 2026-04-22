@@ -1,5 +1,149 @@
 [
   {
+    "uid": "638994",
+    "name": "陈青",
+    "org_name": "天马微电子股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "市场部",
+    "last_interaction_time": "2026-04-20 10:45:24",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "微博-SW",
+    "apply_count": 2,
+    "apply_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "微博（09898.HK，WB.US）2025年第四季度业绩电话会"
+      },
+      {
+        "time": "2025-11-24",
+        "meet_title": "微博（09898.HK，WB.US）2025年第三季度业绩电话会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-19",
+        "meet_title": "微博（09898.HK，WB.US）2025年第四季度业绩电话会",
+        "duration": 61
+      },
+      {
+        "time": "2025-11-24",
+        "meet_title": "微博（09898.HK，WB.US）2025年第三季度业绩电话会",
+        "duration": 1
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "超威半导体",
+        "time": "2026-02-03"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2025-12-12"
+      },
+      {
+        "company": "文远知行",
+        "time": "2025-11-24"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "摩根大通",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "联邦快递",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "达美航空",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "港铁公司",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "云迹科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "蓝思科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2025-10-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "643368",
     "name": "庄懷超",
     "org_name": "環球富盛理財有限公司",
@@ -413,114 +557,6 @@
       {
         "company": "金风科技",
         "time": "2025-05-17"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "638994",
-    "name": "陈青",
-    "org_name": "天马微电子股份有限公司",
-    "org_type": "一般企业",
-    "cert_type": "个人",
-    "position": "经理",
-    "department": "市场部",
-    "last_interaction_time": "2026-04-08 02:00:34",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "微博-SW",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "微博（09898.HK，WB.US）2025年第四季度业绩电话会"
-      },
-      {
-        "time": "2025-11-24",
-        "meet_title": "微博（09898.HK，WB.US）2025年第三季度业绩电话会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "微博（09898.HK，WB.US）2025年第四季度业绩电话会",
-        "duration": 61
-      },
-      {
-        "time": "2025-11-24",
-        "meet_title": "微博（09898.HK，WB.US）2025年第三季度业绩电话会",
-        "duration": 1
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "工业富联",
-        "time": "2026-04-09"
-      },
-      {
-        "company": "中信股份",
-        "time": "2026-04-08"
-      },
-      {
-        "company": "超威半导体",
-        "time": "2026-02-03"
-      },
-      {
-        "company": "中国中冶",
-        "time": "2025-12-12"
-      },
-      {
-        "company": "文远知行",
-        "time": "2025-11-24"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "BOSS直聘",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-11-11"
-      },
-      {
-        "company": "摩根大通",
-        "time": "2025-11-07"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "联邦快递",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "达美航空",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "港铁公司",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "湾区发展",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "云迹科技",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "蓝思科技",
-        "time": "2025-10-27"
-      },
-      {
-        "company": "歌尔微电子",
-        "time": "2025-10-27"
       }
     ],
     "special_companies": ""
@@ -3685,10 +3721,6 @@
       },
       {
         "company": "搜狐",
-        "time": "2023-11-13"
-      },
-      {
-        "company": "艾美疫苗",
         "time": "2023-11-13"
       },
       {
@@ -12420,6 +12452,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2026-04-20"
+      },
       {
         "company": "台积电",
         "time": "2026-04-16"

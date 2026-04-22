@@ -1,5 +1,33 @@
 [
   {
+    "uid": "645151",
+    "name": "石卫华",
+    "org_name": "北京五和博澳药业股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "上市公司",
+    "position": "副经理",
+    "department": "证券事务部",
+    "last_interaction_time": "2026-04-20 13:26:08",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "香港投资者关系协会",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "香港投资者关系协会",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "香港公司治理公会北京代表处",
+        "time": "2026-03-17"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "425168",
     "name": "Lin Shuxian",
     "org_name": "深圳长城汇理资产管理有限公司",
@@ -4720,10 +4748,6 @@
       },
       {
         "company": "搜狐",
-        "time": "2023-11-13"
-      },
-      {
-        "company": "艾美疫苗",
         "time": "2023-11-13"
       },
       {
