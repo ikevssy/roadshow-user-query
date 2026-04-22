@@ -1,5 +1,59 @@
 [
   {
+    "uid": "434653",
+    "name": "张威",
+    "org_name": "美佳音控股有限公司",
+    "org_type": null,
+    "cert_type": "上市公司",
+    "position": "董事会秘书",
+    "department": "",
+    "last_interaction_time": "2026-04-20 19:37:36",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "香港公司治理公会",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "香港公司治理公会北京代表处",
+        "time": "2026-04-20"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "646118",
+    "name": "leo li",
+    "org_name": "恒生银行（中国）有限公司",
+    "org_type": "境外银行",
+    "cert_type": "服务机构",
+    "position": "Senior Vice President",
+    "department": "Commercial banking",
+    "last_interaction_time": "2026-03-25 22:59:08",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "香港公司治理公会",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-25",
+        "meet_title": "CGQP考试-公司治理和风险管理科目考试经验分享-阳娜女士",
+        "duration": 5
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "香港公司治理公会北京代表处",
+        "time": "2026-04-20"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "290955",
     "name": "劳金山",
     "org_name": "深圳海清智元科技股份有限公司",
@@ -3992,30 +4046,6 @@
     "special_companies": "21世纪教育,万物云,万物新生（爱回收）,复星国际,奈雪的茶,小米集团-W,星盛商业,有赞,波司登,百果园集团,英伟达,药明生物,赢家时尚,远东宏信,顺丰同城,香港公司治理公会北京代表处"
   },
   {
-    "uid": "613139",
-    "name": "张晓伟",
-    "org_name": "一度资本",
-    "org_type": null,
-    "cert_type": "缺少分类",
-    "position": "高级投资经理",
-    "department": "",
-    "last_interaction_time": "2024-09-10 20:02:27",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "香港公司治理公会",
-    "apply_count": 0,
-    "apply_records": [],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "香港公司治理公会",
-        "time": "2024-09-10"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "351646",
     "name": "陈雪慧",
     "org_name": "平安健康医疗科技有限公司",
@@ -4048,6 +4078,30 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "613139",
+    "name": "张晓伟",
+    "org_name": "一度资本",
+    "org_type": null,
+    "cert_type": "缺少分类",
+    "position": "高级投资经理",
+    "department": "",
+    "last_interaction_time": "2024-09-10 20:02:27",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "香港公司治理公会",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "香港公司治理公会",
+        "time": "2024-09-10"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -6134,10 +6188,6 @@
       },
       {
         "company": "搜狐",
-        "time": "2023-11-13"
-      },
-      {
-        "company": "艾美疫苗",
         "time": "2023-11-13"
       },
       {
@@ -11211,7 +11261,12 @@
       }
     ],
     "is_first_attend": false,
-    "subscribed_companies": [],
+    "subscribed_companies": [
+      {
+        "company": "香港公司治理公会北京代表处",
+        "time": "2026-04-20"
+      }
+    ],
     "special_companies": ""
   },
   {

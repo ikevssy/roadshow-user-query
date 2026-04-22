@@ -1,5 +1,129 @@
 [
   {
+    "uid": "638994",
+    "name": "陈青",
+    "org_name": "天马微电子股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "市场部",
+    "last_interaction_time": "2026-04-20 10:43:27",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "合景悠活",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "超威半导体",
+        "time": "2026-02-03"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2025-12-12"
+      },
+      {
+        "company": "文远知行",
+        "time": "2025-11-24"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "摩根大通",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "联邦快递",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "达美航空",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "港铁公司",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "云迹科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "蓝思科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2025-10-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "613190",
     "name": "饶斌",
     "org_name": "马鞍山粤美金属制品科技有限公司",
@@ -2749,10 +2873,6 @@
         "time": "2023-11-13"
       },
       {
-        "company": "艾美疫苗",
-        "time": "2023-11-13"
-      },
-      {
         "company": "华润啤酒",
         "time": "2023-11-09"
       },
@@ -5461,93 +5581,6 @@
     "special_companies": "保利物业"
   },
   {
-    "uid": "636292",
-    "name": "CHEN YIYI",
-    "org_name": "花旗环球金融亚洲有限公司研究所",
-    "org_type": "券商研究所",
-    "cert_type": "卖方分析师",
-    "position": "Specialist",
-    "department": "",
-    "last_interaction_time": "2025-08-28 10:29:26",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "合景悠活",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-22",
-        "meet_title": "合景悠活（03913.HK）2025年中期业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-28",
-        "meet_title": "合景悠活（03913.HK）2025年中期业绩公布投资者推介会",
-        "duration": 53
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "新希望服务",
-        "time": "2025-08-29"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "美的置业",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "融创服务",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-21"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-11"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-11"
-      },
-      {
-        "company": "卓越商企服务",
-        "time": "2025-08-08"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "589134",
     "name": "李艾莼",
     "org_name": "西南证券股份有限公司",
@@ -5658,6 +5691,93 @@
       {
         "company": "美的置业",
         "time": "2025-08-18"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "636292",
+    "name": "CHEN YIYI",
+    "org_name": "花旗环球金融亚洲有限公司研究所",
+    "org_type": "券商研究所",
+    "cert_type": "卖方分析师",
+    "position": "Specialist",
+    "department": "",
+    "last_interaction_time": "2025-08-28 10:29:26",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "合景悠活",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-22",
+        "meet_title": "合景悠活（03913.HK）2025年中期业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-28",
+        "meet_title": "合景悠活（03913.HK）2025年中期业绩公布投资者推介会",
+        "duration": 53
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "新希望服务",
+        "time": "2025-08-29"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "美的置业",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "融创服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-11"
+      },
+      {
+        "company": "卓越商企服务",
+        "time": "2025-08-08"
       }
     ],
     "special_companies": ""
@@ -17706,6 +17826,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-20"
+      },
       {
         "company": "台积电",
         "time": "2026-04-16"
@@ -30570,25 +30694,21 @@
     "special_companies": "万物云,卓越商企服务,合景悠活,碧桂园服务,雅生活服务"
   },
   {
-    "uid": "333711",
-    "name": "劉萬順",
-    "org_name": "Logan Financial Holdings CO.LTD",
-    "org_type": "金融控股集团",
-    "cert_type": "个人",
-    "position": "Investment Director",
-    "department": "Investment",
+    "uid": "335146",
+    "name": "曾捷",
+    "org_name": "广州穗财投资管理有限公司",
+    "org_type": "其他私募投资基金管理人(未备案)",
+    "cert_type": "缺少分类",
+    "position": "研究助理",
+    "department": "",
     "last_interaction_time": "2023-08-30 10:30:26",
     "last_interaction_behavior": "参会",
     "interaction_company": "合景悠活",
-    "apply_count": 2,
+    "apply_count": 1,
     "apply_records": [
       {
-        "time": "2023-08-22",
+        "time": "2023-08-23",
         "meet_title": "合景悠活（03913.HK）2023年中期业绩公布投资者推介会"
-      },
-      {
-        "time": "2023-03-30",
-        "meet_title": "合景悠活（03913.HK）2022年全年业绩公布投资者推介会"
       }
     ],
     "attend_count": 1,
@@ -30634,21 +30754,25 @@
     "special_companies": ""
   },
   {
-    "uid": "335146",
-    "name": "曾捷",
-    "org_name": "广州穗财投资管理有限公司",
-    "org_type": "其他私募投资基金管理人(未备案)",
-    "cert_type": "缺少分类",
-    "position": "研究助理",
-    "department": "",
+    "uid": "333711",
+    "name": "劉萬順",
+    "org_name": "Logan Financial Holdings CO.LTD",
+    "org_type": "金融控股集团",
+    "cert_type": "个人",
+    "position": "Investment Director",
+    "department": "Investment",
     "last_interaction_time": "2023-08-30 10:30:26",
     "last_interaction_behavior": "参会",
     "interaction_company": "合景悠活",
-    "apply_count": 1,
+    "apply_count": 2,
     "apply_records": [
       {
-        "time": "2023-08-23",
+        "time": "2023-08-22",
         "meet_title": "合景悠活（03913.HK）2023年中期业绩公布投资者推介会"
+      },
+      {
+        "time": "2023-03-30",
+        "meet_title": "合景悠活（03913.HK）2022年全年业绩公布投资者推介会"
       }
     ],
     "attend_count": 1,
@@ -31532,6 +31656,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2026-04-20"
+      },
       {
         "company": "台积电",
         "time": "2026-04-16"
@@ -32439,6 +32567,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-20"
+      },
       {
         "company": "佳兆业美好",
         "time": "2025-08-16"
@@ -34622,6 +34754,43 @@
     "special_companies": "卓越商企服务,合景悠活,宝龙商业,新城发展,新城控股,碧桂园服务,雅生活服务"
   },
   {
+    "uid": "334452",
+    "name": "周蕙名",
+    "org_name": "iPR奥美公关",
+    "org_type": "财经公关服务",
+    "cert_type": "个人",
+    "position": "专案管理高级公关顾问",
+    "department": "",
+    "last_interaction_time": "2023-03-31 10:30:57",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "合景悠活",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2023-03-31",
+        "meet_title": "合景悠活（03913.HK）2022年全年业绩公布投资者推介会"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "亚信科技",
+        "time": "2025-07-30"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2024-03-27"
+      },
+      {
+        "company": "波司登",
+        "time": "2023-11-28"
+      }
+    ],
+    "special_companies": "中国通信服务"
+  },
+  {
     "uid": "283910",
     "name": "周梓霖",
     "org_name": "Infinity Asset Management, LTD (Hong Kong)",
@@ -34672,43 +34841,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "334452",
-    "name": "周蕙名",
-    "org_name": "iPR奥美公关",
-    "org_type": "财经公关服务",
-    "cert_type": "个人",
-    "position": "专案管理高级公关顾问",
-    "department": "",
-    "last_interaction_time": "2023-03-31 10:30:57",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "合景悠活",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2023-03-31",
-        "meet_title": "合景悠活（03913.HK）2022年全年业绩公布投资者推介会"
-      }
-    ],
-    "attend_count": 0,
-    "attend_records": [],
-    "is_first_attend": false,
-    "subscribed_companies": [
-      {
-        "company": "亚信科技",
-        "time": "2025-07-30"
-      },
-      {
-        "company": "中国通信服务",
-        "time": "2024-03-27"
-      },
-      {
-        "company": "波司登",
-        "time": "2023-11-28"
-      }
-    ],
-    "special_companies": "中国通信服务"
   },
   {
     "uid": "270354",
@@ -35005,6 +35137,10 @@
     ],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-20"
+      },
       {
         "company": "滨江服务",
         "time": "2025-08-21"

@@ -1,5 +1,92 @@
 [
   {
+    "uid": "635260",
+    "name": "曹盈盈",
+    "org_name": "广州泽恩投资控股有限公司",
+    "org_type": "财富管理公司",
+    "cert_type": "机构投资者",
+    "position": "合伙人",
+    "department": "",
+    "last_interaction_time": "2026-04-20 17:04:07",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "美光科技",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-03-28",
+        "meet_title": "美光科技 (MU.US) 2026财年第二季度业绩电话会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2026-03-28",
+        "meet_title": "美光科技 (MU.US) 2026财年第二季度业绩电话会",
+        "duration": 2
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "台积电",
+        "time": "2026-04-13"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-07"
+      },
+      {
+        "company": "博腾股份",
+        "time": "2026-04-02"
+      },
+      {
+        "company": "美光科技",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "比亚迪",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "中信证券",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2026-03-28"
+      },
+      {
+        "company": "大位科技",
+        "time": "2026-01-06"
+      },
+      {
+        "company": "晶泰控股",
+        "time": "2026-01-06"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2025-12-05"
+      },
+      {
+        "company": "金风科技",
+        "time": "2025-05-17"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
     "uid": "582349",
     "name": "黄李雨梅",
     "org_name": "九富投资顾问有限公司",
@@ -1068,10 +1155,6 @@
         "time": "2023-11-13"
       },
       {
-        "company": "艾美疫苗",
-        "time": "2023-11-13"
-      },
-      {
         "company": "华润啤酒",
         "time": "2023-11-09"
       },
@@ -2055,93 +2138,6 @@
       {
         "company": "复星国际",
         "time": "2023-11-03"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
-    "uid": "635260",
-    "name": "曹盈盈",
-    "org_name": "广州泽恩投资控股有限公司",
-    "org_type": "财富管理公司",
-    "cert_type": "机构投资者",
-    "position": "合伙人",
-    "department": "",
-    "last_interaction_time": "2026-03-28 13:50:49",
-    "last_interaction_behavior": "订阅",
-    "interaction_company": "美光科技",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2026-03-28",
-        "meet_title": "美光科技 (MU.US) 2026财年第二季度业绩电话会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2026-03-28",
-        "meet_title": "美光科技 (MU.US) 2026财年第二季度业绩电话会",
-        "duration": 2
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "台积电",
-        "time": "2026-04-13"
-      },
-      {
-        "company": "工业富联",
-        "time": "2026-04-08"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2026-04-07"
-      },
-      {
-        "company": "博腾股份",
-        "time": "2026-04-02"
-      },
-      {
-        "company": "美光科技",
-        "time": "2026-03-28"
-      },
-      {
-        "company": "比亚迪",
-        "time": "2026-03-28"
-      },
-      {
-        "company": "希迪智驾",
-        "time": "2026-03-28"
-      },
-      {
-        "company": "深圳控股",
-        "time": "2026-03-28"
-      },
-      {
-        "company": "中信证券",
-        "time": "2026-03-28"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2026-03-28"
-      },
-      {
-        "company": "大位科技",
-        "time": "2026-01-06"
-      },
-      {
-        "company": "晶泰控股",
-        "time": "2026-01-06"
-      },
-      {
-        "company": "佛朗斯股份",
-        "time": "2025-12-05"
-      },
-      {
-        "company": "金风科技",
-        "time": "2025-05-17"
       }
     ],
     "special_companies": ""
@@ -4366,6 +4362,42 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-04-20"
+      },
       {
         "company": "工业富联",
         "time": "2026-04-09"
@@ -7823,6 +7855,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-20"
+      },
       {
         "company": "台积电",
         "time": "2026-04-16"
@@ -18065,6 +18101,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "中国建筑",
+        "time": "2026-04-20"
+      },
       {
         "company": "台积电",
         "time": "2026-04-16"

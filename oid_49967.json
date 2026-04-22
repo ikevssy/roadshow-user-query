@@ -1,5 +1,194 @@
 [
   {
+    "uid": "38333",
+    "name": "胡松",
+    "org_name": "上海良川投资发展有限公司",
+    "org_type": "实业投资",
+    "cert_type": "个人",
+    "position": "副总经理",
+    "department": "",
+    "last_interaction_time": "2026-04-21 17:41:26",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "泡泡玛特",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-21"
+      },
+      {
+        "company": "保利发展",
+        "time": "2026-04-21"
+      },
+      {
+        "company": "中国平安",
+        "time": "2026-04-21"
+      },
+      {
+        "company": "安踏体育",
+        "time": "2026-04-21"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2026-04-21"
+      },
+      {
+        "company": "宁德时代",
+        "time": "2025-10-16"
+      },
+      {
+        "company": "特斯拉",
+        "time": "2025-10-16"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2025-09-23"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-09-01"
+      },
+      {
+        "company": "拼多多",
+        "time": "2025-08-30"
+      },
+      {
+        "company": "京东物流",
+        "time": "2025-08-30"
+      },
+      {
+        "company": "汇量科技",
+        "time": "2025-05-06"
+      },
+      {
+        "company": "华虹公司",
+        "time": "2025-04-03"
+      },
+      {
+        "company": "谷歌",
+        "time": "2025-04-03"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-04-03"
+      },
+      {
+        "company": "药师帮",
+        "time": "2025-04-03"
+      },
+      {
+        "company": "英伟达",
+        "time": "2025-04-03"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2025-04-03"
+      },
+      {
+        "company": "协鑫科技",
+        "time": "2025-04-03"
+      },
+      {
+        "company": "中国海油",
+        "time": "2025-04-03"
+      },
+      {
+        "company": "中国黄金国际",
+        "time": "2025-04-03"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2025-03-21"
+      },
+      {
+        "company": "华润医疗",
+        "time": "2025-03-21"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-03-21"
+      },
+      {
+        "company": "蔚来",
+        "time": "2024-06-12"
+      },
+      {
+        "company": "云顶新耀",
+        "time": "2023-05-30"
+      },
+      {
+        "company": "中国建材",
+        "time": "2023-05-30"
+      }
+    ],
+    "special_companies": "中国有色矿业,中国通信服务,中国黄金国际,华润医疗,协鑫科技,英伟达,药师帮"
+  },
+  {
+    "uid": "270382",
+    "name": "王亮",
+    "org_name": "北京高信百诺投资管理有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "高级行业研究员",
+    "department": "",
+    "last_interaction_time": "2026-04-20 19:51:04",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "泡泡玛特",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-20",
+        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "顺丰同城",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "瑞声科技",
+        "time": "2025-08-21"
+      },
+      {
+        "company": "工业富联",
+        "time": "2025-08-15"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2024-11-15"
+      },
+      {
+        "company": "中国民航信息网络",
+        "time": "2024-03-28"
+      }
+    ],
+    "special_companies": "中国民航信息网络,阜博集团"
+  },
+  {
     "uid": "645593",
     "name": "姚锦灏",
     "org_name": "Golden Pine Asset Management, LTD",
@@ -803,6 +992,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "康方生物",
+        "time": "2026-04-20"
+      },
       {
         "company": "泡泡玛特",
         "time": "2026-04-01"
@@ -6017,6 +6210,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-21"
+      },
       {
         "company": "中国有色矿业",
         "time": "2026-04-14"
@@ -22012,10 +22209,6 @@
         "time": "2023-11-13"
       },
       {
-        "company": "艾美疫苗",
-        "time": "2023-11-13"
-      },
-      {
         "company": "华润啤酒",
         "time": "2023-11-09"
       },
@@ -24212,6 +24405,10 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [
+      {
+        "company": "保利发展",
+        "time": "2026-04-20"
+      },
       {
         "company": "滨江服务",
         "time": "2025-08-21"
@@ -28769,41 +28966,6 @@
     "special_companies": ""
   },
   {
-    "uid": "16216",
-    "name": "吴国清",
-    "org_name": "南方基金管理股份有限公司",
-    "org_type": "境内公募基金管理公司",
-    "cert_type": "机构投资者",
-    "position": "专户投资经理",
-    "department": "",
-    "last_interaction_time": "2025-08-20 10:01:02",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "泡泡玛特",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会",
-        "duration": 77
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-19"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "349884",
     "name": "李芷莹",
     "org_name": "信达国际控股有限公司",
@@ -28836,6 +28998,41 @@
     ],
     "is_first_attend": true,
     "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
+    "uid": "16216",
+    "name": "吴国清",
+    "org_name": "南方基金管理股份有限公司",
+    "org_type": "境内公募基金管理公司",
+    "cert_type": "机构投资者",
+    "position": "专户投资经理",
+    "department": "",
+    "last_interaction_time": "2025-08-20 10:01:02",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "泡泡玛特",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会",
+        "duration": 77
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-19"
+      }
+    ],
     "special_companies": ""
   },
   {
@@ -28997,6 +29194,53 @@
     "special_companies": ""
   },
   {
+    "uid": "349435",
+    "name": "謝俊鵬",
+    "org_name": "东英金融集团",
+    "org_type": "金融控股集团",
+    "cert_type": "卖方分析师",
+    "position": "研究部經理",
+    "department": "研究部",
+    "last_interaction_time": "2025-08-20 10:00:57",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "泡泡玛特",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-19",
+        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-08-20",
+        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会",
+        "duration": 84
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "安踏体育",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "李宁",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "绿城管理控股",
+        "time": "2023-03-10"
+      }
+    ],
+    "special_companies": "中国黄金国际,绿城管理控股"
+  },
+  {
     "uid": "247802",
     "name": "李卓",
     "org_name": "北京龙茂弘熙咨询有限公司",
@@ -29046,53 +29290,6 @@
       }
     ],
     "special_companies": ""
-  },
-  {
-    "uid": "349435",
-    "name": "謝俊鵬",
-    "org_name": "东英金融集团",
-    "org_type": "金融控股集团",
-    "cert_type": "卖方分析师",
-    "position": "研究部經理",
-    "department": "研究部",
-    "last_interaction_time": "2025-08-20 10:00:57",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "泡泡玛特",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-19",
-        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-08-20",
-        "meet_title": "泡泡玛特（09992.HK）2025年中期业绩发布会",
-        "duration": 84
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "安踏体育",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "李宁",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "绿城管理控股",
-        "time": "2023-03-10"
-      }
-    ],
-    "special_companies": "中国黄金国际,绿城管理控股"
   },
   {
     "uid": "635110",
@@ -37259,6 +37456,10 @@
     "attend_records": [],
     "is_first_attend": false,
     "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-20"
+      },
       {
         "company": "台积电",
         "time": "2026-04-16"
@@ -47068,117 +47269,6 @@
     "special_companies": ""
   },
   {
-    "uid": "429669",
-    "name": "王嘉宁",
-    "org_name": "国投安信期货有限公司",
-    "org_type": "期货公司",
-    "cert_type": "机构投资者",
-    "position": "投资经理",
-    "department": "投资部",
-    "last_interaction_time": "2025-03-26 15:06:35",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "泡泡玛特",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-03-26",
-        "meet_title": "泡泡玛特（09992.HK）2024年年度业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [
-      {
-        "time": "2025-03-26",
-        "meet_title": "泡泡玛特（09992.HK）2024年年度业绩发布会",
-        "duration": 3
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "拼多多",
-        "time": "2025-11-18"
-      },
-      {
-        "company": "理想汽车-w",
-        "time": "2025-11-17"
-      },
-      {
-        "company": "贝壳",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "阅文集团",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "友邦保险",
-        "time": "2025-03-14"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2024-11-13"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2024-08-28"
-      },
-      {
-        "company": "腾讯音乐",
-        "time": "2024-08-13"
-      },
-      {
-        "company": "中国电信",
-        "time": "2024-08-12"
-      },
-      {
-        "company": "京东物流",
-        "time": "2024-08-12"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2024-08-09"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2024-08-09"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2024-08-01"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2024-08-01"
-      },
-      {
-        "company": "快手-W",
-        "time": "2024-08-01"
-      },
-      {
-        "company": "呷哺呷哺",
-        "time": "2024-07-30"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2024-07-30"
-      },
-      {
-        "company": "百胜中国",
-        "time": "2024-07-30"
-      },
-      {
-        "company": "华虹公司",
-        "time": "2024-07-30"
-      },
-      {
-        "company": "汇丰控股",
-        "time": "2024-07-30"
-      }
-    ],
-    "special_companies": "中国人寿,中国电信,小米集团-W,快手-W,招商蛇口,腾讯控股"
-  },
-  {
     "uid": "254148",
     "name": "沈阳洋",
     "org_name": "杭州活炻投资管理合伙企业（有限合伙）",
@@ -47388,6 +47478,117 @@
       }
     ],
     "special_companies": "万物云,万物新生（爱回收）,中国电信,国证国际证券(香港)研究所,小鹏汽车-W,快手-W,民生教育,百果园集团,顺丰同城"
+  },
+  {
+    "uid": "429669",
+    "name": "王嘉宁",
+    "org_name": "国投安信期货有限公司",
+    "org_type": "期货公司",
+    "cert_type": "机构投资者",
+    "position": "投资经理",
+    "department": "投资部",
+    "last_interaction_time": "2025-03-26 15:06:35",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "泡泡玛特",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-03-26",
+        "meet_title": "泡泡玛特（09992.HK）2024年年度业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [
+      {
+        "time": "2025-03-26",
+        "meet_title": "泡泡玛特（09992.HK）2024年年度业绩发布会",
+        "duration": 3
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "拼多多",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "理想汽车-w",
+        "time": "2025-11-17"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "阅文集团",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "友邦保险",
+        "time": "2025-03-14"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2024-11-13"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2024-08-28"
+      },
+      {
+        "company": "腾讯音乐",
+        "time": "2024-08-13"
+      },
+      {
+        "company": "中国电信",
+        "time": "2024-08-12"
+      },
+      {
+        "company": "京东物流",
+        "time": "2024-08-12"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2024-08-09"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2024-08-09"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2024-08-01"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2024-08-01"
+      },
+      {
+        "company": "快手-W",
+        "time": "2024-08-01"
+      },
+      {
+        "company": "呷哺呷哺",
+        "time": "2024-07-30"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2024-07-30"
+      },
+      {
+        "company": "百胜中国",
+        "time": "2024-07-30"
+      },
+      {
+        "company": "华虹公司",
+        "time": "2024-07-30"
+      },
+      {
+        "company": "汇丰控股",
+        "time": "2024-07-30"
+      }
+    ],
+    "special_companies": "中国人寿,中国电信,小米集团-W,快手-W,招商蛇口,腾讯控股"
   },
   {
     "uid": "273940",

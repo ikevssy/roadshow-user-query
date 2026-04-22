@@ -1,5 +1,672 @@
 [
   {
+    "uid": "645257",
+    "name": "王欣",
+    "org_name": "高浪控股股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "机构投资者",
+    "position": "General Manager，Strategy and M&A Department",
+    "department": "",
+    "last_interaction_time": "2026-04-20 17:22:23",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "佛朗斯股份",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-20",
+        "meet_title": "佛朗斯股份2025 FY 业绩后管理层交流"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "希迪智驾",
+        "time": "2026-03-31"
+      },
+      {
+        "company": "圣贝拉",
+        "time": "2026-03-30"
+      },
+      {
+        "company": "香港公司治理公会北京代表处",
+        "time": "2026-03-21"
+      },
+      {
+        "company": "滴普科技",
+        "time": "2026-03-21"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "334060",
+    "name": "曹谨",
+    "org_name": "深圳华强鼎信投资有限公司",
+    "org_type": "实业投资",
+    "cert_type": "机构投资者",
+    "position": "研究总监",
+    "department": "",
+    "last_interaction_time": "2026-04-20 15:38:34",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "佛朗斯股份",
+    "apply_count": 4,
+    "apply_records": [
+      {
+        "time": "2026-04-20",
+        "meet_title": "佛朗斯股份2025 FY 业绩后管理层交流"
+      },
+      {
+        "time": "2025-08-14",
+        "meet_title": "佛朗斯股份（02499.HK）2025年中期业绩发布会"
+      },
+      {
+        "time": "2025-07-07",
+        "meet_title": "佛朗斯股份（02499.HK）投资者交流会 | 路演大会 · 第八季"
+      },
+      {
+        "time": "2024-08-23",
+        "meet_title": "佛朗斯股份（02499.HK）2024中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2025-07-09",
+        "meet_title": "佛朗斯股份（02499.HK）投资者交流会 | 路演大会 · 第八季",
+        "duration": 6
+      },
+      {
+        "time": "2024-08-23",
+        "meet_title": "佛朗斯股份（02499.HK）2024中期业绩发布会",
+        "duration": 30
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "中国黄金国际",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "台积电",
+        "time": "2026-04-16"
+      },
+      {
+        "company": "中国有色矿业",
+        "time": "2026-03-20"
+      },
+      {
+        "company": "地平线机器人",
+        "time": "2026-03-19"
+      },
+      {
+        "company": "美光科技",
+        "time": "2026-03-17"
+      },
+      {
+        "company": "华润医药",
+        "time": "2026-03-12"
+      },
+      {
+        "company": "阿里巴巴-W",
+        "time": "2026-03-12"
+      },
+      {
+        "company": "恒安国际",
+        "time": "2026-03-12"
+      },
+      {
+        "company": "中国燃气",
+        "time": "2025-11-20"
+      },
+      {
+        "company": "百济神州",
+        "time": "2025-11-06"
+      },
+      {
+        "company": "头豹研究院",
+        "time": "2025-10-23"
+      },
+      {
+        "company": "中国船舶租赁",
+        "time": "2025-09-05"
+      },
+      {
+        "company": "华森制药",
+        "time": "2025-09-04"
+      },
+      {
+        "company": "理士国际",
+        "time": "2025-08-31"
+      },
+      {
+        "company": "招商银行",
+        "time": "2025-08-31"
+      },
+      {
+        "company": "碧桂园服务",
+        "time": "2025-08-27"
+      },
+      {
+        "company": "特海国际",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "中海物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "建发物业",
+        "time": "2025-08-25"
+      },
+      {
+        "company": "中煤能源",
+        "time": "2025-08-22"
+      },
+      {
+        "company": "艾美疫苗",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "中国同辐",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "金茂服务",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2025-08-20"
+      },
+      {
+        "company": "名创优品",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "万国数据服务",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "富途控股",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "金山软件",
+        "time": "2025-08-19"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2025-08-18"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-08-17"
+      },
+      {
+        "company": "药师帮",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-08-16"
+      },
+      {
+        "company": "中国人保",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "中国太保",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "绿城服务",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "伟仕佳杰",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "泡泡玛特",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "吉利汽车",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "网易云音乐",
+        "time": "2025-08-14"
+      },
+      {
+        "company": "中国人寿",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "哔哩哔哩",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "网易",
+        "time": "2025-08-13"
+      },
+      {
+        "company": "小鹏汽车-W",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "复星国际",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "零跑汽车",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "工业富联",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "联想集团",
+        "time": "2025-08-12"
+      },
+      {
+        "company": "京东集团-SW",
+        "time": "2025-08-10"
+      },
+      {
+        "company": "罕王黄金",
+        "time": "2025-08-10"
+      },
+      {
+        "company": "中广核新能源",
+        "time": "2025-08-10"
+      },
+      {
+        "company": "万物云",
+        "time": "2025-08-10"
+      },
+      {
+        "company": "快手-W",
+        "time": "2025-08-10"
+      },
+      {
+        "company": "爱康医疗",
+        "time": "2025-08-10"
+      },
+      {
+        "company": "永升服务",
+        "time": "2025-08-10"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-08-10"
+      },
+      {
+        "company": "华检医疗",
+        "time": "2025-08-10"
+      },
+      {
+        "company": "阅文集团",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "小牛电动",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "中国电信",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "京东物流",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "腾讯控股",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "华虹公司",
+        "time": "2025-08-07"
+      },
+      {
+        "company": "礼来",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "中芯国际",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "再鼎医药",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "西方石油",
+        "time": "2025-08-06"
+      },
+      {
+        "company": "百胜中国",
+        "time": "2025-08-04"
+      },
+      {
+        "company": "天风证券研究所",
+        "time": "2025-08-04"
+      },
+      {
+        "company": "远东宏信",
+        "time": "2025-07-31"
+      },
+      {
+        "company": "亚信科技",
+        "time": "2025-07-23"
+      },
+      {
+        "company": "协合新能源",
+        "time": "2025-07-23"
+      },
+      {
+        "company": "阜博集团",
+        "time": "2025-07-11"
+      },
+      {
+        "company": "迈富时",
+        "time": "2025-07-09"
+      },
+      {
+        "company": "玄武云",
+        "time": "2025-07-09"
+      },
+      {
+        "company": "声通科技",
+        "time": "2025-07-09"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2025-07-07"
+      },
+      {
+        "company": "百融智能",
+        "time": "2025-07-07"
+      },
+      {
+        "company": "宏华集团",
+        "time": "2025-07-07"
+      },
+      {
+        "company": "金风科技",
+        "time": "2025-04-23"
+      },
+      {
+        "company": "中国通信服务",
+        "time": "2025-03-27"
+      },
+      {
+        "company": "兖煤澳大利亚",
+        "time": "2023-10-30"
+      },
+      {
+        "company": "英恒科技",
+        "time": "2023-03-28"
+      }
+    ],
+    "special_companies": "英恒科技"
+  },
+  {
+    "uid": "638994",
+    "name": "陈青",
+    "org_name": "天马微电子股份有限公司",
+    "org_type": "一般企业",
+    "cert_type": "个人",
+    "position": "经理",
+    "department": "市场部",
+    "last_interaction_time": "2026-04-20 10:43:27",
+    "last_interaction_behavior": "订阅",
+    "interaction_company": "佛朗斯股份",
+    "apply_count": 0,
+    "apply_records": [],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "腾讯控股",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "合景悠活",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "心玮医疗",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "深圳控股",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "新希望服务",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "思路迪医药股份",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "维亚生物",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "佛朗斯股份",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "新世界发展",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "工业富联",
+        "time": "2026-04-09"
+      },
+      {
+        "company": "中信股份",
+        "time": "2026-04-08"
+      },
+      {
+        "company": "超威半导体",
+        "time": "2026-02-03"
+      },
+      {
+        "company": "中国中冶",
+        "time": "2025-12-12"
+      },
+      {
+        "company": "文远知行",
+        "time": "2025-11-24"
+      },
+      {
+        "company": "小米集团-W",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "BOSS直聘",
+        "time": "2025-11-18"
+      },
+      {
+        "company": "贝壳",
+        "time": "2025-11-11"
+      },
+      {
+        "company": "摩根大通",
+        "time": "2025-11-07"
+      },
+      {
+        "company": "中通快递-W",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "联邦快递",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "达美航空",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "港铁公司",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "湾区发展",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "云迹科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "蓝思科技",
+        "time": "2025-10-27"
+      },
+      {
+        "company": "歌尔微电子",
+        "time": "2025-10-27"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "637267",
+    "name": "周丽娟",
+    "org_name": "上海涌平私募基金管理合伙企业(有限合伙)",
+    "org_type": null,
+    "cert_type": "机构投资者",
+    "position": "董事总经理",
+    "department": "",
+    "last_interaction_time": "2026-04-20 09:25:20",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "佛朗斯股份",
+    "apply_count": 3,
+    "apply_records": [
+      {
+        "time": "2026-04-20",
+        "meet_title": "佛朗斯股份2025 FY 业绩后管理层交流"
+      },
+      {
+        "time": "2026-03-19",
+        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会"
+      },
+      {
+        "time": "2025-08-22",
+        "meet_title": "佛朗斯股份（02499.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 2,
+    "attend_records": [
+      {
+        "time": "2026-03-27",
+        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会",
+        "duration": 63
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "佛朗斯股份（02499.HK）2025年中期业绩发布会",
+        "duration": 0
+      },
+      {
+        "time": "2025-08-25",
+        "meet_title": "佛朗斯股份（02499.HK）2025年中期业绩发布会",
+        "duration": 66
+      }
+    ],
+    "is_first_attend": true,
+    "subscribed_companies": [
+      {
+        "company": "佛朗斯股份",
+        "time": "2025-08-25"
+      }
+    ],
+    "special_companies": ""
+  },
+  {
+    "uid": "254084",
+    "name": "李守强",
+    "org_name": "深圳市君茂投资有限公司",
+    "org_type": "私募证券投资基金管理人",
+    "cert_type": "机构投资者",
+    "position": "合伙人",
+    "department": "",
+    "last_interaction_time": "2026-04-20 05:52:33",
+    "last_interaction_behavior": "报名",
+    "interaction_company": "佛朗斯股份",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2026-04-20",
+        "meet_title": "佛朗斯股份2025 FY 业绩后管理层交流"
+      }
+    ],
+    "attend_count": 0,
+    "attend_records": [],
+    "is_first_attend": false,
+    "subscribed_companies": [
+      {
+        "company": "万华化学",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "滨江服务",
+        "time": "2026-03-13"
+      },
+      {
+        "company": "中国春来教育集团",
+        "time": "2026-01-23"
+      },
+      {
+        "company": "国元国际",
+        "time": "2025-12-15"
+      },
+      {
+        "company": "台积电",
+        "time": "2025-10-16"
+      },
+      {
+        "company": "康哲药业",
+        "time": "2025-03-17"
+      },
+      {
+        "company": "康臣药业",
+        "time": "2025-03-15"
+      },
+      {
+        "company": "中国心连心化肥",
+        "time": "2023-05-22"
+      },
+      {
+        "company": "绿城中国",
+        "time": "2023-03-28"
+      }
+    ],
+    "special_companies": "中国心连心化肥,康臣药业"
+  },
+  {
     "uid": "646114",
     "name": "陆灿",
     "org_name": "珠海鸣则投资管理有限公司",
@@ -4104,55 +4771,6 @@
     "special_companies": ""
   },
   {
-    "uid": "637267",
-    "name": "周丽娟",
-    "org_name": "上海涌平私募基金管理合伙企业(有限合伙)",
-    "org_type": null,
-    "cert_type": "机构投资者",
-    "position": "董事总经理",
-    "department": "",
-    "last_interaction_time": "2026-03-27 15:01:02",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "佛朗斯股份",
-    "apply_count": 2,
-    "apply_records": [
-      {
-        "time": "2026-03-19",
-        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会"
-      },
-      {
-        "time": "2025-08-22",
-        "meet_title": "佛朗斯股份（02499.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2026-03-27",
-        "meet_title": "佛朗斯股份（02499.HK）2025年度业绩发布会",
-        "duration": 63
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "佛朗斯股份（02499.HK）2025年中期业绩发布会",
-        "duration": 0
-      },
-      {
-        "time": "2025-08-25",
-        "meet_title": "佛朗斯股份（02499.HK）2025年中期业绩发布会",
-        "duration": 66
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "佛朗斯股份",
-        "time": "2025-08-25"
-      }
-    ],
-    "special_companies": ""
-  },
-  {
     "uid": "646329",
     "name": "周亦鸣",
     "org_name": "浙江中力机械股份有限公司",
@@ -5548,10 +6166,6 @@
       },
       {
         "company": "搜狐",
-        "time": "2023-11-13"
-      },
-      {
-        "company": "艾美疫苗",
         "time": "2023-11-13"
       },
       {
@@ -9714,6 +10328,14 @@
     "is_first_attend": true,
     "subscribed_companies": [
       {
+        "company": "博腾股份",
+        "time": "2026-04-20"
+      },
+      {
+        "company": "金风科技",
+        "time": "2026-04-20"
+      },
+      {
         "company": "美的集团",
         "time": "2026-04-13"
       },
@@ -12260,6 +12882,30 @@
     "special_companies": ""
   },
   {
+    "uid": "637550",
+    "name": "胡奕琛",
+    "org_name": "金麥粒(香港)財經傳媒集團有限公司",
+    "org_type": "财经公关服务",
+    "cert_type": "服务机构",
+    "position": "Assistant to President",
+    "department": "",
+    "last_interaction_time": "2025-08-25 15:00:55",
+    "last_interaction_behavior": "参会",
+    "interaction_company": "佛朗斯股份",
+    "apply_count": 1,
+    "apply_records": [
+      {
+        "time": "2025-08-25",
+        "meet_title": "佛朗斯股份（02499.HK）2025年中期业绩发布会"
+      }
+    ],
+    "attend_count": 1,
+    "attend_records": [],
+    "is_first_attend": true,
+    "subscribed_companies": [],
+    "special_companies": ""
+  },
+  {
     "uid": "7739",
     "name": "王颖",
     "org_name": "中集集团产业基金",
@@ -12285,30 +12931,6 @@
         "duration": 55
       }
     ],
-    "is_first_attend": true,
-    "subscribed_companies": [],
-    "special_companies": ""
-  },
-  {
-    "uid": "637550",
-    "name": "胡奕琛",
-    "org_name": "金麥粒(香港)財經傳媒集團有限公司",
-    "org_type": "财经公关服务",
-    "cert_type": "服务机构",
-    "position": "Assistant to President",
-    "department": "",
-    "last_interaction_time": "2025-08-25 15:00:55",
-    "last_interaction_behavior": "参会",
-    "interaction_company": "佛朗斯股份",
-    "apply_count": 1,
-    "apply_records": [
-      {
-        "time": "2025-08-25",
-        "meet_title": "佛朗斯股份（02499.HK）2025年中期业绩发布会"
-      }
-    ],
-    "attend_count": 1,
-    "attend_records": [],
     "is_first_attend": true,
     "subscribed_companies": [],
     "special_companies": ""
@@ -13245,382 +13867,6 @@
       }
     ],
     "special_companies": "英伟达"
-  },
-  {
-    "uid": "334060",
-    "name": "曹谨",
-    "org_name": "深圳华强鼎信投资有限公司",
-    "org_type": "实业投资",
-    "cert_type": "机构投资者",
-    "position": "研究总监",
-    "department": "",
-    "last_interaction_time": "2025-08-14 16:34:16",
-    "last_interaction_behavior": "报名",
-    "interaction_company": "佛朗斯股份",
-    "apply_count": 3,
-    "apply_records": [
-      {
-        "time": "2025-08-14",
-        "meet_title": "佛朗斯股份（02499.HK）2025年中期业绩发布会"
-      },
-      {
-        "time": "2025-07-07",
-        "meet_title": "佛朗斯股份（02499.HK）投资者交流会 | 路演大会 · 第八季"
-      },
-      {
-        "time": "2024-08-23",
-        "meet_title": "佛朗斯股份（02499.HK）2024中期业绩发布会"
-      }
-    ],
-    "attend_count": 2,
-    "attend_records": [
-      {
-        "time": "2025-07-09",
-        "meet_title": "佛朗斯股份（02499.HK）投资者交流会 | 路演大会 · 第八季",
-        "duration": 6
-      },
-      {
-        "time": "2024-08-23",
-        "meet_title": "佛朗斯股份（02499.HK）2024中期业绩发布会",
-        "duration": 30
-      }
-    ],
-    "is_first_attend": true,
-    "subscribed_companies": [
-      {
-        "company": "台积电",
-        "time": "2026-04-16"
-      },
-      {
-        "company": "中国有色矿业",
-        "time": "2026-03-20"
-      },
-      {
-        "company": "地平线机器人",
-        "time": "2026-03-19"
-      },
-      {
-        "company": "美光科技",
-        "time": "2026-03-17"
-      },
-      {
-        "company": "华润医药",
-        "time": "2026-03-12"
-      },
-      {
-        "company": "阿里巴巴-W",
-        "time": "2026-03-12"
-      },
-      {
-        "company": "恒安国际",
-        "time": "2026-03-12"
-      },
-      {
-        "company": "中国燃气",
-        "time": "2025-11-20"
-      },
-      {
-        "company": "百济神州",
-        "time": "2025-11-06"
-      },
-      {
-        "company": "头豹研究院",
-        "time": "2025-10-23"
-      },
-      {
-        "company": "中国船舶租赁",
-        "time": "2025-09-05"
-      },
-      {
-        "company": "华森制药",
-        "time": "2025-09-04"
-      },
-      {
-        "company": "理士国际",
-        "time": "2025-08-31"
-      },
-      {
-        "company": "招商银行",
-        "time": "2025-08-31"
-      },
-      {
-        "company": "碧桂园服务",
-        "time": "2025-08-27"
-      },
-      {
-        "company": "特海国际",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "中海物业",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "建发物业",
-        "time": "2025-08-25"
-      },
-      {
-        "company": "中煤能源",
-        "time": "2025-08-22"
-      },
-      {
-        "company": "艾美疫苗",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "中国同辐",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "金茂服务",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "绿城中国",
-        "time": "2025-08-20"
-      },
-      {
-        "company": "名创优品",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "万国数据服务",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "富途控股",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "金山软件",
-        "time": "2025-08-19"
-      },
-      {
-        "company": "湾区发展",
-        "time": "2025-08-18"
-      },
-      {
-        "company": "中通快递-W",
-        "time": "2025-08-17"
-      },
-      {
-        "company": "药师帮",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "小米集团-W",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "康臣药业",
-        "time": "2025-08-16"
-      },
-      {
-        "company": "中国人保",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "中国太保",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "绿城服务",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "滨江服务",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "伟仕佳杰",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "泡泡玛特",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "吉利汽车",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "网易云音乐",
-        "time": "2025-08-14"
-      },
-      {
-        "company": "中国人寿",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "哔哩哔哩",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "网易",
-        "time": "2025-08-13"
-      },
-      {
-        "company": "小鹏汽车-W",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "复星国际",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "零跑汽车",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "工业富联",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "联想集团",
-        "time": "2025-08-12"
-      },
-      {
-        "company": "京东集团-SW",
-        "time": "2025-08-10"
-      },
-      {
-        "company": "罕王黄金",
-        "time": "2025-08-10"
-      },
-      {
-        "company": "中广核新能源",
-        "time": "2025-08-10"
-      },
-      {
-        "company": "万物云",
-        "time": "2025-08-10"
-      },
-      {
-        "company": "快手-W",
-        "time": "2025-08-10"
-      },
-      {
-        "company": "爱康医疗",
-        "time": "2025-08-10"
-      },
-      {
-        "company": "永升服务",
-        "time": "2025-08-10"
-      },
-      {
-        "company": "康哲药业",
-        "time": "2025-08-10"
-      },
-      {
-        "company": "华检医疗",
-        "time": "2025-08-10"
-      },
-      {
-        "company": "阅文集团",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "小牛电动",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "中国电信",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "京东物流",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "腾讯控股",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "华虹公司",
-        "time": "2025-08-07"
-      },
-      {
-        "company": "礼来",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "中芯国际",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "再鼎医药",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "西方石油",
-        "time": "2025-08-06"
-      },
-      {
-        "company": "百胜中国",
-        "time": "2025-08-04"
-      },
-      {
-        "company": "天风证券研究所",
-        "time": "2025-08-04"
-      },
-      {
-        "company": "远东宏信",
-        "time": "2025-07-31"
-      },
-      {
-        "company": "亚信科技",
-        "time": "2025-07-23"
-      },
-      {
-        "company": "协合新能源",
-        "time": "2025-07-23"
-      },
-      {
-        "company": "阜博集团",
-        "time": "2025-07-11"
-      },
-      {
-        "company": "迈富时",
-        "time": "2025-07-09"
-      },
-      {
-        "company": "玄武云",
-        "time": "2025-07-09"
-      },
-      {
-        "company": "声通科技",
-        "time": "2025-07-09"
-      },
-      {
-        "company": "佛朗斯股份",
-        "time": "2025-07-07"
-      },
-      {
-        "company": "百融智能",
-        "time": "2025-07-07"
-      },
-      {
-        "company": "宏华集团",
-        "time": "2025-07-07"
-      },
-      {
-        "company": "金风科技",
-        "time": "2025-04-23"
-      },
-      {
-        "company": "中国通信服务",
-        "time": "2025-03-27"
-      },
-      {
-        "company": "兖煤澳大利亚",
-        "time": "2023-10-30"
-      },
-      {
-        "company": "英恒科技",
-        "time": "2023-03-28"
-      }
-    ],
-    "special_companies": "英恒科技"
   },
   {
     "uid": "611461",
