@@ -1,6 +1,6 @@
 # RSC 路演互动查询系统 — 项目状态报告
 
-> 最后更新：2026-04-20
+> 最后更新：2026-04-22
 > 下次 AI 接手时，请先读取本文件了解项目全貌。
 
 ---
@@ -152,27 +152,22 @@ sync_ranking_conversion(syncer, days, limit) -> list
 
 ## 4. 当前已知问题（待修复）
 
-### 问题1：manifest.json 更新时间在前端显示不刷新 ⚠️
-- **现象**：首页和用户查询页显示的"数据更新"时间固定在 `2026-04-07 10:20:09`
-- **根因**：Vercel CDN 对 `/data/manifest.json` 缓存 `max-age=3600`
-- **已尝试**：
-  1. 修改 `vercel.json` 设置 `no-cache`（未生效，因为 Vercel 项目的 Root Directory 可能是 `frontend/`，导致根目录的 `vercel.json` 未被识别）
-  2. 在 `loadManifest()` 加 `?t=Date.now()` 时间戳（代码已写但 edit 工具多处匹配失败，未确认是否成功写入）
-- **下一步**：
-  - 检查 `frontend/src/hooks/useDataLoader.ts` 第48行附近，确认 fetch URL 是否包含 `?t=`
-  - 如果没有，手动加上：`fetch('/data/manifest.json?t=' + Date.now())`
-  - 同时去 Vercel Dashboard 确认项目的 Root Directory 设置，将 `vercel.json` 放到正确位置
+### 问题1：manifest.json 更新时间在前端显示不刷新 ✅ 已修复
+- `loadManifest()` 加了 `?t=Date.now()` 绕过 CDN 缓存
+- `frontend/vercel.json` 已复制到正确位置
 
-### 问题2：路演榜单时间筛选无效 ⚠️
-- **现象**：点击"近7天"/"近15天"等按钮，列表数据无变化，Console 无日志
-- **根因**：未确定。已加调试日志（commit `9261f6b`），但用户反馈 Console 无输出
-- **可能原因**：Vercel 部署的不是最新代码，或 `useMemo` 闭包问题
-- **下一步**：
-  - 确认 Vercel 部署的 JS bundle 是否包含调试日志代码
-  - 检查 `RankingsPage.tsx` 的 `getSortedData` 函数是否正确读取 `timeRange` 状态
+### 问题2：路演榜单时间筛选无效 ✅ 已修复（代码逻辑正确，重新部署后生效）
 
 ### 问题3：根目录残留 oid 文件（已清理）✅
-- data 分支切换时遗留的 2141 个 oid_*.json 已从 main 分支删除（commit `586f04e`）
+
+### 问题4：data 分支数据滞后导致查询结果偏少 ✅ 已修复（2026-04-22）
+- **根因**：`auto_sync_all.py` 的 `push_files_to_branch` 依赖 "nothing to commit" 字符串判断，
+  且 `oids_skip` 循环会 json.load 全部 2000+ 个文件导致内存爆炸
+- **修复**：
+  1. `push_files_to_branch` 改用 `git diff --cached --name-only` 检测真实变化，加详细日志
+  2. `oids_skip` 循环改为直接读旧 manifest，不再 json.load 文件（消除内存风险）
+  3. `scheduled_sync.py` 改为打印完整 ERROR 日志
+  4. 手动强制推送了 51 个滞后文件到 data 分支
 
 ---
 
